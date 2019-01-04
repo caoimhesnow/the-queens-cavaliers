@@ -40,13 +40,13 @@ Morgan decides she's going to create a character who is all about
 airships. She starts with the base character and then spends her 30
 customizations.
 
-**Skill Competency: **In addition to the automatic skill competency, she
+**Skill Competency:** In addition to the automatic skill competency, she
 also chooses to be competent with Dueling (for mid-air swordfights\!),
 Military (for mid-air gun fights\! and airship tactics), Nature (so
 she'll be good at exploring), and Science (since airships are pretty
 advanced technology). This uses four of her customizations.
 
-**Specialty Ranks: **Morgan picks Parry +1 (mid-air swordfights\!),
+**Specialty Ranks:** Morgan picks Parry +1 (mid-air swordfights\!),
 Dodge +1 (mid-air gun fights\!), Aim +1 (also mid-air gun fights\!),
 Strategy +2 (airship tactics), Explore +2 (navigating), Blackpowder +1
 (firing cannons\!), and Clockworks +2 (fixing a broken airship). She
@@ -71,12 +71,12 @@ customizations.
 prowess, Morgan does want to know how to use Swords, Pistols, and
 Cannons. She spends three customizations on those.
 
-**Social Rank: **Figuring that airships are rather expensive to
+**Social Rank:** Figuring that airships are rather expensive to
 maintain, Morgan pushes her social ranks up to the maximum of Noble
 (D10)/Artisan (D8). This uses five of her customizations, and she's only
 got two left from the original 30.
 
-**Style Maneuvers: **Looking over the list of style maneuvers in Chapter
+**Style Maneuvers:** Looking over the list of style maneuvers in Chapter
 5, Morgan finds two that thinks will be most appropriate for a future
 air-captain like herself. She selects Powdersmith (when creating or
 repairing a device with a blackpowder flintlock power source, a
