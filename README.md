@@ -1,1 +1,3 @@
-# the-queens-cavaliers
+# The Queen's Cavaliers
+
+## Coming soon!
