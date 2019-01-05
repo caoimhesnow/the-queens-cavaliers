@@ -232,13 +232,10 @@ Observation specialty of whomever might see you.
 **Case the Joint:** You look around your own Area or an adjacent Area
 and learn one of the following pieces of information:
 
-• The nearest exit, and whether it's locked
-
-• The most valuable object you could carry, and whether it's unsecured
-
-• The location of the nearest guard or other observer
-
-• The location and trigger of a trap or alarm
+- The nearest exit, and whether it's locked
+- The most valuable object you could carry, and whether it's unsecured
+- The location of the nearest guard or other observer
+- The location and trigger of a trap or alarm
 
 Each additional Success Point you spend can tell you a different piece
 of information, or the next item down within the same category. For
