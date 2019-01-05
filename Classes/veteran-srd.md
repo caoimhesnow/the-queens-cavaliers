@@ -1,15 +1,9 @@
 ### The Veteran 
 
-Gallinea and its neighbors maintain standing armies, composed of
-professional soldiers who fight in their wars at home and abroad. The
-most recent war between Gallinea and Albia lasted for a total of 20
-years, ending 6 years ago with the marriage of then-princess Mariana
-(now Queen Mariana) to prince Carolus of Albia.
-
-Veterans of that and other wars are well-trained in the art of battle,
+Veterans of war are well-trained in the art of battle,
 and if not currently part of a military unit, often join mercenary
-companies or guard regiments rather than settle down into a civilian
-lifestyle.
+companies or guard regiments rather than settle down into a civilian lifestyle.
+
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Provincial
 - **Suggested Passions:** Country, Family, Friends, Loyalty
 

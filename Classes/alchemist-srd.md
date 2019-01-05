@@ -1,7 +1,6 @@
 ### The Alchemist 
 
-Using techniques perfected in the old Qartan Empire, Alchemists brew
-potions, poisons, and antidotes based on scientific principles. They can
+Alchemists brew potions, poisons, and antidotes based on scientific principles. They can
 produce a variety of effects, ranging from healing to magical abilities.
 
 Most Alchemists are successful merchants, many running small

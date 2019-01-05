@@ -5,10 +5,6 @@ enchantments into fabrics. Most are skilled fashion designers and can
 combine their artistic and magickal talents together into impressive
 displays.
 
-Charmweaving began in Gallinea and has spread throughout Elara in the
-last century, as popular fashions with practical charms became
-affordable for many common people.
-
 - **Suggested Classes:** Courtier, Dogsbody, Virtuosa, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
 

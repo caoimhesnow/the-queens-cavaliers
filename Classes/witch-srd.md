@@ -1,13 +1,8 @@
 ### The Witch
 
-An ancient tradition that predates the Qartan Empire, the Witches of
-Gallinea are experts at folk remedies, herbal lore, midwifery, and
-reading omens. Witchcraft is officially tolerated in Gallinea, although
-most devoutly religious people eschew contact with Witches unless
-absolutely necessary.
-
-Some Witches are publicly known as such, but most keep their rituals
-secret from the authorities, remembering past periods of persecution.
+Witches are experts at folk remedies, herbal lore, midwifery, and
+reading omens.  Some Witches are publicly known as such, but most keep their rituals
+secret from the authorities, remembering recent periods of persecution.
 
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Provincial, Virtuosa
 - **Suggested Passions:** Faith, Family, Friends, Love

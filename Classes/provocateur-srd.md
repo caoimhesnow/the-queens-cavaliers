@@ -2,7 +2,7 @@
 
 A revolutionary, a spy, an assassin, a traitor, a conspirator – these
 are terms used to speak of the Provocateur, a shadowy figure enmeshed in
-plots within plots. Provocateurs are used by all nations of Elara,
+plots within plots. Provocateurs are used by all nations of Europe,
 although they are rarely trusted even among those who employ them.
 
 A typical Provocateur does not advertise her profession, so she will

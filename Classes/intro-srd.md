@@ -1,6 +1,6 @@
 # Chapter 3: Classes
 
-Your character in *The Queen's Cavaliers* is a composite of two classes.
+Your character is a composite of two classes.
 Each class provides you with half of your starting skill competencies,
 specialties, weapon and armor prowess, social rank, starting gear, and
 style Maneuvers.
@@ -59,33 +59,10 @@ like your original results\!
 | 1D8 | Class       | Summary                                          |
 | --- | ----------- | ------------------------------------------------ |
 | 1   | Barrister   | Represents clients in a court of law             |
-| 2   | Chaplain    | Clergy of the Asrian faith                       |
-| 3   | Charlatan   | Mountebank out to swindle the populace           |
-| 4   | Courtier    | Member of the Royal Court                        |
-| 5   | Dogsbody    | Faithful manservant and henchperson              |
-| 6   | Envoy       | Ambassador for a national or regional government |
-| 7   | Provocateur | Mysterious spy with hidden motives               |
-| 8   | Speaker     | Zealous demagogue of the Desert Mother           |
-
-##### Additional Classes
-
-In Chapter Four: The Setting, additional classes for each of Gallinea's
-neighbors are described. Those are:
-
-###### Additional Classes
-
-| Country        | Classes                 |
-| -------------- | ----------------------- |
-| Albia          | Huntsman, Pilgrim       |
-| Dragosa        | Hanaster, Lexicographer |
-| Ekalia         | Parroteer, Sybil        |
-| Ondala         | Cocinera, Theologian    |
-| Talania        | Skomorokh, Toymaker     |
-| Varendia       | Engineer, Mountaineer   |
-| Northern Ifran | Faris, Stargazer        |
-| Western Ifran  | Collier, Moon-Curser    |
-
-Each of these classes adds a specific cultural flavor. If your character
-is not from the listed country, talk to the MJ to see if you can still
-choose one of these classes.
+| 2, 3| Chaplain    | Clergy of the Asrian faith                       |
+| 4   | Charlatan   | Mountebank out to swindle the populace           |
+| 5   | Courtier    | Member of the Royal Court                        |
+| 6   | Dogsbody    | Faithful manservant and henchperson              |
+| 7   | Envoy       | Ambassador for a national or regional government |
+| 8   | Provocateur | Mysterious spy with hidden motives               |
 

@@ -1,14 +1,8 @@
 ### The Barrister 
 
-When someone is accused of a crime anywhere in Elara or wishes to sue
-another person, she will usually be represented in court by a Barrister.
+When someone is accused of a crime another person, she will usually be represented in court by a Barrister.
 Barristers have special training in the law and court procedures, and
 are skilled at speaking before a magistrate.
-
-Some Barristers work for the Crown and prosecute lawbreakers, while
-others can be hired by those with enough money – usually only the rich.
-A recent and controversial policy in Gallinea allows for the indigent
-poor to be represented by public defenders, paid for by the Crown.
 
 - **Suggested Classes:** Chaplain, Constable, Courtier, Envoy, Visionary
 - **Suggested Passions:** Family, Justice, Loyalty, Pride

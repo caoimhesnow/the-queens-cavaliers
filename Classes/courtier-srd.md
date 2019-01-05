@@ -1,6 +1,6 @@
 ### The Courtier
 
-Members of the Gallinean royal court, and other noble courts, are
+Members of the royal court, and other noble courts, are
 Courtiers. They are well-educated, trained in etiquette and social
 graces, and have preternatural skill for plotting and intrigue.
 

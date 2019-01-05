@@ -85,7 +85,7 @@ Style Point to add Blackpowder dice to a Clockworks roll) and Naval Hilt
 (when using a cutlass, spend 1 Style Point to add Explore dice to a
 Parry roll). This uses up her last two customizations.
 
-**Starting Equipment:** Naturally, Morgan starts with a corsair outfit,
+**Starting Equipment:** Naturally, Morgan chooses to start with a corsair outfit,
 and for her free weapon chooses a cutlass. She receives rewards of 4D6
 (from her Competency Die), 2D8 (her Artisan social rank) and 1D10 (her
 Noble social rank). It's not quite enough to buy an airship, so she

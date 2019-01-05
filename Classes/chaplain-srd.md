@@ -1,16 +1,9 @@
 ### The Chaplain 
 
-A Chaplain is a clergy member of an organized religion, usually Asrian.
+A Chaplain is a clergy member of an organized religion.
 The duties can vary but many times a Chaplain is found serving among
 military members or as a member of the court. Chaplains have minimal
 training in combat but are skilled at interacting with people.
-
-Most Chaplains in Gallinea follow the Asrian faith, devoted to the
-goddess-empress Eserre. Dodekan priests from Achalia are also found as
-Chaplains, although rarely outside of the Achalian Islands. Devraist
-priests are known as Speakers, and it's rare to meet a Devraist
-Chaplain. Dualitarian Chaplains are sometimes co-classed as Speakers,
-however.
 
 - **Suggested Classes:** Barrister, Chirurgeon, Courtier, Envoy, Explorer, Provincial, Veteran, Virtuoso, Visionary
 - **Suggested Passions:** Church, Faith, Justice, Knowledge

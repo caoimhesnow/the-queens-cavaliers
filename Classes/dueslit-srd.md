@@ -1,16 +1,11 @@
 ### The Duelist
 
 A Duelist is a swashbuckling swordfighter who lives by her wits and her
-skill at her blade. She may be a member of the Queen's Cavaliers, or a
-rival organization, or may be a freelance fencer who runs her own
-dueling school. Quite a few actors have been known to take up dueling as
-well.
+skill at her blade. She may be a member of the military, or may be a freelance fencer who runs her own
+dueling school. Quite a few actors have been known to take up dueling as well.
 
-Duelist is appropriate to accompany any other class in *The Queen's
-Cavalier.* As swordfighting is so prevalent in the game, the Duelist
-class is a natural choice for most appropriate character concepts.
-That's why they're presented out of alphabetical order here.
-
+Duelist is appropriate to accompany any other class. As swordfighting is so prevalent in the game, the Duelist
+class is a natural choice for most appropriate character concepts.  
 In other words, if you can't decide on a second class, choose Duelist.
 
 - **Suggested Classes:** Any

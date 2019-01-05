@@ -1,8 +1,6 @@
 ### The Brigand 
 
-While Gallinea and most of the Elaran continent are long-settled, that
-doesn't always stop opportunists from engaging in banditry. The typical
-Brigand in Gallinea is a peasant or even a minor noble whose fortunes
+The typical Brigand is a peasant or even a minor noble whose fortunes
 fell and they resorted to force of arms to make their living.
 
 Not all Brigands are necessarily cruel; there's a long history of folk

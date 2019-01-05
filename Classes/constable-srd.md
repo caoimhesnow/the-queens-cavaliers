@@ -1,10 +1,6 @@
 ### The Constable
 
-In the Gallinean justice system, the Crown is represented by two
-separate yet equally important groups: the Constabulary, who
-investigate crime, and the Crown Barristers who prosecute the offenders.
-The Constables – and their counterparts in neighboring countries –
-enforce the laws and protect the people from wrongdoers as well as
+The Constables enforce the laws and protect the people from wrongdoers as well as
 capturing those who commit criminal acts.
 
 Most Constables are employed by the Crown or a local province, while a

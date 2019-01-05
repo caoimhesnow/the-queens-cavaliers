@@ -1,13 +1,10 @@
 ### The Explorer
 
-The current century is an age of exploration, and the Explorer is one
-who is caught up in that zeitgeist, pushing back the frontiers on the
-known world. Explorers are alternately courageous or foolhardy depending
-on who you talk to, ready to leave their lives behind and seek out the
-unknown.
+Explorers are alternately courageous or foolhardy depending
+on who you talk to, ready to leave their lives behind and seek out the unknown.
 
-Many explorers are Privateers, although some who move to colonize exotic
-lands such as Elissia can be Provincials.
+Many explorers are Privateers, although some who move to colonize exotic distant
+lands can be Provincials.
 
 - **Suggested Classes:** Brigand, Chaplain, Privateer, Provincial, Speaker, Veteran, Visionary
 - **Suggested Passions:** Country, Knowledge, Loyalty, Wealth
