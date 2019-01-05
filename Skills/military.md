@@ -1,13 +1,13 @@
-## (subchapter) Military
+## Military
 
 The Military skill includes training in ranged combat and unarmed
 combat, plus strategic planning. A character with Competency in the
 Military skill may have served in as a formal member of the military,
 but it's not automatic.
 
-### (section) Brawl
+### Brawl
 
-##### Verve Specialty
+*Verve Specialty*
 
 The Brawl specialty can be used to attack in unarmed combat, and also
 defend against the same. You usually need at least one hand free to make
@@ -26,25 +26,16 @@ Chapter 10, "Crafting."
 **Knowledge Rolls:** Evaluate someone's unarmed fighting technique after
 watching her brawl, recall the names of famous pugilists.
 
-###### (success table) Brawl
+###### Brawl
 
-**Time:** 1 action or Free Roll
-
-**Opposition:** Target's Brawl, Parry, or Dodge
-
-**+:** Inflict 1 Yield
-
-**+:** Negate Brawl Attack
-
-**++:** Achieve or Break Hold
-
-**+++:** Gain 1 Style Point
-
-**+++:** Knockdown
-
-**+++++:** Disarm
-
-(end success table)
+**Time:** 1 action or Free Roll\
+**Opposition:** Target's Brawl, Parry, or Dodge\
+**+:** Inflict 1 Yield\
+**+:** Negate Brawl Attack\
+**++:** Achieve or Break Hold\
+**+++:** Gain 1 Style Point\
+**+++:** Knockdown\
+**+++++:** Disarm\
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -77,9 +68,9 @@ action.
 You get to choose if the weapon ends up on the ground in your Area, in
 an adjacent Area, or in your hand if you have one free.
 
-### (section) Aim
+### Aim
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 The Aim specialty covers all kinds of ranged combat, from firing muskets
 and bows to throwing daggers. Only Block or Dodge can be used to defend
@@ -94,25 +85,16 @@ marksmen.
 **Crafting: **Bows, crossbows, muskets, and pistols, as described in
 Chapter 10, "Crafting."
 
-###### (success table) Aim
+###### Aim
 
-**Time:** 1 action
-
-**Opposition:** Target's Block or Dodge
-
-**Item Die:** Weapon Die
-
-**++:** Inflict 1 Yield
-
-**+++:** Gain 1 Style Point
-
-**+++:** Inflict 1 Wound
-
-**++++:** Free Reload
-
-**++++:** Knockdown
-
-(end success table)
+**Time:** 1 action\
+**Opposition:** Target's Block or Dodge\
+**Item Die:** Weapon Die\
+**++:** Inflict 1 Yield\
+**+++:** Gain 1 Style Point\
+**+++:** Inflict 1 Wound\
+**++++:** Free Reload\
+**++++:** Knockdown\
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every two Success
 Points you spend on Yield. If her Yield equals or exceeds her Yield
@@ -134,9 +116,9 @@ or lower
 Drop 1 penalty on attack and defense rolls, and cannot Move or Run until
 she stands up. Standing up is a Drop 1 combined action.
 
-### (section) Strategy
+### Strategy
 
-##### Guile Specialty
+*Guile Specialty*
 
 Strategy is the ability to make battle plans, both before and during a
 fight. Characters with the Strategy specialty are skilled at leading
@@ -154,23 +136,16 @@ If there's no leader, your roll is an automatic success and the success
 points you spend are used to determine the effectiveness of your
 tactics.
 
-###### (success table) Strategy
+###### Strategy
 
-**Time:** 1 action
+**Time:** 1 action\
+**Opposition:** Strategy\
+**+:** Read the Fight\
+**++:** Increase Tactical Advantage\
+**+++:** Gain 1 Style Point\
+**++++:** Decrease Advantage\
+**+++++:** Give an Order\
 
-**Opposition:** Strategy
-
-**+:** Read the Fight
-
-**++:** Increase Tactical Advantage
-
-**+++:** Gain 1 Style Point
-
-**++++:** Decrease Advantage
-
-**+++++:** Give an Order
-
-(end success table)
 
 **Read the Fight:** For each Success Point you spend to Read the Fight,
 choose one other combatant in the fight. You learn her Competency Die,
@@ -198,16 +173,13 @@ reloading her weapon), even though it's not her turn. For every 2
 additional success points you spend, the Bonus Die increases by one
 step, with a limit determined by your ranks in Military (Strategy):
 
-###### (table) Maximum Bonus Die
+###### Maximum Bonus Die
 
-|                |                   |
-| -------------- | ----------------- |
 | Strategy Ranks | Maximum Bonus Die |
+| -------------- | ----------------- |
 | \+1            | \+1D0             |
 | \+2            | \+1D6             |
 | \+3            | \+1D8             |
 | \+4            | \+1D10            |
 | \+5            | \+1D12            |
-
-(end table)
 

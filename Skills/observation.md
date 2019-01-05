@@ -1,4 +1,4 @@
-## (subchapter) Observation
+##  Observation
 
 The Observation skill encompasses both reading situations and reading
 people, as well as putting together disparate clues to see the bigger
@@ -7,9 +7,9 @@ picture.
 **Automatic Competency:** Player characters in *The Queen's Cavaliers*
 are automatically Competent with the Observation skill.
 
-### (section) Perceive
+### Perceive
 
-##### Verve Specialty
+*Verve Specialty*
 
 With a Perceive roll, you can spot a person in a crowd, listen for one
 voice in a chorus, notice the smell of burning wood, or detect an ambush
@@ -28,21 +28,14 @@ Streetwise (Larceny) roll. Trying to Perceive something under difficult
 circumstances, such as inclement weather or a crowded tavern, can have a
 difficulty of Easy (3D6) or more.
 
-###### (success table) Perceive
+###### Perceive
 
-**Time:** Free Roll, or 1 action
-
-**Opposition:** Standard Opposition
-
-**+:** Notice the Obvious
-
-**+++:** Gain 1 Style Point
-
-**++++:** Notice Minor Detail
-
-**+++++:** Notice Hidden Detail
-
-(end success table)
+**Time:** Free Roll, or 1 action\
+**Opposition:** Standard Opposition\
+**+:** Notice the Obvious\
+**+++:** Gain 1 Style Point\
+**++++:** Notice Minor Detail\
+**+++++:** Notice Hidden Detail\
 
 **Notice the Obvious:** You notice something which is pretty easy to
 spot but not directly in front of you, or you spot someone who is hiding
@@ -61,9 +54,9 @@ about the same thing.
 **Notice Hidden Detail:** You make note of a tiny detail that someone
 has taken pains to hide, disguise, or eliminate.
 
-### (section) Intuition
+### Intuition
 
-##### Affinity Specialty
+*A*ffinity Specialty*
 
 Intuition involves reading subtle cues from your environment, including
 non-verbal cues from other people. The MJ can call for Intuition as a
@@ -83,21 +76,14 @@ opposed by their Interaction (Deceive) roll. Trying to intuit something
 under difficult circumstances, such as inclement weather or a crowded
 tavern, can have a difficulty of Easy (3D6) or more.
 
-###### (success table) Intuition
+###### Intuition
 
-**Time:** Free Roll, or 1 action
-
-**Opposition:** Standard Opposition
-
-**+:** Get a Hunch
-
-**++:** Sense Danger
-
-**+++:** Gain 1 Style Point
-
-**++++:** Sense Falsehood
-
-(end success table)
+**Time:** Free Roll, or 1 action\
+**Opposition:** Standard Opposition\
+**+:** Get a Hunch\
+**++:** Sense Danger\
+**+++:** Gain 1 Style Point\
+**++++:** Sense Falsehood\
 
 **Get a Hunch:** You have a gut feeling about something, and it's
 probably right. You create a +1D0 Tag Die that can be used as a Bonus
@@ -108,18 +94,15 @@ additional success points, you increase the Tag Die by one step, with a
 limit based on your ranks in Observation (Intuition) as shown by the
 following table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|                 |                 |
-| --------------- | --------------- |
 | Intuition Ranks | Maximum Tag Die |
+| --------------- | --------------- |
 | \+1             | \+1D0           |
 | \+2             | \+1D6           |
 | \+3             | \+1D8           |
 | \+4             | \+1D10          |
 | \+5             | \+1D12          |
-
-(end table)
 
 **Sense Danger:** You can identify one or more sources of immediate
 danger that aren't readily apparent, including an ambush. Every two
@@ -134,9 +117,9 @@ up on her unconscious tells. You don't know what the truth is, but you
 do know you're not hearing it now. For the rest of the scene, you know
 when she's telling you the truth and when she's not.
 
-### (section) Deduce
+### Deduce
 
-##### Guile Specialty
+*Guile Specialty*
 
 The Deduce specialty lets you size up a situation and formulate a
 scenario in which they make sense, as provided by the MJ. This will
@@ -157,23 +140,15 @@ opposed by their Interaction (Deceive) roll. Trying to Deduce something
 under difficult circumstances, such as inclement weather or a crowded
 tavern, can have a difficulty of Easy (3D6) or more.
 
-###### (success table) Deduce
+###### Deduce
 
-**Time:** Free Roll, or 1 action
-
-**Opposition:** Standard Opposition
-
-**+:** Recognize Clue
-
-**++:** Reach Simple Conclusion
-
-**+++:** Gain 1 Style Point
-
-**++++:** Infer Greater Plan
-
-**+++++:** Reach Complex Conclusion
-
-(end success table)
+**Time:** Free Roll, or 1 action\
+**Opposition:** Standard Opposition\
+**+:** Recognize Clue\
+**++:** Reach Simple Conclusion\
+**+++:** Gain 1 Style Point\
+**++++:** Infer Greater Plan\
+**+++++:** Reach Complex Conclusion\
 
 **Recognize Clue:** You realize that something in your current situation
 is out of place or doesn't add up. You create a +1D0 Tag Die that you
@@ -183,18 +158,15 @@ means. For 2 additional points you can increase the Tag Die by one step,
 to a limit based on your ranks in Observation (Deduce) as shown on the
 following table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|              |                 |
-| ------------ | --------------- |
 | Deduce Ranks | Maximum Tag Die |
+| ------------ | --------------- |
 | \+1          | \+1D0           |
 | \+2          | \+1D6           |
 | \+3          | \+1D8           |
 | \+4          | \+1D10          |
 | \+5          | \+1D12          |
-
-(end table)
 
 **Reach Simple Conclusion:** You draw a basic conclusion from the
 available facts. You need to have recognized at least one clue to reach

@@ -1,13 +1,13 @@
-## (subchapter) Science
+## Science
 
 Science is a skill that covers the use, repair, and creation of advanced
 technology and complex mathematics, from time watches to airships, from
 repeating cannons to wing-gliders. The Blackpowder specialty also covers
 the use of explosives.
 
-### (section) Blackpowder
+### Blackpowder
 
-##### Verve Specialty
+*Verve Specialty*
 
 The Blackpowder specialty is used to work with explosives of all types,
 as well as the rare phlogistone material that allows airships to soar
@@ -33,21 +33,14 @@ that also is an automatic success. For one success point on the Block or
 Dodge roll, a target gains one less point of Yield, and for three
 successes she takes one less Wound.
 
-###### (success table) Block or Dodge (Explosion)
+###### Block or Dodge (Explosion)
 
-**Time:** Free roll
-
-**Opposition:** Automatic success
-
-**Item Die:** Armor die or Shield die for Block rolls
-
-**+:** Take 1 Less Yield
-
-**+++:** Take 1 Less Wound
-
-**+++: **Gain 1 Style Point
-
-(end success table)
+**Time:** Free roll\
+**Opposition:** Automatic success\
+**Item Die:** Armor die or Shield die for Block rolls\
+**+:** Take 1 Less Yield\
+**+++:** Take 1 Less Wound\
+**+++: **Gain 1 Style Point\
 
 **Knowledge Rolls:** Evaluate the quality of a cannon or grenade,
 describe the process used to create blackpowder or phlogistone,
@@ -71,35 +64,29 @@ add a Bonus Die to your dice pool. The size of that die is limited by
 your number of ranks in Science (Blackpowder), as shown on the following
 table:
 
-###### (table) Extra Time for a One-Minute Task
+###### Extra Time for a One-Minute Task
 
-|                 |           |                           |
-| --------------- | --------- | ------------------------- |
 | Completion Time | Bonus Die | Blackpowder Rank Required |
+| --------------- | --------- | ------------------------- |
 | 2 minutes       | 1D0       | \+1                       |
 | 5 minutes       | 1D6       | \+2                       |
 | 15 minutes      | 1D8       | \+3                       |
 | 1 hour          | 1D10      | \+4                       |
 | 4 hours         | 1D12      | \+5                       |
 
-(end table)
-
 **Rushing: **You can reduce the time to set or disarm a bomb by taking a
 Drop penalty on your die roll. You can't rush a job that you're taking
 extra time on. The size of the Drop penalty depends on how much you rush
 the task, as shown on the following table:
 
-###### (table) Rushing a One-Minute Task
+###### Rushing a One-Minute Task
 
-|                 |              |
-| --------------- | ------------ |
 | Completion Time | Drop Penalty |
+| --------------- | ------------ |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
-
-(end table)
 
 **Opposition:** When using an explosive weapon or detonating charges,
 the Blackpowder roll is an automatic success and the success points are
@@ -107,31 +94,19 @@ used to select a target area and set the base damage of the explosion.
 For setting or disarming explosives, the standard opposition is based on
 the bomb's Explosion Dice.
 
-###### (success table) Blackpowder
+###### Blackpowder
 
-**Time:** 1 action, or 1 minute
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Weapon die or repair tools
-
-**Bonus Die:** Extra time
-
-\+: Hit An Area
-
-\++: Base Damage +1 Wound
-
-**++:** Set Timed Fuse
-
-**++:** Detonate Charges
-
-**+++:** Expand Radius
-
-**+++:** Gain 1 Style Point
-
-**++++:** Disarm Explosives
-
-(end success table)
+**Time:** 1 action, or 1 minute\
+**Opposition:** Standard Opposition\
+**Item Die:** Weapon die or repair tools\
+**Bonus Die:** Extra time\
+**\+:** Hit An Area\
+**\++:** Base Damage +1 Wound\
+**++:** Set Timed Fuse\
+**++:** Detonate Charges\
+**+++:** Expand Radius\
+**+++:** Gain 1 Style Point\
+**++++:** Disarm Explosives\
 
 **Hit An Area:** You fire an explosive weapon into an area adjacent to
 your own. For each additional success point you spend, you can move the
@@ -166,9 +141,9 @@ three Style Points at any time.
 **Disarm Explosives:** You disarm a bomb or other explosive device that
 has not yet detonated.
 
-### (section) Clockworks
+### Clockworks
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 The Clockworks specialty allows you to create, repair, and customize
 clockwork devices. For more details, see the list of clockwork devices
@@ -195,60 +170,48 @@ sabotaging a device to add a Bonus Die to your dice pool. The size of
 that die is limited by your number of ranks in Science (Clockworks), as
 shown on the following tables:
 
-###### (table) Extra Time for a One-Minute Task
+###### Extra Time for a One-Minute Task
 
-|                 |           |                          |
-| --------------- | --------- | ------------------------ |
 | Completion Time | Bonus Die | Clockworks Rank Required |
+| --------------- | --------- | ------------------------ |
 | 2 minutes       | 1D0       | \+1                      |
 | 5 minutes       | 1D6       | \+2                      |
 | 15 minutes      | 1D8       | \+3                      |
 | 1 hour          | 1D10      | \+4                      |
 | 4 hours         | 1D12      | \+5                      |
 
-(end table)
+###### Extra Time for a One-Hour Task
 
-###### (table) Extra Time for a One-Hour Task
-
-|                   |           |                          |
-| ----------------- | --------- | ------------------------ |
 | Completion Time   | Bonus Die | Clockworks Rank Required |
+| ----------------- | --------- | ------------------------ |
 | 2 hours           | 1D0       | \+1                      |
 | 4 hours           | 1D6       | \+2                      |
 | 8 hours (1 day)   | 1D8       | \+3                      |
 | 16 hours (2 days) | 1D10      | \+4                      |
 | 32 hours (4 days) | 1D12      | \+5                      |
 
-(end table)
-
 **Rushing: **You can reduce the time to repair, salvage, or sabotage a
 device by taking a Drop penalty on your die roll. You can't rush a job
 that you're taking extra time on. The size of the Drop penalty depends
 on how much you rush the task, as shown on the following table:
 
-###### (table) Rushing a One-Minute Task
+###### Rushing a One-Minute Task
 
-|                 |              |
-| --------------- | ------------ |
 | Completion Time | Drop Penalty |
+| --------------- | ------------ |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
 
-(end table)
+###### Rushing a One-Hour Task
 
-###### (table) Rushing a One-Hour Task
-
-|                 |              |
-| --------------- | ------------ |
 | Completion Time | Drop Penalty |
+| --------------- | ------------ |
 | 30 minutes      | Drop 1       |
 | 15 minutes      | Drop 2       |
 | 5 minutes       | Drop 3       |
 | 1 minute        | Drop 4       |
-
-(end table)
 
 **Opposition:** The standard opposition for working with a clockwork
 device is normally Easy (3D6). If you created or assembled the device
@@ -257,29 +220,18 @@ used to determine how well you accomplished the task. For each component
 in a device that is beyond your ability to create, based on your Science
 (Clockworks) skill, increase the standard opposition by one step.
 
-###### (success table) Clockworks
+###### Clockworks
 
-**Time:** 1 action, 1 minute, or 1 hour
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Tools or Workshop Die
-
-Bonus Die: Plans, extra time
-
-**+:** Keep It Together
-
-\++: We Need More Power
-
-\++: Repair 1 Malfunction
-
-**++:** Salvage a Component
-
-**+++:** Gain 1 Style Point
-
-\++++: Sabotage Device
-
-(end success table)
+**Time:** 1 action, 1 minute, or 1 hour\
+**Opposition:** Standard Opposition\
+**Item Die:** Tools or Workshop Die\
+**Bonus Die:** Plans, extra time\
+**+:** Keep It Together\
+**\++:** We Need More Power\
+**\++:** Repair 1 Malfunction\
+**++:** Salvage a Component\
+**+++:** Gain 1 Style Point\
+**\++++:** Sabotage Device\
 
 **Keep It Together:** You manage to patch the device together long
 enough that one malfunction doesn't affect it until the end of the next
@@ -312,9 +264,9 @@ three Style Points at any time.
 device. If you spend an extra success point, you can remove the
 malfunction later by taking a single action to do so.
 
-### (section) Calculus
+### Calculus
 
-##### Guile Specialty
+*Guile Specialty*
 
 The Calculus specialty includes all manner of calculations of numbers,
 from adding sums to deriving mathematical equations. Experienced
@@ -331,23 +283,15 @@ as described in Chapter 10, "Crafting."
 workshop, or Moderate (3D8) for field work with paper and ink. Doing
 calculations in your head is Hard (3D10).
 
-###### (success table) Calculus
+###### Calculus
 
-**Time:** 1 minute or 1 hour
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Tools or Workshop Die
-
-**+:** Simple Calculation
-
-\++: Analytis
-
-**+++:** Gain 1 Style Point
-
-**++++:** Complex Calculation
-
-(end success table)
+**Time:** 1 minute or 1 hour\
+**Opposition:** Standard Opposition\
+**Item Die:** Tools or Workshop Die\
+**+:** Simple Calculation\
+**\++:** Analytis\
+**+++:** Gain 1 Style Point\
+**++++:** Complex Calculation\
 
 **Simple Calculation:** You perform a simple calculation such as
 determining the size or speed of an object. 
@@ -364,16 +308,13 @@ shown in the following table:
 
 ###### (table) Maximum Tag Die
 
-|                |                 |
-| -------------- | --------------- |
 | Calculus Ranks | Maximum Tag Die |
+| -------------- | --------------- |
 | \+1            | \+1D0           |
 | \+2            | \+1D6           |
 | \+3            | \+1D8           |
 | \+4            | \+1D10          |
 | \+5            | \+1D12          |
-
-(end table)
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
 you use the Specialty with style, and you can only have a maximum of

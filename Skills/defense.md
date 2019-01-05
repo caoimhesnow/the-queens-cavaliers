@@ -1,4 +1,4 @@
-## (subchapter) Defense
+## Defense
 
 The Defense skill is used in combat to avoid taking damage. Whenever you
 are attacked, you can choose which of the appropriate Defense
@@ -12,9 +12,9 @@ are automatically Competent with the Defense skill.
 **Wounds:** Defense rolls are subject to Drop penalties from your
 Wounds.
 
-### (section) Parry
+### Parry
 
-##### Verve Specialty
+*Verve Specialty*
 
 A Parry is an attempt to block an attack with a weapon or a buckler; you
 need to be wielding something in one of your hands in order to make a
@@ -40,25 +40,16 @@ fencing style.
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
 
-###### (success table) Parry
+###### Parry
 
-**Time:** Free Roll
-
-**Opposition:** Incoming Lunge, Feint, or Brawl Attack
-
-**Item Die:** Weapon or Shield Die
-
-**+:** Negate Attack
-
-**++:** Execute a Riposte
-
-**+++:** Gain 1 Style Point
-
-**++++:** Increase Advantage
-
-**+++++:** Disarm
-
-(end success table)
+**Time:**       Free Roll                              \
+**Opposition:** Incoming Lunge, Feint, or Brawl Attack \
+**Item Die:**   Weapon or Shield Die                   \
+**+:**          Negate Attack                          \
+**++:**         Execute a Riposte                      \
+**+++:**        Gain 1 Style Point                     \
+**++++:**       Increase Advantage                     \
+**+++++:**      Disarm                                 \
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
@@ -82,9 +73,9 @@ attack you. (This can't be used when defending against a Brawl attack.)
 You get to choose if the weapon ends up on the ground in your Area, in
 an adjacent Area, or in your hand if you have one free.
 
-### (section) Block
+### Block
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 A Block roll is an attempt to prevent injury to yourself by using armor,
 a shield, nearby furniture, terrain, or even a less vulnerable part of
@@ -101,23 +92,15 @@ maker's mark on armor.
 **Opposition:** A Block roll can be used to defend against an attacker's
 Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.
 
-###### (success table) Block
+###### Block
 
-**Time:** Free Roll
-
-**Opposition:** Incoming Lunge, Riposte, or Aim Attack
-
-**Item Die:** Armor or Shield Die
-
-**+:** Negate Attack
-
-**++:** Reduce Yield Taken
-
-**+++:** Gain 1 Style Point
-
-**++++:** Increase Advantage
-
-(end success table)
+**Time:**       Free Roll                              \
+**Opposition:** Incoming Lunge, Riposte, or Aim Attack \
+**Item Die:**   Armor or Shield Die                    \
+**+:**          Negate Attack                          \
+**++:**         Reduce Yield Taken                     \
+**+++:**        Gain 1 Style Point                     \
+**++++:**       Increase Advantage                     \
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
@@ -135,9 +118,9 @@ three Style Points at any time.
 already have Advantage, or increase your die size by one step, up to a
 maximum of +1D12.
 
-### (section) Dodge
+### Dodge
 
-##### Guile Specialty
+*Guile Specialty*
 
 When you Dodge, you get yourself out of the way of an attack. Dodge
 rolls don't include Weapon or Armor Dice, but you can use a Dodge roll
@@ -151,23 +134,15 @@ rolls.
 **Opposition:** A Dodge roll can be used against any incoming attack
 roll.
 
-(success table) Dodge
+###### Dodge
 
-**Time:** Free Roll
-
-**Opposition:** Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack
-
-**+:** Negate Attack
-
-**++:** Increase Advantage
-
-**+++:** Gain 1 Style Point
-
-**++++:** Reduce Yield Taken
-
-**+++++:** Free Move
-
-(end success table)
+**Time:**       Free Roll                                            \
+**Opposition:** Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack \
+**+:**          Negate Attack                                        \
+**++:**         Increase Advantage                                   \
+**+++:**        Gain 1 Style Point                                   \
+**++++:**       Reduce Yield Taken                                   \
+**+++++:**      Free Move                                            \
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,

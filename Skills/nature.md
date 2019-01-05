@@ -1,12 +1,12 @@
-## (subchapter) Nature
+## Nature
 
 Knowledge of the natural world is expressed through Competency in the
 Nature skill. Nature is a hands-on skill, learned through experience
 rather than book learning.
 
-### (section) Explore
+### Explore
 
-##### Verve Specialty
+*Verve Specialty*
 
 The Explore specialty lets you navigate through the world, on land, sea,
 or even in the air. When appropriate, you can also use Explore to search
@@ -30,27 +30,17 @@ an automatic success, and the success points determine how well you've
 done at your task. Inclement weather or hostile climates have a standard
 difficulty of Easy (3D6) or higher.
 
-###### (success table) Explore
+###### Explore
 
-**Time:** 1 Minute or 1 Hour
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Map or navigation tool
-
-**+:** Determine Directions
-
-**++:** Locate a Landmark
-
-**++:** Find Food and Water
-
-**+++:** Gain 1 Style Point
-
-**+++:** Find Shelter
-
-**++++:** Discover Shortcut
-
-(end success table)
+**Time:** 1 Minute or 1 Hour\
+**Opposition:** Standard Opposition\
+**Item Die:** Map or navigation tool\
+**+:** Determine Directions\
+**++:** Locate a Landmark\
+**++:** Find Food and Water\
+**+++:** Gain 1 Style Point\
+**+++:** Find Shelter\
+**++++:** Discover Shortcut\
 
 **Determine Directions:** You know which direction is north, and roughly
 which direction you must travel in order to reach your desired
@@ -66,18 +56,15 @@ success points you spend the initial Tag Die increases by one step,
 limited by your specialty ranks in Nature (Explore) as shown on the
 following table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|               |                 |
-| ------------- | --------------- |
 | Explore Ranks | Maximum Tag Die |
+| ------------- | --------------- |
 | \+1           | \+1D0           |
 | \+2           | \+1D6           |
 | \+3           | \+1D8           |
 | \+4           | \+1D10          |
 | \+5           | \+1D12          |
-
-(end table)
 
 **Find Food and Water:** You manage to find a source of water, and units
 of foodstuffs equal to your ranks in Nature (Explore), for every two
@@ -101,9 +88,9 @@ or group before they arrive. For each additional success point you
 spend, you decrease your travel time by 5%, up to a limit of one success
 point per specialty rank of Explore.
 
-### (section) Husbandry
+### Husbandry
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 Animal handling and crop farming is covered by the Husbandry specialty,
 along with dealing with animals of all types, including domesticated
@@ -128,18 +115,15 @@ other uses of Husbandry take 1 hour.
 Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Nature (Husbandry), as shown on the following table:
 
-###### (table) Extra Time for a One-Hour Task
+###### Extra Time for a One-Hour Task
 
-|                   |           |                         |
-| ----------------- | --------- | ----------------------- |
 | Completion Time   | Bonus Die | Husbandry Rank Required |
+| ----------------- | --------- | ----------------------- |
 | 2 hours           | 1D0       | \+1                     |
 | 4 hours           | 1D6       | \+2                     |
 | 8 hours (1 day)   | 1D8       | \+3                     |
 | 16 hours (2 days) | 1D10      | \+4                     |
 | 32 hours (4 days) | 1D12      | \+5                     |
-
-(end table)
 
 **Item Die:** You can add the Weapon Die of a Knife when butchering, the
 Item Die of a domesticated animal when gathering crops, tending flocks,
@@ -157,27 +141,17 @@ unfriendly domesticated animal is based the higher of its Instinct or
 Ferocity attributes. Handling an animal with D6 Instinct is Easy (3D6),
 one with D8 Ferocity is Moderate (3D8), and so on. 
 
-###### (success table) Husbandry
+###### Husbandry
 
-**Time:** 1 action or 1 hour
-
-**Opposition:** Standard Opposition
-
-**+:** Handle Animal
-
-**+:** Gather Crops
-
-\+: Dairy Farming 
-
-**+++:** Gain 1 Style Point
-
-**+++:** Veterinary Medicine
-
-**+++:** Butchery
-
-**++++:** Teach a New Trick
-
-(end success table)
+**Time:** 1 action or 1 hour\
+**Opposition:** Standard Opposition\
+**+:** Handle Animal\
+**+:** Gather Crops\
+**\+:** Dairy Farming \
+**+++:** Gain 1 Style Point\
+**+++:** Veterinary Medicine\
+**+++:** Butchery\
+**++++:** Teach a New Trick\
 
 **Handle Animal:** You can make a domesticated animal perform one of its
 tricks, go where you want it to go, or otherwise follow your directions.
@@ -196,16 +170,13 @@ shown in the following table:
 
 ###### (table) Maximum Tag Die
 
-|                 |                 |
-| --------------- | --------------- |
 | Husbandry Ranks | Maximum Tag Die |
+| --------------- | --------------- |
 | \+1             | \+1D0           |
 | \+2             | \+1D6           |
 | \+3             | \+1D8           |
 | \+4             | \+1D10          |
 | \+5             | \+1D12          |
-
-(end table)
 
 **Gather Crops:** Assuming you have access to a field of crops, you can
 harvest 2 units of foodstuffs. For each additional success point you
@@ -234,9 +205,9 @@ animal. If the animal already knows as many tricks as you have Specialty
 ranks of Husbandry, or is an old dog, you can't teach it any new tricks.
 For a wild animal, domesticating it counts as one of its tricks.
 
-### (section) Prowl
+### Prowl
 
-##### Guile Specialty
+*Guile Specialty*
 
 The Prowl specialty represents stealthy, secretive movement or action,
 usually taken outdoors where there is sufficient cover or shadows to
@@ -259,23 +230,15 @@ circumstances. Increase the standard difficulty by one step for each of
 the following conditions: tracked by animals, bright sunlight, lack of
 cover, quiet location.
 
-###### (success table) Prowl
+###### Prowl
 
-**Time:** 1 action
-
-**Opposition:** Standard Opposition
-
-**+:** Hide
-
-**+:** Lead the Ambush
-
-**++:** Increase Advantage
-
-**+++:** Gain 1 Style Point
-
-**++++:** Move Undetected
-
-(end success table)
+**Time:** 1 action\
+**Opposition:** Standard Opposition\
+**+:** Hide\
+**+:** Lead the Ambush\
+**++:** Increase Advantage\
+**+++:** Gain 1 Style Point\
+**++++:** Move Undetected\
 
 **Hide:** You find a place to hide until the end of the scene or you
 move to a different location, whichever comes first. In order to see
@@ -284,11 +247,10 @@ difficulty of Easy (3D6). For every two additional success points you
 spend, you increase the difficulty by one step, limited by your ranks in
 Nature (Prowl):
 
-###### (table) Maximum Observation Opposition
+###### Maximum Observation Opposition
 
-|            |                       |
-| ---------- | --------------------- |
 | Prowl Rank | Item Die              |
+| ---------- | --------------------- |
 | 1          | Easy (3D6)            |
 | 2          | Moderate (3D8)        |
 | 3          | Difficult (3D10)      |

@@ -8,7 +8,7 @@ The Culture specialties are often used as knowledge rolls.
 
 ### Arts
 
-##### Verve Specialty
+*Verve Specialty*
 
 Sculpture, music, painting, poetry, sketching, woodcuts, writing, dance,
 acting, and other forms of art are used to convey the core values of
@@ -20,11 +20,11 @@ creative works.
 the name of a famous artist, identify tools and instruments used in art
 or music.
 
-**Crafting: **Create works of art such as drawings, poetry, paintings,
+**Crafting:** Create works of art such as drawings, poetry, paintings,
 sculptures, plays, songs, opera, novellas, and more, as described in
 Chapter 10, "Crafting."
 
-**Bonus Die: **If you are performing an existing work of art, such as a
+**Bonus Die:** If you are performing an existing work of art, such as a
 musical composition or a play, you can include the work's Tag Die as a
 Bonus Die.
 
@@ -35,21 +35,14 @@ Easy (3D6) or higher may be required.
 
 ###### Arts
 
-**Time:** 1 minute or longer
-
-**Opposition:** Automatic Success, or Standard Opposition
-
-**Item Die:** Musical instrument
-
-**Bonus Die:** Tag Die
-
-**+:** Successful Performance
-
-**++:** Increase Tag Die
-
-**+++:** Gain 1 Style Point
-
-\++++++: Encore, Encore\!
+**Time:**       1 minute or longer                        \
+**Opposition:** Automatic Success, or Standard Opposition \
+**Item Die:**   Musical instrument                        \
+**Bonus Die:**  Tag Die                                   \
+**+:**          Successful Performance                    \
+**++:**         Increase Tag Die                          \
+**+++:**        Gain 1 Style Point                        \
+**++++++:**     Encore, Encore\!                          \
 
 **Successful Performance:** You give a successful performance of a work,
 be it already prepared or an improvisational performance. You can create
@@ -76,13 +69,13 @@ Culture (Arts), as shown on the following table:
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-**Encore, Encore\!: **You give such a successful performance that no one
+**Encore, Encore\!:** You give such a successful performance that no one
 in the audience will ever forget it, or you. Any Tag Dice from this
 performance last for 24 hours and are automatically maximized.
 
 ### Etiquette
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 The Etiquette specialty encompasses general knowledge about the customs,
 politics, traditions, and manners of the cultures of Elara and Ifran,
@@ -107,21 +100,14 @@ making an Etiquette roll.
 
 ###### Etiquette
 
-**Time:** 1 Minute or more
-
-**Opposition:** Automatic Success, or Standard Opposition
-
-**Bonus Die:** Your Social Rank Die
-
-**+:** Avoid Faux Pas
-
-**++:** Impress an Audience
-
-\++: Improve Impression
-
-**+++:** Gain 1 Style Point
-
-**++++:** Pass as Different Social Rank
+**Time:**       1 Minute or more                          \
+**Opposition:** Automatic Success, or Standard Opposition \
+**Bonus Die:**  Your Social Rank Die                      \
+**+:**          Avoid Faux Pas                            \
+**++:**         Impress an Audience                       \
+**++:**         Improve Impression                        \
+**+++:**        Gain 1 Style Point                        \
+**++++:**       Pass as Different Social Rank             \
 
 **Avoid Faux Pas:** You communicate what you are trying to say without
 making any social blunders.
@@ -161,7 +147,7 @@ accordance with the airs you've put on.
 
 ### Scholarship
 
-##### Guile Specialty
+*Guile Specialty*
 
 In Gallinea, a well-rounded education is the mark of a civilized woman
 or man. The Scholarship specialty represents your breadth of book
@@ -198,20 +184,13 @@ table:
 
 ###### Scholarship
 
-**Time:** 1 Hour
-
-**Opposition:** Automatic Success, or Standard Opposition
-
-**Item Die:** Book, report, or library
-
-**Bonus Die:** Extra time
-
-**+:** Research
-
-**+++:** Gain 1 Style Point
-
-**+++++: **Teach a Lesson
-
+**Time:**       1 Hour                                    \
+**Opposition:** Automatic Success, or Standard Opposition \
+**Item Die:**   Book, report, or library                  \
+**Bonus Die:**  Extra time                                \
+**+:**          Research                                  \
+**+++:**        Gain 1 Style Point                        \
+**+++++:**      Teach a Lesson                            \
 
 **Research:** You gain in-depth knowledge about one specific person,
 place, thing, group, or event for each Success Point you spend. You can

@@ -1,4 +1,4 @@
-## (subchapter) Dueling
+## Dueling
 
 The Dueling skill lets you make attacks using a dueling weapon, such as
 a sword, a knife, a quarterstaff, or even a pike.
@@ -6,9 +6,9 @@ a sword, a knife, a quarterstaff, or even a pike.
 **Wounds:** Dueling rolls are subject to Drop penalties from your
 Wounds.
 
-### (section) Lunge
+### Lunge
 
-##### Verve Specialty
+*Verve Specialty*
 
 A Lunge is a basic attack and can be attempted with any hand-held
 weapon, and is the most common way of dealing damage to an opponent in a
@@ -25,25 +25,16 @@ fencing style.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
-(success table) Lunge
+###### Lunge
 
-**Time:** 1 action
-
-**Opposition:** Target's Parry, Block, or Dodge
-
-**Item Die:** Weapon Die
-
-**+:** Inflict 1 Yield
-
-**++:** Increase Advantage
-
-**+++:** Gain 1 Style Point
-
-**++++:** Inflict 1 Wound
-
-**+++++:** Break Weapon
-
-(end success table)
+**Time:**       1 action                        \
+**Opposition:** Target's Parry, Block, or Dodge \
+**Item Die:**   Weapon Die                      \
+**+:**          Inflict 1 Yield                 \
+**++:**         Increase Advantage              \
+**+++:**        Gain 1 Style Point              \
+**++++:**       Inflict 1 Wound                 \
+**+++++:**      Break Weapon                    \
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -66,9 +57,9 @@ is dying.
 your target attempts to Parry your attack and fails. A broken weapon is
 useless except as an improvised weapon.
 
-### (section) Riposte
+### Riposte
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 A Riposte is a counterattack that can only be attempted after a
 successful Parry or Feint. By catching your opponent off-guard, you can
@@ -87,25 +78,16 @@ fencing style.
 **Opposition:** A Riposte can only be defended against by a Block or
 Dodge roll, and not by a Parry roll.
 
-###### (success table) Riposte
+###### Riposte
 
-**Time:** Free Action
-
-**Requires:** Successful Parry or Feint
-
-**Opposition:** Target's Block or Dodge
-
-**Item Die:** Weapon Die
-
-**+:** Inflict 1 Yield
-
-**++:** Decrease Advantage
-
-**+++:** Gain 1 Style Point
-
-**++++:** Inflict 1 Wound
-
-(end success table)
+**Time:**       Free Action               \
+**Requires:**   Successful Parry or Feint \
+**Opposition:** Target's Block or Dodge   \
+**Item Die:**   Weapon Die                \
+**+:**          Inflict 1 Yield           \
+**++:**         Decrease Advantage        \
+**+++:**        Gain 1 Style Point        \
+**++++:**       Inflict 1 Woundu          \
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -124,9 +106,9 @@ Wounds than her Wound Limit (which is four for player characters, and
 from one to four for non-player characters), she falls unconscious and
 is dying.
 
-### (section) Feint
+### Feint
 
-##### Guile Specialty
+*Guile Specialty*
 
 A Feint is a false attack designed to get your opponent to lower her
 defenses. The primary advantage of a Feint is to build Advantage against
@@ -144,25 +126,16 @@ fencing style.
 **Opposition:** A Feint roll can be defended against with a Parry or
 Dodge roll, but not by a Block roll.
 
-###### (success table) Feint
+###### Feint
 
-**Time:** 1 action
-
-**Defend:** Target's Parry or Dodge
-
-**Item Die:** Weapon Die
-
-**+:** Increase Advantage
-
-**++:** Inflict 1 Yield
-
-**+++:** Gain 1 Style Point 
-
-**++++:** Execute a Riposte
-
-**+++++:** Disarm
-
-(end success table)
+**Time:**        1 action                \
+**Opposition:**  Target's Parry or Dodge \
+**Item Die:**    Weapon Die              \
+**+:**           Increase Advantage      \
+**++:**          Inflict 1 Yield         \
+**+++:**         Gain 1 Style Point      \
+**++++:**        Execute a Riposte       \
+**+++++:**       Disarm                  \
 
 **Increase Advantage:** You gain a +1D6 Advantage Die if you don't
 already have Advantage, or increase your die size by one step, up to a

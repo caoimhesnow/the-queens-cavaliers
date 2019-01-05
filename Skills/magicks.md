@@ -1,4 +1,4 @@
-## (subchapter) Magicks
+## Magicks
 
 The world of Elara has very subtle forms of magick: brewing draughts,
 weaving charms into clothing, and reading portents. Most characters
@@ -9,9 +9,9 @@ Successfully using a Magicks specialty results in the creation of a
 Charm die. As with other types of dice, you can have only one Charm die
 in any dice pool.
 
-### (section) Weave
+### Weave
 
-##### Verve Specialty
+*Verve Specialty*
 
 Charmwoven clothing must be specifically created for each character
 using the Weave specialty, as it involves knowledge of the wearer's
@@ -30,25 +30,16 @@ suppress a or bolster a Charm Die is made against standard opposition
 corresponding to the size of the Charm Die -- Easy (3D6) for a +1D6
 Charm Die, Moderate (3D8) for a +1D8 Charm Die, and so on.
 
-###### (success table) Weave
+###### Weave
 
-**Time:** 1 action
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Tailoring Tools or Workshop
-
-\+: Sense Charm
-
-**++: **Suppress Charm Die
-
-\+++: Bolster Charm Die
-
-**+++:** Gain 1 Style Point
-
-\++++: Restore Charm Die
-
-(end success table)
+**Time:**        1 action                     \
+**Opposition:**  Standard Opposition          \
+**Item Die:**    Tailoring Tools or Workshop  \
+**\+:**          Sense Charm                  \
+**++:**          Suppress Charm Die           \
+**\+++:**        Bolster Charm Die            \
+**+++:**         Gain 1 Style Point           \
+**\++++:**       Restore Charm Die            \
 
 **Sense Charm: **You can sense charms woven into clothing that are in
 the same area as you, starting with the nearest charm to you. You learn
@@ -80,9 +71,9 @@ suppressed or temporarily removed, you can restore the Charm Die to its
 normal value. Until the end of the scene, that article's Charm Die can't
 be suppressed.
 
-### (section) Brew
+### Brew
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 Brew is the magickal ability to distill enchantments into drinkable
 draughts.
@@ -97,21 +88,14 @@ described in Chapter 10, "Crafting."
 **Opposition:** Most Magicks (Brew) rolls are made to create a draught
 or salve. Mixing a concoction has a standard difficulty of Easy (3D6). 
 
-(success table) Brew
+###### Brew
 
-**Time:** 1 action
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Alchemy tools or laboratory
-
-**+:** Mix a Concoction
-
-\++: Apply a Concoction
-
-**+++:** Gain 1 Style Point
-
-(end success table)
+**Time:**        1 action                      \
+**Opposition:**  Standard Opposition           \
+**Item Die:**    Alchemy tools or laboratory   \
+**+:**           Mix a Concoction              \
+**\++:**         Apply a Concoction            \
+**+++:**         Gain 1 Style Point            \
 
 **Mix a Concoction:** You hastily mix together volatile chemicals and
 reagents to produce an immediate reaction. You spend 1 unit of
@@ -130,9 +114,9 @@ additional targets equal to your specialty ranks in Magicks (Brew).
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-### (section) Portents
+### Portents
 
-##### Guile Specialty
+*Guile Specialty*
 
 The Portents specialty involves reading omens and signs as well as using
 cards, dice, tea leaves, or astrological charts to determine someone's
@@ -154,27 +138,17 @@ unwilling subject or if you are casting a hex on someone, the difficulty
 is either Easy (3D6) or an opposed Magicks (Portents) roll, whichever is
 better for the subject.
 
-###### (success table) Portents
+###### Portents
 
-**Time:** 1 Minute
-
-**Opposition:** Standard Opposition
-
-**Item Die:** Divination tools, astrological charts
-
-**+:** Read Portents
-
-**++:** Increase Accuracy
-
-**++:** Increase Precision
-
-**++:** Increase Specificity
-
-**+++:** Gain 1 Style Point
-
-**++++:** Cast a Hex
-
-(end success table)
+**Time:**        1 Minute                              \
+**Opposition:**  Standard Opposition                   \
+**Item Die:**    Divination tools, astrological charts \
+**+:**           Read Portents                         \
+**++:**          Increase Accuracy                     \
+**++:**          Increase Precision                    \
+**++:**          Increase Specificity                  \
+**+++:**         Gain 1 Style Point                    \
+**++++:**        Cast a Hex                            \
 
 **Read Portents:** You make a general prediction about the next 24
 hours. Ask one yes-or-no question, or have the person you're reading ask
@@ -190,18 +164,15 @@ subject can't be the recipient of another reading.
 limit set by your ranks in Magicks (Portents) as shown in the following
 table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|                |                 |
-| -------------- | --------------- |
 | Portents Ranks | Maximum Tag Die |
+| -------------- | --------------- |
 | \+1            | \+1D0           |
 | \+2            | \+1D6           |
 | \+3            | \+1D8           |
 | \+4            | \+1D10          |
 | \+5            | \+1D12          |
-
-(end table)
 
 **Increase Precision:** The duration of your prediction increases by 24
 hours, up to a limit of increases equal to your Magicks (Portents)
@@ -229,16 +200,13 @@ success points you spend, you can increase the initial size of the Drop
 penalty by 1, with a limit determined by your ranks in Portents as shown
 on the following table:
 
-###### (table) Maximum Hex Penalty
+###### Maximum Hex Penalty
 
-|                |                     |
-| -------------- | ------------------- |
 | Portents Ranks | Maximum Hex Penalty |
+| -------------- | ------------------- |
 | \+1            | Drop 1              |
 | \+2            | Drop 2              |
 | \+3            | Drop 3              |
 | \+4            | Drop 4              |
 | \+5            | Drop 4              |
-
-(end table)
 

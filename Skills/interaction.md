@@ -1,4 +1,4 @@
-## (subchapter) Interaction
+## Interaction
 
 The Interaction skill covers social interactions between individual
 characters, as well as characters addressing a group.
@@ -9,9 +9,9 @@ are automatically Competent with the Interaction skill.
 **Language:** If you and the other parties don't share a common
 language, you gain a Drop 2 penalty on all Interaction rolls.
 
-### (section) Inspire
+### Inspire
 
-##### Verve Specialty
+*Verve Specialty*
 
 The Inspire specialty covers all attempts to instill a particular
 feeling in another person (or group of people) – such as to make her
@@ -31,27 +31,17 @@ remember the names of great leaders.
 success. If you have a language barrier or other Drop Penalty applied,
 the difficulty increases to Easy (3D6) or higher.
 
-###### (success table) Inspire
+###### Inspire
 
-**Time:** 1 action
-
-**Opposition:** Automatic success or standard opposition
-
-\+: Inspiring Speech
-
-\++: Increase Tag Die
-
-**++:** Reduce an Ally's Yield
-
-**++:** Inflict 1 Yield
-
-**+++:** Instill Emotion
-
-**+++:** Gain 1 Style Point
-
-**+++:** Provoke Reaction
-
-(end success table)
+**Time:**       1 action                                 \
+**Opposition:** Automatic success or standard opposition \
+**\+:**         Inspiring Speech                         \
+**\++:**        Increase Tag Die                         \
+**++:**         Reduce an Ally's Yield                   \
+**++:**         Inflict 1 Yield                          \
+**+++:**        Instill Emotion                          \
+**+++:**        Gain 1 Style Point                       \
+**+++:**        Provoke Reaction                         \
 
 **Inspiring Speech:** Your words start to sway those who hear them. You
 can create a tag based on an emotional state, with a +1D0 Tag Die. This
@@ -63,11 +53,10 @@ Tag with a +1D0 Bonus Die for each success point you spend.
 improves by one die size. You are limited by the number of skill ranks
 you have in Interaction (Inspire), as shown on the following table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|              |           |
-| ------------ | --------- |
 | Inspire Rank | Bonus Die |
+| ------------ | --------- |
 | 1            | \+1D0     |
 | 2            | \+1D6     |
 | 3            | \+1D8     |
@@ -89,18 +78,15 @@ spend, you can affect another person. The Drop Penalty decreases after
 each time it's applied, and the Bonus Die decreases in size after each
 use.
 
-###### (table) Inspire Results
+###### Inspire Results
 
-|         |              |           |
-| ------- | ------------ | --------- |
 | Tag Die | Drop Penalty | Bonus Die |
+| ------- | ------------ | --------- |
 | \+1D0   | Drop 1       | \+1D6     |
 | \+1D6   | Drop 2       | \+1D8     |
 | \+1D8   | Drop 3       | \+1D10    |
 | \+1D10  | Drop 4       | \+1D12    |
 | \+1D12  | Drop 4       | \+1D12    |
-
-(end table)
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
 you use the Specialty with style, and you can only have a maximum of
@@ -117,9 +103,9 @@ you, to fire a scathing insult at you, to burst into tears, to order
 someone else to attack you, to leave the area, or to mock your clothing
 choices.
 
-### (section) Negotiate
+### Negotiate
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 Negotiate covers diplomatic attempts to persuade someone, to compromise,
 or give something up in return for something else. In general, to use
@@ -143,29 +129,18 @@ described in Chapter 10, "Crafting."
 Negotiate rolls. If there isn't a party in opposition to you, you
 probably aren't in a negotiation.
 
-###### (success table) Negotiate
+###### Negotiate
 
-**Time:** 1 minute or 1 hour
-
-**Opposition:** Negotiate
-
-**+:** Float a Proposal
-
-\++: Refine the Offer
-
-\++: Counter-Offer
-
-\++: Put it in Writing
-
-**++:** Reach Compromise
-
-**+++:** Gain 1 Style Point
-
-\+++: Close the Deal
-
-\++++: Gain the Upper Hand
-
-(end success table)
+**Time:**        1 minute or 1 hour   \
+**Opposition:**  Negotiate            \
+**+:**           Float a Proposal     \
+**\++:**         Refine the Offer     \
+**\++:**         Counter-Offer        \
+**\++:**         Put it in Writing    \
+**++:**          Reach Compromise     \
+**+++:**         Gain 1 Style Point   \
+**\+++:**        Close the Deal       \
+**\++++:**       Gain the Upper Hand  \
 
 **Float a Proposal:** You propose a course of action, and create a +1D0
 Tag Die based on that proposal. Until the end of the scene, you can use
@@ -202,9 +177,9 @@ the opposition roll.
 hoping to gain without major concessions. The other party loses Tag Dice
 she may have created during the negotiation.
 
-### (section) Deceive
+### Deceive
 
-##### Guile Specialty
+*Guile Specialty*
 
 Deceive is the ability to tell a believable lie, avoiding telltale
 quirks and pitfalls that might reveal your duplicity. Lies which are
@@ -227,21 +202,14 @@ in Chapter 10, "Crafting."
 **Opposition:** Use the Intuition specialty of each person who is
 listening to the lies.
 
-###### (success table) Deceive
+###### Deceive
 
-**Time:** Free Roll
-
-**Opposition:** Intuition
-
-**+:** Think on Your Feet
-
-**++:** Appear Sincere
-
-**+++:** Gain 1 Style Point
-
-**++++:** Appear Trustworthy
-
-(end success table)
+**Time:**       Free Roll          \
+**Opposition:** Intuition          \
+**+:**          Think on Your Feet \
+**++:**         Appear Sincere     \
+**+++:**        Gain 1 Style Point \
+**++++:**       Appear Trustworthy \
 
 **Think on Your Feet:** You come up with something quickly so that you
 don't look like you're obviously making something up. You can create a

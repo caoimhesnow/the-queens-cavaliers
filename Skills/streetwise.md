@@ -1,13 +1,13 @@
-## (subchapter) Streetwise
+## Streetwise
 
 Streetwise skill covers the ability to survive and prosper in a medium
 or large city, sometimes relating to people of varying Social Ranks.
 Streetwise characters are savvy to the right places in town to get
 things done, and are good at trash-talking their opponents.
 
-### (section) Banter
+### Banter
 
-##### Verve Specialty
+*Verve Specialty*
 
 The Banter specialty lets you toss quips and insults both in and out of
 a fight, trying to provoke a reaction of some kind. You can use Banter
@@ -26,43 +26,31 @@ spreading rumors takes 1 hour.
 Die to your dice pool. The size of that die is limited by your number of
 ranks in Streetwise (Banter), as shown on the following table:
 
-###### (table) Extra Time for a One-Hour Task
+###### Extra Time for a One-Hour Task
 
-|                   |           |                      |
-| ----------------- | --------- | -------------------- |
 | Completion Time   | Bonus Die | Banter Rank Required |
+| ----------------- | --------- | -------------------- |
 | 2 hours           | 1D0       | \+1                  |
 | 4 hours           | 1D6       | \+2                  |
 | 8 hours (1 day)   | 1D8       | \+3                  |
 | 16 hours (2 days) | 1D10      | \+4                  |
 | 32 hours (4 days) | 1D12      | \+5                  |
 
-(end table)
-
 **Opposition:** When directly confronting someone, your Banter roll is
 opposed by their own Banter roll. If you're spreading rumors, the
 standard opposition is Easy (3D6) in a medium city and Moderate (3D8) in
 a large city.
 
-###### (success table) Banter
+###### Banter
 
-**Time:** 1 action, 1 hour, or free action
-
-**Opposition:** Target's Banter
-
-**+:** Decrease Advantage
-
-**++:** Increase Advantage
-
-**+++:** Gain 1 Style Point 
-
-**+++:** Inflict 1 Yield
-
-\+++: Spread Rumor
-
-**++++:** Enrage Opponent
-
-(end success table)
+**Time:** 1 action, 1 hour, or free action\
+**Opposition:** Target's Banter\
+**+:** Decrease Advantage\
+**++:** Increase Advantage\
+**+++:** Gain 1 Style Point \
+**+++:** Inflict 1 Yield\
+**\+++:** Spread Rumor\
+**++++:** Enrage Opponent\
 
 **Decrease Advantage:** If your opponent has Advantage, you can decrease
 her die size by one step, or remove her Advantage Die entirely if she
@@ -92,27 +80,24 @@ day. For every 2 additional success points you spend, you can increase
 the Tag Die by one step, to a maximum value based on your ranks in
 Streetwise (Banter) as shown in the following table:
 
-###### (table) Maximum Tag Die
+###### Maximum Tag Die
 
-|              |                 |
-| ------------ | --------------- |
 | Banter Ranks | Maximum Tag Die |
+| ------------ | --------------- |
 | \+1          | \+1D0           |
 | \+2          | \+1D6           |
 | \+3          | \+1D8           |
 | \+4          | \+1D10          |
 | \+5          | \+1D12          |
 
-(end table)
-
 **Enrage Opponent:** If you aren't in a fight already, you provoke your
-opponent into starting a combat. If you are in combat, your opponent
-will focus on you to the exclusion of other targets, until you're dead
-or the fight ends.
+opponent into starting combat. If you are in combat, your opponent
+will focus on you to the exclusion of other targets, until you're dead,
+unconscious, or the fight ends.
 
-### (section) Carouse
+### Carouse
 
-##### Affinity Specialty
+*Affinity Specialty*
 
 The Carouse specialty involves frequenting establishments where liquor
 is served and tongues accordingly flow more freely. Carousing in a
@@ -137,18 +122,15 @@ Die.
 your dice pool. The size of that die is limited by your number of ranks
 in Streetwise (Carousing), as shown on the following table:
 
-###### (table) Extra Time for a One-Hour Task
+###### Extra Time for a One-Hour Task
 
-|                   |           |                         |
-| ----------------- | --------- | ----------------------- |
 | Completion Time   | Bonus Die | Carousing Rank Required |
+| ----------------- | --------- | ----------------------- |
 | 2 hours           | 1D0       | \+1                     |
 | 4 hours           | 1D6       | \+2                     |
 | 8 hours (1 day)   | 1D8       | \+3                     |
 | 16 hours (2 days) | 1D10      | \+4                     |
 | 32 hours (4 days) | 1D12      | \+5                     |
-
-(end table)
 
 **Opposition:** The larger the city, the easier it is for you to get
 information or make a connection without drawing too much attention to
@@ -160,29 +142,18 @@ go where everybody knows your name, and they're always glad you came --
 the roll is an automatic success and the success points are used to
 determine how well you performed the task.
 
-###### (success table) Carouse
+###### Carouse
 
-**Time:** 1 Hour
-
-**Opposition:** Standard Opposition
-
-**Bonus Die:** Extra time
-
-**+:** Hold Your Liquor
-
-**+:** Learn Common Rumor
-
-**++:** Learn Rare Rumor
-
-**+++:** Find a Companion
-
-**+++:** Gain 1 Style Point
-
-**++++:** Learn Uncommon Secret
-
-**+++++:** Learn Rare Secret
-
-(end success table)
+**Time:** 1 Hour\
+**Opposition:** Standard Opposition\
+**Bonus Die:** Extra time\
+**+:** Hold Your Liquor\
+**+:** Learn Common Rumor\
+**++:** Learn Rare Rumor\
+**+++:** Find a Companion\
+**+++:** Gain 1 Style Point\
+**++++:** Learn Uncommon Secret \
+**+++++:** Learn Rare Secret\
 
 **Hold Your Liquor:** You don't suffer ill effects from the
 over-consumption of alcoholic beverages.
@@ -211,9 +182,9 @@ by the general public, such as the name of the duchess's mistress.
 town, such as the location of the secret entrance to the baroness's
 vaults.
 
-### (section) Larceny
+### Larceny
 
-##### Guile Specialty
+*Guile Specialty*
 
 The Larceny specialty is used for criminal endeavors, primarily theft.
 You use Larceny rolls not only to steal objects but also fence them and
@@ -230,17 +201,14 @@ Chapter 10, "Crafting."
 a Drop penalty on your die roll. The size of the Drop penalty depends on
 how quickly you rush, as shown on the following table:
 
-###### (table) Rushing a One-Minute Task
+###### Rushing a One-Minute Task
 
-|                 |              |
-| --------------- | ------------ |
 | Completion Time | Drop Penalty |
+| --------------- | ------------ |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
-
-(end table)
 
 **Opposition:** For poor traps, alarms, and locks, use Easy (3D6). For
 average obstacles, use Moderate (3D8). For high-quality obstacles, use
@@ -250,25 +218,16 @@ Difficult (3D10). For extremely complex obstacles, use Very Difficult
 **Opposition:** When trying to steal something, use the highest
 Observation specialty of whomever might see you.
 
-###### (success table) Larceny
+###### Larceny
 
 **Time:** 1 minute
-
 **Opposition:** Standard Opposition or Observation
-
 **Item Die: **Repair tools when working with obstacles
-
 **+:** Case the Joint
-
 **++:** Steal Something
-
-\+++: Bypass Obstacle
-
+**\+++:** Bypass Obstacle
 **+++:** Gain 1 Style Point
-
-\+++: Install Obstacle
-
-(end success table)
+**\+++:** Install Obstacle
 
 **Case the Joint:** You look around your own Area or an adjacent Area
 and learn one of the following pieces of information:
@@ -309,11 +268,10 @@ success points you spend, the difficulty of the Observation roll
 increases by one step, limited by the number of skill ranks you have in
 Larceny as shown on the following table:
 
-###### (table) Maximum Observation Opposition
+###### Maximum Observation Opposition
 
-|              |                       |
-| ------------ | --------------------- |
 | Larceny Rank | Item Die              |
+| ------------ | --------------------- |
 | 1            | Easy (3D6)            |
 | 2            | Moderate (3D8)        |
 | 3            | Difficult (3D10)      |
