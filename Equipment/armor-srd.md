@@ -56,7 +56,7 @@ towns.
 | Morion         | 1D6  | Rigid    | Block +1D6         |
 | Parade armor   | 1D12 | Rigid    | Block +1D8         |
 | Plate armor    | 1D10 | Rigid    | Block +1D12        |
-| Valmain-rivet  | 1D6  | Rigid    | Block +1D8         |
+| Almain-rivet   | 1D6  | Rigid    | Block +1D8         |
 
   - **Buff coat:** Essentially a longer, reinforced gambeson, buff coats are favored by military officers. As with gambesons, they have charmwoven enchants; they are Soldier (1D6) social rank, can take Military (Brawl, Aim, or Strategy) charms, and are available in the full range of colors used in charmweaving. (See Chapter 9, "Specialty Equipment," for further details on charmweaving.)
   - **Gambeson: **Thick cloth padding makes these jerkins equal to leather in protective value, but the slightly longer construction time means they see less use. However, they can have charmwoven enchants added.  Gambesons are considered to be Soldier (1D6) social rank, can have Defense (Block, Parry, or Dodge) charms added, and are only available in neutral colors. (See Chapter 9, "Specialty Equipment," for further details on charmweaving.)
@@ -68,6 +68,6 @@ towns.
     While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. See Chapter 9, "Specialty Equipment," for more information on charmweaving.
 
     Parade armor helmet charms can be Culture (Arts, Etiquette, Scholarship) or Observation (Perceive, Intuition, Deduce); breastplate charms can be Defense (Block, Parry, Dodge) or Interaction (Inspire, Negotiate, Deceive); gauntlet charms can be Military (Brawl, Aim, Strategy) or Streetwise (Banter, Carouse, Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl) or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor must be worn or none of the charms are active.
-  - **Plate armor: **The knights of Varendia are famous for their heavy plate armor, which does provide superior protective ability albeit at the expense of mobility. While you are wearing plate armor, you take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition, you can't wear any additional articles of clothing save for shoulder items such as cloaks or tabards.
-  - **Valmain-rivet:** Originally created in Varendia ("valmain" references an older Albian term meaning "Varendish"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing valmain-rivet.
+  - **Plate armor:** Plate armor provides superior protective ability albeit at the expense of mobility. While you are wearing plate armor, you take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition, you can't wear any additional articles of clothing save for shoulder items such as cloaks or tabards.
+  - **Almain-rivet:** Originally created in Germany ("Almain" references an Early Modern English term meaning "German"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing almain-rivet.
 

@@ -1,14 +1,9 @@
 ## Clothing
 
-"Clothes make the woman," or so the old Lutetian maxim claims. Certainly
-this is true in Gallinea's capital city as well as the rest of Elara;
-fashion is a tangible thing in Gallinea.
-
-Charmweaving, which originated in Lutetia, is the practice of adding
+Charmweaving, is the practice of adding
 specific dyes, trinkets, threads, and other magickal enhancements to
 articles of clothing. These enhancements provide bonuses to specific
-tasks. For more details, see charmwoven attire in Chapter 9, "Specialty
-Equipment."
+tasks. 
 
 ### Clothing Qualities
 
@@ -18,10 +13,9 @@ Articles of clothing have the following qualities:
 specific part of your body -- head, shoulders, torso, hands, legs, or
 feet. In general, you can wear only one item per location, although you
 may be able to stack multiple cloaks on your shoulders under certain
-circumstances -- check with your MJ to be sure.
+circumstances -- check with your Gamemaster to be sure.
 
-Items worn on the legs can't have charms woven into them. (See chapter
-9, "Specialty Equipment.")
+Items worn on the legs can't have charms woven into them. 
 
 **Social Rank:** Some items are associated with certain social ranks.
 This doesn't restrict what you can wear, regardless of your own social
@@ -35,8 +29,7 @@ encumbrance is used. Items wrapped up in a box for gifting or transport
 are one scale category higher, including the packaging.
 
 The following table lists the most common types of clothes that are
-found in Gallinea. Detailed descriptions of each type of clothing are
-given in Chapter 9.
+found in Gallinea. 
 
 ###### Articles of Clothing
 
@@ -129,16 +122,14 @@ or smithing in content.
 **Military outfit (Soldier 1D6):** Military outfits come with an
 appropriate tabard from the correct military unit, noble house,
 mercenary group, or city guard. For example, a veteran/constable may
-have one tabard from the Gallinean army, and another from the Lutetia
+have one tabard from the French army, and another from the Parisian
 watch. Military outfits don't come with a torso item, to facilitate the
 wearing of armor.
 
 **Peasant outfit (Commoner 1D0):** Plain and practical, peasant outfits
-can be found throughout Gallinea, and in nearly every social rank. As
+can be found throughout Europe, and in nearly every social rank. As
 they're easily patched, many peasant outfits are simply stitched
-together from different types and colors of fabric. Lately, the upper
-social ranks have tried to adopt this patchwork style, albeit with
-little success.
+together from different types and colors of fabric. 
 
 **Physician outfit (Artisan 1D8):** The notable feature of this outfit
 is the large, vaguely bird-shaped mask used during surgery; the beak of
@@ -146,10 +137,8 @@ this mask contains herbs and cloth meant to filter out diseases. Most
 physician outfits start out white in color, but quickly become stained
 with crimson.
 
-**Priest outfit (Artisan 1D8):** The traditional dress of Asrian clergy
-varies by their rank within the church. Lower-ranking chaplains wear
-outfits of brighter, primary colors while those higher in the hierarchy
-are allowed additional colors that are darker and more complex. 
+**Priest outfit (Artisan 1D8):** The traditional dress of clergy
+varies by their rank within the church. 
 
 **Scholar's outfit (Artisan 1D8):** Students and instructors at
 universities, seminaries, officer schools, and other institutions of
@@ -160,7 +149,7 @@ they're free to wear whatever they want.
 **Swashbuckler outfit (Soldier 1D6):** The cavalier hat, the billowing
 cape, the high boots -- anyone wearing this outfit cuts a dashing figure
 indeed. While some such outfits are more sedate and refined, many look
-as if the wearer stepped out of the latest Alais Neversette novella.
+are flamboyant to an excessive degree.
 
 ## (subchapter) Charmwoven Attire
 
@@ -169,15 +158,9 @@ as if the wearer stepped out of the latest Alais Neversette novella.
 ### The Nine Laws of Fashion
 
 Charmwoven clothes are useful, stylish, and expensive, but they are also
-made according to exacting standards known as Gallinea's Nine Laws of
+made according to exacting standards known as the Nine Laws of
 Fashion. Flouting these laws could lead to your Charms simply failing to
 work at all\!
-
-While these are known as "Gallinea's" Laws, that's not because they're
-enforced by the Queen's decree or by some sort of "fashion police" that
-stalks the streets of Lutetia. Instead, these are akin to natural Laws
-that were first noticed and codified in Gallinea; they simply describe
-how things are rather than how they should be.
 
 The First is the simplest Law:
 
@@ -192,7 +175,7 @@ each off-size article of clothing you wear adds a Drop 1 penalty to
 combat actions if it's too large or too small.
 
 To ensure your clothes are properly sized, you can't just buy your
-clothes off the rack; the people of Gallinea are a diverse group when it
+clothes off the rack; the people of France are a diverse group when it
 comes to body size, and there are no "standard sizes". Your clothes will
 need to be either be created specifically for you, or altered by a
 tailor. Only then can charms be effectively added to such apparel.
@@ -230,7 +213,7 @@ table.
 
 The dice pool is based on all of these factors -- so if you know the
 exact date of your birth, that you know you were born in the morning,
-and that you were born somewhere in Talania, that's an opposition pool
+and that you were born somewhere in Russia, that's an opposition pool
 of 1D0+1D8+1D8, or 2D8. As it's a simple check, the charmweaver needs
 just one success point to correctly attune the item. On a failed check,
 the charmweaver needs to start over again to attune the item.
@@ -431,7 +414,7 @@ This only applies to items or outfits of social rank 1D10.
 
 #### Head Apparel
 
-Gallineans wear many different kinds of hats, with a type of headwear
+The people of France wear many different kinds of hats, with a type of headwear
 available to every type of charm -- all the skills, with the exception
 of Initiative. The types of hats available are shown in the following
 table.
@@ -450,34 +433,22 @@ table.
 | Skullcap, Clerical  | 1D0  | D8          | Culture, Interaction, Observation |
 | Tricorne            | 1D6  | D6          | Military, Nature, Streetwise      |
 
-**Beret, Artisan's:** The simple woolen beret is common among crafters
-in Gallinea. You can get a beret in many different colors, although
-beret colors have extra significance within Lutetian society. Each craft
-guild claims ownership of a particular, exacting shade of blue, green,
-or red, and will object strenuously to anyone unaffiliated wearing
-"their" colors. To those outside of the Lutetian guilds, the
-distinctions between beret colors is almost entirely opaque.
+**Beret, Artisan's:** The simple woolen beret is common among crafters,
+and you can get a beret in many different colors.
 
 **Capotain:** A capotain is a tall hat, usually flat on the top, with a
-narrow brim. It originated in Albia and has since spread to Gallinea,
-usually worn by the soldiery. Most capotains are black in color, and
-many sport buckles in front -- although Albian purists claim that such a
-frivolity is inauthentic and typical of Gallinea's love of decoration
-for its own sake. 
+narrow brim.  Most capotains are black in color, and many sport buckles in front.
 
-**Cavalier Hat:** Made famous by the Queen's cavaliers but worn
-throughout Gallinea, cavalier hats have a wide brim and are usually worn
+**Cavalier Hat:** Cavalier hats have a wide brim and are usually worn
 with one side pinned up. A dyed ostrich feather is often added, both for
-appearance's sake and to allow all-black hats to take a charm. Sometimes
-these hats are colloquially referred to as neversettes.
+appearance's sake and to allow all-black hats to take a charm. 
 
 **Goggles, Gearspring:** These goggles are created and used by
 mechanicians as well as other crafters. Each set of goggles has two or
 more pairs of lenses that can be swapped in as necessary -- functions
 include magnification of small objects, telescopic sighting of distant
 objects, filters for specific colors, or simple eye protection.
-Gearspring goggles offer a +1D6 Item Die on Observation (Perception)
-rolls.
+Gearspring goggles offer a +1D6 Item Die on Observation (Perception) rolls.
 
 **Hair Ribbons:** Magickally charmed hair ribbons are popular with the
 upper classes and are woven into the hairstyles -- or wigs -- of any
@@ -492,9 +463,7 @@ her identity, a masque actually does little to hide one's appearance.
 Used by the nobility at their lavish parties, each is custom created to
 reflect the wearer's persona and opinions of herself. Many masques only
 encircle the eyes and the space between them, while others cover the
-entire face. A Gallinean holiday called the Festival of Masques
-celebrates freedoms, including sexual freedoms, and is a time when
-nobles and non-nobles alike don masques to participate in the revelry.
+entire face. 
 
 **Plague Mask:** Part of a chirurgeon's standard surgical wear, a plague
 mask is usually styled like a bird's long beak, although other examples
@@ -504,20 +473,11 @@ and complex filters in the "nose" cavity prevent infection of
 air-carried diseases.
 
 **Skullcap, Clerical:** Sometimes called calottes, these skullcaps are
-associated with the Asrian religion and worn by its chaplains.
-Lower-ranking priests of Eserre wear celeste, azure, vert, or brunâtre
-skullcaps, while those higher in the order cover their skulls with
-calottes of argent, carnation, or purpure. Only those clergy appointed
-as Guardians of the Faith are allowed to wear Or skullcaps, with the
-golden yellow color symbolizing their connection to the sun goddess. Lay
-workers within the church are free to wear sable or cendree calottes
-while performing church duties.
+associated with clergy.
 
 **Tricorne:** These felt hats have wide brims like cavalier hats, but
 are pinned up on the sides and backs, forming them into triangular
-shapes. In Gallinea and Albia it's traditional to wear the tricorne with
-the single point facing forward, and in Ekalia and Dragosa to wear it
-pointing back. Tricornes are most popular among sailors and members of
+shapes.  Tricornes are most popular among sailors and members of
 the military, with officers using them to display medals and other
 symbols of rank.
 

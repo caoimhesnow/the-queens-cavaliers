@@ -1,46 +1,41 @@
-Clockworks
+# Clockworks
 
-Version 0.10.01, 7 May 2016
-
-Clockwork Devices
+## Clockwork Devices
 
 Each device consists of the following:
 
-• 1 Casing
+- 1 Casing
+- 1 or more Power Sources
+- 1 or more Components
 
-• 1 or more Power Sources
-
-• 1 or more Components
-
-Gear Space: Each casing has a certain amount of gear space available,
+**Gear Space:** Each casing has a certain amount of gear space available,
 depending upon its size. The power source and the components use up that
 space once installed. A miniaturization component can be installed in a
 casing to increase its effective gear space.
 
-Power: Each power source delivers a set amount of power, dependent on
+**Power:** Each power source delivers a set amount of power, dependent on
 the type of power source and the method of producing that power. Each
 component consumes a specified amount of power, and the power source's
 output must be enough to cover the power used by the components. Power
 is measured in power units.
 
-Complexity: The complexity of a device is equal to the number of power
+**Complexity:** The complexity of a device is equal to the number of power
 sources plus the number of components.
 
-Constructing a Device
+## Constructing a Device
+
+**Note: These rules are obsolute and this section needs to be rewritten to 
+reflect the current crafting rules.**
 
 There are five steps to creating a device:
 
-1\. Plan the Device
+1. Plan the Device
+2. Purchase the Supplies
+3. Build the Parts
+4. Install the Parts
+5. Complete the Device
 
-2\. Purchase the Supplies
-
-3\. Build the Parts
-
-4\. Install the Parts
-
-5\. Complete the Device
-
-Plan the Device
+### Plan the Device
 
 Before you start, you should plan out what you want your device to do.
 Decide how large the device will be – the size of its casing. Determine
@@ -58,25 +53,12 @@ The difficulty of the Science (Calculus) roll to draw plans is
 determined by the complexity of the device you are designing, as shown
 on the table below. 
 
-Device Complexity
-
-Standard Opposition
-
-2
-
-Easy (3D6)
-
-3 – 4
-
-Moderate (3D8)
-
-5 – 8
-
-Hard (3D10)
-
-9+
-
-Very Difficult (3D12)
+| Device Complexity | Standard Opposition   |
+| :---------------: | :-------------------- |
+| 2                 | Easy (3D6)            |
+| 3 – 4             | Moderate (3D8)        |
+| 5 – 8             | Hard (3D10)           |
+| 9+                | Very Difficult (3D12) |
 
 If you earn at least two success points on the Science (Calculus) roll,
 you have successfully drawn plans that will give you (or anyone else who
@@ -85,36 +67,20 @@ For each additional two success points you spend, you can increase the
 size of that die up to a maximum limited by your ranks in Science
 (Calculus), as shown below.
 
-Calculus Ranks
+| Calculus Ranks | Maximum Die |
+| :------------: | :---------: |
+| +1             | D6          |
+| +2             | D8          |
+| +3             | D10         |
+| +4             | D12         |
+| +5             | D12         |
 
-Maximum Die
-
-\+1
-
-D6
-
-\+2
-
-D8
-
-\+3
-
-D10
-
-\+4
-
-D12
-
-\+5
-
-D12
-
-Prototype: If you have an existing prototype for the device, either
+**Prototype:** If you have an existing prototype for the device, either
 created by yourself or by someone else, you gain a bonus D6 die on the
 roll to draw plans. The prototype does not need to be currently
 functional for you to gain this bonus.
 
-Purchase the Supplies
+### Purchase the Supplies
 
 There are three ways to acquire the parts needed for constructing a
 device: build them yourself, buy them from another clockworker, or
@@ -137,7 +103,7 @@ highest die of their costs.
 For details on salvaging parts and supplies, see the later section on
 Salvage.
 
-Build the Parts
+### Build the Parts
 
 You can save money by building your own casing, although this does
 consume more time. A roll is not necessary, although you must have
@@ -152,23 +118,23 @@ each success point, the clockworker can spend 1 Creation Point's worth
 of gear supplies to create components or power sources. Multiple rolls
 may be required to create all the parts needed for a complex device.
 
-Skill Limit: The total number of gears that you can spend on a single
+**Skill Limit:** The total number of gears that you can spend on a single
 part is limited to your number of specialty ranks in Science
 (Clockworks). 
 
-Standard Opposition: The difficulty for this roll is Easy (3D6) if you
+**Standard Opposition:** The difficulty for this roll is Easy (3D6) if you
 are in a workshop, or Hard (3D10) if you are not.
 
-Tools: If you have clockworker's tools, you gain an item die (usually
+**Tools:**If you have clockworker's tools, you gain an item die (usually
 D6) on this roll. If you are in a workshop, you gain a D8 item bonus
 instead.
 
-Plans: The plans for the overall device do not apply on this roll.
+**Plans:** The plans for the overall device do not apply on this roll.
 
-Prototype: You gain no bonus for having a prototype of the device when
+**Prototype:** You gain no bonus for having a prototype of the device when
 making this roll.
 
-Install the Parts
+### Install the Parts
 
 Installing a power source or component in a casing requires a Science
 (Clockworks) roll (or series of rolls). The difficulty is Easy (3D6) if
@@ -176,168 +142,130 @@ you are in a workshop, or Hard (3D10) if you are not. Each roll takes
 four hours, and each success point installs one power source or
 component.
 
-Tools: If you have clockworker's tools, you gain an item die (usually
+**Tools:** If you have clockworker's tools, you gain an item die (usually
 D6) on this roll. If you are in a workshop, you gain a D8 item bonus
 instead.
 
-Plans: If you have plans for the device, you gain a bonus die based on
+**Plans:** If you have plans for the device, you gain a bonus die based on
 the quality of the plans when making this roll.
 
-Prototype: If you have a prototype of the device, you gain a bonus D6
+**Prototype:** If you have a prototype of the device, you gain a bonus D6
 die on this roll. The prototype does not need to be currently functional
 for you to gain this bonus.
 
-Complete the Device
+### Complete the Device
 
 Once all the components have been successfully installed, the device
 needs to be completed. This requires no roll, but does require one hour
 of work per point of complexity of the device. 
 
-Casings
+## Casings
 
 Casings are measured by their physical size, which determines the amount
 of gear space within the casing.
 
-Purchasing a Casing: Casings are either purchased at the cost shown
+**Purchasing a Casing:** Casings are either purchased at the cost shown
 below or constructed by the clockworker for no cost. The availability of
 a casing is always D0. Gear supplies cannot be spent on casing costs.
 
-Creating a Casing: It takes one hour per point of Gear Space to create a
+**Creating a Casing:** It takes one hour per point of Gear Space to create a
 casing. No skill roll is required, but the clockworker must have at
 least one rank in the Clockworks specialty.
 
-Casing Notation: A casing is described by listing the size of the casing
+**Casing Notation:** A casing is described by listing the size of the casing
 followed by the gear space of that casing in parentheses. Examples:
 pocket (space 1), person (space 8), building (space 64).
 
-Casing Size
+| Casing Size | Cost | Gear Space |
+| :---------- | :--: | :--------: |
+| Pocket      | D0   | 1          |
+| Handheld    | D0   | 2          |
+| Portable    | D6   | 4          |
+| Person      | D6   | 8          |
+| Carriage    | D8   | 16         |
+| Room        | D10  | 32         |
+| Building    | D12  | 64         |
 
-Cost
-
-Gear Space
-
-Pocket
-
-D0
-
-1
-
-Handheld
-
-D0
-
-2
-
-Portable
-
-D6
-
-4
-
-Person
-
-D6
-
-8
-
-Carriage
-
-D8
-
-16
-
-Room
-
-D10
-
-32
-
-Building
-
-D12
-
-64
-
-Pocket Size
+#### Pocket Size
 
 A pocket-sized device is easily concealed, requires only one hand to
 operate, and can be carried within a pocket or beneath clothing.
 Examples include pocketwatches and wrist holsters.
 
-Handheld Size
+#### Handheld Size
 
 A handheld device requires usually requires one hand to operate and can
 be carried on a belt, in a holster, or in a scabbard. Examples include
 clockwork pistols and gearswords.
 
-Portable Size
+#### Portable Size
 
 A portable device is one which requires two hands to carry and operate,
 or perhaps can be carried as a backpack. Most don't need to be
 self-mobile. Examples include clockwork muskets and wing-gliders.
 
-Person Size
+#### Person Size
 
 An object roughly the size of a person – such as a statue – can't be
 easily carried by a single person without requiring her full attention.
 Most are therefore either stationary devices or self-mobile. Examples
 include humanoid automata and velocipedes.
 
-Carriage Size
+#### Carriage Size
 
 Larger than a human but smaller than a room, carriage-sized devices are
 on the scale of large pieces of furniture. Unless self-mobile, they
 require several people in order to transport. Examples include clockwork
 carriages and some industrial machines.
 
-Room Size
+#### Room Size
 
 Room-sized devices take up the entire space of a sizable room, and are
 therefore rarely portable unless self-mobile. Examples include some
 analytical engines and most watermills.
 
-Building Size
+#### Building Size
 
 Devices the size of a building are usually as large as a two or three
 story building with a half-dozen rooms. Examples include airships and
 clock towers.
 
-Power Sources
+## Power Sources
 
 Power sources are rated by how much space they take up inside a casing,
 by how much power they can provide, and by how that power is activated
 to enable components.
 
-Purchasing a Power Source: A power source can be purchased,
+**Purchasing a Power Source:** A power source can be purchased,
 pre-assembled, for the cost shown on the table for that power source.
 The availability is equal to the highest cost die of the power source.
 
-Constructing a Power Source: Unless otherwise specified, a power source
+**Constructing a Power Source:** Unless otherwise specified, a power source
 can be constructed by a clockworker. This requires a number of gear
 supplies as shown on the table for that power source, and at least four
 hours' work. At the end of that time, make a Science (Clockworks) roll
 and for each success point, the clockworker can spend 1 Creation Point's
 worth of gear supplies.
 
-Skill Limit: The total number of gears that a clockworker can spend on a
+**Skill Limit:** The total number of gears that a clockworker can spend on a
 single power source is limited to her number of specialty ranks in
 Science (Clockworks). For example, a clockworker with Science
 (Clockworks) +3 can only spend 3 gears on creating a mainspring power
 source.
 
-Note: There are a few power sources that cannot be constructed using the
+*Note:* There are a few power sources that cannot be constructed using the
 Clockworks specialty. This will be noted in the description of the power
 source along with information about the required skill for construction.
 The roll is otherwise treated like the Clockworks specialty roll.
 
-Power Source Notation: A power source is described by listing the name
+**Power Source Notation:** A power source is described by listing the name
 of the power source followed by the space, power supply, other qualities
 of the power source, and the duration. Examples: gear train (space 1,
 power supply 2, Drop 1, one action); mainspring (space 4, power supply
 4, wind 1 minute, duration 10 minutes); tension trigger (space 1, power
 supply 2, reset Drop 2, one use). 
 
-Alchemical Capacitor
+#### Alchemical Capacitor
 
 An alchemical capacitor is a simple jar device that is used to generate,
 capture, and store electrical energy through alchemical means. A crude
@@ -348,53 +276,20 @@ Each alchemical capacitor functions for 24 hours before needing to be
 replaced and reinstalled in a device. The power supply's duration is the
 same if it is used once during that time period or used repeatedly.
 
-Creating an Alchemical Capacitor: The Magicks (Brew) specialty is
+**Creating an Alchemical Capacitor:** The Magicks (Brew) specialty is
 required to create an alchemical capacitor, and it requires the use of
 alchemical supplies to do so. The maximum number of alchemical supplies
 that can be spent to create an alchemical capacitor is equal to the
 brewer's ranks in Magicks (Brew).
 
-Space
+| Space | Cost | Supplies              | Power Supplied | Duration |
+| :---: | :--- | :-------------------: | :------------: | :------: |
+| 2     | D6   | 1 alchemical supplies | 1              | 24 Hours |
+| 4     | D8   | 2 alchemical supplies | 2              | 24 Hours |
+| 8     | D10  | 3 alchemical supplies | 3              | 24 Hours |
+| 16    | D12  | 4 alchemical supplies | 4              | 24 Hours |
 
-Cost (Alchemical Supplies)
-
-Power Supplied
-
-Duration
-
-2
-
-D6 (1)
-
-1
-
-24 Hours
-
-4
-
-D8 (2)
-
-2
-
-24 Hours
-
-8
-
-D10 (3)
-
-3
-
-24 Hours
-
-16
-
-D12 (4)
-
-4
-
-24 Hours
-
-Gear Train
+#### Gear Train
 
 A gear train is used to transmit mechanical energy to a device as part
 of the same action that uses the device; this mechanical energy is
@@ -408,7 +303,7 @@ components of the velocipede. This imposes that Drop 1 penalty on
 actions undertaken by the rider of the velocipede during the turn in
 which it's ridden.
 
-Variable Gear Train: The power units and the drop penalty of any given
+**Variable Gear Train:** The power units and the drop penalty of any given
 gear train are usually fixed, as shown on the table below. A gear train
 (space 0, power supply 2, Drop 2) will always supply 2 power units and
 require a Drop 2 penalty to operate. However, a gear train can be made
@@ -419,147 +314,23 @@ to power it. For example, a variable gear train (space 0+1, power supply
 2 power units for a Drop 2 penalty, and 3 power units for a Drop 4
 penalty.
 
-Space
-
-Cost (Gears)
-
-Power Supplied
-
-Drop
-
-Duration
-
-0
-
-D0 (0)
-
-1
-
-Drop 1
-
-One Action
-
-0
-
-D0 (0)
-
-2
-
-Drop 2
-
-One Action
-
-0
-
-D0 (0)
-
-3
-
-Drop 4
-
-One Action
-
-1
-
-D6 (1)
-
-1
-
-Drop 0
-
-One Action
-
-1
-
-D6 (1)
-
-2
-
-Drop 1
-
-One Action
-
-1
-
-D6 (1)
-
-3
-
-Drop 2
-
-One Action
-
-1
-
-D6 (1)
-
-4
-
-Drop 4
-
-One Action
-
-2
-
-D8 (2)
-
-2
-
-Drop 0
-
-One Action
-
-2
-
-D8 (2)
-
-3
-
-Drop 1
-
-One Action
-
-2
-
-D8 (2)
-
-4
-
-Drop 2
-
-One Action
-
-4
-
-D10 (3)
-
-3
-
-Drop 0
-
-One Action
-
-4
-
-D10 (3)
-
-4
-
-Drop 1
-
-One Action
-
-8
-
-D12 (4)
-
-4
-
-Drop 0
-
-One Action
-
-Blackpowder Flintlock
+| Space | Cost | Supplies   | Power Supplied | Drop   | Duration   |
+| :---: | :--: | :--------: | :------------: | :----: | :--------: | 
+| 0     | D0   | 0 gears    | 1              | Drop 1 | One Action |
+| 0     | D0   | 0 gears    | 2              | Drop 2 | One Action |
+| 0     | D0   | 0 gears    | 1              | Drop 4 | One Action |
+| 1     | D6   | 1 gear     | 1              | Drop 0 | One Action |
+| 1     | D6   | 1 gear     | 2              | Drop 1 | One Action |
+| 1     | D6   | 1 gear     | 3              | Drop 2 | One Action |
+| 1     | D6   | 1 gear     | 4              | Drop 4 | One Action |
+| 2     | D8   | 2 gears    | 2              | Drop 0 | One Action |
+| 2     | D8   | 2 gears    | 3              | Drop 1 | One Action |
+| 2     | D8   | 2 gears    | 4              | Drop 2 | One Action |
+| 4     | D10  | 3 gears    | 3              | Drop 0 | One Action |
+| 4     | D10  | 3 gears    | 4              | Drop 1 | One Action |
+| 8     | D12  | 4 gears    | 4              | Drop 0 | One Action |
+
+#### Blackpowder Flintlock
 
 A blackpowder flintlock is a kind of trigger that fires off once, using
 exploding blackpowder to provide energy to power the device's
@@ -573,67 +344,15 @@ clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a blackpowder flintlock is equal to the
 powderworker's ranks in Science (Blackpowder).
 
-Space
+| Space | Cost | Supplies              | Power Supplied | Reset   | Duration |
+| :---: | :--: | :-------------------: | :------------: | :----:  | :------: |
+| 1     | D0   | 0 blackpowder charges | 2              | Drop 1  | One use  |
+| 1     | D6   | 1 blackpowder charge  | 4              | Drop 2  | One use  |
+| 2     | D8   | 2 blackpowder charges | 6              | Drop 4  | One use  |
+| 3     | D10  | 3 blackpowder charges | 8              | 2 Turns | One use  |
+| 4     | D12  | 4 blackpowder charges | 10             | 3 Turns | One use  |
 
-Cost
-
-Power Supplied
-
-Reset
-
-Duration
-
-1
-
-D0 (0)
-
-2
-
-Drop 1
-
-One use
-
-1
-
-D6 (1)
-
-4
-
-Drop 2
-
-One use
-
-2
-
-D8 (2)
-
-6
-
-Drop 4
-
-One use
-
-3
-
-D10 (3)
-
-8
-
-2 Turns
-
-One use
-
-4
-
-D12 (4)
-
-10
-
-3 Turns
-
-One use
-
-Mainspring
+#### Mainspring
 
 A mainspring is a complex clockwork spring used to store power until it
 needs to be released. The initial power is put into the mainspring by
@@ -649,12 +368,12 @@ A mainspring can't be wound for more than 10 minutes; at that point, the
 mainspring is holding the full amount of power that it is able to store
 and release.
 
-One Turn Winding/One Use per Success Point Duration: If the winding time
+**One Turn Winding/One Use per Success Point Duration:** If the winding time
 is one turn and the duration is one use per success point, make a
 Science (Clockworks) check against Easy (3D6) standard difficulty. Each
 success point grants one use of the device before the end of the scene.
 
-Variable Mainspring: The winding time and duration any given mainspring
+**Variable Mainspring:** The winding time and duration any given mainspring
 are usually fixed, as shown on the table below. A mainspring (space 1,
 power supply 1, wind 1 minute, duration 10 minutes) will always require
 1 minute of winding and provide 10 minutes of power. However, a
@@ -665,131 +384,28 @@ power supply 1, wind 1 turn/1 minute/10 minutes, duration 1 minute/10
 minutes/1 hour) supplies power for 1 minute if wound for 1 turn, 10
 minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
 
-Space
+| Space | Cost | Supplies | Power Supplied |
+| :---: | :--: | :------: | :------------: |
+| 1     | D0   | 0 gears  | 1              |
+| 2     | D6   | 1 gear   | 2              |
+| 4     | D8   | 2 gears  | 4              |
+| 8     | D10  | 3 gears  | 6              |
+| 16    | D12  | 4 gears  | 8              |
 
-Cost (Gears)
+| Space | Cost | Supplies | Wind       | Duration                   |
+| :---: | :--: | :------: | :--------- | :------------------------- |
+| +0    | D0   | 0 gears  | 1 Turn     | One use per success point  |
+| +0    | D0   | 0 gears  | 1 minute   | 1 minute                   |
+| +0    | D0   | 0 gears  | 10 minutes | 10 minutes                 |
+| +0    | D6   | 1 gear   | 1 Turn     | 1 minute                   |
+| +0    | D6   | 1 gear   | 1 minute   | 10 minutes                 |
+| +0    | D6   | 1 gear   | 10 minutes | 1 hour                     |
+| +0    | D8   | 2 gears  | 1 Turn     | 10 minutes                 |
+| +0    | D8   | 2 gears  | 1 minute   | 1 hour                     |
+| +0    | D8   | 2 gears  | 10 minutes | 24 hours                   |
+| +0    | D10  | 3 gears  | 1 minute   | 24 hours                   |
 
-Power Supplied
-
-1
-
-D0 (0)
-
-1
-
-2
-
-D6 (1)
-
-2
-
-4
-
-D8 (2)
-
-4
-
-8
-
-D10 (3)
-
-6
-
-16
-
-D12 (4)
-
-8
-
-Space
-
-Cost (Gears)
-
-Wind
-
-Duration
-
-\+0
-
-D0 (0)
-
-1 Turn
-
-One use per success point
-
-\+0
-
-Do (0)
-
-1 minute
-
-1 minute
-
-\+0
-
-D0 (0)
-
-10 minutes
-
-10 minutes
-
-\+0
-
-D6 (1)
-
-1 Turn
-
-1 minute
-
-\+0
-
-D6 (1)
-
-1 minute
-
-10 minutes
-
-\+0
-
-D6 (1)
-
-10 minutes
-
-1 hour
-
-\+0
-
-D8 (2)
-
-1 Turn
-
-10 minutes
-
-\+0
-
-D8 (2)
-
-1 minute
-
-1 hour
-
-\+0
-
-D8 (2)
-
-10 minutes
-
-24 hours
-
-\+0
-
-D10 (3)
-
-1 minute
-
-24 hours
-
-Naturalistic Turbine
+#### Naturalistic Turbine
 
 A naturalistic turbine is one that is hooked up to a source of power
 that exists in the natural world – running water, winds, or tidal flow.
@@ -799,92 +415,50 @@ a naturalistic turbine to use any given natural energy supply requires
 one hour per power unit produced, so most are installed in permanent
 locations such as windmills or watermills.
 
-Natural Limits: A stream can produce up to 2 power units, while larger
+**Natural Limits:** A stream can produce up to 2 power units, while larger
 rivers can supply up to 4. Wind power varies between 0 and 3 power units
 in most situations. Tidal flow usually only can provide 1 power unit.
 
-Sails: A sail takes up half the space of a normal naturalistic turbine,
+**Sails:** A sail takes up half the space of a normal naturalistic turbine,
 but the power supplied can only be used for movement. It also requires
 the purchase of one unit of fabric supplies per power unit.
 
-Space
+| Space | Cost | Supplies | Power Supplied |
+| :---: | :--: | :------: | :------------: |
+| 2     | D6   | 1 gear   | 1              |
+| 4     | D8   | 2 gears  | 2              |
+| 6     | D10  | 3 gears  | 3              |
+| 8     | D12  | 4 gears  | 4              |
 
-Cost (Gears)
-
-Power Supplied
-
-2
-
-D6 (1)
-
-1
-
-4
-
-D8 (2)
-
-2
-
-6
-
-D10 (3)
-
-3
-
-8
-
-D12 (4)
-
-4
-
-Phlogistone Furnace
+#### Phlogistone Furnace
 
 A phlogistone furnace burns the rare mineral phlogistone to use for
 generating lift and propulsion. It is primarily used in airships and can
 be prohibitively expensive for other uses.
 
-Limited Power: Power units produced by a phlogistone furnace can only be
+**Limited Power:** Power units produced by a phlogistone furnace can only be
 used to power carry and movement components.
 
-Envelope: A charmwoven cloth envelope is necessary for use with a
+**Envelope:** A charmwoven cloth envelope is necessary for use with a
 phlogistone furnace; this requires the skills of a charmweaver with at
 least 4 specialty ranks in Magicks (Weave).
 
-Fuel: Each hour that a phlogistone furnace is in use, it burns one pound
+**Fuel:** Each hour that a phlogistone furnace is in use, it burns one pound
 of phlogistone per power unit supplied. The amount of power supplied can
 be reduced by burning lesser quantities of phlogistone.
 
-Creating a Phlogistone Furnace: The Science (Blackpowder) specialty is
+**Creating a Phlogistone Furnace:** The Science (Blackpowder) specialty is
 required to create a phlogistone furnace, and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a phlogistone furnace is equal to the powderworker's
 ranks in Science (Blackpowder).
 
-Space
+| Space | Cost | Supplies | Power Supplied              | Envelope Cost | Envelope Supplies |
+| :---: | :--: | :------: | :-------------------------- | :-----------: | :---------------: |
+| 4     | D12  | 4 gears  | 10 (carry or movement only) | D10           | 4 fabric          |
+| 6     | 2D12 | 5 gears  | 20 (carry or movement only) | D12           | 5 fabric          |
 
-Cost (Gears)
-
-Power Supplied
-
-Envelope Cost (Fabric)
-
-4
-
-D12 (4)
-
-10 (carry or movement only)
-
-D10 (4)
-
-6
-
-2D12 (5)
-
-20 (carry or movement only)
-
-D12 (5)
-
-Tension Trigger
+#### Tension Trigger
 
 A tension trigger stores energy for use and then releases it. To reset a
 tension trigger, you need to take a reset action, which is a combined
@@ -893,190 +467,62 @@ triggers store energy for future use rather than immediate use, but
 unlike mainsprings a tension trigger will only store that energy for a
 single use.
 
-Space
+| Space | Cost | Supplies | Power Supplied | Reset  | Duration |
+| :---: | :--: | :------: | :------------: | :----: | :------- |
+| 0     | D0   | 0 gears  | 1              | Drop 4 | One use  |
+| 0     | D6   | 1 gear   | 1              | Drop 2 | One use  |
+| 0     | D6   | 1 gear   | 2              | Drop 1 | One use  |
+| 1     | D8   | 2 gears  | 1              | Drop 1 | One use  |
+| 1     | D8   | 2 gears  | 2              | Drop 2 | One use  |
+| 1     | D8   | 2 gears  | 3              | Drop 4 | One use  |
+| 1     | D10  | 3 gears  | 2              | Drop 1 | One use  |
+| 1     | D10  | 3 gears  | 3              | Drop 2 | One use  |
+| 1     | D12  | 4 gears  | 3              | Drop 1 | One use  |
 
-Cost
-
-Power Supplied
-
-Reset
-
-Duration
-
-0
-
-D0 (0)
-
-1
-
-Drop 4
-
-One use
-
-0
-
-D6 (1)
-
-1
-
-Drop 2
-
-One use
-
-0
-
-D6 (1)
-
-2
-
-Drop 1
-
-One use
-
-1
-
-D8 (2)
-
-1
-
-Drop 1
-
-One use
-
-1
-
-D8 (2)
-
-2
-
-Drop 2
-
-One use
-
-1
-
-D8 (2)
-
-3
-
-Drop 4
-
-One use
-
-1
-
-D10 (3)
-
-2
-
-Drop 1
-
-One use
-
-1
-
-D10 (3)
-
-3
-
-Drop 2
-
-One use
-
-1
-
-D12 (4)
-
-3
-
-Drop 1
-
-One use
-
-Components
+## Components
 
 Components provide the basic functionality of a clockwork device, and
 are rated by how much space they take up inside a casing, by how much
 power require to run, and by the effects the component can produce.
 
-Purchasing a Component: A component can be purchased, pre-assembled, for
+**Purchasing a Component:** A component can be purchased, pre-assembled, for
 the cost shown on the table for that component type. The availability is
 equal to the highest cost die of the component.
 
-Constructing a Component: Unless otherwise specified, a component can be
+**Constructing a Component:** Unless otherwise specified, a component can be
 constructed by a clockworker. This requires a number of gear supplies as
 shown on the table for that component, and at least four hours' work. At
 the end of that time, make a Science (Clockworks) roll and for each
 success point, the clockworker can spend 1 Creation Point's worth of
 gear supplies to construct components or power sources.
 
-Skill Limit: The total number of gears that a clockworker can spend on a
+**Skill Limit:** The total number of gears that a clockworker can spend on a
 component is limited to her number of specialty ranks in Science
 (Clockworks). For example, a clockworker with +3 Science (Clockworks)
 can only spend 3 gears on creating a movement component.
 
-Component Notation: A power source is described by listing the name of
+**Component Notation:** A power source is described by listing the name of
 the power source followed by the space, power requirements, and other
 qualities of the component. Examples: articulation (space 1, power 0,
 Drop 1); carry (space 2, power 1, person); projectile weapon (space 3,
 power 1, weapon die d8, close Drop 0, short Drop 0, medium Drop 0, long
 Drop 2).
 
-Armor
+#### Armor
 
 Armor plating protects both the device itself and anyone using or within
 the device. The armor component grants an Armor Die that can be used for
 Defense (Block) rolls.
 
-Space
+| Space | Cost | Supplies | Power | Armor Die |
+| :---: | :--: | :------: | :---: | :-------: |
+| 0     | D0   | 0 gears  | 0     | D0        |
+| 1     | D6   | 1 gear   | 0     | D6        |
+| 2     | D8   | 2 gears  | 0     | D8        |
+| 4     | D10  | 3 gears  | 0     | D10       |
+| 8     | D12  | 4 gears  | 0     | D12       |
 
-Cost (Gears)
-
-Power
-
-Armor Die
-
-0
-
-D0 (0)
-
-0
-
-D0
-
-1
-
-D6 (1)
-
-0
-
-D6
-
-2
-
-D8 (2)
-
-0
-
-D8
-
-4
-
-D10 (3)
-
-0
-
-D10
-
-8
-
-D12 (4)
-
-0
-
-D12
-
-Articulation
+#### Articulation
 
 Clockwork devices are inherently clumsy; if used as replacements for a
 human's natural ability, they take a Drop 4 penalty on associated
@@ -1089,87 +535,19 @@ Creating an Articulation Component: The Medicine (Surgery) specialty is
 required to create an articulation component with a low Drop penalty.
 Surgery +1 is required for Drop 1, and Surgery +2 for Drop 0.
 
-Space
+| Space | Cost | Supplies | Power | Penalty  |
+| :---: | :--: | :------: | :---: | :------: |
+| 0     | D0   | 0 gears  | 0     | Drop 4   |
+| 1     | D0   | 0 gears  | 0     | Drop 2   |
+| 2     | D0   | 0 gears  | 0     | Drop 1   |
+| 0     | D6   | 1 gear   | 0     | Drop 2   |
+| 1     | D6   | 1 gear   | 0     | Drop 1   |
+| 2     | D6   | 1 gear   | 0     | Drop 0   |
+| 0     | D8   | 2 gears  | 0     | Drop 1   |
+| 1     | D8   | 2 gears  | 0     | Drop 0   |
+| 0     | D10  | 3 gears  | 0     | Drop 0   |
 
-Cost (Gears)
-
-Power
-
-Penalty
-
-0
-
-D0 (0)
-
-0
-
-Drop 4
-
-1
-
-D0 (0)
-
-0
-
-Drop 2
-
-2
-
-D0 (0)
-
-0
-
-Drop 1
-
-0
-
-D6 (1)
-
-0
-
-Drop 2
-
-1
-
-D6 (1)
-
-0
-
-Drop 1
-
-2
-
-D6 (1)
-
-0
-
-Drop 0
-
-0
-
-D8 (2)
-
-0
-
-Drop 1
-
-1
-
-D8 (2)
-
-0
-
-Drop 0
-
-0
-
-D10 (3)
-
-0
-
-Drop 0
-
-Calculation
+#### Calculation
 
 The calculation component gives the device the ability to compute
 certain values when given appropriate information. The simplest form of

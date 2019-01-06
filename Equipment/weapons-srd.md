@@ -1,9 +1,5 @@
 # Weapons
 
-While *The Queen's Cavaliers* is not entirely focused around combat,
-it's still a swashbuckling game -- so swords, muskets, and cannons play
-a role in the stories being told.
-
 In game terms, there are three broad categories that weapons fall into:
 dueling, aimed, and explosive.
 
@@ -25,7 +21,7 @@ bombs.
 
 #### Free Starting Weapon
 
-When you create your character for *The Queen's Cavaliers*, you get a
+When you create your character, you get a
 free weapon in addition to any granted by your classes and any
 additional weapons you might also buy. If you don't want a free weapon,
 you can instead take a +1D6 Barter die.
@@ -52,7 +48,7 @@ rolls with the weapon.
 **Weapon Prowess:** Weapon Prowess is your knowledge of the basics of
 how to attack and defend with that weapon. There are nine types of
 Weapon Prowess: bow, cudgel, knife, musket, net, pistol, polearm, sword,
-and whip. All player characters in *The Queen's Cavaliers* automatically
+and whip. All player characters automatically
 have Knife Prowess.
 
 **Weapon Die:** You can add the Weapon Die to a Dice Pool as an Item Die
@@ -79,7 +75,7 @@ considered handheld scale, Either Hand weapons are pocket scale, and
 Both Hand weapons are portable scale.
 
 **Specialties:** These qualities list the specific specialties that can
-be used with that weapon. If a specialty isn't listed, it's up to the MJ
+be used with that weapon. If a specialty isn't listed, it's up to the Gamemaster
 whether it's possible to use the weapon that way, and what kind of Drop
 penalty you'll receive; for example, using Parry with a musket or Aim
 with a rapier could have pretty heavy penalties -- Drop 2 for the
@@ -141,7 +137,7 @@ dueling weapons are:
   - **Knife Prowess:** In addition to serving as Dueling weapons, you
     can also throw some knives with the Aim specialty.
   - **Net Prowess:** A net can be used as a Dueling weapon, although
-    it's much more common to see this in Ekalia than in Gallinea.
+    this can be rare.
   - **Polearm Prowess:** A polearm is any long-hafted Dueling weapon,
     typically (but not always) with the Reach quality. 
   - **Sword Prowess:** A Dueling weapon with a blade and a hilt. The
@@ -215,7 +211,7 @@ spend 3 success points to knock your target off her horse.
 
 ### Availability of Dueling Weapons
 
-As stated in Chapter 7: Wealth, to purchase any item you must roll
+To purchase any item you must roll
 against a pool consisting of that item's availability and its cost.
 
 Common dueling weapons are those which aren't hard at all to find any
@@ -242,12 +238,12 @@ the availability increases to
 | Smallsword   | D6   | Either         | Sword +1D6  | Parry, Lunge, Riposte, Feint        |
 
 
-  - **Buckler:** A buckler is a small shield that can be strapped to your forearm, usually on your non-dominant hand. You can hold an item in that hand but trying to attack with that hand while wearing a buckler gives you a Drop 2 penalty on rolls using either the buckler or that weapon.\
+  - **Buckler:** A buckler is a small shield that can be strapped to your forearm, usually on your non-dominant hand. You can hold an item in that hand but trying to attack with that hand while wearing a buckler gives you a Drop 2 penalty on rolls using either the buckler or that weapon.  \
   - **Club:** A standard club is simply a piece of wood or metal that you can swing at someone. It's not very sophisticated, but then again, you can likely pick one up wherever you are at any given time.  \
   - **Cutlass:** The favored weapon of buccaneers, pirates, and other sailors.\
   - **Dagger:** A dagger is a large knife that can also be thrown using the Aim specialty.\
   - **Quarterstaff:** A medium-sized pole wielded in both hands that can also be used in a Brawl dice pool as well.\
-  - **Rapier:** The most common type of Sword in *The Queen's Cavaliers* is a sharp, pointy weapon that can be used for all types of fencing.\
+  - **Rapier:** The most common type of Sword is a sharp, pointy weapon that can be used for all types of fencing.\
   - **Sabre:** A lighter and faster weapon, the sabre is designed to be used from horseback although it functions equally well when dismounted.\
   - **Smallsword:** Effectively a smaller, lighter version of a rapier, a smallsword can be used in the same way -- or you could dual-wield two of them if you want.\
 
@@ -298,29 +294,6 @@ one exception is that a bullwhip always has an availability of
   - **Trident Dagger:** *description needed*\
   - **Truncheon:** *description needed*\
   - **Weighted Net:** *description needed*\
-
-#### Foreign Weapons
-
-In addition to the common and uncommon dueling weapons listed in the
-previous tables and aimed weapons later in this chapter, the nations
-that comprise Elara and Ifran have their own weapons as well. These
-national weapons are described in chapters 14 and 15, and include:
-
-  - **Albia:** claymore, dirk, longbow, tuck\
-  - **Ekalia:** brandestoc, cinquedea, hook prothesis\
-  - **Northern Ifran:** horsebow, jambiya, shamshir\
-  - **Ondala:** espada ropera, montante\
-  - **Talania:** koncerz, szabla\
-  - **Varendia:** colichedemarde, katzbalger, zweihander\
-
-The availability of foreign dueling weapons is the same as that of
-uncommon weapons -- 1D0 in a capital city, 1D6 in any other city, and
-1D8 in villages -- at least, when you're in that foreign country.
-
-For neighboring countries, the availability of foreign dueling weapons
-is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
-In far-distant countries, the availability increases to 1D8 in a capital
-city, 1D12 in any other city, and unavailable in smaller settlements.
 
 ## Aimed Weapons
 
@@ -377,10 +350,9 @@ quality could reach 10 or more areas away, depending on how the areas
 are set up for that encounter; in a crowded city street, the effective
 range will be much lower.
 
-Ultimately it's up to the MJ to decide what the maximum effective range
+Ultimately it's up to the Gamemaster to decide what the maximum effective range
 is for any weapon used at extreme long range, although usually not more
-than 10
-areas.
+than 10 areas.
 
 ##### Aimed Weapons
 
@@ -406,13 +378,13 @@ areas.
   - **Arquebus:** A smaller and lighter musket with shorter range and less firepower.\
   - **Blunderbuss:** The flared barrel of this musket makes it easier to reload, but also reduces its effective range.\
   - **Caliver:** Another type of musket that can reload faster without the reduced range of the blunderbuss, but with a smaller Weapon Die.\
-  - **Composite Bow:** A heavier bow with longer effective range and pull.  \
+  - **Composite Bow:** A heavier bow with longer effective range and pull.\
   - **Crossbow:** The crossbow uses stored mechanical power to fire bolts, instead of relying upon personal muscle power as a normal bow does.\
   - **Double Musket:** The primary advantage of this double-barreled musket is the ability to fire twice, once per barrel, without reloading. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D12, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double musket with a Drop 3 action.\
-  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.\
+  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.  \
   - **Dragon:** This heavier version of a pistol is favored by cavalry -- especially Dragoons, who take their name from the use of this large pistol.\
-  - **Flintlock Musket:** This is a standard musket used by infantry throughout Elara.\
-  - **Flintlock Pistol:** A single-barrel pistol found all over Elara and Ifran.\
+  - **Flintlock Musket:** This is a standard musket used by infantry throughout Europe.\
+  - **Flintlock Pistol:** A single-barrel pistol found all over Europe.\
   - **Hunting Bow:** This standard bow, also called a shortbow or flatbow, has been used for millennia in pretty much every nation.\
   - **Rifled Musket:** With a rifled barrel to provide better accuracy at long range, this musket is the favored weapon of snipers.\
   - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.\
@@ -421,14 +393,14 @@ areas.
 #### Ammunition
 
 Firing a musket or pistol uses a small amount of blackpowder and a
-bullet, while a bow requires an arrow. However, in the *The Queen's
-Cavaliers*, strict tracking of ammunition and powder doesn't contribute
+bullet, while a bow requires an arrow. 
+However, strict tracking of ammunition and powder doesn't contribute
 to the swashbuckling adventure style of the genre. If you have an Aimed
 weapon that has a Reload value, you're assumed to have enough powder,
 bullets, or arrows to fire your weapon and reload it as many times as
 necessary. This applies even if you use someone else's weapon, or a
-weapon you just picked up -- you just don't track ammo for Aimed weapons
-in *The Queen's Cavaliers*. Except, of course, for explosive weapons.
+weapon you just picked up -- you just don't track ammo for Aimed weapons.
+Except, of course, for explosive weapons.
 
 ## Explosive Weapons
 
@@ -436,19 +408,19 @@ Unlike conventional weapons, which use Dueling or Military (Aim) rolls
 for attack, explosive weapons affect an entire area and inflict damage
 on every creature, object, or other target within that area.
 
-  - **Base Damage**: *description needed*
-  - **Yield**: *description needed*
-  - **Special**: *description needed*
-  - **Inflict 1 Yield**: *description needed*
-  - **Inflict 2 Wounds**: *description needed*
-  - **Add 1 Area**: *description needed*
-  - **Increase Radius**: *description needed*
-  - **Radius**: *description needed*
-  - **Maximum Range**: *description needed*
-  - **Naval Areas**: *description needed*
-  - **Supplies**: *description needed*
+  - **Base Damage:** *description needed* \
+  - **Yield:** *description needed* \
+  - **Special:** *description needed* \
+  - **Inflict 1 Yield**: *description needed* \
+  - **Inflict 2 Wounds**: *description needed* \
+  - **Add 1 Area**: *description needed* \
+  - **Increase Radius**: *description needed* \
+  - **Radius**: *description needed* \
+  - **Maximum Range**: *description needed* \
+  - **Naval Areas**: *description needed* \
+  - **Supplies**: *description needed*\
 
-##### Grenades
+#### Grenades
 
 | Weapon              | Cost | Base Damage | Yield | Special                |
 | :------------------ | :--: | :---------- | :---: | :--------------------- |
@@ -459,7 +431,7 @@ on every creature, object, or other target within that area.
 | Grenade, thunder    | 1D6  | 1 Wound     | x3    | \++: Add 1 Area        |
 | Grenade, wildfire   | 2D6  | 1D6 Wounds  | x2    | \+: Add 1 Area         |
 
-Grenade Attacks
+#### Grenade Attacks
 
 | Delivery Mechanism | Cost | Hands | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :----------------- | :--: | :---: | :----------- | :----- | :----- | :----- | :----- | :----- |
@@ -467,7 +439,7 @@ Grenade Attacks
 | Mortar, hand       | 1D8  | Both  | Cannon +1D10 | Drop 2 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
 | Arrow, fired       | \--  | Both  | Bow +1D6     | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
 
-Placed Bombs
+#### Placed Bombs
 
 | Bomb Type        | Cost | Scale       | Item Die          | Base Damage | Yield | Radius Steps            | Special                |
 | :--------------- | :--: | :---------- | :---------------- | :---------- | :---: | :---------------------- | :--------------------- |
@@ -482,7 +454,7 @@ Placed Bombs
 | Bomb, thunder    | 3D6  | Carried     | Blackpowder +1D8  | 1D6 Wounds  | x3    | Close, Adjacent, Short  | \--                    |
 | Bomb, wildfire   | 3D8  | Carried     | Blackpowder +1D6  | 1D10 Wounds | x2    | Adjacent, Short, Medium | \++: Step-Up Radius    |
 
-Artillery
+#### Artillery
 
 | Weapon               | Cost | Scale       | Weapon Die   | Base Damage | Supplies | Close  | Short  | Medium | Long   | Maximum Range  |
 | :------------------- | :--: | :---------- | :----------- | :---------- | :------- | :----- | :----- | :----- | :----- | :------------- |
@@ -495,7 +467,7 @@ Artillery
 | Rabinet              | 2D8  | Human-Scale | Cannon +1D6  | 1 Wound     | \--      | Drop 0 | Drop 2 | Drop 2 | \--    | 4 Naval Areas  |
 | Vouivre-mignon       | 3D10 | Furniture   | Cannon +1D8  | 1D8 Wounds  | 1 unit   | Drop 0 | Drop 0 | Drop 1 | Drop 2 | 6 Naval Areas  |
 
-Cannon Shot
+#### Cannon Shot
 
 | Projectile Type          | Cost | Extra Damage | Yield | Radius Steps            | Special                |
 | :----------------------- | :--: | :----------- | :---: | :---------------------- | :--------------------- |
