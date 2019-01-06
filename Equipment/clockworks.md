@@ -570,126 +570,32 @@ clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a calculation component is equal to the creator's
 ranks in Science (Calculus).
 
-Space
+| Space | Cost | Supplies | Power | Calculation Complexity |
+| :---: | :--: | :------: | :---: | :--------------------- |
+| 0     | D0   | 0 gears  | 1     | Timekeeping            |
+| 1     | D6   | 1 gear   | 1     | Calendar               |
+| 2     | D8   | 2 gears  | 1     | Navigation             |
+| 4     | D10  | 3 gears  | 1     | Polynomials            |
+| 8     | D12  | 4 gears  | 1     | Analytics              |
 
-Cost (Gears)
-
-Power
-
-Calculation Complexity
-
-0
-
-D0 (0)
-
-1
-
-Timekeeping
-
-1
-
-D6 (1)
-
-1
-
-Calendar
-
-2
-
-D8 (2)
-
-1
-
-Navigation
-
-4
-
-D10 (3)
-
-1
-
-Polynomials
-
-8
-
-D12 (4)
-
-1
-
-Analytics
-
-Carry
+#### Carry
 
 The carry component gives a device the ability to lift additional
 weight. Most devices with the movement component have enough carrying
 capacity to lift themselves, including a normal load; some have even
 greater capacity depending on their use.
 
-Space
+| Space | Cost | Supplies | Power | Carrying Capacity |
+| :---: | :--: | :------: | :---: | :---------------: |
+| 0     | D0   | 0 gears  | 1     | Pocket            |
+| 0     | D0   | 0 gears  | 1     | Handheld          |
+| 1     | D6   | 1 gear   | 1     | Portable          |
+| 2     | D6   | 1 gear   | 1     | Person            |
+| 4     | D8   | 2 gears  | 2     | Carriage          |
+| 8     | D10  | 3 gears  | 4     | Room              |
+| 16    | D12  | 4 gears  | 8     | Building          |
 
-Cost (Gears)
-
-Power
-
-Carrying Capacity
-
-0
-
-D0 (0)
-
-1
-
-Pocket
-
-0
-
-D0 (0)
-
-1
-
-Handheld
-
-1
-
-D6 (1)
-
-1
-
-Portable
-
-2
-
-D6 (1)
-
-1
-
-Person
-
-4
-
-D8 (2)
-
-2
-
-Carriage
-
-8
-
-D10 (3)
-
-4
-
-Room
-
-16
-
-D12 (4)
-
-8
-
-Building
-
-Delay Timer
+#### Delay Timer
 
 A delay timer prevents a power source from providing power to a device
 until a fixed amount of time has passed. To use the delay trigger
@@ -701,67 +607,15 @@ Delay timers are most frequently used with blackpowder flintlock or
 tension trigger power sources, and often trigger projectile weapon traps
 or bombs.
 
-Space
+| Space | Cost | Supplies | Power | Arm      | Delay Duration        |
+| :---: | :--: | :------: | :---: | :------- | :-------------------- |
+| 1     | D0   | 0 gears  | 0     | Drop 2   | End of current action |
+| 1     | D6   | 1 gear   | 0     | 1 Turn   | 1-10 Turns            |
+| 1     | D8   | 2 gears  | 0     | 1 Turn   | 1-10 Minutes          |
+| 1     | D10  | 3 gears  | 0     | 1 minute | 1-8 Hours             |
+| 1     | D12  | 4 gears  | 0     | 1 minute | 1-6 Days              |
 
-Cost (Gears)
-
-Power
-
-Arm
-
-Delay Duration
-
-1
-
-D0 (0)
-
-0
-
-Drop 2
-
-End of current action
-
-1
-
-D6 (1)
-
-0
-
-1 Turn
-
-1-10 Turns
-
-1
-
-D8 (2)
-
-0
-
-1 Turn
-
-1-10 Minutes
-
-1
-
-D10 (3)
-
-0
-
-1 minute
-
-1-8 Hours
-
-1
-
-D12 (4)
-
-0
-
-1 minute
-
-1-6 Days
-
-Efficiency
+#### Efficiency
 
 The efficiency component reduces the time necessary to do a simple,
 repetitive task. For combined actions, this reduces the Drop penalty by
@@ -773,282 +627,75 @@ needed to produce simple cloth.
 An efficiency component cannot reduce the time of complex tasks that
 involve specialty rolls, such as charmweaving or surgery.
 
-Space
+| Space | Cost | Supplies | Power | Drop Reduction   | Time Reduction     |
+| :---: | :--: | :------: | :---: | :--------------- | :----------------- |
+| 1     | D0   | 0 gears  | 1     | Reduce Drop by 1 | Reduce Time by 10% |
+| 2     | D6   | 1 gear   | 1     | Reduce Drop by 2 | Reduce Time by 25% | 
+| 4     | D8   | 2 gears  | 1     | Reduce Drop by 4 | Reduce Time by 50% |
+| 8     | D10  | 3 gears  | 2     | --               | Reduce Time by 75% |
+| 16    | D12  | 4 gears  | 4     | --               | Reduce Time by 90% |
 
-Cost (Gears)
-
-Power
-
-Drop Reduction
-
-Time Reduction
-
-1
-
-D0 (0)
-
-1
-
-Reduce Drop by 1
-
-Reduce Time by 10%
-
-2
-
-D6 (1)
-
-1
-
-Reduce Drop by 2
-
-Reduce Time by 25%
-
-4
-
-D8 (2)
-
-1
-
-Reduce Drop by 4
-
-Reduce Time by 50%
-
-8
-
-D10 (3)
-
-2
-
-Reduce Time by 75%
-
-16
-
-D12 (4)
-
-4
-
-Reduce Time by 90%
-
-Explosion
+#### Explosion
 
 This component produces a loud and potentially deadly explosion. It's
 used in creating bombs or grenades.
 
-Power Requirement: An explosion component can only be powered by a
+**Power Requirement:** An explosion component can only be powered by a
 blackpowder flintlock or an alchemical capacitor. Note that blackpowder
 flintlocks are a lot more effective at powering an explosion than an
 alchemical capacitor.
 
-Environmental Damage: An explosion does damage to everything inside a
+**Environmental Damage:** An explosion does damage to everything inside a
 given area. More powerful explosions also do damage in adjacent areas,
 and even targets up to 2 areas away for the most powerful explosions.
 This environmental damage inflicts one yield for one success point, and
 one wound for three success points.
 
-Self-Destruction: Upon use, the device is destroyed by the force of its
+**Self-Destruction:** Upon use, the device is destroyed by the force of its
 own explosion.
 
-Creating an Explosion Component: The Science (Blackpowder) specialty is
+**Creating an Explosion Component:** The Science (Blackpowder) specialty is
 required to create an explosion component and it requires the use of
 blackpowder supplies to do so. The maximum number of blackpowder
 supplies that can be spent to create an explosion component is equal to
 the powderworker's ranks in Science (Blackpowder).
 
-Space
+| Space | Cost | Supplies              | Power | Environmental Damage (1 area, 2 areas) |
+| :---: | :--: | :-------------------: | :---: | :------------------------------------- |
+| 1     | D0   | 1 blackpowder charge  | 2     | 3D6                                    |
+| 1     | D6   | 2 blackpowder charges | 4     | 3D8                                    |
+| 2     | D8   | 3 blackpowder charges | 6     | 3D10 (3D6)                             |
+| 4     | D10  | 4 blackpowder charges | 8     | 3D12 (3D8)                             |
+| 8     | D12  | 5 blackpowder charges | 10    | 5D12 (3D10, 3D6)                       |
 
-Cost (Powder)
-
-Power
-
-Environmental Damage (1 area, 2 areas)
-
-1
-
-D0 (1)
-
-2
-
-3D6
-
-1
-
-D6 (2)
-
-4
-
-3D8
-
-2
-
-D8 (3)
-
-6
-
-3D10 (3D6)
-
-4
-
-D10 (4)
-
-8
-
-3D12 (3D8)
-
-8
-
-D12 (5)
-
-10
-
-5D12 (3D10, 3D6)
-
-Hand-to-Hand Weapon
+#### Hand-to-Hand Weapon
 
 The Hand-to-Hand Weapon component gives a device the ability to be used
 as a weapon by granting it a Weapon Die, and assigning it a Weapon
 Prowess category. Choose one option from each of the following tables to
 define a complete Hand-to-Hand Weapon.
 
-Size Limit: A device with the hand-to-hand weapon component can be no
+**Size Limit:** A device with the hand-to-hand weapon component can be no
 larger than Portable size.
 
-Space
-
-Cost (Gears)
-
-Power
-
-Weapon Die
-
-1
-
-D0 (0)
-
-0
-
-D6
-
-2
-
-D0 (0)
-
-0
-
-D8
-
-4
-
-D6 (1)
-
-0
-
-D10
-
-8
-
-D8 (2)
-
-0
-
-D12
-
-Space
-
-Cost (Gears)
-
-Power
-
-Casing Size
-
-Weapon Prowess
-
-Max Weapon Die
-
-\+0
-
-D0 (0)
-
-\+0
-
-Pocket
-
-Knife
-
-1D6
-
-\+0
-
-D0 (0)
-
-\+0
-
-Handheld
-
-Knife
-
-1D8
-
-\+0
-
-D0 (0)
-
-\+0
-
-Handheld
-
-Sword
-
-1D10
-
-\+0
-
-D0 (0)
-
-\+0
-
-Handheld
-
-Cudgel
-
-1D10
-
-\+1
-
-D0 (0)
-
-\+0
-
-Portable
-
-Sword
-
-1D12
-
-\+2
-
-D0 (0)
-
-\+0
-
-Portable
-
-Cudgel
-
-1D12
-
-\+0
-
-D0 (0)
-
-\+0
-
-Portable
-
-Pike
-
-1D12
-
-Injector
+| Space | Cost | Supplies | Power | Weapon Die |
+| :---: | :--: | :------: | :---: | :--------: |
+| 1     | D0   | 0 gears  | 0     | D6         |
+| 2     | D0   | 0 gears  | 0     | D8         |
+| 4     | D6   | 1 gear   | 0     | D10        |
+| 8     | D8   | 2 gears  | 0     | D12        |
+
+| Space | Cost | Supplies | Power | Casing Size | Weapon Prowess | Max Weapon Die |
+| :---: | :--: | :------: | :---: | :---------- | :------------- | :------------: |
+| +0    | D0   | 0 gears  | +0    | Pocket      | Knife          | 1D6            |
+| +0    | D0   | 0 gears  | +0    | Handheld    | Knife          | 1D8            |
+| +0    | D0   | 0 gears  | +0    | Handheld    | Sword          | 1D10           |
+| +0    | D0   | 0 gears  | +0    | Handheld    | Cudgel         | 1D10           |
+| +1    | D0   | 0 gears  | +0    | Portable    | Sword          | 1D12           |
+| +2    | D0   | 0 gears  | +0    | Portable    | Cudgel         | 1D12           |
+| +0    | D0   | 0 gears  | +0    | Portable    | Pike           | 1D12           |
+
+#### Injector
 
 The injector component gives a device the ability to inject a fluid,
 such as an alchemical solution or a vial of poison, into a living
@@ -1058,25 +705,12 @@ to refill the device.
 Using the device in a combat situation requires a Medicine (Poisons)
 roll to deliver its payload.
 
-Space
+| Space | Cost | Supplies | Power |
+| :---: | :--: | :------: | :---: |
+| 1     | D6   | 1 gear   | 1     |
+| 1     | D8   | 2 gears  | 0     |
 
-Cost (Gears)
-
-Power
-
-1
-
-D6 (1)
-
-1
-
-1
-
-D8 (2)
-
-0
-
-Item Die
+#### Item Die
 
 The item die component allows you to add an Item Die for one specialty
 to a device. For example, a spyglass could provide an Item Die on
@@ -1086,125 +720,38 @@ an Item Die on Science (Clockwork) rolls.
 To provide a bonus to more than one specialty, add another Item Die
 component for each additional specialty.
 
-Defense (Parry), Dueling: Use the Hand-to-Hand Weapon component to add a
+**Defense (Parry), Dueling:** Use the Hand-to-Hand Weapon component to add a
 melee Weapon Die to a device.
 
-Defense (Block): Use the Armor component to add an Armor Die to a
-device.
+**Defense (Block):** Use the Armor component to add an Armor Die to a device.
 
-Initiative: These specialties can never benefit from an Item Die.
+**Initiative:** These specialties can never benefit from an Item Die.
 
-Military (Aim): Use the Projectile Weapon component to add a ranged
-Weapon Die to a device.
+**Military (Aim):** Use the Projectile Weapon component to add a ranged Weapon Die to a device.
 
-Space
+| Space | Cost | Supplies | Power | Item Die |
+| :---: | :--: | :------: | :---: | :------: |
+| 1     | D0   | 0 gears  | 0     | D6       |
+| 2     | D6   | 1 gear   | 0     | D8       |
+| 4     | D8   | 2 gears  | 1     | D10      |
+| 8     | D10  | 3 gears  | 2     | D12      |
 
-Cost (Gears)
-
-Power
-
-Item Die
-
-1
-
-D0 (0)
-
-0
-
-D6
-
-2
-
-D6 (1)
-
-0
-
-D8
-
-4
-
-D8 (2)
-
-1
-
-D10
-
-8
-
-D10 (3)
-
-2
-
-D12
-
-Magazine
+#### Magazine
 
 A magazine component holds multiple shots of ammunition (bullets and
 powder or quarrels, for example) for a device with the projectile weapon
 component. The amount held in each magazine, and the time required to
 reload the device with a full magazine, are shown in the table below.
 
-Space
+| Space | Cost | Supplies | Power | Shots | Reload    |
+| :---: | :--: | :------: | :---: | :---: | :-------- |
+| 1     | D0   | 0 gears  | 0     | 2     | Drop 4    |
+| 1     | D6   | 1 gear   | 0     | 4     | Drop 4    |
+| 2     | D8   | 2 gears  | 0     | 8     | 2 Turns   |
+| 4     | D10  | 3 gears  | 0     | 16    | 3 Turns   |
+| 8     | D12  | 4 gears  | 0     | 32    | 4 Turns   |
 
-Cost (Gears)
-
-Power
-
-Shots
-
-Reload
-
-1
-
-D0 (0)
-
-0
-
-2
-
-Drop 4
-
-1
-
-D6 (1)
-
-0
-
-4
-
-Drop 4
-
-2
-
-D8 (2)
-
-0
-
-8
-
-2 Turns
-
-4
-
-D10 (3)
-
-0
-
-16
-
-3 Turns
-
-8
-
-D12 (4)
-
-0
-
-32
-
-4 Turns
-
-Measurement
+#### Measurement
 
 The measurement component allows a device to take a reading of the
 physical environment around it. By default, this is displayed on the
@@ -1217,87 +764,19 @@ pressure.
 A measurement component is often tied to a calculation component to
 allow the device to process the information that it measures.
 
-Space
+| Space | Cost | Supplies | Power | Qualities Measured |
+| :---: | :--: | :------: | :---: | :----------------: | 
+| 1     | D0   | 0 gears  | 1     | 1                  |
+| 1     | D6   | 1 gear   | 0     | 1                  |
+| 1     | D6   | 1 gear   | 1     | 2                  |
+| 1     | D8   | 2 gears  | 0     | 2                  |
+| 1     | D8   | 2 gears  | 2     | 4                  |
+| 2     | D10  | 3 gears  | 0     | 4                  |
+| 2     | D10  | 3 gears  | 2     | 8                  |
+| 4     | D12  | 4 gears  | 0     | 8                  |
+| 4     | D12  | 4 gears  | 4     | 16                 |
 
-Cost (Gears)
-
-Power
-
-Qualities Measured
-
-1
-
-D0 (0)
-
-1
-
-1
-
-1
-
-D6 (1)
-
-0
-
-1
-
-1
-
-D6 (1)
-
-1
-
-2
-
-1
-
-D8 (2)
-
-0
-
-2
-
-1
-
-D8 (2)
-
-2
-
-4
-
-2
-
-D10 (3)
-
-0
-
-4
-
-2
-
-D10 (3)
-
-2
-
-8
-
-4
-
-D12 (4)
-
-0
-
-8
-
-4
-
-D12 (4)
-
-4
-
-16
-
-Miniaturization
+#### Miniaturization
 
 The miniaturization component doesn't actually add any capabilities to a
 device, but it makes it easier to fit more into the casing of the
@@ -1305,236 +784,55 @@ device. The component makes space in the device by reducing the size of
 existing components; this is reflected by additional gear space that is
 added to that of the casing.
 
-Unique Component: A device can have only one miniaturization component.
+**Unique Component:** A device can have only one miniaturization component.
 
-Space
+| Space | Cost | Supplies | Power | Additional Gear Space |
+| :---: | :--: | :------: | :---: | :-------------------: |
+| 0     | D0   | 0 gears  | 0     | +1                    |
+| 0     | D6   | 1 gear   | 0     | +2                    |
+| 0     | D8   | 2 gears  | 0     | +4                    |
+| 0     | D10  | 3 gears  | 0     | +6                    |
+| 0     | D12  | 4 gears  | 0     | +8                    |
 
-Cost (Gears)
-
-Power
-
-Additional Gear Space
-
-0
-
-D0 (0)
-
-0
-
-\+1
-
-0
-
-D6 (1)
-
-0
-
-\+2
-
-0
-
-D8 (2)
-
-0
-
-\+4
-
-0
-
-D10 (3)
-
-0
-
-\+6
-
-0
-
-D12 (4)
-
-0
-
-\+8
-
-Movement
+#### Movement
 
 The movement component gives the device the ability to move itself.
 
-Carry Component Required: A device with a movement component must have a
-carry component of at least the same size as the device's casing.
+**Carry Component Required:** A device with a movement component must have a carry component of at least the same size as the device's casing.
 
-Roll: The device moves at half speed when not on a road or other flat
-surface.
+**Roll:** The device moves at half speed when not on a road or other flat surface.
 
-Climb: The device can move up and down vertically.
+**Climb:** The device can move up and down vertically.
 
-Step. The device can walk like a human or animal.
+**Step:** The device can walk like a human or animal.
 
-Glide: The device must maintain at least Walk speed in order to stay
-aloft.
+**Glide:** The device must maintain at least Walk speed in order to stay aloft.
 
-Float: The device is a boat or ship and can travel on the surface of the
-water.
+**Float:** The device is a boat or ship and can travel on the surface of the water.
 
-Submerge: In addition to being able to float on the surface of the
-water, the device can go beneath the waves like a submersible. 
+**Submerge:** In addition to being able to float on the surface of the water, the device can go beneath the waves like a submersible. 
 
-Fly: The device can fly through the air. Unless it is powered by a
-Phlogistone Furnace, the device must maintain a minimum of Walk speed in
-order to stay aloft.
+**Fly:** The device can fly through the air. Unless it is powered by a Phlogistone Furnace, the device must maintain a minimum of Walk speed in order to stay aloft.
 
-Space
+| Space | Cost | Supplies | Power | Walk    | Run     | Overland Speed      |
+| :---: | :--: | :------: | :---: | :-----: | :-----: | :------------------ |
+| 1     | D0   | 0 gears  | 0     | 0 Areas | 1 Area  | 1 league per hour   |
+| 1     | D6   | 1 gear   | 1     | 1 Area  | 2 Areas | 3 leagues per hour  |
+| 2     | D8   | 2 gears  | 2     | 1 Area  | 3 Areas | 6 leagues per hour  |
+| 4     | D10  | 3 gears  | 3     | 1 Area  | 4 Areas | 10 leagues per hour |
+| 8     | D12  | 4 gears  | 4     | 1 Area  | 5 Areas | 15 leagues per hour |
 
-Cost (Gears)
+| Space | Cost | Supplies | Power | Movement Mode | Maximum Speed   |
+| :---: | :--: | :------: | :---: | :------------ | :-------------- |
+| +0    | D0   | 0 gears  | +0    | Roll          | 3 Areas         |
+| +1    | D0   | 1 gear   | +0    | Step          | 3 Areas         |
+| +1    | D6   | 1 gear   | +0    | Climb         | 2 Areas         |
+| +2    | D0   | 0 gears  | -1    | Glide         | 3 Areas         |
+| +2    | D0   | 0 gears  | +1    | Float         | 4 Areas         |
+| +4    | D6   | 1 gear   | +2    | Submerge      | 3 Areas         |
+| +8    | D6   | 1 gear   | +3    | Fly           | 5 Areas         |
 
-Power
-
-Walk
-
-Run
-
-Overland Speed
-
-1
-
-D0 (0)
-
-0
-
-0 Areas
-
-1 Area
-
-1 league per hour
-
-1
-
-D6 (1)
-
-1
-
-1 Area
-
-2 Areas
-
-3 leagues per hour
-
-2
-
-D8 (2)
-
-2
-
-1 Area
-
-3 Areas
-
-6 leagues per hour
-
-4
-
-D10 (3)
-
-3
-
-1 Area
-
-4 Areas
-
-10 leagues per hour
-
-8
-
-D12 (4)
-
-4
-
-1 Area
-
-5 Areas
-
-15 leagues per hour
-
-Space
-
-Cost (Gears)
-
-Power
-
-Movement Mode
-
-Maximum Speed
-
-\+0
-
-D0 (0)
-
-\+0
-
-Roll
-
-3 Areas
-
-\+1
-
-D0 (0)
-
-\+0
-
-Step
-
-3 Areas
-
-\+1
-
-D6 (1)
-
-\+0
-
-Climb
-
-2 Areas
-
-\+2
-
-D0 (0)
-
-\-1
-
-Glide
-
-3 Areas
-
-\+2
-
-D0 (0) 
-
-\+1
-
-Float
-
-4 Areas
-
-\+4
-
-D6 (1)
-
-\+2
-
-Submerge
-
-3 Areas
-
-\+8
-
-D6 (1)
-
-\+3
-
-Fly
-
-5 Areas
-
-Powered Weapon
+#### Powered Weapon
 
 A powered weapon is a melee weapon that has been modified with moving
 parts to make it even more deadly – for example, a rotating flail or a
@@ -1542,54 +840,21 @@ chain-toothed sword. The powered weapon component grants a bonus die
 that can be used whenever the device's Weapon Die is used, including
 Defense (Parry) rolls and Dueling rolls.
 
-Size Limit: A device with the powered weapon component can be no larger
+**Size Limit:** A device with the powered weapon component can be no larger
 than Portable size.
 
-Requires Hand-to-Hand Weapon: You can only add this component to a
+**Requires Hand-to-Hand Weapon:** You can only add this component to a
 device if it already possesses the hand-to-hand weapon component. The
 powered weapon Bonus Die cannot exceed the Weapon Die of the device.
 
-Space
+| Space | Cost | Supplies | Power | Bonus Die  |
+| :---: | ;--: | :------: | :---: | :--------: |
+| 1     | D6   | 1 gear   | 1     | D6         |
+| 1     | D8   | 2 gears  | 1     | D8         |
+| 2     | D10  | 3 gears  | 2     | D10        |
+| 4     | D12  | 4 gears  | 3     | D12        |
 
-Cost (Gears)
-
-Power
-
-Bonus Die
-
-1
-
-D6 (1)
-
-1
-
-D6
-
-1
-
-D8 (2)
-
-1
-
-D8
-
-2
-
-D10 (3)
-
-2
-
-D10
-
-4
-
-D12 (4)
-
-3
-
-D12
-
-Projectile Weapon
+#### Projectile Weapon
 
 A projectile weapon component fires a bullet, dart, arrow, quarrel,
 cannonball, or other projectile at a target. Most devices use the
@@ -1604,16 +869,16 @@ prowess is used with the weapon. Devices which require the Cannon weapon
 prowess use the Science (Blackpowder) specialty for attacks instead of
 Military (Aim). 
 
-Magazine: A projectile weapon can optionally be fitted with a magazine
+**Magazine:** A projectile weapon can optionally be fitted with a magazine
 component to increase the number of times it can be fired without
 reloading. In such a situation, the projectile weapon component loses
 its reload quality and uses the reload time of the magazine instead.
 
-Size Limit: A device with the projectile weapon component can be no
+**Size Limit:** A device with the projectile weapon component can be no
 larger than Carriage size. (For cannons on larger buildings or ships,
 just place the cannons as separate devices.)
 
-Ranges: The range of a projectile weapon component is determined by
+**Ranges:** The range of a projectile weapon component is determined by
 adding together a composite of all chosen range lines. Lines cannot be
 combined if they both contain a value for the same range. All ranges
 must be filled in with a Drop penalty or N/A.
@@ -1621,555 +886,286 @@ must be filled in with a Drop penalty or N/A.
 The default ranges for a weapon with no extra space, cost, or power
 requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 
-Space
-
-Cost (Gears)
-
-Power
-
-Weapon Die
-
-Reload
-
-1
-
-D0 (0)
-
-1
-
-D6
-
-Drop 1
-
-1
-
-D6 (1)
-
-1
-
-D8
-
-Drop 1
-
-2
-
-D8 (2)
-
-1
-
-D10
-
-Drop 2
-
-4
-
-D10 (3)
-
-2
-
-D12
-
-Drop 4
-
-Space
-
-Cost (Gears)
-
-Power
-
-Close (0)
-
-Short (1-2)
-
-Medium (3-4)
-
-Long (5+)
-
-\+0
-
-D0 (0)
-
-\+0
-
-Drop 0
-
-N/A
-
-\+1
-
-D0 (0)
-
-\+0
-
-Drop 0
-
-\+0
-
-D0 (0)
-
-\+0
-
-Drop 0
-
-\+1
-
-D0 (0)
-
-\+0
-
-Drop 0
-
-\+0
-
-D0 (0)
-
-\+0
-
-Drop 1
-
-\+0
-
-Do (0)
-
-\+0
-
-Drop 2
-
-N/A
-
-\+2
-
-D0 (0)
-
-\+1
-
-N/A
-
-Drop 1
-
-Drop 0
-
-\+0
-
-D0 (0)
-
-\+1
-
-N/A
-
-Drop 1
-
-\+0
-
-D6 (1)
-
-\+1
-
-Drop 1
-
-\+0
-
-D0 (0)
-
-\+0
-
-Drop 2
-
-Space
-
-Cost (Gears)
-
-Power
-
-Casing Size
-
-Max Weapon Die
-
-Skill Prowess
-
-\+0
-
-D0 (0)
-
-\+0
-
-Pocket
-
-Pistol +1D6
-
-Pistol
-
-\+0
-
-D0 (0)
-
-\+0
-
-Handheld
-
-Pistol +1D8
-
-Pistol
-
-\+0
-
-D6 (1)
-
-\+0
-
-Handheld
-
-Bow +1D8
-
-Crossbow
-
-\+0
-
-D0 (0)
-
-\+0
-
-Portable
-
-Bow +1D10
-
-Crossbow
-
-\+0
-
-D0 (0)
-
-\+0
-
-Portable
-
-Musket +1D10
-
-Musket
-
-\+0
-
-D6 (1)
-
-\+0
-
-Portable
-
-Cannon +1D10
-
-Cannon
-
-\+0
-
-D6 (1)
-
-\+0
-
-Person
-
-Bow +1D12
-
-Crossbow
-
-\+0
-
-D6 (1)
-
-\+0
-
-Person
-
-Musket +1D12
-
-Musket
-
-\+0
-
-D6 (1)
-
-\+0
-
-Person
-
-Cannon +1D12
-
-Cannon
-
-\+0
-
-D0 (0)
-
-\+0
-
-Carriage
-
-Cannon +1D12
-
-Cannon
-
-\+0
-
-D6 (1)
-
-\+0
-
-Carriage
-
-Crossbow +1D12
-
-Crossbow
-
-Sample Devices
-
-Design Note: I haven't yet rechecked all of these yet, so some of them
-might be added up incorrectly or may be using earlier versions of some
-of the components. 
-
-Autoloader (pistol, musket)
-
-Casing Size: Pocket (gear space 1)
-
-Power Source: Gear Train (space 1, power supply 1, Drop 0)
-
-Components: Efficiency (space 1, power 1, reduce Drop by 1),
+| Space | Cost | Supplies | Power | Weapon Die | Reload |
+| :---: | :--: | :------: | :---: | :--------: | :----: |
+| 1     | D0   | 0 gears  | 1     | D6         | Drop 1 |
+| 1     | D6   | 1 gear   | 1     | D8         | Drop 1 |
+| 2     | D8   | 2 gears  | 1     | D10        | Drop 2 |
+| 4     | D10  | 3 gears  | 2     | D12        | Drop 4 |
+ 
+| Space | Cost | Supplies | Power | Close (0) | Short (1-2) | Medium (3-4) | Long (5+) |
+| :---: | :--: | :------: | :---: | :-------: | :---------: | :----------: | :-------: |
+| +0    | D0   | 0 gears  | +0    | Drop 0    | N/A         |              |           |
+| +1    | D0   | 0 gears  | +0    | Drop 0    |             |              |           |
+| +0    | D0   | 0 gears  | +0    | Drop 0    |             |              |           |
+| +1    | D0   | 0 gears  | +0    | Drop 0    |             |              |           |
+| +0    | D0   | 0 gears  | +0    | Drop 1    |             |              |           |
+| +0    | Do   | 0 gears  | +0    | Drop 2    | N/A         |              |           |
+| +2    | D0   | 0 gears  | +1    | N/A       | Drop 1      | Drop 0       |           |
+| +0    | D0   | 0 gears  | +1    | N/A       | Drop 1      |              |           |
+| +0    | D6   | 1 gears  | +1    | Drop 1    |             |              |           |
+| +0    | D0   | 0 gears  | +0    | Drop 2    |             |              |           |
+
+| Space | Cost | Supplies | Power | Casing Size | Max Weapon Die | Skill Prowess  |
+| :---: | :--: | :------: | :---: | :---------- | :------------- | :------------- |
+| +0    | D0   | 0 gears  | +0    | Pocket      | Pistol +1D6    | Pistol         |
+| +0    | D0   | 0 gears  | +0    | Handheld    | Pistol +1D8    | Pistol         |
+| +0    | D6   | 1 gear   | +0    | Handheld    | Bow +1D8       | Crossbow       |
+| +0    | D0   | 0 gears  | +0    | Portable    | Bow +1D10      | Crossbow       |
+| +0    | D0   | 0 gears  | +0    | Portable    | Musket +1D10   | Musket         |
+| +0    | D6   | 1 gear   | +0    | Portable    | Cannon +1D10   | Cannon         |
+| +0    | D6   | 1 gear   | +0    | Person      | Bow +1D12      | Crossbow       |
+| +0    | D6   | 1 gear   | +0    | Person      | Musket +1D12   | Musket         |
+| +0    | D6   | 1 gear   | +0    | Person      | Cannon +1D12   | Cannon         |
+| +0    | D0   | 0 gears  | +0    | Carriage    | Cannon +1D12   | Cannon         |
+| +0    | D6   | 1 gear   | +0    | Carriage    | Crossbow +1D12 | Crossbow       |
+
+## Sample Devices
+
+**Design Note:** I haven't yet rechecked all of these yet, so some of them might be added up incorrectly or may be using earlier versions of some of the components. 
+
+#### Autoloader (pistol, musket)
+ 
+- **Casing Size:** Pocket (gear space 1)
+
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
+
+- **Components:** Efficiency (space 1, power 1, reduce Drop by 1),
 Miniaturization (gear space +1)
 
-Construction Cost: D6 (1)
+- **Construction Cost:** D6 (1)
 
-List Cost: D6 (1)
+- **List Cost:** D6 (1)
 
-Complexity: 3
+- **Complexity:** 3
 
 An autoloader can be attached to a pistol or a musket to speed up the
 reloading of the gun.
 
-Autoloader (cannon)
+#### Autoloader (cannon)
 
-Casing Size: Portable (gear space 4)
+- **Casing Size:** Portable (gear space 4)
 
-Power Source: Gear Train (space 0, power supply 1, Drop 1)
+- **Power Source:** Gear Train (space 0, power supply 1, Drop 1)
 
-Components: Efficiency (space 4, power 1, reduce reload time by 50%)
+- **Components:** Efficiency (space 4, power 1, reduce reload time by 50%)
 
-Construction Cost:
+- **Construction Cost:**
 
-List Cost:
+- **List Cost:**
 
-Complexity: 2
+- **Complexity:** 2
 
 An autoloader attached to a cannon reduces the reload time from 4 rounds
 to 2 rounds.
 
-Climbing Gears
+#### Climbing Gears
 
-Casing Size: Portable (space 4)
+- **Casing Size:** Portable (space 4)
 
-Power Source: Mainspring (space 2, power supply 2, wind 1 turn, duration
+- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration
 one use per success point)
 
-Components: Movement (space 2, power 1, walk, climb), Carry (space 2,
+- **Components:** Movement (space 2, power 1, walk, climb), Carry (space 2,
 power 1, person), Miniaturization (space +2)
 
-Construction Cost: D8 (2)
+- **Construction Cost:** D8 (2)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 4
+- **Complexity:** 4
 
 Climbing gears are worn as a harness and operated with two hands,
 allowing you to move between areas which are normally not passable.
 
-Clockbow
+#### Clockbow
 
-Casing Size: Portable (space 4)
+- **Casing Size:** Portable (space 4)
 
-Power Source: Gear Train (space 1, power supply 1, drop 0)
+- **Power Source:** Gear Train (space 1, power supply 1, drop 0)
 
-Components: Projectile Weapon (space 3, power 1, weapon die d8, close
+- **Components:** Projectile Weapon (space 3, power 1, weapon die d8, close
 Drop 0, short Drop 0, medium Drop 0, long Drop 2), Magazine (space 1, 4
 shots, power 0, reload Drop 4), Miniaturization (space +1)
 
-Construction Cost: 4D6 (3)
+- **Construction Cost:** 4D6 (3)
 
-List Cost: D10 (3)
+- **List Cost:** D10 (3)
 
-Complexity: 4
+- **Complexity:** 4
 
 A clockbow is a clockwork crossbow, fitted with a magazine that holds
 four quarrels that can be fired before reloading.
 
-Clockwork Carriage
+#### Clockwork Carriage
 
-Casing Size: Carriage (space 16)
+- **Casing Size:** Carriage (space 16)
 
-Power Source: Mainspring (space 4, power supply 4, wind 10 minutes,
+- **Power Source:** Mainspring (space 4, power supply 4, wind 10 minutes,
 duration 1 hour)
 
-Components: Movement (space 2, power 2, gallop, roll), Carry (space 4,
+- **Components:** Movement (space 2, power 2, gallop, roll), Carry (space 4,
 power 2, carriage)
 
-Construction Cost: 3D10 (9)
+- **Construction Cost:** 3D10 (9)
 
-Complexity: 3
+- **Complexity:** 3
 
-Clockwork Limb (arm)
+#### Clockwork Limb (arm)
 
-Casing Size: Handheld (space 2)
+- **Casing Size:** Handheld (space 2)
 
-Power Source: Gear Train (space 1, power supply 1, Drop 0)
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
 
-Components: Carry (space 0, power 1, hand), Articulation (space 0, power
+- **Components:** Carry (space 0, power 1, hand), Articulation (space 0, power
 0, Drop 1), Armor (space 1, power 0, Armor Die d6)
 
-Construction Cost: D12 (4)
+- **Construction Cost:** D12 (4)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 4
+- **Complexity:** 4
 
-Clockwork Limb (leg)
+#### Clockwork Limb (leg)
 
-Casing Size: Portable (space 4)
+- **Casing Size:** Portable (space 4)
 
-Power Source: Gear Train (space 1, power supply 1, Drop 0)
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
 
-Components: Carry (space 2 power 1, person), Articulation (space 0,
+- **Components:** Carry (space 2 power 1, person), Articulation (space 0,
 power 0, Drop 1), Armor (space 1, power 0, Armor Die d6) 
 
-Construction Cost: 
+- **Construction Cost:** 
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 4
+- **Complexity:** 4
 
-Clockwork Pistol
+#### Clockwork Pistol
 
-Casing Size: Handheld (space 2)
+- **Casing Size:** Handheld (space 2)
 
-Power Source: Tension Trigger (space 1, power supply 1, reset Drop 1)
+- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
 
-Components: Projectile Weapon (space 1, power 1, range 2 areas, damage
+- **Components:** Projectile Weapon (space 1, power 1, range 2 areas, damage
 D6, reload Drop 1)
 
-Construction Cost: 
+- **Construction Cost:** 
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 2
+- **Complexity:** 2
 
-Clockwork Musket
+#### Clockwork Musket
 
-Casing Size: Handheld (space 2)
+- **Casing Size:** Handheld (space 2)
 
-Power Source: Tension Trigger (space 1, power supply 1, reset Drop 1)
+- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
 
-Components: Projectile (space 1, power 1, range 2 areas, damage D6,
+- **Components:** Projectile (space 1, power 1, range 2 areas, damage D6,
 reload Drop 1)
 
-Construction Cost: D8 (2 or 4)
+- **Construction Cost:** D8 (2 or 4)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 2
+- **Complexity:** 2
 
-Gearsword
+#### Gearsword
 
-Casing Size: Handheld (space 2)
+- **Casing Size:** Handheld (space 2)
 
-Power Source: Mainspring (space 1, power supply 1, wind 1 turn, duration
+- **Power Source:** Mainspring (space 1, power supply 1, wind 1 turn, duration
 + uses)
 
-Components: Hand-to-Hand Weapon (space 2, power 0, weapon die D8),
+- **Components:** Hand-to-Hand Weapon (space 2, power 0, weapon die D8),
 Powered Melee Attack (space 1, power 1, bonus weapon die D6),
 Miniaturization (space +2)
 
-Construction Cost: D10 (3)
+- **Construction Cost:** D10 (3)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 
+- **Complexity:** 
 
-Great Gearsword
+#### Great Gearsword
 
-Casing Size: Portable (space 2)
+- **Casing Size:** Portable (space 2)
 
-Power Source: Mainspring (space 2, power supply 2, wind 1 turn, duration
+- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration
 + uses)
 
-Components: Melee Attack (space 4, power 0, weapon die D10), Powered
+- **Components:** Melee Attack (space 4, power 0, weapon die D10), Powered
 Melee Attack (space 2, power 2, bonus weapon die D10), Miniaturization
 (space +4)
 
-Construction Cost: (7)
+- **Construction Cost:** (7)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 
+- **Complexity:** 
 
-Pocketwatch
+#### Pocketwatch
 
-Casing Size: Pocket (space 1)
+- **Casing Size:** Pocket (space 1)
 
-Power Source: Mainspring (space 1, power supply 1, wind 10 minutes,
-duration 24 hours)
+- **Power Source:** Mainspring (space 1, power supply 1, wind 10 minutes, duration 24 hours)
 
-Components: Calculation (space 0, power 1, timekeeping)
+- **Components:** Calculation (space 0, power 1, timekeeping)
 
-Construction Cost: D8 (2)
+- **Construction Cost:** D8 (2)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 2
+- **Complexity:** 2
 
-Wing-Glider
+#### Wing-Glider
 
-Casing Size: Portable (space 4)
+- **Casing Size:** Portable (space 4)
 
-Power Source: Gear Train (space 1, power 2, usage Drop 1, duration 1
-Action)
+- **Power Source:** Gear Train (space 1, power 2, usage Drop 1, duration 1 Action)
 
-Components: Carry (space 2, power 1, person), Movement (space 3, power
-1, speed run, gliding)
+- **Components:** Carry (space 2, power 1, person), Movement (space 3, power 1, speed run, gliding)
 
-Construction Cost: D12 (4)
+- **Construction Cost:** D12 (4)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 3
+- **Complexity:** 3
 
-Wrist Holster
+#### Wrist Holster
 
-Casing Size: Pocket (space 1)
+- **Casing Size:** Pocket (space 1)
 
-Power Source: Tension Trigger (space 0, power supply 1, reset Drop 2,
+- **Power Source:** Tension Trigger (space 0, power supply 1, reset Drop 2,
 duration 1 use)
 
-Components: Efficiency (space 1, power 1, reduce Drop by 1)
+- **Components:** Efficiency (space 1, power 1, reduce Drop by 1)
 
-Construction Cost: D6 (1)
+- **Construction Cost:** D6 (1)
 
-List Cost: 
+- **List Cost:** 
 
-Complexity: 2
+- **Complexity:** 2
 
-Airship
+#### Airship
 
-Casing Size: Building (space 64)
-
-Power Sources: Mainspring (space 8, power supply 6, wind 10 minutes,
-duration 24 hours), Phlogistone Furnace (space 8, power supply 10,
+- **Casing Size:** Building (space 64)
+- **Power Sources:** Mainspring (space 8, power supply 6, wind 10 minutes, duration 24 hours), Phlogistone Furnace (space 8, power supply 10,
 movement and carry only), Gear Train x4 (space 1, power 5, Drop 4)
 
-Components: Movement (space 16, power 7, cruise, fly), Carry (space 16,
+- **Components:** Movement (space 16, power 7, cruise, fly), Carry (space 16,
 power 8, building), Armor (space 8, power 0, Armor Die D12), Calculation
 (space 2, power 1, navigation)
 
-Construction Cost: 
+- **Construction Cost:** 
 
-List Cost: 4d12
+- **List Cost:** 4d12
 
-Complexity: 10
+- **Complexity:** 10
 
-Design Note: This airship definitely needs to be recalculated. 
+- **Design Note:** This airship definitely needs to be recalculated. 
 
-(section) Repairing and Salvaging Clockwork Devices
+## Repairing and Salvaging Clockwork Devices
+
+*explanation needed* 

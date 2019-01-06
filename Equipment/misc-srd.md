@@ -1,12 +1,12 @@
 ## Living Expenses
 
-Characters in *The Queen's Cavaliers* are assumed to have their housing
+Characters are assumed to have their housing
 and daily nutritional needs met by their Social Rank scores without
 having to make Wealth rolls or spend Rewards for normal daily living.
 Only unusual expenses, such as a night on the town or an inn stay in a
 distant city, need to be paid for separately.
 
-The costs below are fairly standardized across Gallinea, although it's
+The costs below are fairly standardized across France, although it's
 only the larger towns and cities that have the best food, inns, and
 alcohol. As a package, one night's stay for a character and her horse in
 an inn with an attached tavern will cost 4D0 for the cheapest room and
@@ -69,26 +69,24 @@ Streetwise (Carouse) rolls.
 
 *introduction needed*
 
-Each Gallinean league is equal to approximately 2 miles. An average person on foot can walk 1 to 2 leagues per hour.
-
 ### Vehicles
 
 *introduction needed*
 
 ###### Vehicles
 
-| Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed      |
-| :----------: | :--: | :--------: | :-------: | :------------------ |
-| Airship      | 4D12 | --         | 3 Areas   | 10 leagues per hour |
-| Carriage     | 1D8  | 1 Area     | 2 Areas   | 3 leagues per hour  |
-| Cart         | 1D0  | 1 Area     | 2 Areas   | 3 leagues per hour  |
-| Gondola      | 2D6  | 1 Area     | 2 Areas   | 2 leagues per hour  |
-| Narrowboat   | 2D8  | --         | 1 Area    | 1 league per hour   | 
-| River Barge  | 1D8  | --         | 1 Area    | 1 league per hour   | 
-| Rowboat      | 1D6  | 1 Area     | 2 Areas   | 2 leagues per hour  | 
-| Sailing Ship | 2D12 | --         | 2 Areas   | 6 leagues per hour  | 
-| Velocipede   | 1D8  | 1 Area     | 3 Areas   | 3 leagues per hour  | 
-| Wagon        | 1D6  | 1 Area     | 2 Areas   | 3 leagues per hour  | 
+| Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed    |
+| :----------: | :--: | :--------: | :-------: | :---------------- |
+| Airship      | 4D12 | --         | 3 Areas   | 20 miles per hour |
+| Carriage     | 1D8  | 1 Area     | 2 Areas   | 6 miles per hour  |
+| Cart         | 1D0  | 1 Area     | 2 Areas   | 6 miles per hour  |
+| Gondola      | 2D6  | 1 Area     | 2 Areas   | 4 miles per hour  |
+| Narrowboat   | 2D8  | --         | 1 Area    | 2 miles per hour  | 
+| River Barge  | 1D8  | --         | 1 Area    | 2 miles per hour  | 
+| Rowboat      | 1D6  | 1 Area     | 2 Areas   | 4 miles per hour  | 
+| Sailing Ship | 2D12 | --         | 2 Areas   | 12 miles per hour | 
+| Velocipede   | 1D8  | 1 Area     | 3 Areas   | 6 miles per hour  | 
+| Wagon        | 1D6  | 1 Area     | 2 Areas   | 6 miles per hour  | 
 
 **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
 
@@ -143,14 +141,14 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 | Animal            | Cost | Example(s)                         |
 | :---------------- | :--: | :--------------------------------- |
 | Beast of burden   | 1D6  | Ox, mule                           |
-| Bird, messenger   | 1D6  | Messenger parrot                   |
+| Bird, messenger   | 1D6  | Homing pidgeon                     |
 | Bird, song        | 1D0  | Canary, dove                       |
 | Cat, common       | 1D0  | Housecat, alley cat                |
-| Cat, purebred     | 1D6  | Beryllian, Serican longhair        |
-| Dog, companion    | 1D6  | Elaran toy spaniel                 |
-| Dog, guard        | 1D6  | Dogue de Boussole                  |
-| Dog, herding      | 1D6  | Corderan sheepdog                  |
-| Dog, hunting      | 1D6  | Lowlands basset, Gallinean caniche |
+| Cat, purebred     | 1D6  |                                    |
+| Dog, companion    | 1D6  |                                    |
+| Dog, guard        | 1D6  |                                    |
+| Dog, herding      | 1D6  |                                    |
+| Dog, hunting      | 1D6  |                                    |
 | Dog, mongrel      | 1D0  | Small, ordinary mutt               |
 | Fowl, barnyard    | 1D0  | Chicken, goose                     |
 | Livestock, dairy  | 1D6  | Cow, goat                          |
