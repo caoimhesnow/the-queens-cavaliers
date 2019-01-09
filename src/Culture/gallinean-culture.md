@@ -1,4 +1,4 @@
-### Gallinean Holidays
+## Gallinean Holidays
 
 #### Asrian Holy Days
 

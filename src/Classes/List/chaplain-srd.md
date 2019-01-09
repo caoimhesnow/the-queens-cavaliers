@@ -27,4 +27,4 @@ training in combat but are skilled at interacting with people.
 - **Honed Instincts:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
--
+

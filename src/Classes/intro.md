@@ -28,7 +28,7 @@ You don't have to choose your classes if you don't feel inspired;
 instead you can roll 1D8 for each one. Feel free to reroll if you don't
 like your original results\!
 
-###### Fighting Classes
+Table: Fighting Classes
 
 | 1D8 | Class      | Summary                                   |
 | --- | ---------- | ----------------------------------------- |
@@ -41,7 +41,7 @@ like your original results\!
 | 7   | Privateer  | Swashbuckling sailor of the high seas     |
 | 8   | Veteran    | Experienced soldier and person-at-arms    |
 
-###### Skilled Classes
+Table: Skilled Classes
 
 | 1D8 | Class       | Summary                                            |
 | --- | ----------- | -------------------------------------------------- |
@@ -54,7 +54,7 @@ like your original results\!
 | 7   | Visionary   | Genius Renaissance woman or man                    |
 | 8   | Witch       | Heir to a long tradition of folk magic             |
 
-###### Social Classes
+Table: Social Classes
 
 | 1D8 | Class       | Summary                                          |
 | --- | ----------- | ------------------------------------------------ |
@@ -67,12 +67,12 @@ like your original results\!
 | 7   | Provocateur | Mysterious spy with hidden motives               |
 | 8   | Speaker     | Zealous demagogue of the Desert Mother           |
 
-##### Additional Classes
+## Additional Classes
 
 In Chapter Four: The Setting, additional classes for each of Gallinea's
 neighbors are described. Those are:
 
-###### Additional Classes
+Table: Additional Classes
 
 | Country        | Classes                 |
 | -------------- | ----------------------- |

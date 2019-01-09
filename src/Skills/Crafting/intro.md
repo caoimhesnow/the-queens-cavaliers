@@ -1,4 +1,4 @@
-# Crafting
+## Crafting
 
 As described in Chapter 4, "Skills & Specialties," characters in *The
 Queen's Cavaliers* can use most specialties in order to craft items

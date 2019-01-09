@@ -1,4 +1,4 @@
-## Creating Major Characters
+### Creating Major Characters
 
 As key opponents, major characters
 should be created to serve specific roles in your game, such as a master
@@ -48,7 +48,7 @@ need to create one simply. Here's how that works.
     those on whatever else you think might be fun. Extra style maneuvers
     or specialty ranks in Initiative are always good choices\!
 
-*(table) Opponent Creation*
+(table) Opponent Creation
 
 | XP Spent | Competency Die | Maximum | Primary | Secondary | Tertiary | Additional XP |
 | -------- | -------------- | ------- | ------- | --------- | -------- | ------------- |

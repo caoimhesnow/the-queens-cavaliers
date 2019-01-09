@@ -5,6 +5,10 @@ enchantments into fabrics. Most are skilled fashion designers and can
 combine their artistic and magickal talents together into impressive
 displays.
 
+Charmweaving began in Gallinea and has spread throughout Elara in the
+last century, as popular fashions with practical charms became
+affordable for many common people.
+
 - **Suggested Classes:** Courtier, Dogsbody, Virtuosa, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
 
@@ -16,7 +20,7 @@ displays.
 - **Social Rank:** Artisan (D8)
 - **Bonus Gear:** Crafter outfit (artisan's beret, smock, craftsman's
   gloves, breeches, buckled shoes), tailoring tools (Weave +1D6), 8 supplies of fabric
--
+
 #### Charmweaver Maneuvers
 
 - **Dress to Impress:** While wearing an outfit you created yourself, spend 1 Style Point to add Weave dice to a Negotiate roll
@@ -26,4 +30,4 @@ displays.
 - **Mistress of Fashion:** When creating clothing or accoutrements with a base cost of D6 or higher, spend 1 Style Point to add Arts dice to a Weave roll
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
--
+

@@ -124,7 +124,7 @@ when she's telling you the truth and when she's not.
 The Deduce specialty lets you size up a situation and formulate a
 scenario in which they make sense, as provided by the Gamemaster. This will
 always be a supplement to your own roleplaying and decision-making
-processes while playing *The Queen's Cavaliers*; it is not meant to
+processes while playing the game; it is not meant to
 substitute for player ingenuity. Deduce can also be used to analyze
 clues and spot falsehoods.
 

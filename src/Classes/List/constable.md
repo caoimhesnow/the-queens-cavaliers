@@ -22,7 +22,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches,
   boots, tabard), steel breastplate (Rigid Armor +1D6), flintlock musket (Musket +1D10)
--
+
 #### Constable Maneuvers
 
 - **Criminology:** When investigating a crime scene, spend 1 Style Point to add Scholarship dice to a Deduce roll

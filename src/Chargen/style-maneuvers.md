@@ -5,12 +5,12 @@ characters. Each class and nationality choice gives players access to a
 different set of maneuvers; these are the only ones that can be chosen
 at character creation. 
 
-### Types of Style Maneuvers
+## Types of Style Maneuvers
 
 There are three types of Style Maneuvers: reroll maneuvers, maximize
 maneuvers, and conditional maneuvers.
 
-#### Reroll Maneuvers
+### Reroll Maneuvers
 
 **A reroll maneuver lets you reroll your entire dice pool.** You can
 do this immediately after you roll, or you can do it after your opponent
@@ -20,7 +20,7 @@ version.
 Rerolling costs one Style Point, and you can repeat it if you have
 enough Style Points.
 
-#### Maximize Maneuvers
+### Maximize Maneuvers
 
 **A maximize maneuver sets the value of one die in your pool to its
 maximum value.** You set that die aside and turn it to its maximum
@@ -38,7 +38,7 @@ Maximizing a die costs two Style Points, and you can only have one
 maximized die in any dice pool. You can't a maximize maneuver after you
 roll.
 
-#### Conditional Maneuvers
+### Conditional Maneuvers
 
 **A conditional maneuver has a specific condition that must be met in
 order for you to use it. When you do so, you add the dice from one
@@ -67,7 +67,7 @@ Lunge" roll and you spend the Style Point to use it, the roll is both a
 Lunge roll and a Husbandry roll. This can allow for adding in additional
 style maneuvers as a combo.
 
-## Maneuver List
+# Maneuver List
 
   - **A Mind for Money:** When sums of at least 1 crown are at stake, spend 1 Style Point to add Calculus dice to a Negotiate roll
   - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
@@ -230,7 +230,7 @@ style maneuvers as a combo.
   - **You Can't Go Home Again:** When dealing with someone from your home country, spend 1 Style Point to add Explore dice to a Deceive roll
   - **Zamorovian School of Fencing:** When fighting with a szabla in one hand, spend 1 Style Point to add Arts dice to a Parry roll
 
-##### MJ's Toolbox: New Style Maneuvers
+## MJ's Toolbox: New Style Maneuvers
 
 As the MJ, you can create new Style Maneuvers that can be chosen by your players.
 

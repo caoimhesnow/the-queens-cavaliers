@@ -31,5 +31,5 @@ including alchemical remedies.
 - **First Aid:** Spend 2 Style Points to set the value of one Treat die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Scalpel's Cut:** When using a knife or chirurgeon's knives, spend 1 Style Point to add Surgery dice to a Lunge roll
-- **Second Opinion*** Spend 1 Style Point to reroll a Medicine roll
--
+- **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
+

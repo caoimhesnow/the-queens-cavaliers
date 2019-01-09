@@ -1,4 +1,4 @@
-# Crafting
+## Crafting
 
 As described in Chapter 4, "Skills & Specialties," characters
 can use most specialties in order to craft items
