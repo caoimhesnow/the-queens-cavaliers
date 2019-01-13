@@ -1,3 +1,4 @@
+::::::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::
 ### Example of Major Character Creation
 
 Let's say you’ve decided you’re going to make a major character who is
@@ -32,3 +33,4 @@ Picking a name for our baroness, we come up with Ingunn von
 Sicherheim, and then fill in the rest of her stats as
 follows:
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

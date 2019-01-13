@@ -29,6 +29,8 @@ Roll 1D12 to determine where you were born, your native language(s), and
 the skills you picked up at an early age from your culture. Alternately,
 if you know you want to be from Gallinea itself, just roll 1D4.
 
+Table: Region or National Origin
+
 | D12 Roll | Regional or National Origin |
 |:--------:|:----------------------------|
 | 1        | Lutetia                     |
@@ -144,6 +146,8 @@ those skills were passed on to you, along with a small inheritance of
 clothes and other belongings. The influence of your parentage also
 determines your D6 passion, the first of your style maneuvers, and your
 first social rank die.
+
+Table: Parentage
 
 | D12 Roll | Parentage         |
 |:--------:| :---------------- |
@@ -315,6 +319,8 @@ war – and taught you the basics of how to shoot.
 Roll 1d8 to determine a key event or situation from your childhood. This
 will also assign your D8 passion.
 
+Table: Pivotal Event of Childhood
+
 | 1D8 Roll | Pivotal Event of Childhood       |
 |:--------:| -------------------------------- |
 | 1        | A Death in the Family            |
@@ -407,6 +413,8 @@ maneuver.
 If you want to have been apprenticed to a master crafter, you can roll
 1D4 instead. For formal schooling, roll 1D4+4, and for on-the-job
 learning, roll 1D4+8.
+
+Table: Education
 
 | D12 Roll | Education                |
 | :------: | :----------------------- |
@@ -604,6 +612,8 @@ Roll 1D12 to determine what key event or situation shaped your current
 circumstances. This gives you additional skills, your final passion, and
 a third style maneuver.
 
+Table: Pivotal Event of Adulthood
+
 | 1D12 Roll | Pivotal Event of Adulthood               |
 | :-------: | :--------------------------------------- |
 | 1         | Clandestinely Recruited                  | 
@@ -758,6 +768,7 @@ You are the survivor of a bloody war and countless battles.
 - **Style Maneuver:** The Horrors of War (when talking about war or
   battle, spend 1 Style Point to add Block dice to an Inspire roll)
 
+::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
 ### Example of Backstory-Based Character Creation
 
 Dani decides to roll up a character using the optional random backstory
@@ -849,4 +860,6 @@ Dani is now free to spend her customizations to further shape her
 character to fit the concept she'd like to play. Dani can also spend her
 starting Rewards on additional gear (plus gets a simple weapon for
 free).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

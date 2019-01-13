@@ -33,7 +33,7 @@ succeed and the success points will determine the quality of the
 performance. Under less than ideal circumstances, Standard Opposition of
 Easy (3D6) or higher may be required.
 
-:::::::::::::::: success table :::::::::::::::::::::::::::::
+:::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Arts         |                                           | 
 | :----------- | :---------------------------------------- |
 | Time:        | 1 minute or longer                        |

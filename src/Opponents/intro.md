@@ -9,6 +9,7 @@ are at best extras, while minor opponents take supporting roles. Major
 opponents, of course, can challenge a group of cavaliers as major
 villains or powerful allies\!
 
+::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::
 ##### Using Opponents
 
 Don't assume that all opponents are there to fight\! A corrupt noble,
@@ -27,6 +28,7 @@ opponent succeeds or not.
 Similarly, if an opponent is actually friendly and wishes to help the
 cavaliers, use the rule for assisting to have them grant additional dice
 to the players' rolls.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Rabble
 

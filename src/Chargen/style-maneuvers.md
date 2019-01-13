@@ -12,7 +12,7 @@ maneuvers, and conditional maneuvers.
 
 ### Reroll Maneuvers
 
-**A reroll maneuver lets you reroll your entire dice pool.** You can
+A reroll maneuver lets you reroll your entire dice pool. You can
 do this immediately after you roll, or you can do it after your opponent
 rolls. You ignore your original results and only keep the rerolled
 version.
@@ -22,8 +22,8 @@ enough Style Points.
 
 ### Maximize Maneuvers
 
-**A maximize maneuver sets the value of one die in your pool to its
-maximum value.** You set that die aside and turn it to its maximum
+A maximize maneuver sets the value of one die in your pool to its
+maximum value. You set that die aside and turn it to its maximum
 value, before you roll. For example, if you maximize a D10, you set the
 value to a 10. Then you roll your dice and calculate your result as if
 the maximized value were one that you rolled.
@@ -40,9 +40,9 @@ roll.
 
 ### Conditional Maneuvers
 
-**A conditional maneuver has a specific condition that must be met in
+A conditional maneuver has a specific condition that must be met in
 order for you to use it. When you do so, you add the dice from one
-source to a different dice pool.** Adding the dice from a second
+source to a different dice pool. Adding the dice from a second
 specialty doesn't give you the Attribute Die, Competency Die, or Item
 Die from the second dice pool, but it does give you a number of dice
 equal to your specialty ranks. The size of each such die is determined
@@ -67,7 +67,10 @@ Lunge" roll and you spend the Style Point to use it, the roll is both a
 Lunge roll and a Husbandry roll. This can allow for adding in additional
 style maneuvers as a combo.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fancylist :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 # Maneuver List
+
+This list summarizes the available maneuvers.
 
   - **A Mind for Money:** When sums of at least 1 crown are at stake, spend 1 Style Point to add Calculus dice to a Negotiate roll
   - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
@@ -143,8 +146,7 @@ style maneuvers as a combo.
   - **I'm a Lover, not a Fighter:** When being attacked by someone whom you find attractive, spend 1 Style Point to add Carouse dice to a Dodge roll
   - **I'm Innocent, Innocent\!:** When trying to convince someone of your innocence, spend 1 Style Point to add Intuition dice to an Inspire roll
   - **I'm Too Pretty to Die\!:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Dodge roll
-  - **Ifrani School of Swordplay:** When fighting with a shamshir in one hand and the other hand empty, holding a qatar, or holding a jambiya,
-  -   spend 1 Style Point to add Prowl dice to a Riposte roll
+  - **Ifrani School of Swordplay:** When fighting with a shamshir in one hand and the other hand empty, holding a qatar, or holding a jambiya, spend 1 Style Point to add Prowl dice to a Riposte roll
   - **Imeran School of Fencing:** When fighting with a cutlass in one hand and a dagger or cinquedea in the other hand, spend 1 Style Point to add Dodge dice to a Lunge roll
   - **In Costume:** When wearing a disguise or costume, spend 1 Style Point to add Arts dice to a Deceive roll
   - **Incoming Fire:** When avoiding a ranged attack, spend 1 Style Point to add Aim dice to a Dodge roll
@@ -178,8 +180,7 @@ style maneuvers as a combo.
   - **Parrot's Nest:** When looking at things more than one area away, spend 1 Style Point to add Explore dice to a Perceive roll
   - **Parrying Shield:** When using a buckler to block, spend 1 Style Point to add Parry dice to a Block roll
   - **Polite Fictions:** When speaking with someone of at least Noble social rank, spend 1 Style Point to add Etiquette dice to a Deceive roll
-  - **Powdersmith:** When creating or repairing a device with a blackpowder flintlock power source, a phlogistone furnace power source, or an
-  - explosion component, spend 1 Style Point to add Blackpowder dice to a Clockworks roll
+  - **Powdersmith:** When creating or repairing a device with a blackpowder flintlock power source, a phlogistone furnace power source, or an explosion component, spend 1 Style Point to add Blackpowder dice to a Clockworks roll
   - **Practiced Alchemy:** Spend 2 Style Points to set the value of one Brew die to its maximum value before rolling
   - **Practiced Crafting:** Spend 2 Style Points to set the value of one Clockworks die to its maximum value before rolling
   - **Practiced Cultivation:** Spend 2 Style Points to set the value of one Husbandry die to its maximum value before rolling
@@ -229,7 +230,9 @@ style maneuvers as a combo.
   - **Yodeler:** When working with domesticated animals, spend 1 Style Point to add Arts dice to a Husbandry roll
   - **You Can't Go Home Again:** When dealing with someone from your home country, spend 1 Style Point to add Explore dice to a Deceive roll
   - **Zamorovian School of Fencing:** When fighting with a szabla in one hand, spend 1 Style Point to add Arts dice to a Parry roll
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::
 ## MJ's Toolbox: New Style Maneuvers
 
 As the MJ, you can create new Style Maneuvers that can be chosen by your players.
@@ -268,3 +271,4 @@ when choosing it.
 Players, you don't have the option to create your own Style Maneuvers
 whenever you want -- but you can always suggest one to your MJ and maybe
 she'll like the idea\!
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

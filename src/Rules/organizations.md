@@ -90,6 +90,8 @@
 
 *explanation needed*
 
+Table: Group XP for Organizations
+
 | Die  | Scope         | GXP  | Asset Maximum |
 | :--: | :------------ | :--: | :-----------: | 
 | D0   | Immediate     | 0    | +2            |
@@ -99,6 +101,8 @@
 | D12  | International | 250  | +5            |
 
 *introduction needed*
+
+Table: Organization Advancements
 
 | Advancement                  | GXP Cost |
 | :--------------------------- | :------- |

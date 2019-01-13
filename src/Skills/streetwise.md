@@ -13,16 +13,16 @@ The Banter specialty lets you toss quips and insults both in and out of
 a fight, trying to provoke a reaction of some kind. You can use Banter
 to demoralize your foes or impress your audience.
 
-| Language:   | You can only use Banter on someone who can understand the |
+**Language:** You can only use Banter on someone who can understand the 
 language you're speaking.
 
-| Knowledge Rolls:   | Remember embarrassing details about someone else's |
+**Knowledge Rolls:**  Remember embarrassing details about someone else's 
 personal life, recall a scathing retort from a line of a play.
 
-**Time: **Most uses of Banter take only 1 action to perform, although
+**Time:** Most uses of Banter take only 1 action to perform, although
 spreading rumors takes 1 hour.
 
-| Extra Time:   | You can spend extra time spreading rumors to add a Bonus |
+**Extra Time:** You can spend extra time spreading rumors to add a Bonus 
 Die to your dice pool. The size of that die is limited by your number of
 ranks in Streetwise (Banter), as shown on the following table:
 
@@ -36,7 +36,7 @@ Table: Extra Time for a One-Hour Task
 | 16 hours (2 days) | 1D10      | \+4                  |
 | 32 hours (4 days) | 1D12      | \+5                  |
 
-| Opposition:   | When directly confronting someone, your Banter roll is |
+**Opposition:**  When directly confronting someone, your Banter roll is 
 opposed by their own Banter roll. If you're spreading rumors, the
 standard opposition is Easy (3D6) in a medium city and Moderate (3D8) in
 a large city.
@@ -59,8 +59,7 @@ her die size by one step, or remove her Advantage Die entirely if she
 has D6 Advantage.
 
 **Increase Advantage:** You gain a D6 Advantage Die if you don't already 
-have Advantage, or increase your die size by one step, up to a maximum
-of D12.
+have Advantage, or increase your die size by one step, up to a maximum of D12.
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how 
 you use the Specialty with style, and you can only have a maximum of
@@ -92,7 +91,7 @@ Table: Maximum Tag Die
 | \+4          | \+1D10          |
 | \+5          | \+1D12          |
 
-| Enrage Opponent:   | If you aren't in a fight already, you provoke your |
+**Enrage Opponent:** If you aren't in a fight already, you provoke your 
 opponent into starting combat. If you are in combat, your opponent
 will focus on you to the exclusion of other targets, until you're dead,
 unconscious, or the fight ends.
@@ -159,30 +158,30 @@ determine how well you performed the task.
 | +++++:        | Learn Rare Secret      |
 ::::::::::::::::::::::::::::::::::::::::::
 
-| Hold Your Liquor:   | You don't suffer ill effects from the |
+**Hold Your Liquor:** You don't suffer ill effects from the 
 over-consumption of alcoholic beverages.
 
-| Learn Common Rumor:   | You learn one of the common rumors that is |
+**Learn Common Rumor:** learn one of the common rumors that is 
 circulating around town, which may or may not be true.
 
-| Learn Rare Rumor:   | You learn a rare rumor that comes from only one or |
+**Learn Rare Rumor:** You learn a rare rumor that comes from only one or 
 two sources, but which still may or may not be true.
 
-| Find a Companion:   | You find someone with whom to spend the evening – |
+**Find a Companion:** You find someone with whom to spend the evening – 
 be that an old soldier telling war stories, a romantic partner of a
 gender of your choice, or a friendly bartender to hear your tale of woe.
 You can locate them easily and enjoy their company another night for the
 next week (6 days), and can increase that duration by one week for each
 additional success point you spend.
 
-| Gain 1 Style Point:   | You gain one Style Point; you must describe how |
+**Gain 1 Style Point:**You gain one Style Point; you must describe how 
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-| Learn Uncommon Secret:   | You learn a secret that is not commonly known |
+**Learn Uncommon Secret:** You learn a secret that is not commonly known 
 by the general public, such as the name of the duchess's mistress.
 
-| Learn Rare Secret:   | You learn a secret that is known to only a few in |
+**Learn Rare Secret:**  You learn a secret that is known to only a few in 
 town, such as the location of the secret entrance to the baroness's
 vaults.
 
@@ -214,12 +213,12 @@ Table: Rushing a One-Minute Task
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
 
-| Opposition:   | For poor traps, alarms, and locks, use Easy (3D6). For |
+**Opposition:** For poor traps, alarms, and locks, use Easy (3D6). For |
 average obstacles, use Moderate (3D8). For high-quality obstacles, use
 Difficult (3D10). For extremely complex obstacles, use Very Difficult
 (3D12).
 
-| Opposition:   | When trying to steal something, use the highest |
+**Opposition:** When trying to steal something, use the highest |
 Observation specialty of whomever might see you.
 
 ::::::::::::::::: success :::::::::::::::::::::::::::::::::::

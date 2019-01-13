@@ -96,19 +96,22 @@ used to select a target area and set the base damage of the explosion.
 For setting or disarming explosives, the standard opposition is based on
 the bomb's Explosion Dice.
 
-Table: Blackpowder
 
-| Time:   | 1 action, or 1 minute |
-| Opposition:   | Standard Opposition |
-| Item Die:   | Weapon die or repair tools |
-| Bonus Die:   | Extra time |
-| \+:   | Hit An Area |
-| \++:   | Base Damage +1 Wound |
-| ++:   | Set Timed Fuse |
-| ++:   | Detonate Charges |
-| +++:   | Expand Radius |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Disarm Explosives |
+::::::::::::::::: success :::::::::::::::::::::
+| Blackpowder   |                             |
+| :------------ | :-------------------------- |
+| Time:         | 1 action, or 1 minute       |
+| Opposition:   | Standard Opposition         |
+| Item Die:     | Weapon die or repair tools  |
+| Bonus Die:    | Extra time                  |
+| \+:           | Hit An Area                 |
+| \++:          | Base Damage +1 Wound        |
+| ++:           | Set Timed Fuse              |
+| ++:           | Detonate Charges            |
+| +++:          | Expand Radius               |
+| +++:          | Gain 1 Style Point          |
+| ++++:         | Disarm Explosives           |
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 **Hit An Area:** You fire an explosive weapon into an area adjacent to
 your own. For each additional success point you spend, you can move the
@@ -222,18 +225,20 @@ used to determine how well you accomplished the task. For each component
 in a device that is beyond your ability to create, based on your Science
 (Clockworks) skill, increase the standard opposition by one step.
 
-Table: Clockworks
-
-| Time:   | 1 action, 1 minute, or 1 hour |
-| Opposition:   | Standard Opposition |
-| Item Die:   | Tools or Workshop Die |
-| Bonus Die:   | Plans, extra time |
-| +:   | Keep It Together |
-| \++:   | We Need More Power |
-| \++:   | Repair 1 Malfunction |
-| ++:   | Salvage a Component |
-| +++:   | Gain 1 Style Point |
-| \++++:   | Sabotage Device |
+::::::::::::::::: success :::::::::::::::::::::::
+| Clockworks    |                               |
+| :------------ | :---------------------------- |
+| Time:         | 1 action, 1 minute, or 1 hour |
+| Opposition:   | Standard Opposition           |
+| Item Die:     | Tools or Workshop Die         |
+| Bonus Die:    | Plans, extra time             |
+| +:            | Keep It Together              |
+| \++:          | We Need More Power            |
+| \++:          | Repair 1 Malfunction          |
+| ++:           | Salvage a Component           |
+| +++:          | Gain 1 Style Point            |
+| \++++:        | Sabotage Device               |
+:::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Keep It Together:** You manage to patch the device together long
 enough that one malfunction doesn't affect it until the end of the next
@@ -310,7 +315,7 @@ two additional success points you spend, you can increase the Tag Die by
 one size, with a limit based on your ranks in Science (Calculus) as
 shown in the following table:
 
-Table: (table) Maximum Tag Die
+Table: Maximum Tag Die
 
 | Calculus Ranks | Maximum Tag Die |
 | -------------- | --------------- |

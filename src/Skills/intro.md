@@ -1,6 +1,6 @@
 # Skills and Specialties
 
-There are 12 skills in The Queen's Cavaliers, ranging from Culture to
+There are 12 skills in *The Queen's Cavaliers*, ranging from Culture to
 Streetwise. Each of these skills has three specialties, corresponding to
 the three Attributes of Verve, Affinity, and Guile.
 

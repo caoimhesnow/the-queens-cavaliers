@@ -67,6 +67,7 @@ Table: Social Classes
 | 7   | Provocateur | Mysterious spy with hidden motives               |
 | 8   | Speaker     | Zealous demagogue of the Desert Mother           |
 
+::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
 ## Additional Classes
 
 In Chapter Four: The Setting, additional classes for each of Gallinea's
@@ -88,4 +89,4 @@ Table: Additional Classes
 Each of these classes adds a specific cultural flavor. If your character
 is not from the listed country, talk to the MJ to see if you can still
 choose one of these classes.
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

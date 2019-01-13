@@ -34,6 +34,7 @@ equal to your Competency Die, two rewards equal to your lowest rank, and
 two rewards equal to your highest social rank. You can spend those
 normally to buy your starting equipment.
 
+::::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::
 ### Example of Class-Free Character Creation
 
 Morgan decides she's going to create a character who is all about
@@ -95,3 +96,5 @@ because it's cool, and a deck cannon (1D10 cost) since she always wanted
 a cannon. Doesn't everyone? This leaves her with a 1D8 reward, which she
 chooses to spend on four supplies of clockwork gears so she can repair
 an airship or make nifty toys.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

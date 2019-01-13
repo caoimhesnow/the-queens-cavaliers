@@ -18,9 +18,9 @@ Very Difficult (3D12) depending on the Gamemaster's assessment of the situation.
 Alternately, the target can defend with an appropriate Defense
 specialty, if the Gamemaster decides the Skill use is similar to an attack.
 
-Table:  Non-Combat Skills
 
-| Non-Combat Skills |                                            | 
+::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
+| Any Skill         |                                            | 
 | :---------------- | :----------------------------------------- |
 | Time:             | 1 action                                   |
 | Opposition:       | Standard Opposition or Applicable Defense  |
@@ -29,6 +29,7 @@ Table:  Non-Combat Skills
 | +++:              | Increase Advantage                         |
 | +++:              | Gain 1 Style Point                         |
 | +++++:            | Inflict 1 Wound                            |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every two Success
 Points you spend on Yield. If her Yield equals or exceeds her Yield

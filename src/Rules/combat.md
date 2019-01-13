@@ -59,6 +59,7 @@ If a new combatant enters a fight already in progress, she rolls
 Initiative and is added into the Initiative order at the appropriate
 place in the next round.
 
+:::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::::::
 ### Identical NPCs
 
 When Rabble or Stock Characters are used in quantities of more than two, the MJ can
@@ -66,6 +67,7 @@ group them together with one Initiative roll. All combatants in the
 group will take their actions at the same place in the Initiative
 sequence. Any Initiative Points spent apply to only one of such grouped
 characters at a given time.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Spending Initiative Points
 
@@ -228,6 +230,7 @@ that require a dice roll, but you can use it with combined actions.
 Assist counts as a Drop 2 penalty when comparing against the maximum
 amount of Drop from combined actions (Drop 4).
 
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::
 *Example:* You want to assist another player in attacking an opponent with
 Feint. Your character has 2 ranks in Feint, D8 for Guile, and a D8
 Competency Die. You can give one of the following bonuses by assisting
@@ -238,6 +241,7 @@ her:
 - 1D6 as a default
 
 Obviously in this case, you would choose the 2D8.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Flourish
 
@@ -250,6 +254,7 @@ make a skill roll against Easy (3D6) opposition. If you are successful,
 you can only spend your Success Points on gaining Style Points, up to a
 maximum (as always) of three.
 
+:::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::
 *Example:* You have no Style Points and make a Flourish based on your
 character's Dodge specialty. You roll a 14 with seven Success Points
 against an opposition roll of 9, succeeding in the roll. You can only
@@ -257,6 +262,7 @@ spend your Success Points on gaining Style Points (at a cost of three
 Success Points each Style Point) and describe your character leaping
 onto a chair, a table, and then a barrel, looking quite dashing as she
 does. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Focus
 
@@ -271,6 +277,7 @@ whichever is better for you.
 - You can increase your current number of Initiative Points by the
 number that you rolled.
 
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
 *Example:* At the start of the combat, you rolled a total of 5 with one
 Success Point on your Initiative roll. On the first turn, you decide to
 Focus and you get a better roll – a total of 11 with four Success Points
@@ -282,6 +289,7 @@ You later spend all five of those Initiative Points and in a subsequent
 turn, Focus again, getting a total of 9 with three Success Points; your
 position in the Initiative order doesn't change, but you do gain three
 more Initiative Points to spend. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Move or Run
 
@@ -309,6 +317,7 @@ for that turn.
 If you take any combined actions at the same time as your Prepare
 action, you apply the Drop Penalty when you take the prepared action.
 
+::::::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::
 *Example:* Your character gets ready to rush into a room after a friend
 opens it, drawing her weapon (Drop 1) in the same turn that you declare
 your Prepare action. Your trigger is “when the door opens” and your
@@ -321,6 +330,8 @@ disarms our opponent.” This has no extra Drop penalty, since you aren't
 moving and your sword is already out. If your opponent doesn't become
 disarmed by the end of the round, you can either go ahead and make your
 attack, or wait until next round.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+
 
 #### Reload
 
@@ -341,12 +352,14 @@ which isn't an attack, either using the Specialty's own Success Tables
 or the generic table for Non-Combat Actions in Combat. (See the start of
 the Skills document in the playtest packet.)
 
+:::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
 *Example:* You decide to use the Deceive specialty to distract your
 character's opponent in a fight: “Hey, look, the Guardian's cavaliers
 are behind you\!” Normally, Deceive takes one minute to use and doesn't
 have a direct combat application, so instead you use the Success Table
 for Non-Combat Actions. With your Success Points, you buy increases in
 Advantage to represent your successful bluff.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Advantage
 
@@ -366,6 +379,7 @@ Advantage, your Advantage Die goes up to D6; then D8, D10, and D12 with
 subsequent (or simultaneous) expenditures of Success Points on
 increasing Advantage.
 
+::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
 *Example:* You decide you want your character to make a Feint attack
 against her opponent, and you succeed with three Success Points. It's
 the start of the fight, so you have no Advantage to begin with, but the
@@ -373,6 +387,7 @@ Increase Advantage option on the Feint success table lets you spend one
 Success Point for each increase of Advantage. The first point gives you
 a D6 Advantage Die, then the following two increase that die size to
 D10, spending all three of your Success Points.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Using Advantage
 
@@ -381,10 +396,12 @@ you make during combat. Each time you use your Advantage Die, it steps
 down one size – from D10 to D8, for example, or from D6 to no Advantage
 Die.
 
+:::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::
 *Example:* You make a Lunge attack and elect to include your Advantage
 Die, which currently stands at a D10. You add a D10 to your dice pool
 for the attack, and after resolving the Lunge roll, your Advantage Die
 drops to a D8.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Other Combat Modifiers
 
@@ -414,9 +431,11 @@ option of the MJ. A PC who reaches her Yield Limit can stay in the
 fight, but if she does, every attack against her gains the following
 addition to its Success Table:
 
-|    |                 |
-| -- | --------------- |
-| +: | Inflict 1 Wound |
+:::::::::::: success ::::::::::::::::
+|          | (Yielded Out)          |
+| :------- | :--------------------- |
+| +:       | Inflict 1 Wound        |
+:::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Wound:** Your opponent takes one Wound. If she takes more Wounds
 than her Wound Limit (which is four for player characters, and from one
@@ -434,11 +453,13 @@ fight past your Yield Limit). Unconscious characters will remain
 unconscious for one or more scenes at the MJ's discretion, unless awoken
 by others during or after the combat.
 
+::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::
 *Example:* You hit with a Lunge attack, with five Success Points. You
 decide to spend all five points on Yield, inflicting five Yield on your
 opponent. Your opponent has a Yield Limit of four, which means that the
 MJ decides you knock her back against a wall and she hits her head,
 going unconscious and is out of the fight.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Wounds
 
@@ -454,6 +475,8 @@ playtest packet for more information.
 In addition, whenever a character takes a Wound, her Yield Limit decreases by one.
 
 The Drop Penalties and Yield Limit changes for each Wound level are shown on the following table:
+
+Table: Drop Penalty from Wounds
 
 | Wounds | Drop Penalty              | Yield Limit |
 |--------|---------------------------|-------------|
@@ -471,11 +494,13 @@ Drop Penalties from Wounds are cumulative with Drop Penalties for combined actio
 - Dueling (all Specialties)
 - Military (Brawl, Aim)
 
+::::::::::::::::::::::::::::; example ::::::::::::::::::::::::::::::::::::::
 *Example:* Your character is stabbed by an opponent's Lunge attack and
 receives one Wound. You now get a Drop 1 penalty on all applicable
 actions, such as attacking or defending. Later in the fight, you are
 shot for two more Wounds, which increases your penalty to Drop 4 – one
 more Wound and you'll be Dying.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Dying and Death
 
@@ -496,6 +521,7 @@ player can make a Survival Roll using her character's Verve plus her
 Competency Die against Moderate Opposition (3D8).
 
 
+::::::::::::::::: success ::::::::::::::::::::::::::::::
 | Survival Roll |                                      | 
 | :------------ | :----------------------------------- |
 | Pool:         | Verve + Competency Die               | 
@@ -503,6 +529,7 @@ Competency Die against Moderate Opposition (3D8).
 | +:            | Survive for 8 Hours                  |
 | ++:           | Regain Consciousness                 |
 | ++++:         | Heal 1 Wound                         |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Survive for 8 Hours:** The dying character doesn't die of her wounds for
 another eight hours per Success Point spent. Make another Survival Roll
@@ -516,10 +543,12 @@ dying.
 
 On a failed Survival Roll, the character dies.
 
+::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
 *Example:* Your character receives a fourth Wound, taking her out of the
 fight. At the end of the fight, you can decide if she dies of her
 injuries, or fights to survive. If you choose the latter, and there's no
 medical aid nearby, you'll need to make a Survival Roll.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Healing Wounds
 

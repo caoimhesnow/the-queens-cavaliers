@@ -250,6 +250,7 @@ provide the Gamemaster with non-player characters for you to interact with. A
 Personification could be living or dead, an existing NPC or a completely
 new one created by the player.
 
+::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::
 #### Gamemaster's Toolbox: Passion Rolls
 
 In addition to using Passions to earn or spend Style Points, you can
@@ -262,10 +263,15 @@ To make a Passion Roll, a player rolls all of the dice for her Passions
 – a D6, a D8, a D10, and a D12. The die that rolls the highest
 indicates which Passion is in play for that session.
 
+:::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
 *Example:* Dani has the following Passions: Loyalty D12, Pride D10,
 Country D8, Love D6. She rolls her Passion dice, getting these results:
 
+:::::::: dice ::::::::::::::::
 D12: 5, D10: 7, D8: 6, D6: 3
+::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The high roll is the 7 and it's on the D10. Her D10 Passion is Pride,
 which means that Dani may face a situation where her Pride is tested.
@@ -290,6 +296,7 @@ In an ongoing campaign, it's likely that the same Passion will come up
 repeatedly. You can ameliorate this effect by removing from the pool the
 die corresponding to whichever Passion came up in the immediately
 previous session. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Changing Passions
 

@@ -5,6 +5,8 @@ based on the following table. If faster progression is desired – for
 example, in a campaign with limited sessions – the MJ can increase the
 rewards by a factor of up to three.
 
+Table: Experience Point Rewards
+
 |                        |                  |
 | :--------------------- | :--------------: |
 | Base Per Sesssion      | 1 XP per session |
@@ -19,6 +21,8 @@ your Style Maneuvers can be chosen from your own classes, from your
 National Styles, or from other classes with the Gamemaster's approval. Your
 Specialty ranks cannot be increased beyond +2 until your Competency Die
 increases (see the following section).
+
+Table: Character Improvements
 
 | Character Element          | Cost                  | Notes                  |
 | :------------------------  | :-------------------: | :--------------------- |
@@ -41,6 +45,8 @@ Die and Specialty rank limit further, as shown below.
 
 Remember to adjust your Yield Limit each time your Competency Die increases.
 
+Table: XP Spent and Competency Die
+
 | XP Spent | Competency Die | Maximum Specialty Rank |
 | :------: | :------------: | :--------------------: |
 | 0        | D6             | \+2                    |
@@ -48,8 +54,10 @@ Remember to adjust your Yield Limit each time your Competency Die increases.
 | 50       | D10            | \+4                    |
 | 100      | D12            | \+5                    |
 
+:::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::::::::::::::
 #### Optional Rule: Training Time
 
 Each XP spent typically requires one week of practice or training. This
 requirement can be waived by the Gamemaster if you've already invested time and
 effort in activities relevant to your XP expenditure.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

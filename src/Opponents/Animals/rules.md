@@ -103,7 +103,8 @@ limit for the animal. For yield limits, "half Ferocity" means "half of
 the die size", and "Ferocity" means "the die
 size."
 
-*(table) Scale of Animals*
+Table: Scale of Animals
+
 | Scale     | Scale Die | Yield Limit        | Wound Limit                                       |
 | --------- | --------- | ------------------ | ------------------------------------------------- |
 | Pocket    | \--       | 1                  | 1 (Dead)                                          |

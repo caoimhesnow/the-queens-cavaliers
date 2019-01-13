@@ -48,6 +48,7 @@ if it fits her concept of the world and the campaign. She can provide
 suggestions on how you can modify the class if she sees potential
 problems with the class.
 
+:::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::
 ##### Gamemaster-Created Classes
 
 Gamemasters, you can create classes too, and offer them as additional choices
@@ -56,4 +57,5 @@ for players, although you can customize the social rank, bonus gear,
 armor prowess, and weapon prowess. You shouldn't give a class specialty
 ranks in Initiative, and a class shouldn't have more than 8 style
 maneuvers.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

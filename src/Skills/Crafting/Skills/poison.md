@@ -44,6 +44,7 @@ creation.
 | ++++              |  Reduce Material Cost        |
 | +++++             |  Develop Antidote            |
 | ++++++            |  Eureka\!                    |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Standard Poison (1 unit of alchemical ingredients):** You create
 one dose of a standard type of poison with an Item Die of +1D6. Standard

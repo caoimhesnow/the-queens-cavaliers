@@ -1,20 +1,20 @@
-# Character Creation Overview
+# Summary {.nobreak}
 
 To make your own character for *The Queen's Cavaliers*, follow these instructions
 while filling out the character sheet.
 
-## 0. Competency Die, XP, & Yield Limit
+## Competency Die, XP, & Yield Limit
 
 As a starting character, you have a D6 competency die and
 you start with 0 XP earned, 0 XP spent. Your Yield Limit equals the
 maximum value of your Competency Die plus 3, so 9 for a starting
 character.
 
-## 1. Choose Two Classes
+## Choose Two Classes
 
 Your character is a composite of two classes. For each class chosen, record the following information:
 
-### A. Skills & Specialty Ranks
+### Skills & Specialty Ranks
 
 Your classes determine your starting Skill Competency and your
 Specialty ranks. For each skill listed, check the corresponding box to
@@ -22,13 +22,13 @@ indicate Competency. For each Specialty listed, place a +1 in the
 appropriate blank space; if both classes give ranks in a specialty,
 write +2.
 
-### B. Weapon & Armor Prowess
+### Weapon & Armor Prowess
 
 Your Weapon prowess & Armor prowess are the total of those
 granted by your two classes. Check the boxes on the character sheet that
 correspond with all of your Weapon and Armor prowesses.
 
-### C. Social Rank & Wealth
+### Social Rank & Wealth
 
 For each of your classes, record the Social
 Rank and the die for each rank. For example, if your two classes give
@@ -45,15 +45,15 @@ The social ranks are:
 - Noble (D10)
 - Royalty (D12)
 
-### D. Bonus Gear
+### Bonus Gear
 
 Each class provides you with a set of clothing and possibly additional equipment.
 
-### E. Style Maneuvers
+### Style Maneuvers
 
 Choose one Style Maneuver from each class and record it on your character sheet.
 
-## 2\. Attributes
+##  Attributes
 
 Your attributes are Verve, Affinity, and Guile. Assign one of
 them the value D10, another one D8, and the last D6, and write those in
@@ -61,7 +61,7 @@ the appropriate boxes. You probably want to put the D10 in the attribute
 that corresponds to the column where you have the most Specialty ranks,
 but it's not required.
 
-## 3. Nationality & Languages
+## Nationality & Languages
 
 Choose and record your nationality.
 
@@ -71,7 +71,7 @@ speak your native language automatically and don't know Gallinean
 For each prowess rank you have in Culture (Scholarship), you speak and
 read an additional language. Record each language that you know.
 
-## 4. Passions & Personifications
+## Passions & Personifications
 
 Choose four Passions for your character that describe what she
 feels is important in her life. The standard Passions are Artistry,
@@ -79,11 +79,13 @@ Church, Country, Faith, Family, Friends, Justice, Knowledge, Love,
 Loyalty, Lust, Pride, and Wealth. You will rank your four chosen
 Passions from D12 (the strongest) to D6 (the weakest).
 
+:::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::::::::
 *Optional:* For each Passion, name one person associated with that passion
 and record that person's name to the right of the Passion. This is the
 person (living or dead) whom your character most closely associates with
 that Passion, either positively or negatively. You can use an existing
 NPC (or even PC), or name a new one.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 5. Customizations
 

@@ -19,7 +19,7 @@ Alternately, the target can defend with an appropriate Defense
 specialty, if the MJ decides the Skill use is similar to an attack.
 
 ::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
-| Non-Combat Skills |                                            |
+| Any Skill         |                                            |
 | :---------------- | :----------------------------------------- |
 | Time:             | 1 action                                   |
 | Opposition:       | Standard Opposition or Applicable Defense  |
@@ -29,7 +29,7 @@ specialty, if the MJ decides the Skill use is similar to an attack.
 | +++:              | Gain 1 Style Point                         |
 | +++++:            | Inflict 1 Wound                            |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-\
+
 **Inflict 1 Yield:** Your opponent takes one Yield for every two Success
 Points you spend on Yield. If her Yield equals or exceeds her Yield
 Limit, she is Yielded Out. 

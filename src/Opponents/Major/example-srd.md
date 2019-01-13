@@ -1,3 +1,4 @@
+::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::::::
 ### Example of Major Character Creation
 
 Let's say you’ve decided you’re going to make a major character who is
@@ -29,4 +30,5 @@ primary specialties, she has a +4 ranks. With Strategy, she only has +1
 rank.
 
 Filling in the rest of her stats, we arrive at:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

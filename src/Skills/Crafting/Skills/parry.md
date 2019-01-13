@@ -36,6 +36,7 @@ creation.
 | +++              |  Craft Standard Shield      |
 | +++++            |  Craft Heavy Shield         |
 | ++++++           |  Perfectly Balanced         |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Shield (1 unit of crucible steel):** You create any shield with an Item Die of +1D6.
 

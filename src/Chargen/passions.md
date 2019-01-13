@@ -99,11 +99,13 @@ A character with a Passion for Artistry is drawn toward things of
 beauty, be they works of art, music, science, or nature. Such characters
 are often either artists themselves, or patrons of the arts.
 
-**Example:** Countess Lusienne Castenia, the Lady-Mayor of Gallinea,
+:::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
+*Example:* Countess Lusienne Castenia, the Lady-Mayor of Gallinea,
 loves nothing more than a grand party to welcome the start of a new
 play, the opening of a new gallery, or the arrival of an artiste from
 far-away lands. She has a strong Passion for Artistry, even though she
 herself is not artistically talented.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Artistry, Inverted:** The ugliness of your soul drives you to destroy
 things of beauty rather than cherish them.
@@ -114,12 +116,14 @@ A character with a Passion for the Church is devoted to the hierarchy of
 a religious institution, most commonly the Asrian church under the
 direction of the Matriarch.
 
-**Example:** High Chaplain Farrazin, Guardian of the Faith of Gallinea,
+:::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::
+*Example:* High Chaplain Farrazin, Guardian of the Faith of Gallinea,
 is a very devout man, yes. But ultimately his loyalty is less to the
 teachings of the goddess Essere than to her church. Raised in an Asrian
 orphanage, Farrazin rose through the ranks to become the most powerful
 chaplain in Lutetia -- and there's nothing he won't do for the Church of
 Essere.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Church, Inverted:** You despise all that the Church stands for, seeing
 them as one of the greatest threats to your life and those of others.
@@ -131,13 +135,15 @@ Passion for the ruler of that country. The Passions may conflict if one
 has Loyalty toward one group or cause who opposes the current
 government.
 
-**Example:** Baudouin de Longpre, the duke of Rhodope, is one of the
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+*Example:* Baudouin de Longpre, the duke of Rhodope, is one of the
 rare male heads of a province. As the oldest child of his parents, who
 had no daughter to inherent the throne, he became duke upon his mother's
 death. The Rhodope family have supported the Throne for generations;
 they were loyal to the late Queen Elisse III and remain steadfast
 loyalists to her daughter, Queen Mariana II. The crown is more than the
 head that wears it.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Country, Inverted:** Your country has done you wrong -- either through
 deliberate malice or "benign" neglect. Your ire may be directed against
@@ -154,10 +160,12 @@ Devrans usually have a Passion for Faith but no Passion for the Church,
 because worship of the Desert Mother isn't based around a complex church
 hierarchy as with the Asrians.
 
-**Example:** Matriarch Isabene de la Justicia, Bride of the Sun, is the
+:::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
+*Example:* Matriarch Isabene de la Justicia, Bride of the Sun, is the
 head of the Asrian church -- some say she practically *is* the church.
 However, her strongest commitment is to her deity and (ceremonial) wife,
 Essere, goddess of the Sun.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Faith, Inverted:** You reject the Faith that once filled your heart
 with joy. No longer a true believer, you work to convert others to leave
@@ -169,11 +177,13 @@ Characters with strong familial ties have a Passion for Family. This can
 include one's extended family and household, or may just be one's
 immediate family – such as parents or children.
 
-**Example:** Prince Jean-Remy is not merely Queen Mariana's favorite
+::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+*Example:* Prince Jean-Remy is not merely Queen Mariana's favorite
 uncle, but is also Gallinea's spymaster and head of Her Majesty's Secret
 Service. Haunted by his failure to detect and thwart the assassination
 of his sister Queen Elisse and niece Jehanne, Jean-Remy would do
 whatever it takes to prevent harm to any of his family.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Family, Inverted:** You're the one decent person in a family of
 terrible people -- or perhaps the only terrible person in a family of
@@ -186,9 +196,11 @@ Some people are very faithful to their Friends and would do anything for
 them – even die for them in some cases. You can decide if this applies
 to all your character's friends or just her closest friends.
 
-**Example:** Gabriana Secouriste is a young member of the Queen's
+::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::::::
+*Example:* Gabriana Secouriste is a young member of the Queen's
 Cavaliers. Personable and easy-going, she makes friends easily and is
 slow to lose them.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Friends, Inverted:** You keep to yourself and don't form any
 friendships. Why? Because at one time in the past, you felt horribly
@@ -203,7 +215,8 @@ but more commonly it is a reaction to some act of terrible injustice
 that has been perpetrated against the character or the ones she holds
 dear.
 
-**Example:** Andreos Grimani, the High Elector of Ekalia, began his
+::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+*Example:* Andreos Grimani, the High Elector of Ekalia, began his
 public service as a member of the Vigiles Urbani in his home polis of
 Imera. He went on to become a judge, before retiring to enter politics.
 First elected to the Plenum 15 years ago, he became the ranking Elector
@@ -211,6 +224,7 @@ of Imera, then the Senior Elector of Justice, and finally the High
 Elector -- a position he has held now for three years. Andreos is known
 for his strong drive toward justice as well as his detailed knowledge of
 the laws of Ekalia and neighboring countries.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Justice, Inverted:** The concepts of fairness and justice are a lie
 designed to keep us all docile sheep. Flaunting the law through blatant
@@ -223,12 +237,14 @@ Dedication to the pursuit of Knowledge can be expressed through a desire
 to learn the truth behind mysteries, to explore the world, or to learn
 all that can be learned.
 
-**Example:** As a princess, Mariana of Gallinea was much more interested
+::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
+*Example:* As a princess, Mariana of Gallinea was much more interested
 in scientific pursuits and clockwork engineering than she was in courtly
 rituals and noble intrigues. She was a top student at the Royal
 Gallinean Academy of Sciences when her mother and older sister were
 assassinated, forcing her to take up the Crown. In truth, she'd really
 rather be in a laboratory than in the royal palace.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Knowledge, Inverted:** There are some things that the common people
 were not meant to know. Only you can be fully trusted with these
@@ -241,13 +257,15 @@ Romance is the most common expression of a Passion for Love, although
 there are other types of Love that qualify. Love may be for a single
 person, or someone's heart may be divided among many loves.
 
-**Example:** Prince-Father Michel Aubene, the widower of late Queen
+:::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
+*Example:* Prince-Father Michel Aubene, the widower of late Queen
 Elisse III and father of current Queen Mariana II, was very much in love
 with his wife, and she with him. When they first met, she was not
 impressed with the rich southern boy who came to "play cavalier" in
 Lutetia and guard then-Princess Elie. After she saved him during an
 attack on her life, love soon blossomed. Even the dark bonds of death
 can't quell the love Michel feels for Elisse.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Love, Inverted:** Love hurts, scars, wounds, and marks. You knew you'd
 never love that way again, and now you're all out of love. All you want
@@ -261,12 +279,14 @@ group. You must specify who is the subject of your character's Loyalty
 if you choose this Passion. You might not actually like the people
 you're loyal to, but this isn't about friendship but honor.
 
-**Example:** Martine Deveaux was once a faithful and loyal member of the
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+*Example:* Martine Deveaux was once a faithful and loyal member of the
 Queen's Cavaliers, willing to die for the organization and those within
 it. After a disastrous mission with the Cavaliers where she was made the
 scapegoat, she turned on her former companians. Now a mercenary
 assassin, Martine hates the Cavaliers as much as she used to love them.
 This is now an example of an inverted passion.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Loyalty, Inverted:** You can't trust anyone. They might demand your
 loyalty or pledge it to you, but no one is actually faithful. Be on
@@ -278,10 +298,12 @@ The Passion of Lust is about following one's baser desires, usually
 expressed through sexual pleasure. Characters who are Passionate about
 Lust can be flirty, teasing, or promiscuous.
 
-**Example:** Genevieve de Longpre, eldest daughter of the Duke of
+::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::
+*Example:* Genevieve de Longpre, eldest daughter of the Duke of
 Rhodope, is renowned for her string of love affairs -- most of which
 ended poorly. It's said she has at least one girl in every port, and
 perhaps even more\! Hopefully they won't all meet at the same time.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Lust, Inverted:** Actually, it's about ethics in sexual relationships.
 You're one of the good people, and yet the objects of your desire keep
@@ -294,11 +316,13 @@ A Passion for Pride means a character is highly focused on her own
 dignity and reputation. Affronts to such Pride are met with strong
 challenges, as such things are not to be tolerated.
 
-**Example:** Although only 13 years old, Prince Philippe of Gallinea has
+:::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::
+*Example:* Although only 13 years old, Prince Philippe of Gallinea has
 more pride than an entire village of Scanbrians. The youngest grandchild
 of late Queen Elisse III and nephew of the current Queen, he firmly
 knows he is the most important person in Lutetia, save his aunt Mariana.
 And sometimes even more important, he believes.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Pride, Inverted:** Life feels like a succession of failures, but
 that's okay -- you deserve such misery, right? The best you can hope for
@@ -312,11 +336,13 @@ maintenance, and spending of sums of money. Some come from poor
 backgrounds and wish to move beyond their humble beginnings, while
 others are rich misers who count every penny.
 
-**Example:** Jennevive d'Angelet is the Duchess of Scanbria and head of
+:::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::
+*Example:* Jennevive d'Angelet is the Duchess of Scanbria and head of
 the richest family in the north of Gallinea. She and her husband, Lord
 Gerhardt, are well-known throughout the City of Scanbreille for their
 parsimonious ways, although rumors circulate that she is saving up for a
 major purchase. What that might be, no one is sure.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Wealth, Inverted:** Money? Who needs money? It just leads to
 temptation. You give all of yours away as soon as you get it, usually to
@@ -339,8 +365,8 @@ provide the MJ with non-player characters for you to interact with. A
 Personification could be living or dead, an existing NPC or a completely
 new one created by the player.
 
-**Example:** Dani has the following Passions: Loyalty D12, Pride D10,
-Country D8, Love D6.
+::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
+*Example:* Dani has the following Passions: Loyalty D12, Pride D10, Country D8, Love D6.
 
 Her Personification of Loyalty is Sir Pierre du Prowe, an older member
 of the Queen's Cavaliers who taught her how to swordfight. Dani's Pride
@@ -349,7 +375,9 @@ whose skill with the blade matches her own. For Country, Dani looks to
 the Queen of Gallinea herself, Marianna, as embodying all that is good
 and right in her home nation. And for Love, she can't help but think of
 the peasant girl Hersent who she grew up with, her first crush.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::
 ## MJ's Toolbox: Passion Rolls
 
 In addition to using Passions to earn or spend Style Points, you can
@@ -362,13 +390,17 @@ To make a Passion Roll, a player rolls all of the dice for her Passions
 – a D6, a D8, a D10, and a D12. The die that rolls the highest
 indicates which Passion is in play for that session.
 
+:::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
 *Example:* Dani has the following Passions: Loyalty D12, Pride D10,
 Country D8, Love D6. She rolls her Passion dice, getting these results:
 
+:::::::::::: dice :::::::::::
 D12: 5, D10: 7, D8: 6, D6: 3
+:::::::::::::::::::::::::::::
 
 The high roll is the 7 and it's on the D10. Her D10 Passion is Pride,
 which means that Dani may face a situation where her Pride is tested.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 One of the simplest things to do is to have the player's Personification
 of that Passion make an appearance, or a story hook related to that
@@ -390,6 +422,7 @@ In an ongoing campaign, it's likely that the same Passion will come up
 repeatedly. You can ameliorate this effect by removing from the pool the
 die corresponding to whichever Passion came up in the immediately
 previous session. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Changing Passions
 

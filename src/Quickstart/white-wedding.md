@@ -3,10 +3,12 @@
 This is a sample adventure that can be used by starting players and MJs to
 introduce the world and the game rules.
 
+::::::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::
 **Summary:** In the high mountains of Varendia, a small group of Cavaliers
 must prevent a kidnapping and save a marriage. This demo is designed for
 two to six players and is designed to show both social skill use and a
 thrilling combat.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Briefing
 
@@ -255,7 +257,8 @@ actually an Unemployed Thespian passing herself off as a visitor from
 Gallinea. Nobody's actually heard of her before
 this.
 
-##### Opponent Summary
+:::::::::::::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::
+Table: Opponent Summary
 
 | Players     | Opponents                                                            |
 | ----------- | -------------------------------------------------------------------- |
@@ -264,6 +267,7 @@ this.
 | 4 cavaliers | Cellist, 3 Servers                                                   |
 | 5 cavaliers | Cellist, Oboe Player (Brash Fencer), 3 Servers                       |
 | 6 cavaliers | Cellist, Oboe Player, 3 Servers, "Minor Noble" (Unemployed Thespian) |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The nobles and guests present, including the grooms, won't join the
 fight -- they're non-combatants and mostly drunk, so it's up to the
@@ -333,7 +337,8 @@ can have a somewhat silly out-of-the-blue motivation with the
 but it's there if you need it. In any case, have Greta make her
 motivation clear as she tries to get Hans onto the airship.
 
-##### Opponent Summary
+::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Table: Opponent Summary
 
 | Players     | Opponents                                                                  |
 | ----------- | -------------------------------------------------------------------------- |
@@ -342,6 +347,7 @@ motivation clear as she tries to get Hans onto the airship.
 | 4 cavaliers | Greta Valliken (Privateer Captain), 3 Crewmembers                          |
 | 5 cavaliers | Greta Valliken, 4 Crewmembers                                              |
 | 6 cavaliers | Greta Valliken, 4 Crewmembers                                              |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Resolution
 
@@ -354,9 +360,11 @@ join the fray, rescuing Hans but not defeating Greta -- leave that to
 the cavaliers, or have her escape (although that's less
 satisfying).
 
+:::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ##### Rewards
 
 |                   |                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | Experience Points | 1 XP for each cavalier                                                                       |
 | Monetary Rewards  | 1D6 Reward from Landgraf von Stimmt, 1D8 Reward from Marquise de Montambre for each cavalier |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -81,7 +81,7 @@ fencing style.
 Dodge roll, and not by a Parry roll.
 
 
-::::::::::::::::: succes :::::::::::::::::::::
+::::::::::::::::: success ::::::::::::::::::::
 | Riposte       |                            |
 | :------------ | :------------------------- |
 | Time:         | Free Action                |
