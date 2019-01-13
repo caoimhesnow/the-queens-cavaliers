@@ -1,4 +1,4 @@
-# The Queen's Cavaliers {.readme}
+# The Queen's Cavaliers 
 
 *The Queen's Cavaliers* is a swashbuckling, clockpunk tabletop roleplaying game inspired by *The Three Musketeers*.
 
