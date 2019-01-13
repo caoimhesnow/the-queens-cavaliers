@@ -14,9 +14,14 @@ h2 {
   break-after: avoid-page;
     }
 
+.nobreak {
+  break-before: auto;
+  }
+
+
 h1, h2, h3, h4, h5, h6 {
-  break-after: avoid;
-  break-inside: avoid; 
+  break-after: avoid-page;
+  break-inside: avoid-page; 
   margin-bottom: 0.5em;
   }
 
@@ -111,6 +116,7 @@ body {
 @page :first {
   padding-right: 0;
   padding-left: 0;
+    @bottom-center { content: none; }
   }
 
 @page :left {
@@ -128,7 +134,7 @@ body {
 
 /* font sizes*/
 
-h1 { font-size: 3.2em; text-align: center; color: #432100; }
+h1 { font-size: 4.0em; text-align: center; color: #432100; }
 h2 { font-size: 1.8em; text-align: center; }
 h3 { font-size: 1.6em; text-align: center; }
 h4 { font-size: 1.4em; border-bottom: 0.5pt solid #432100; }
@@ -248,11 +254,11 @@ h2::before {
   font-size: 9pt;
   vertical-align: top;
   padding: 1pt;
-  width: 1.25in;
+  width: 1.5in;
          }
 
 .success td:first-child, .success th:first-child {
-  width: 0.75in;
+  width: 1in;
   padding-left: 0.25em;
   padding-right: 0.25em;
          }
@@ -275,8 +281,8 @@ h2::before {
 
 
 .example {
-  padding: 0.25in 0.5in;
-  margin: 0.25in;
+  padding: 0.15in 0.25in;
+  margin: 0.2in;
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
   border: 0.75pt solid #654321;
@@ -287,48 +293,47 @@ h2::before {
   }
 
 .statblock {
-  margin: 0.25in;
-  padding: 0.25in 0.5in;
+  margin: 0.2in;
+  padding: 0.15in 0.25in;
   border: 0.75pt solid #432165;
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
   }
 
 .toolbox {
-  padding: 0.25in 0.5in;
+  padding: 0.15in 0.25in;
   border: 0.75pt solid #654321;
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
-  margin: 0.25in;
+  margin: 0.2in;
   }
 
 .dice {
   text-align: center;
   font-weight: bold;
-  margin: 0.25in;
+  margin: 0.2in;
           }
 
 .optional {
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
   border: 0.75pt solid #123456;
-  padding: 0.25in 0.5in;
-  margin: 0.25in;
+  padding: 0.15in 0.25in;
+  margin: 0.2in;
   }
 
 .variant {
-  padding: 0.25in 0.5in;
+  padding: 0.15in 0.25in;
   border: 0.75pt solid #123456;
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
-  margin: 0.25in;
+  margin: 0.2in;
   }
 
-
 .sidebar {
-  margin: 0.25in;
+  margin: 0.2in;
   background-color: #EEEEEE;
-  padding: 0.25in 0.5in;
+  padding: 0.15in 0.25in;
   border: 0.75pt solid #999999;
   border-top-right-radius: 0.75em;
   border-bottom-left-radius: 0.75em;
@@ -336,16 +341,6 @@ h2::before {
 
 .fancylist ul {
   break-inside: auto;
-  padding-left: 0;
-  margin-left: 0;
-  }
-
-.fancylist li {
-  list-style-type: none;
-  break-inside: auto;
-  padding-left: 0;
-  margin-left: 0;
-  text-indent: 0.25in;
   }
 
 h1+p:first-letter, h2+p:first-letter {
@@ -363,6 +358,11 @@ h1+p, h2+p {
   text-indent: 0;
   }
 
+h1+ul, h2+ul, h3+ul, h4+ul, h5+ul, h6+ul {
+  break-before: avoid-page;
+  }
+
 h1+h2, h2+h3, h1+h3, h2+h4, h1+h4 {
-  break-inside: avoid;
+  break-inside: avoid-page;
+  break-before: avoid-page;
   }
