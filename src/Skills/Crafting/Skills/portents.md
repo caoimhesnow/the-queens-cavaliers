@@ -22,7 +22,8 @@ The size of the Drop penalty depends on how much you rush the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Portents (Crafting) |                              |
+::::::::::::::::::::::: success ::::::::::::::::::::::
+| Portents            | (Crafting)                   |
 | ------------------- | ---------------------------- |
 | Base Time           |  1 hour or 1 day             |
 | Opposition          |  Automatic Success           |
@@ -33,6 +34,7 @@ creation.
 | ++                  |  Improve Astrological Charts |
 | +++                 |  Encharm Bibelot             |
 | +++++               |  Create Divination Cards     |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draw Astrological Charts (1 unit of art media):** You create a set of
 astrological charts for someone based on the place, date, and time of

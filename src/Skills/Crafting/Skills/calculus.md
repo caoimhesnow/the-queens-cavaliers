@@ -23,7 +23,8 @@ the crafting.
 
 **Opposition:** Unless you are rushing, a crafting roll automatically succeeds. The success points generated determine the quality of the creation.
 
-| Calculus (Crafting) |                                  |
+::::::::::::::::::::::: success ::::::::::::::::::::::::::
+| Calculus            | (Crafting)                       |
 | ------------------- | -------------------------------- |
 | Base Time           |  1 hour                          |
 | Opposition          |  Automatic Success               |
@@ -33,6 +34,7 @@ the crafting.
 | +                   |  Draw Plans                      |
 | ++                  |  Design Algorithm                |
 | ++++++              |  Eureka\! Eureka\!               |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draw Plans (1 unit of writing materials):** You create plans for a
 clockwork component or a clockwork device. The plans have a Bonus Die of

@@ -28,14 +28,16 @@ Streetwise (Larceny) roll. Trying to Perceive something under difficult
 circumstances, such as inclement weather or a crowded tavern, can have a
 difficulty of Easy (3D6) or more.
 
-| Perceive |    |
-| :---- | :---- |
-| Time:   | Free Roll, or 1 action |
-| Opposition:   | Standard Opposition |
-| +:   | Notice the Obvious |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Notice Minor Detail |
-| +++++:   | Notice Hidden Detail |
+::::::::::::::::: success ::::::::::::::::
+| Perceive      |                        |
+| :------------ | :--------------------- |
+| Time:         | Free Roll, or 1 action |
+| Opposition:   | Standard Opposition    |
+| +:            | Notice the Obvious     |
+| +++:          | Gain 1 Style Point     |
+| ++++:         | Notice Minor Detail    |
+| +++++:        | Notice Hidden Detail   |
+::::::::::::::::::::::::::::::::::::::::::
 
 **Notice the Obvious:** You notice something which is pretty easy to
 spot but not directly in front of you, or you spot someone who is hiding
@@ -76,14 +78,16 @@ opposed by their Interaction (Deceive) roll. Trying to intuit something
 under difficult circumstances, such as inclement weather or a crowded
 tavern, can have a difficulty of Easy (3D6) or more.
 
-| Intuition |    |
-| :----- | :---- |
-| Time:   | Free Roll, or 1 action |
-| Opposition:   | Standard Opposition |
-| +:   | Get a Hunch |
-| ++:   | Sense Danger |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Sense Falsehood |
+::::::::::::::::: success ::::::::::::::::
+| Intuition     |                        |
+| :------------ | :--------------------- |
+| Time:         | Free Roll, or 1 action |
+| Opposition:   | Standard Opposition    |
+| +:            | Get a Hunch            |
+| ++:           | Sense Danger           |
+| +++:          | Gain 1 Style Point     |
+| ++++:         | Sense Falsehood        |
+::::::::::::::::::::::::::::::::::::::::::
 
 **Get a Hunch:** You have a gut feeling about something, and it's
 probably right. You create a +1D0 Tag Die that can be used as a Bonus
@@ -94,7 +98,7 @@ additional success points, you increase the Tag Die by one step, with a
 limit based on your ranks in Observation (Intuition) as shown by the
 following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Intuition Ranks | Maximum Tag Die |
 | --------------- | --------------- |
@@ -140,15 +144,17 @@ opposed by their Interaction (Deceive) roll. Trying to Deduce something
 under difficult circumstances, such as inclement weather or a crowded
 tavern, can have a difficulty of Easy (3D6) or more.
 
-| Deduce |    |
-| :---- | :---- |
-| Time:   | Free Roll, or 1 action |
-| Opposition:   | Standard Opposition |
-| +:   | Recognize Clue |
-| ++:   | Reach Simple Conclusion |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Infer Greater Plan |
-| +++++:   | Reach Complex Conclusion |
+::::::::::::::::: success ::::::::::::::::::
+| Deduce        |                          |
+| :------------ | :----------------------- |
+| Time:         | Free Roll, or 1 action   |
+| Opposition:   | Standard Opposition      |
+| +:            | Recognize Clue           |
+| ++:           | Reach Simple Conclusion  |
+| +++:          | Gain 1 Style Point       |
+| ++++:         | Infer Greater Plan       |
+| +++++:        | Reach Complex Conclusion |
+::::::::::::::::::::::::::::::::::::::::::::
 
 **Recognize Clue:** You realize that something in your current situation
 is out of place or doesn't add up. You create a +1D0 Tag Die that you
@@ -158,7 +164,7 @@ means. For 2 additional points you can increase the Tag Die by one step,
 to a limit based on your ranks in Observation (Deduce) as shown on the
 following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Deduce Ranks | Maximum Tag Die |
 | ------------ | --------------- |

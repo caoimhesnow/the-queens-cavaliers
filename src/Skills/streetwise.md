@@ -26,7 +26,7 @@ spreading rumors takes 1 hour.
 Die to your dice pool. The size of that die is limited by your number of
 ranks in Streetwise (Banter), as shown on the following table:
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Banter Rank Required |
 | ----------------- | --------- | -------------------- |
@@ -41,34 +41,36 @@ opposed by their own Banter roll. If you're spreading rumors, the
 standard opposition is Easy (3D6) in a medium city and Moderate (3D8) in
 a large city.
 
-| Banter |     |
-| :----  | :--- |
-| Time:   | 1 action, 1 hour, or free action |
-| Opposition:   | Target's Banter |
-| +:   | Decrease Advantage |
-| ++:   | Increase Advantage |
-| +++:   | Gain 1 Style Point  |
-| +++:   | Inflict 1 Yield |
-| \+++:   | Spread Rumor |
-| ++++:   | Enrage Opponent |
+::::::::::::::::: success ::::::::::::::::::::::::::
+| Banter        |                                  |
+| :------------ | :------------------------------- |
+| Time:         | 1 action, 1 hour, or free action |
+| Opposition:   | Target's Banter                  |
+| +:            | Decrease Advantage               |
+| ++:           | Increase Advantage               |
+| +++:          | Gain 1 Style Point               |
+| +++:          | Inflict 1 Yield                  |
+| \+++:         | Spread Rumor                     |
+| ++++:         | Enrage Opponent                  |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-| Decrease Advantage:   | If your opponent has Advantage, you can decrease |
+**Decrease Advantage:** If your opponent has Advantage, you can decrease 
 her die size by one step, or remove her Advantage Die entirely if she
 has D6 Advantage.
 
-| Increase Advantage:   | You gain a D6 Advantage Die if you don't already |
+**Increase Advantage:** You gain a D6 Advantage Die if you don't already 
 have Advantage, or increase your die size by one step, up to a maximum
 of D12.
 
-| Gain 1 Style Point:   | You gain one Style Point; you must describe how |
+**Gain 1 Style Point:** You gain one Style Point; you must describe how 
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-| Inflict 1 Yield:   | Your opponent takes one Yield for every three |
+**Inflict 1 Yield:** Your opponent takes one Yield for every three 
 Success Points you spend on Yield. If her Yield equals or exceeds her
 Yield Limit, she is Yielded Out. 
 
-| Spread Rumor:   | You spread scurrilous yet believable lies about a |
+**Spread Rumor:**   You spread scurrilous yet believable lies about a 
 rival. You create a +1D0 Tag Die based on a person, a place, an animal,
 or an object involved in some scandalous way with your rival. You can
 use the Tag Die as a Bonus Die on Interaction, Intuition, and Streetwise
@@ -80,7 +82,7 @@ day. For every 2 additional success points you spend, you can increase
 the Tag Die by one step, to a maximum value based on your ranks in
 Streetwise (Banter) as shown in the following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Banter Ranks | Maximum Tag Die |
 | ------------ | --------------- |
@@ -104,25 +106,25 @@ is served and tongues accordingly flow more freely. Carousing in a
 tavern or bar is a good way to pick up on the local rumors, and maybe
 even learn some secrets from a drunken informant.
 
-| Language:   | If you don't speak one of the local languages, you get a |
+**Language:** If you don't speak one of the local languages, you get a 
 Drop 2 penalty on Carouse rolls.
 
-| Knowledge Rolls:   | Locate the best (or worst) taverns in town, |
+**Knowledge Rolls:** Locate the best (or worst) taverns in town, 
 identify the type and origin of liquor with a taste, recall your
 companion(s) in previous drunken trysts.
 
-| Crafting:   | Beer, ale, wine, and other alcoholic beverages, as |
+**Crafting:** Beer, ale, wine, and other alcoholic beverages, as 
 described in Chapter 10, "Crafting."
 
-| Item Die:   | If you buy a round of drinks for everyone in a tavern, you |
+**Item Die:** If you buy a round of drinks for everyone in a tavern, you 
 can add the highest die in its cost to your Carousing roll as an Item
 Die.
 
-| Extra Time:   | You can spend extra time carousing to add a Bonus Die to |
+**Extra Time:** You can spend extra time carousing to add a Bonus Die to 
 your dice pool. The size of that die is limited by your number of ranks
 in Streetwise (Carousing), as shown on the following table:
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Carousing Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -132,7 +134,7 @@ in Streetwise (Carousing), as shown on the following table:
 | 16 hours (2 days) | 1D10      | \+4                     |
 | 32 hours (4 days) | 1D12      | \+5                     |
 
-| Opposition:   | The larger the city, the easier it is for you to get |
+**Opposition:** The larger the city, the easier it is for you to get 
 information or make a connection without drawing too much attention to
 yourself. In anything smaller than a large town, the standard opposition
 is Hard (3D10). In a large town or small city, the opposition is
@@ -142,18 +144,20 @@ go where everybody knows your name, and they're always glad you came --
 the roll is an automatic success and the success points are used to
 determine how well you performed the task.
 
-| Carouse |   |
-| :----- | :------ |
-| Time:   | 1 Hour |
-| Opposition:   | Standard Opposition |
-| Bonus Die:   | Extra time |
-| +:   | Hold Your Liquor |
-| +:   | Learn Common Rumor |
-| ++:   | Learn Rare Rumor |
-| +++:   | Find a Companion |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Learn Uncommon Secret  |
-| +++++:   | Learn Rare Secret |
+::::::::::::::::: success ::::::::::::::::
+| Carouse       |                        |
+| :------------ | :--------------------- |
+| Time:         | 1 Hour                 |
+| Opposition:   | Standard Opposition    |
+| Bonus Die:    | Extra time             |
+| +:            | Hold Your Liquor       |
+| +:            | Learn Common Rumor     |
+| ++:           | Learn Rare Rumor       |
+| +++:          | Find a Companion       |
+| +++:          | Gain 1 Style Point     |
+| ++++:         | Learn Uncommon Secret  |
+| +++++:        | Learn Rare Secret      |
+::::::::::::::::::::::::::::::::::::::::::
 
 | Hold Your Liquor:   | You don't suffer ill effects from the |
 over-consumption of alcoholic beverages.
@@ -201,7 +205,7 @@ Chapter 10, "Crafting."
 a Drop penalty on your die roll. The size of the Drop penalty depends on
 how quickly you rush, as shown on the following table:
 
-###### Rushing a One-Minute Task
+Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -218,18 +222,20 @@ Difficult (3D10). For extremely complex obstacles, use Very Difficult
 | Opposition:   | When trying to steal something, use the highest |
 Observation specialty of whomever might see you.
 
-| Larceny |    |
-| :--- | :--- |
-| Time:   | 1 minute |
-| Opposition:   | Standard Opposition or Observation |
-**Item Die: **Repair tools when working with obstacles
-| +:   | Case the Joint |
-| ++:   | Steal Something |
-| \+++:   | Bypass Obstacle |
-| +++:   | Gain 1 Style Point |
-| \+++:   | Install Obstacle |
+::::::::::::::::: success :::::::::::::::::::::::::::::::::::
+| Larceny       |                                           |
+| :------------ | :---------------------------------------- |
+| Time:         | 1 minute                                  |
+| Opposition:   | Standard Opposition or Observation        |
+| Item Die:     | Repair tools when working with obstacles  |
+| +:            | Case the Joint                            |
+| ++:           | Steal Something                           |
+| \+++:         | Bypass Obstacle                           |
+| +++:          | Gain 1 Style Point                        |
+| \+++:         | Install Obstacle                          |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-| Case the Joint:   | You look around your own Area or an adjacent Area |
+**Case the Joint:**   | You look around your own Area or an adjacent Area 
 and learn one of the following pieces of information:
 
 - The nearest exit, and whether it's locked
@@ -243,29 +249,29 @@ example, a second Success Point could tell you the second nearest exist,
 the second-most valuable object, the location of the second-nearest
 observer, or the location of an additional trap.
 
-| Steal Something:   | You can palm an unattended small item in your Area |
+**Steal Something:** You can palm an unattended small item in your Area 
 without being seen. For an extra 2 success points, you can remove a
 small item from the pocket of someone in the same Area as you. If you
 spend an additional 2 success points, you can move it to your pocket or
 the pocket of someone else in your Area.
 
-| Bypass Obstacle:   | You can pick a lock, bypass a trap, or disable an |
+**Bypass Obstacle:** You can pick a lock, bypass a trap, or disable an 
 alarm in your Area that would otherwise prevent you from engaging in
 criminal activity. If you spend one additional success point, you can
 reset the obstacle to become active again once you have left the Area. 
 
-| Gain 1 Style Point:   | You gain one Style Point; you must describe how |
+**Gain 1 Style Point:** You gain one Style Point; you must describe how 
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-| Install Obstacle:   | You can set a trap, alarm, or lock in your own |
+**Install Obstacle:** You can set a trap, alarm, or lock in your own 
 area to trigger once you have left the Area. An Easy (3D6) Observation
 roll is required for someone to notice the trap. For each additional 2
 success points you spend, the difficulty of the Observation roll
 increases by one step, limited by the number of skill ranks you have in
 Larceny as shown on the following table:
 
-###### Maximum Observation Opposition
+Table: Maximum Observation Opposition
 
 | Larceny Rank | Item Die              |
 | ------------ | --------------------- |

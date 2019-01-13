@@ -25,7 +25,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Aim (Crafting) |                            |
+:::::::::::::::::: success ::::::::::::::::::::
+| Aim            | (Crafting)                 |
 | -------------- | -------------------------- |
 | Base Time      | 1 hour                     |
 | Opposition     | Automatic Success          |
@@ -41,6 +42,7 @@ creation.
 | +++            | Add Pistol Quality         |
 | +++            | Add Musket Quality         |
 | ++++           | Craft Heavy Musket         |
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Short Bow:** You create any bow with a Weapon Die of +1D6.
 

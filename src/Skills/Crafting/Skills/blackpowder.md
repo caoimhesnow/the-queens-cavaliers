@@ -14,7 +14,7 @@ types of explosives require additional materials as shown on the
 following
 table.
 
-###### Crafting Blackpowder Items
+Table: Crafting Blackpowder Items
 
 | Blackpowder Item         | Additional Materials                                                                        |
 | ------------------------ | ------------------------------------------------------------------------------------------- |
@@ -54,7 +54,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Blackpowder (Crafting) |                                          |
+:::::::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
+| Blackpowder            | (Crafting)                               |
 | ---------------------- | ---------------------------------------- |
 | Base Time              |  1 hour, or 1 day (varies)               |
 | Opposition             |  Automatic Success                       |
@@ -68,6 +69,7 @@ creation.
 | +++                    |  Craft Cannon                            |
 | +++++                  |  Craft Heavy Cannon                      |
 | ++++++                 |  Create Phlogistone Furnace              |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Fireworks (1 unit of blackpowder charges):** You create a number of fireworks equal to your ranks in Science (Blackpowder).
 

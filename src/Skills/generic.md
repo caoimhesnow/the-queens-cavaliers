@@ -18,6 +18,7 @@ Very Difficult (3D12) depending on the MJ's assessment of the situation.
 Alternately, the target can defend with an appropriate Defense
 specialty, if the MJ decides the Skill use is similar to an attack.
 
+::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
 | Non-Combat Skills |                                            |
 | :---------------- | :----------------------------------------- |
 | Time:             | 1 action                                   |
@@ -27,6 +28,7 @@ specialty, if the MJ decides the Skill use is similar to an attack.
 | +++:              | Increase Advantage                         |
 | +++:              | Gain 1 Style Point                         |
 | +++++:            | Inflict 1 Wound                            |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 \
 **Inflict 1 Yield:** Your opponent takes one Yield for every two Success
 Points you spend on Yield. If her Yield equals or exceeds her Yield
@@ -62,6 +64,7 @@ knowledge rolls.
 the success points generated indicate how much information they're able
 to recall.
 
+::::::::::::::::: success ::::::::::::::::::::
 | Knowledge     |                            | 
 | :------------ | :------------------------- |
 | Time:         | Free Roll                  |
@@ -70,6 +73,7 @@ to recall.
 | ++:           | Recall Uncommon Knowledge  |
 | ++++:         | Recall Rare Knowledge      |
 | +++++:        | Recall Unique Knowledge    |
+::::::::::::::::::::::::::::::::::::::::::::::
 
 **Recall Common Knowledge:** You can recall basic facts about the topic,
 enough to hold a simple conversation about it.
@@ -95,6 +99,7 @@ action taken by a player character. If the Standard Opposition roll
 beats the action's roll, the MJ may spend the Success Points on this
 table, as well as declaring the action invalidated.
 
+::::::::::::::::::::::: success ::::::::::::::::::
 | Standard Opposition |                          |
 | :------------------ | :----------------------- |
 | Time:               | Free Roll                |
@@ -109,6 +114,7 @@ table, as well as declaring the action invalidated.
 | ++++:               | Unnecessary Distraction  |
 | ++++:               | Challenge a Passion      |
 | +++++:              | Incredibly Bad Fortune   |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Increase Difficulty:** Step up one of the dice used in the roll, if
 the player character (or an ally) attempts the same task. For example,

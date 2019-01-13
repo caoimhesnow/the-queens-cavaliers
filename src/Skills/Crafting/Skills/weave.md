@@ -25,7 +25,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Weave (Crafting) |                               |
+:::::::::::::::::::: success :::::::::::::::::::::::
+| Weave            | (Crafting)                    |
 | ---------------- | ----------------------------- |
 | Base Time        |  1 hour                       |
 | Opposition       |  Automatic Success            |
@@ -37,11 +38,12 @@ creation.
 | ++               |  Increase Charm               |
 | ++++             |  Reduce Material Cost         |
 | ++++++           |  Masterpiece\!                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Article of Clothing (1 unit of fabric):** You create a basic
 article of clothing that is social rank Commoner (D0) or Soldier (D6).
 If the social rank is Artisan (D8) or higher, you need to pay extra
-success points to create it.** **If you spend one additional success
+success points to create it. If you spend one additional success
 point, you can create an article of clothing that is social rank Artisan
 (D8) or Noble (D10). If you have at least 4 ranks in Magicks (Weave),
 you can spend one more success point to create an article of clothing

@@ -24,7 +24,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Larceny (Crafting) |                                                   |
+:::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::
+| Larceny            | (Crafting)                                        |
 | ------------------ | ------------------------------------------------- |
 | Base Time          |  1 hour                                           |
 | Opposition         |  Automatic Success                                |
@@ -35,6 +36,7 @@ creation.
 | ++                 |  Improve Obstacle Quality                         |
 | +++++              |  Forge Document                                   |
 | +++++              |  Duplicate Jewelry                                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Obstacle (1 unit of clockwork gears):** You create a simple
 lock, alarm, or trap. Attempts to install or bypass the obstacle are

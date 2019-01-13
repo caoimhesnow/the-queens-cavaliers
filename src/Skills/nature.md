@@ -30,17 +30,19 @@ an automatic success, and the success points determine how well you've
 done at your task. Inclement weather or hostile climates have a standard
 difficulty of Easy (3D6) or higher.
 
-| Explore |  |
-| :---- | :----- |
-| Time:   | 1 Minute or 1 Hour |
-| Opposition:   | Standard Opposition |
-| Item Die:   | Map or navigation tool |
-| +:   | Determine Directions |
-| ++:   | Locate a Landmark |
-| ++:   | Find Food and Water |
-| +++:   | Gain 1 Style Point |
-| +++:   | Find Shelter |
-| ++++:   | Discover Shortcut |
+:::::::::::::::: success ::::::::::::::::
+| Explore      |                        |
+| :----------- | :--------------------- |
+| Time:        | 1 Minute or 1 Hour     |
+| Opposition:  | Standard Opposition    |
+| Item Die:    | Map or navigation tool |
+| +:           | Determine Directions   |
+| ++:          | Locate a Landmark      |
+| ++:          | Find Food and Water    |
+| +++:         | Gain 1 Style Point     |
+| +++:         | Find Shelter           |
+| ++++:        | Discover Shortcut      |
+:::::::::::::::::::::::::::::::::::::::::
 
 **Determine Directions:** You know which direction is north, and roughly
 which direction you must travel in order to reach your desired
@@ -56,7 +58,7 @@ success points you spend the initial Tag Die increases by one step,
 limited by your specialty ranks in Nature (Explore) as shown on the
 following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Explore Ranks | Maximum Tag Die |
 | ------------- | --------------- |
@@ -115,7 +117,7 @@ other uses of Husbandry take 1 hour.
 Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Nature (Husbandry), as shown on the following table:
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Husbandry Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -141,17 +143,19 @@ unfriendly domesticated animal is based the higher of its Instinct or
 Ferocity attributes. Handling an animal with D6 Instinct is Easy (3D6),
 one with D8 Ferocity is Moderate (3D8), and so on. 
 
-| Husbandry |    |
-| :---- | :---- |
-| Time:   | 1 action or 1 hour |
+::::::::::::::::: success :::::::::::::
+| Husbandry     |                     |
+| :------------ | :------------------ |
+| Time:         | 1 action or 1 hour  |
 | Opposition:   | Standard Opposition |
-| +:   | Handle Animal |
-| +:   | Gather Crops |
-| \+:   | Dairy Farming  |
-| +++:   | Gain 1 Style Point |
-| +++:   | Veterinary Medicine |
-| +++:   | Butchery |
-| ++++:   | Teach a New Trick |
+| +:            | Handle Animal       |
+| +:            | Gather Crops        |
+| \+:           | Dairy Farming       |
+| +++:          | Gain 1 Style Point  |
+| +++:          | Veterinary Medicine |
+| +++:          | Butchery            |
+| ++++:         | Teach a New Trick   |
+:::::::::::::::::::::::::::::::::::::::
 
 **Handle Animal:** You can make a domesticated animal perform one of its
 tricks, go where you want it to go, or otherwise follow your directions.
@@ -168,7 +172,7 @@ the end of the scene, and increases by one step for every 2 success
 points you spend, up to a maximum based on your ranks in Husbandry as
 shown in the following table:
 
-###### (table) Maximum Tag Die
+Table: (table) Maximum Tag Die
 
 | Husbandry Ranks | Maximum Tag Die |
 | --------------- | --------------- |
@@ -230,6 +234,7 @@ circumstances. Increase the standard difficulty by one step for each of
 the following conditions: tracked by animals, bright sunlight, lack of
 cover, quiet location.
 
+::::::::::::::: success :::::::::::::
 | Prowl       |                     |
 | :---------- | :------------------ |
 | Time:       | 1 action            |
@@ -239,6 +244,7 @@ cover, quiet location.
 | ++:         | Increase Advantage  |
 | +++:        | Gain 1 Style Point  |
 | ++++:       | Move Undetected     |
+:::::::::::::::::::::::::::::::::::::
 
 **Hide:** You find a place to hide until the end of the scene or you
 move to a different location, whichever comes first. In order to see
@@ -247,7 +253,7 @@ difficulty of Easy (3D6). For every two additional success points you
 spend, you increase the difficulty by one step, limited by your ranks in
 Nature (Prowl):
 
-###### Maximum Observation Opposition
+Table: Maximum Observation Opposition
 
 | Prowl Rank | Item Die              |
 | ---------- | --------------------- |

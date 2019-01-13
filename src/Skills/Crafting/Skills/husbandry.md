@@ -25,7 +25,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Husbandry (Crafting) |                          |
+:::::::::::::::::::::::: success ::::::::::::::::::
+| Husbandry            | (Crafting)               |
 | -------------------- | ------------------------ |
 | Base Time            |  1 hour                  |
 | Opposition           |  Automatic Success       |
@@ -37,6 +38,7 @@ creation.
 | +                    |  Prepare Food            |
 | +++                  |  Improved Flexible Armor |
 | +++++                |  Superior Flexible Armor |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Flexible Armor (1 unit of fabric):** You create any flexible armor with a +1D6 Armor Die.
 

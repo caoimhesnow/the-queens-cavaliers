@@ -15,7 +15,7 @@ Rushing also increases the opposition from an automatic success to Easy
 (3D6). If you fail on a rushed crafting roll, you expend one unit of
 resources as appropriate for your task
 
-###### Rushing a One-Minute Task
+Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -24,7 +24,7 @@ resources as appropriate for your task
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
 
-###### Rushing a One-Hour Task
+Table: Rushing a One-Hour Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -33,7 +33,7 @@ resources as appropriate for your task
 | 5 minutes       | Drop 3       |
 | 1 minute        | Drop 4       |
 
-###### Rushing a One-Day Task
+Table: Rushing a One-Day Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |

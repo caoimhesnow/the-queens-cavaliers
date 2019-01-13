@@ -30,7 +30,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Scholarship (Crafting) |                              |
+:::::::::::::::::::::::::: success ::::::::::::::::::::::
+| Scholarship            | (Crafting)                   |
 | ---------------------- | ---------------------------- |
 | Base Time              |  1 hour                      |
 | Opposition             |  Automatic Success           |
@@ -42,6 +43,7 @@ creation.
 | +++                    |  Translate a Passage         |
 | +++                    |  Craft Book Chapter          |
 | ++++++                 |  Eureka\!                    |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Report (1 unit of writing materials):** You create a basic
 report on a narrow topic. The report has a +1D6 Item Die that can be

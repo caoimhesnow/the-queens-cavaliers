@@ -19,7 +19,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Deceive (Crafting) |                                |
+:::::::::::::::::::::: success ::::::::::::::::::::::::
+| Deceive            | (Crafting)                     |
 | ------------------ | ------------------------------ |
 | Base Time          |  1 day                         |
 | Opposition         |  Automatic Success             |
@@ -31,6 +32,7 @@ creation.
 | ++                 |  Improve Identity              |
 | +++++              |  Assume Someone's Identity     |
 | ++++++             |  Persistent Identity           |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Identity (1 unit of fabric):** You create an alternate identity.
 That identity has a different name from you, although it otherwise has
@@ -44,7 +46,7 @@ You can spend additional success points to alter your appearance. Each
 alteration you make to your appearance costs 1 success point and one
 additional unit of supplies, as shown on the following table.
 
-###### Identity Changes
+Table: Identity Changes
 
 | Alteration           | Supplies Cost                    |
 | -------------------- | -------------------------------- |

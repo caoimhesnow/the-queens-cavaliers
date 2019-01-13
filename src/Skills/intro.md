@@ -51,7 +51,7 @@ rolling against standard opposition, rolled by the MJ. Standard
 opposition pools consist of three dice of the same size, from Easy (3D6)
 to Very Difficult (3D12).
 
-###### Standard Opposition
+Table: Standard Opposition
 
 | Difficulty | Opposing Dice Pool |
 | ---------- | ------------------ |
@@ -83,7 +83,7 @@ more.
 The skills, specialties, and their corresponding attributes used The
 Queen's Cavaliers are shown in the following table:
 
-###### Skills and Specialties
+Table: Skills and Specialties
 
 | Skill       | Verve Specialty | Affinity Specialty | Guile Specialty |
 | ----------- | --------------- | ------------------ | --------------- |

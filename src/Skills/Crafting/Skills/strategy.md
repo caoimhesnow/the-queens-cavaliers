@@ -19,7 +19,8 @@ the writing.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Strategy (Crafting) |                       |
+::::::::::::::::::::::: success :::::::::::::::
+| Strategy            | (Crafting)            |
 | ------------------- | --------------------- |
 | Base Time           |  1 hour               |
 | Opposition          |  Automatic Success    |
@@ -29,6 +30,7 @@ creation.
 | ++                  |  Improve Battle Plans |
 | ++                  |  Issue Orders         |
 | +++++               |  Forge Orders         |
+:::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draft Battle Plans (1 unit of writing materials):** You create a basic
 plan of battle for a specific place and time. The plans give a +1D0

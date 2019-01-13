@@ -11,7 +11,7 @@ table. As you can only have one Item Die per dice pool, you can't
 combine the Item Die from a set of tools with the Item Die from a
 workroom.
 
-###### Workrooms
+Table: Workrooms
 
 | Room            | Cost | Item Die |
 | --------------- | ---- | -------- |

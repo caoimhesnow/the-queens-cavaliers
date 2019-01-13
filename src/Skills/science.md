@@ -33,14 +33,16 @@ that also is an automatic success. For one success point on the Block or
 Dodge roll, a target gains one less point of Yield, and for three
 successes she takes one less Wound.
 
-| Block or Dodge (Explosion) |   |
-| :------- | :----- |
-| Time:   | Free roll |
-| Opposition:   | Automatic success |
-| Item Die:   | Armor die or Shield die for Block rolls |
-| +:   | Take 1 Less Yield |
-| +++:   | Take 1 Less Wound |
-**+++: **Gain 1 Style Point\
+:::::::::::::::::: success :::::::::::::::::::::::::::::::::
+| Block or Dodge | (Explosion)                             |
+| :------------- | :-------------------------------------- |
+| Time:          | Free roll                               |
+| Opposition:    | Automatic success                       |
+| Item Die:      | Armor die or Shield die for Block rolls |
+| +:             | Take 1 Less Yield                       |
+| +++:           | Take 1 Less Wound                       |
+| +++:           | Gain 1 Style Point                      |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Knowledge Rolls:** Evaluate the quality of a cannon or grenade,
 describe the process used to create blackpowder or phlogistone,
@@ -64,7 +66,7 @@ add a Bonus Die to your dice pool. The size of that die is limited by
 your number of ranks in Science (Blackpowder), as shown on the following
 table:
 
-###### Extra Time for a One-Minute Task
+Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Blackpowder Rank Required |
 | --------------- | --------- | ------------------------- |
@@ -79,7 +81,7 @@ Drop penalty on your die roll. You can't rush a job that you're taking
 extra time on. The size of the Drop penalty depends on how much you rush
 the task, as shown on the following table:
 
-###### Rushing a One-Minute Task
+Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -94,7 +96,7 @@ used to select a target area and set the base damage of the explosion.
 For setting or disarming explosives, the standard opposition is based on
 the bomb's Explosion Dice.
 
-###### Blackpowder
+Table: Blackpowder
 
 | Time:   | 1 action, or 1 minute |
 | Opposition:   | Standard Opposition |
@@ -170,7 +172,7 @@ sabotaging a device to add a Bonus Die to your dice pool. The size of
 that die is limited by your number of ranks in Science (Clockworks), as
 shown on the following tables:
 
-###### Extra Time for a One-Minute Task
+Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Clockworks Rank Required |
 | --------------- | --------- | ------------------------ |
@@ -180,7 +182,7 @@ shown on the following tables:
 | 1 hour          | 1D10      | \+4                      |
 | 4 hours         | 1D12      | \+5                      |
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Clockworks Rank Required |
 | ----------------- | --------- | ------------------------ |
@@ -195,7 +197,7 @@ device by taking a Drop penalty on your die roll. You can't rush a job
 that you're taking extra time on. The size of the Drop penalty depends
 on how much you rush the task, as shown on the following table:
 
-###### Rushing a One-Minute Task
+Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -204,7 +206,7 @@ on how much you rush the task, as shown on the following table:
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
 
-###### Rushing a One-Hour Task
+Table: Rushing a One-Hour Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -220,7 +222,7 @@ used to determine how well you accomplished the task. For each component
 in a device that is beyond your ability to create, based on your Science
 (Clockworks) skill, increase the standard opposition by one step.
 
-###### Clockworks
+Table: Clockworks
 
 | Time:   | 1 action, 1 minute, or 1 hour |
 | Opposition:   | Standard Opposition |
@@ -283,15 +285,17 @@ as described in Chapter 10, "Crafting."
 workshop, or Moderate (3D8) for field work with paper and ink. Doing
 calculations in your head is Hard (3D10).
 
-| Calculus |    |
-| :---- | :---- |
-| Time:   | 1 minute or 1 hour |
-| Opposition:   | Standard Opposition |
-| Item Die:   | Tools or Workshop Die |
-| +:   | Simple Calculation |
-| \++:   | Analytis |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Complex Calculation |
+::::::::::::::::: success :::::::::::::::
+| Calculus      |                       |
+| :------------ | :-------------------- |
+| Time:         | 1 minute or 1 hour    |
+| Opposition:   | Standard Opposition   |
+| Item Die:     | Tools or Workshop Die |
+| +:            | Simple Calculation    |
+| \++:          | Analysis              |
+| +++:          | Gain 1 Style Point    |
+| ++++:         | Complex Calculation   |
+:::::::::::::::::::::::::::::::::::::::::
 
 **Simple Calculation:** You perform a simple calculation such as
 determining the size or speed of an object. 
@@ -306,7 +310,7 @@ two additional success points you spend, you can increase the Tag Die by
 one size, with a limit based on your ranks in Science (Calculus) as
 shown in the following table:
 
-###### (table) Maximum Tag Die
+Table: (table) Maximum Tag Die
 
 | Calculus Ranks | Maximum Tag Die |
 | -------------- | --------------- |

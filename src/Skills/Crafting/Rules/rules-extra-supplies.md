@@ -10,7 +10,7 @@ more materials than needed while crafting to add a Bonus Die to your
 dice pool. The size of that die is limited by your number of ranks in
 the Specialty, as shown on the following tables:
 
-###### Extra Supplies
+Table: Extra Supplies
 
 | Units of Supplies | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |

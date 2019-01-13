@@ -23,7 +23,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Riposte (Crafting) |                             |
+:::::::::::::::::::::: success :::::::::::::::::::::
+| Riposte            | (Crafting)                  |
 | ------------------ | --------------------------- |
 | Base Time          |  1 hour                     |
 | Opposition         |  Automatic Success          |
@@ -33,6 +34,7 @@ creation.
 | +                  |  Craft Light Knife          |
 | ++                 |  Craft Long Knife           |
 | +++                |  Add Knife Quality          |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Knife (1 unit of crucible steel):** You create any knife with the Either Hand quality.
 

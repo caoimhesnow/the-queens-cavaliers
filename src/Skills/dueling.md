@@ -25,6 +25,7 @@ fencing style.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
+::::::::::::::::: success ::::::::::::::::::::::::::
 | Lunge         |                                  |
 | :------------ | :------------------------------- |
 | Time:         | 1 action                         |
@@ -35,6 +36,7 @@ fencing style.
 | +++:          | Gain 1 Style Point               |
 | ++++:         | Inflict 1 Wound                  |
 | +++++:        | Break Weapon                     |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -79,6 +81,7 @@ fencing style.
 Dodge roll, and not by a Parry roll.
 
 
+::::::::::::::::: succes :::::::::::::::::::::
 | Riposte       |                            |
 | :------------ | :------------------------- |
 | Time:         | Free Action                |
@@ -89,6 +92,7 @@ Dodge roll, and not by a Parry roll.
 | ++:           | Decrease Advantage         |
 | +++:          | Gain 1 Style Point         |
 | ++++:         | Inflict 1 Woundu           |
+::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -127,6 +131,7 @@ fencing style.
 **Opposition:** A Feint roll can be defended against with a Parry or
 Dodge roll, but not by a Block roll.
 
+:::::::::::::::::: success ::::::::::::::::::
 | Feint          |                          |
 | :------------  | :----------------------- |
 | Time:          | 1 action                 |
@@ -137,6 +142,7 @@ Dodge roll, but not by a Block roll.
 | +++:           | Gain 1 Style Point       |
 | ++++:          | Execute a Riposte        |
 | +++++:         | Disarm                   |
+:::::::::::::::::::::::::::::::::::::::::::::
 
 **Increase Advantage:** You gain a +1D6 Advantage Die if you don't
 already have Advantage, or increase your die size by one step, up to a

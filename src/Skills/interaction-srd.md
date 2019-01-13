@@ -30,6 +30,7 @@ remember the names of great leaders.
 success. If you have a language barrier or other Drop Penalty applied,
 the difficulty increases to Easy (3D6) or higher.
 
+::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Inspire       |                                           | 
 | :------------ | :---------------------------------------- |
 | Time:         | 1 action                                  |
@@ -41,6 +42,7 @@ the difficulty increases to Easy (3D6) or higher.
 | +++:          | Instill Emotion                           |
 | +++:          | Gain 1 Style Point                        |
 | +++:          | Provoke Reaction                          |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inspiring Speech:** Your words start to sway those who hear them. You
 can create a tag based on an emotional state, with a +1D0 Tag Die. This
@@ -52,7 +54,7 @@ Tag with a +1D0 Bonus Die for each success point you spend.
 improves by one die size. You are limited by the number of skill ranks
 you have in Interaction (Inspire), as shown on the following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Inspire Rank | Bonus Die |
 | ------------ | --------- |
@@ -77,7 +79,7 @@ spend, you can affect another person. The Drop Penalty decreases after
 each time it's applied, and the Bonus Die decreases in size after each
 use.
 
-###### Inspire Results
+Table: Inspire Results
 
 | Tag Die | Drop Penalty | Bonus Die |
 | ------- | ------------ | --------- |
@@ -128,7 +130,7 @@ described in Chapter 10, "Crafting."
 Negotiate rolls. If there isn't a party in opposition to you, you
 probably aren't in a negotiation.
 
-
+:::::::::::::::::: success :::::::::::::::
 | Negotiate      |                       |
 | :------------- | :-------------------- |
 | Time:          | 1 minute or 1 hour    |
@@ -141,6 +143,7 @@ probably aren't in a negotiation.
 | +++:           | Gain 1 Style Point    |
 | \+++:          | Close the Deal        |
 | \++++:         | Gain the Upper Hand   |
+::::::::::::::::::::::::::::::::::::::::::
 
 **Float a Proposal:** You propose a course of action, and create a +1D0
 Tag Die based on that proposal. Until the end of the scene, you can use
@@ -202,6 +205,7 @@ in Chapter 10, "Crafting."
 **Opposition:** Use the Intuition specialty of each person who is
 listening to the lies.
 
+::::::::::::::::: success :::::::::::::
 | Deceive       |                     |
 | :------------ | :------------------ |
 | Time:         | Free Roll           |
@@ -210,6 +214,7 @@ listening to the lies.
 | ++:           | Appear Sincere      |
 | +++:          | Gain 1 Style Point  |
 | ++++:         | Appear Trustworthy  |
+:::::::::::::::::::::::::::::::::::::::
 
 **Think on Your Feet:** You come up with something quickly so that you
 don't look like you're obviously making something up. You can create a

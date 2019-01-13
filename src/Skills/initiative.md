@@ -27,6 +27,7 @@ act).
 
 ###### Impulse
 
+::::::::::::::::: success :::::::::::::::
 | Impulse       |                       | 
 | :------------ | :-------------------- |
 | Time:         | Free Roll             |
@@ -34,6 +35,7 @@ act).
 | +:            | Seize the Initiative  |
 | ++:           | Interpose             |
 | +++:          | Reprise Attack        |
+:::::::::::::::::::::::::::::::::::::::::
 
 **Seize the Initiative:** For one round, you jump ahead in the
 Initiative order, before someone else is about to act. The next round,
@@ -66,6 +68,7 @@ rolls.
 ranked in order by the MJ from highest (first to act) to lowest (last to
 act).
 
+::::::::::::::::: success :::::::::::::::
 | Vigilance     |                       | 
 | :------------ | :-------------------- |
 | Time:         | Free Roll             |
@@ -73,6 +76,7 @@ act).
 | +:            | Interpose             |
 | ++:           | Reprise Attack        |
 | +++:          | Seize the Initiative  |
+:::::::::::::::::::::::::::::::::::::::::
 
 **Interpose:** For one attack, you makes yourself the target of someone
 else's attack, instead of the attacker's intended target. This can be
@@ -104,6 +108,7 @@ rolls.
 ranked in order by the MJ from highest (first to act) to lowest (last to
 act).
 
+::::::::::::::::: success :::::::::::::::
 | Timing        |                       |
 | :------------ | :-------------------- |
 | Time:         | Free Roll             |
@@ -111,6 +116,7 @@ act).
 | +:            | Reprise Attack        |
 | ++:           | Seize the Initiative  |
 | +++:          | Interpose             |
+:::::::::::::::::::::::::::::::::::::::::
 
 **Reprise Attack:** If you failed on an attack roll, you can repeat the
 attack. This can't be used after a successful attack. You can Reprise

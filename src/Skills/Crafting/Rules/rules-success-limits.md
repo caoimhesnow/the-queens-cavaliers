@@ -12,7 +12,7 @@ creation) are shown in the following table. The applicable columns of
 the table are repeated with each Specialty's crafting
 description.
 
-###### Success Limits
+Table: Success Limits
 
 | Specialty Rank | Item Die | Charm Die | Bonus Die | Standard Opposition   |
 | -------------- | -------- | --------- | --------- | --------------------- |

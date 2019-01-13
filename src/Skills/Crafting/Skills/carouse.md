@@ -23,7 +23,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Carouse (Crafting) |                             |
+:::::::::::::::::::::: success :::::::::::::::::::::
+| Carouse            | (Crafting)                  |
 | ------------------ | --------------------------- |
 | Base Time          |  1 day                      |
 | Opposition         |  Automatic Success          |
@@ -33,6 +34,7 @@ creation.
 | ++                 |  Craft Wine                 |
 | ++                 |  Improved Alcohol           |
 | +++                |  Craft Spirits              |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Brewed Alcohol (1 unit of foodstuffs):** You create a night's
 worth of cheap beer, ale, or cider for one person. For each additional

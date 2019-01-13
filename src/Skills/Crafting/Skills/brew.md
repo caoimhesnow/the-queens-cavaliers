@@ -26,7 +26,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Brew (Crafting) |                               |
+::::::::::::::::::: success :::::::::::::::::::::::
+| Brew            | (Crafting)                    |
 | --------------- | ----------------------------- |
 | Base Time       |  1 hour                       |
 | Opposition      |  Automatic Success            |
@@ -39,6 +40,7 @@ creation.
 | ++              |  Increase Potency             |
 | ++++            |  Reduce Material Cost         |
 | ++++++          |  Eureka\!                     |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Brew Alchemical Substance (1 unit of alchemical ingredients):** You
 create one dose of a salve or draught listed in Chapter 9, "Specialized

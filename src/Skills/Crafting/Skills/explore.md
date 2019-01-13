@@ -20,7 +20,8 @@ The size of the Drop penalty depends on how much you rush the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Explore (Crafting) |                       |
+:::::::::::::::::::::: success :::::::::::::::
+| Explore            | (Crafting)            |
 | ------------------ | --------------------- |
 | Base Time          |  1 hour or 1 day      |
 | Opposition         |  Automatic Success    |
@@ -33,6 +34,7 @@ creation.
 | +++                |  Craft Globe          |
 | ++++               |  Build Shelter        |
 | +++++              |  Build Raft           |
+::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Map (1 unit of writing materials):** You create a map of either
 the local region or somewhere you've been. The map gives an Item Bonus

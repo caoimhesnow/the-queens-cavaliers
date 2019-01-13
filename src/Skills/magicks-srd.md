@@ -29,6 +29,7 @@ suppress a or bolster a Charm Die is made against standard opposition
 corresponding to the size of the Charm Die -- Easy (3D6) for a +1D6
 Charm Die, Moderate (3D8) for a +1D8 Charm Die, and so on.
 
+:::::::::::::::::: success :::::::::::::::::::::::
 | Weave          |                               | 
 | :------------- | :---------------------------- |
 | Time:          | 1 action                      |
@@ -39,6 +40,7 @@ Charm Die, Moderate (3D8) for a +1D8 Charm Die, and so on.
 | \+++:          | Bolster Charm Die             |
 | +++:           | Gain 1 Style Point            |
 | \++++:         | Restore Charm Die             |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Sense Charm: **You can sense charms woven into clothing that are in
 the same area as you, starting with the nearest charm to you. You learn
@@ -87,14 +89,16 @@ described in Chapter 10, "Crafting."
 **Opposition:** Most Magicks (Brew) rolls are made to create a draught
 or salve. Mixing a concoction has a standard difficulty of Easy (3D6). 
 
-###### Brew
-
+:::::::::::::::::: success ::::::::::::::::::::::::
+| Brew           |                                |
+| :------------- | :----------------------------- |
 | Time:          | 1 action                       |
 | Opposition:    | Standard Opposition            |
 | Item Die:      | Alchemy tools or laboratory    |
 | +:             | Mix a Concoction               |
 | \++:           | Apply a Concoction             |
 | +++:           | Gain 1 Style Point             |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Mix a Concoction:** You hastily mix together volatile chemicals and
 reagents to produce an immediate reaction. You spend 1 unit of
@@ -137,8 +141,9 @@ unwilling subject or if you are casting a hex on someone, the difficulty
 is either Easy (3D6) or an opposed Magicks (Portents) roll, whichever is
 better for the subject.
 
-###### Portents
-
+:::::::::::::::::: success ::::::::::::::::::::::::::::::::
+| Portents       |                                        |
+| :------------- | :------------------------------------- |
 | Time:          | 1 Minute                               |
 | Opposition:    | Standard Opposition                    |
 | Item Die:      | Divination tools, astrological charts  |
@@ -148,6 +153,7 @@ better for the subject.
 | ++:            | Increase Specificity                   |
 | +++:           | Gain 1 Style Point                     |
 | ++++:          | Cast a Hex                             |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Read Portents:** You make a general prediction about the next 24
 hours. Ask one yes-or-no question, or have the person you're reading ask
@@ -163,7 +169,7 @@ subject can't be the recipient of another reading.
 limit set by your ranks in Magicks (Portents) as shown in the following
 table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Portents Ranks | Maximum Tag Die |
 | -------------- | --------------- |
@@ -199,7 +205,7 @@ success points you spend, you can increase the initial size of the Drop
 penalty by 1, with a limit determined by your ranks in Portents as shown
 on the following table:
 
-###### Maximum Hex Penalty
+Table: Maximum Hex Penalty
 
 | Portents Ranks | Maximum Hex Penalty |
 | -------------- | ------------------- |

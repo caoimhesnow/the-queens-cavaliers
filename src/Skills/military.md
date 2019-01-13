@@ -26,16 +26,18 @@ Chapter 10, "Crafting."
 **Knowledge Rolls:** Evaluate someone's unarmed fighting technique after
 watching her brawl, recall the names of famous pugilists.
 
-| Brall |    |
-| :---  | :--- |
-| Time:   | 1 action or Free Roll |
-| Opposition:   | Target's Brawl, Parry, or Dodge |
-| +:   | Inflict 1 Yield |
-| +:   | Negate Brawl Attack |
-| ++:   | Achieve or Break Hold |
-| +++:   | Gain 1 Style Point |
-| +++:   | Knockdown |
-| +++++:   | Disarm |
+:::::::::::::::: success :::::::::::::::::::::::::
+| Brawl        |                                 |
+| :----------  | :------------------------------ |
+| Time:        | 1 action or Free Roll           |
+| Opposition:  | Target's Brawl, Parry, or Dodge |
+| +:           | Inflict 1 Yield                 |
+| +:           | Negate Brawl Attack             |
+| ++:          | Achieve or Break Hold           |
+| +++:         | Gain 1 Style Point              |
+| +++:         | Knockdown                       |
+| +++++:       | Disarm                          |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -85,16 +87,18 @@ marksmen.
 **Crafting: **Bows, crossbows, muskets, and pistols, as described in
 Chapter 10, "Crafting."
 
-| Aim |      |
-| :---- | :------ |
-| Time:   | 1 action |
-| Opposition:   | Target's Block or Dodge |
-| Item Die:   | Weapon Die |
-| ++:   | Inflict 1 Yield |
-| +++:   | Gain 1 Style Point |
-| +++:   | Inflict 1 Wound |
-| ++++:   | Free Reload |
-| ++++:   | Knockdown |
+:::::::::::::::: success :::::::::::::::::
+| Aim          |                         |
+| :----------- | :---------------------- |
+| Time:        | 1 action                |
+| Opposition:  | Target's Block or Dodge |
+| Item Die:    | Weapon Die              |
+| ++:          | Inflict 1 Yield         |
+| +++:         | Gain 1 Style Point      |
+| +++:         | Inflict 1 Wound         |
+| ++++:        | Free Reload             |
+| ++++:        | Knockdown               |
+::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every two Success
 Points you spend on Yield. If her Yield equals or exceeds her Yield
@@ -136,15 +140,17 @@ If there's no leader, your roll is an automatic success and the success
 points you spend are used to determine the effectiveness of your
 tactics.
 
-| Strategy |   |
-| :--- | :---- |
-| Time:   | 1 action |
-| Opposition:   | Strategy |
-| +:   | Read the Fight |
-| ++:   | Increase Tactical Advantage |
-| +++:   | Gain 1 Style Point |
-| ++++:   | Decrease Advantage |
-| +++++:   | Give an Order |
+:::::::::::::::: success :::::::::::::::::::::
+| Strategy     |                             |
+| :----------- | :-------------------------- |
+| Time:        | 1 action                    |
+| Opposition:  | Strategy                    |
+| +:           | Read the Fight              |
+| ++:          | Increase Tactical Advantage |
+| +++:         | Gain 1 Style Point          |
+| ++++:        | Decrease Advantage          |
+| +++++:       | Give an Order               |
+::::::::::::::::::::::::::::::::::::::::::::::
 
 
 **Read the Fight:** For each Success Point you spend to Read the Fight,
@@ -173,7 +179,7 @@ reloading her weapon), even though it's not her turn. For every 2
 additional success points you spend, the Bonus Die increases by one
 step, with a limit determined by your ranks in Military (Strategy):
 
-###### Maximum Bonus Die
+Table: Maximum Bonus Die
 
 | Strategy Ranks | Maximum Bonus Die |
 | -------------- | ----------------- |

@@ -23,7 +23,8 @@ the crafting
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Lunge (Crafting) |                             |
+:::::::::::::::::::: success :::::::::::::::::::::
+| Lunge            | (Crafting)                  |
 | ---------------- | --------------------------- |
 | Base Time        |  1 hour                     |
 | Opposition       |  Automatic Success          |
@@ -37,6 +38,7 @@ creation.
 | +++              |  Craft Long Polearm         |
 | +++              |  Add Sword Quality          |
 | +++              |  Add Polearm Quality        |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Sword (1 unit of crucible steel):** You create any sword that has the Either Hand quality.
 

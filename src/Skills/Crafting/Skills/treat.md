@@ -25,7 +25,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Treat (Crafting) |                                     |
+:::::::::::::::::::: success :::::::::::::::::::::::::::::
+| Treat            | (Crafting)                          |
 | ---------------- | ----------------------------------- |
 | Base Time        | 1 hour or 1 day                     |
 | Opposition       | Automatic Success                   |
@@ -37,6 +38,7 @@ creation.
 | ++++             |  Reduce Material Cost               |
 | +++++            |  Duplicate Cure                     |
 | ++++++           |  Eureka\!                           |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft medicine (1 unit of alchemical ingredients):** You create two
 units of medicine for every 1 success point and 1 unit of alchemical

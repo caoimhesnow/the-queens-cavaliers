@@ -8,7 +8,7 @@ Supplies can be purchased as shown in the following table. All supplies
 can be bought in bulk, as described in Chapter 7, "Wealth
 Rolls."
 
-###### Supplies
+Table: Supplies
 
 | Item                   | Cost | Use                                             |
 | ---------------------- | ---- | ----------------------------------------------- |
@@ -45,7 +45,7 @@ to treat injuries, cure diseases, create antidotes, and perform surgery.
 
 **Writing materials:** Paper and ink, used in creating reports, plans, and written works of art.
 
-##### Scrounging
+#### Scrounging
 
 If you have neither the necessary supplies on hand nor the ability to
 purchase more, you can spend your time scrounging -- looking in refuse

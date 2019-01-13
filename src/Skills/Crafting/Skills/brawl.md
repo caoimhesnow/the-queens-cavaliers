@@ -23,7 +23,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Brawl (Crafting) |                             |
+:::::::::::::::::::: success :::::::::::::::::::::
+| Brawl            | (Crafting)                  |
 | ---------------- | --------------------------- |
 | Base Time        |  1 hour                     |
 | Opposition       |  Automatic Success          |
@@ -33,6 +34,7 @@ creation.
 | +                |  Craft Light Cudgel         |
 | ++               |  Craft Heavy Cudgel         |
 | +++              |  Add Cudgel Quality         |
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Cudgel:** You create any cudgel with a Weapon Die of +1D6.
 

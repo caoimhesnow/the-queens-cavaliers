@@ -23,7 +23,8 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Parry (Crafting) |                             |
+:::::::::::::::::::: success :::::::::::::::::::::
+| Parry            | (Crafting)                  |
 | ---------------- | --------------------------- |
 | Base Time        |  1 hour                     |
 | Opposition       |  Automatic Success          |

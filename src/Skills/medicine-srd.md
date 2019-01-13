@@ -24,7 +24,7 @@ roll.
 a Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Medicine (Surgery), as shown on the following table:
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -38,7 +38,7 @@ number of ranks in Medicine (Surgery), as shown on the following table:
 Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Medicine (Surgery), as shown on the following tables:
 
-###### Extra Supplies
+Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -51,6 +51,7 @@ number of ranks in Medicine (Surgery), as shown on the following tables:
 **Opposition:** Healing wounds or minor surgeries are Easy (3D6)
 standard difficulty. Major surgeries are Moderate (3D8) or higher.
 
+:::::::::::::::::: success ::::::::::::::::::::::::::::::::::
 | Surgery        |                                          | 
 | :------------- | :--------------------------------------- | 
 | Time:          | 1 Hour                                   |
@@ -62,6 +63,7 @@ standard difficulty. Major surgeries are Moderate (3D8) or higher.
 | +++:           | Minor Surgical Procedure                 |
 | +++:           | Gain 1 Style Point                       |
 | +++++:         | Major Surgical Procedure                 |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Patient Survives:** Despite the relatively advanced state of Elaran
 medicine, surgery remains a risky proposition. If you don't spend one
@@ -108,7 +110,7 @@ treating diseases or applying cures takes one hour.
 to your dice pool. The size of that die is limited by your number of
 ranks in Medicine (Surgery), as shown on the following table:
 
-###### Extra Time for a One-Minute Task
+Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Treat Rank Required |
 | --------------- | --------- | ------------------- |
@@ -118,7 +120,7 @@ ranks in Medicine (Surgery), as shown on the following table:
 | 1 hour          | 1D10      | \+4                 |
 | 4 hours         | 1D12      | \+5                 |
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Treat Rank Required |
 | ----------------- | --------- | ------------------- |
@@ -132,7 +134,7 @@ ranks in Medicine (Surgery), as shown on the following table:
 Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Medicine (Surgery), as shown on the following tables:
 
-###### Extra Supplies
+Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -147,7 +149,7 @@ penalty on your die roll. You can't rush a job that you're taking extra
 time on. The size of the Drop penalty depends on how much you rush
 treatment, as shown on the following tables:
 
-###### Rushing a One-Minute Task
+Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -156,7 +158,7 @@ treatment, as shown on the following tables:
 | 2 actions       | Drop 3       |
 | 1 action        | Drop 4       |
 
-###### Rushing a One-Hour Task
+Table: Rushing a One-Hour Task
 
 | Completion Time | Drop Penalty |
 | --------------- | ------------ |
@@ -171,6 +173,7 @@ of success points determining how many points of Yield are removed.
 Treating wounds is Easy (3D6), and treating a disease is dependent upon
 the severity of the disease.
 
+::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Treat         |                                           | 
 | :------------ | :---------------------------------------- |
 | Time:         | 1 minute or 1 hour                        |
@@ -180,6 +183,7 @@ the severity of the disease.
 | ++:           | Heal 1 Wound                              |
 | +++:          | Gain 1 Style Point                        |
 | ++++:         | Reduce Disease Severity                   |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Reduce Patient's Yield:** If someone in the same area as you has taken
 Yield, you can remove one point of Yield per success point you spend.
@@ -230,6 +234,7 @@ is opposed by the highest Observation of whoever might be able to spot
 you doing the deed. Administering an antidote is based on the potency of
 the poison.
 
+:::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Poison         |                                           |
 | :------------- | :---------------------------------------- | 
 | Time:          | 1 action                                  |
@@ -239,6 +244,7 @@ the poison.
 | ++:            | Administer Antidote                       |
 | ++:            | Avoid Notice                              |
 | +++:           | Gain 1 Style Point                        |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Poisoned Weapon:** You can add expend one dose of poison and apply it
 to a Knife, Sword, Polearm, or the arrows for a Bow. For each success
@@ -266,7 +272,7 @@ two additional success points, you can increase the difficulty to spot
 the posion by one step, limited by your specialty ranks in Medicine
 (Poison) as shown in the following table:
 
-###### Maximum Observation Opposition
+Table: Maximum Observation Opposition
 
 | Poison Rank | Item Die              |
 | ----------- | --------------------- |

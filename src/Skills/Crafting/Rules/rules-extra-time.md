@@ -9,7 +9,7 @@ you can spend extra time on crafting to add a Bonus Die to your dice
 pool. The size of that die is limited by your number of ranks in the
 Specialty, as shown on the following tables:
 
-###### Extra Time for a One-Minute Task
+Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Specialty Rank Required |
 | --------------- | --------- | ----------------------- |
@@ -19,7 +19,7 @@ Specialty, as shown on the following tables:
 | 1 hour          | 1D10      | \+4                     |
 | 4 hours         | 1D12      | \+5                     |
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
@@ -29,7 +29,7 @@ Specialty, as shown on the following tables:
 | 16 hours (2 days) | 1D10      | \+4                     |
 | 32 hours (4 days) | 1D12      | \+5                     |
 
-###### Extra Time for a One-Day Task
+Table: Extra Time for a One-Day Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |

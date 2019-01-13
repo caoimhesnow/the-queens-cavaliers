@@ -71,6 +71,7 @@ add the same Weapon Quality twice to a single weapon.
 The Success Table: *Specialty* quality adds additional options to the
 indicated success table.
 
+::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
 | Success Table Weapon Qualities  |                                   |
 | ------------------------------- | --------------------------------- |
 | \+                              |  Basket Hilt (Decrease Advantage) |
@@ -82,6 +83,7 @@ indicated success table.
 | \+++                            |  Yielding (Inflict 4 Yield)       |
 | \++++                           |  Disarming                        |
 | \+++++                          |  Weapon-Breaking                  |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Basket Hilt:** If your opponent has Advantage, you can decrease her
 die size by one step, or remove her Advantage Die entirely if she has

@@ -33,6 +33,7 @@ succeed and the success points will determine the quality of the
 performance. Under less than ideal circumstances, Standard Opposition of
 Easy (3D6) or higher may be required.
 
+::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
 | Arts          |                                            |
 | :------------ | :----------------------------------------- |
 | Time:         | 1 minute or longer                         |
@@ -43,6 +44,7 @@ Easy (3D6) or higher may be required.
 | ++:           | Increase Tag Die                           |
 | +++:          | Gain 1 Style Point                         |
 | ++++++:       | Encore, Encore\!                           |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Successful Performance:** You give a successful performance of a work,
 be it already prepared or an improvisational performance. You can create
@@ -55,7 +57,7 @@ each success point you spend.
 die size. You are limited by the number of skill ranks you have in
 Culture (Arts), as shown on the following table:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Arts Rank | Bonus Die |
 | :-------: | :-------: |
@@ -98,6 +100,7 @@ Opposition of Easy (3D6) or higher may be required.
 **Bonus Die:** Add your own highest Social Rank Die as a Bonus Die when
 making an Etiquette roll.
 
+::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
 | Etiquette     |                                            |
 | :------------ | :----------------------------------------- |
 | Time:         | 1 Minute or more                           |
@@ -108,6 +111,7 @@ making an Etiquette roll.
 | ++:           | Improve Impression                         |
 | +++:          | Gain 1 Style Point                         |
 | ++++:         | Pass as Different Social Rank              |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Avoid Faux Pas:** You communicate what you are trying to say without
 making any social blunders.
@@ -122,7 +126,7 @@ success point you spent, the social rank you impress increases by one.
 two success points you spend. The size of the Tag Die limited by your
 Etiquette specialty ranks as follows:
 
-###### Maximum Tag Die
+Table: Maximum Tag Die
 
 | Etiquette Ranks | Maximum Tag Die |
 | :-------------: | :-------------: |
@@ -170,7 +174,7 @@ Bonus Die to your dice pool. The size of that die is limited by your
 number of ranks in Culture (Scholarship), as shown on the following
 table:
 
-###### Extra Time for a One-Hour Task
+Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Scholarship Rank Required |
 | :---------------- | :-------: | :-----------------------: |
@@ -182,8 +186,7 @@ table:
 
 **Opposition:** Use Easy (3D6) in most circumstances.
 
-###### Scholarship
-
+:::::::::::::::: success :::::::::::::::::::::::::::::::::::::
 | Scholarship   |                                            |
 | :------------ | :----------------------------------------- |
 | Time:         | 1 Hour                                     |
@@ -193,6 +196,7 @@ table:
 | +:            | Research                                   |
 | +++:          | Gain 1 Style Point                         |
 | +++++:        | Teach a Lesson                             |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Research:** You gain in-depth knowledge about one specific person,
 place, thing, group, or event for each Success Point you spend. You can

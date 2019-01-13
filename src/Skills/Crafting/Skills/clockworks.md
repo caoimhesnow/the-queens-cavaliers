@@ -25,7 +25,8 @@ you rush the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Clockworks (Crafting) |                                    |
+::::::::::::::::::::::::: success ::::::::::::::::::::::::::::
+| Clockworks            | (Crafting)                         |
 | --------------------- | ---------------------------------- |
 | Base Time             |  1 hour                            |
 | Opposition            |  Automatic Success                 |
@@ -37,6 +38,7 @@ creation.
 | \+                    |  Craft Casing                      |
 | \++                   |  Assemble Device                   |
 | +++++                 |  Duplicate A Device                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Component (1 or more units of clockwork gears):** You create a
 clockwork component. If it has an Item Die, it starts at +1D6. For each

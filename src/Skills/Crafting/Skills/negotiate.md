@@ -16,7 +16,8 @@ ranks in Interaction (Negotiate).
 succeeds. The success points generated determine the quality of the
 creation.
 
-| Negotiate (Crafting) |                              |
+:::::::::::::::::::::::: success ::::::::::::::::::::::
+| Negotiate            | (Crafting)                   |
 | -------------------- | ---------------------------- |
 | Base Time            |  1 minute or 1 hour          |
 | Opposition           |  Automatic Success           |
@@ -27,6 +28,7 @@ creation.
 | +++                  |  Craft Complex Document      |
 | +++++                |  Forge Document              |
 | ++++++               |  Include Loophole            |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Basic Document (1 unit of writing materials):** You create a
 basic legal document, such as a bill of sale. If signed by at least one

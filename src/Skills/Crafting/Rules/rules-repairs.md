@@ -9,7 +9,7 @@ simply stops operating.
 The time to repair an object depends on the time it would take to create
 a new one of the same type, as shown on the following table.
 
-###### Repair Time
+Table: Repair Time
 
 | Base Crafting Time | Repair Time |
 | ------------------ | ----------- |

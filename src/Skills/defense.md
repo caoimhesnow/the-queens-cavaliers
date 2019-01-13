@@ -40,6 +40,7 @@ fencing style.
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
 
+::::::::::::::::: success :::::::::::::::::::::::::::::::::
 | Parry         |                                         |
 | :------------ | :-------------------------------------- |
 | Time:         | Free Roll                               |
@@ -50,6 +51,7 @@ or Brawl roll, but not against a Riposte or Aim attack.
 | +++:          | Gain 1 Style Point                      |
 | ++++:         | Increase Advantage                      |
 | +++++:        | Disarm                                  |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
@@ -92,6 +94,7 @@ maker's mark on armor.
 **Opposition:** A Block roll can be used to defend against an attacker's
 Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.
 
+::::::::::::::::: success :::::::::::::::::::::::::::::::::
 | Block         |                                         |
 | :------------ | :-------------------------------------- |
 | Time:         | Free Roll                               |
@@ -101,6 +104,7 @@ Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.
 | ++:           | Reduce Yield Taken                      |
 | +++:          | Gain 1 Style Point                      |
 | ++++:         | Increase Advantage                      |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
@@ -134,6 +138,7 @@ rolls.
 **Opposition:** A Dodge roll can be used against any incoming attack
 roll.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 | Dodge         |                                                       |
 | :------------ | :---------------------------------------------------- |
 | Time:         | Free Roll                                             |
@@ -143,6 +148,7 @@ roll.
 | +++:          | Gain 1 Style Point                                    |
 | ++++:         | Reduce Yield Taken                                    |
 | +++++:        | Free Move                                             |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
