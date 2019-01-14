@@ -1,11 +1,11 @@
-### Gender, Sexuality, and Race
+# Gender, Sexuality, and Race # {.breakbefore}
 
 In general, Gallinea is a diverse nation, full of people of all genders,
 sexualities, and races. While that mostly holds true upon closer
 examination, the Land of the Ascendant Pegasus does still retain some
 inequalities based on old traditions and biases.
 
-#### Gender
+## Gender
 
 Gallinean custom has long held the primacy of women within society --
 after all, the traditionalists argue, it is women who maintain the
@@ -98,7 +98,8 @@ provide the equivalent of hormone replacement to those who wish it, and
 a number of medical procedures exist that can provide further changes to
 bring one's body into conformance with their stated gender.
 
-##### (Sidebar) Gender Terminology
+:::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
+##  Gender Terminology
 
 - **Clarissic:** An adjective describing someone whose gender is not that
 assigned at birth. A reference to Clarisse Sudelune, a former soldier,
@@ -116,8 +117,9 @@ the 12th century PQ.
   over time. Named after the Ekalian twin deities Peryon and Sybrea who
   are to be reflections of each other or possibly the same god.
 - **Woman:** Someone who is female.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-#### Sexuality
+## Sexuality
 
 The concept of "homosexuality" and "heterosexuality" as distinct sexual
 orientations is unknown within Gallinean society. Society, overall, is
@@ -155,7 +157,8 @@ found the right person yet. One decree in the Elissian Reforms
 establishes full legal equality, including inheritance rights, to people
 who are asexual.
 
-##### Sexuality Terminology
+:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::
+## Sexuality Terminology
 
 - **Jathyc:** An adjective describing a sexual or romantic relationship between two men, named after the Ekalian deity Jathys, god of craftsmanship and commerce.
 - **Outré:** An archaic adjective describing a man who is exclusively attracted to women, or a woman who is exclusively attracted to men.  Often considered offensive.
@@ -166,3 +169,4 @@ who are asexual.
 - **Sapphique:** An adjective describing a sexual or romantic relationship between two women, named after Safira, the first Bride of the Sun according to Asrian theology.
 
 There are no particular terms for being a bisexual person, a lesbian, or a gay man in Gallinean. Such concepts don't exist in Elaran cultures.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

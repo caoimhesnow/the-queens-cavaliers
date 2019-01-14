@@ -1,6 +1,6 @@
-### Gallinean Holidays
+# Gallinean Holidays ## {.breakbefore}
 
-#### Asrian Holy Days
+## Asrian Holy Days
 
 The sixth day of every month is the first Sun Day of that month, and is
 when most Asrian holy days celebrate the sun goddess Eserre. Devout
@@ -54,7 +54,7 @@ Brumaire), and Autumn's Dusk (6 Frimaire) are quieter affairs, devoted
 to teaching, sermons, and service as the year winds down, the crops are
 harvested, and the worshipers of the Sun Goddess prepare for winter.
 
-#### New Moon Festivals
+## New Moon Festivals
 
 In addition to Asrian religious holy days, Gallineans also celebrate
 ancient traditions associated with the Old Faith of the witches. These
@@ -88,14 +88,14 @@ rabbit, or pheasant. On the night of 16 Frimaire, the New Mourning Moon,
 Gallineans remember their dead friends and relatives, especially those
 who have passed within the last year, through guising or mumming.
 
-#### Devran Holy Days
+## Devran Holy Days
 
 The Devrans have their own holy days when the moon is a crescent in the
 sky. The 13th of each month is known as Last Crescent, and the 19th of
 each month is the First Crescent. Ceremonies are held on both nights,
 and many Devrans fast nightly during the week between the two holy days.
 
-#### National Holidays
+## National Holidays
 
 Gallinea's national holidays are secular in nature and recognize
 important events in the history of the queendom.
