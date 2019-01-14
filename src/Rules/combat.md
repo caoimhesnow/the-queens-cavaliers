@@ -1,4 +1,4 @@
-# Combat
+# Combat # 
 
 Combat is initiated when either party wants to begin a physical conflict. 
 
