@@ -1,4 +1,4 @@
-# Passions
+# Passions {.breakbefore}
 
 Characters in *The Queen's Cavaliers* are passionate, and their passions
 often spur them on to fantastic success or dismal failure.
@@ -116,7 +116,7 @@ A character with a Passion for the Church is devoted to the hierarchy of
 a religious institution, most commonly the Asrian church under the
 direction of the Matriarch.
 
-:::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::: example-illustrated :::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
 ![Guardian Farrazin, by Eleanor Ferron](assets/Portraits/guardian-farrazin.jpg "Guardian Farrazin, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -199,7 +199,7 @@ Some people are very faithful to their Friends and would do anything for
 them – even die for them in some cases. You can decide if this applies
 to all your character's friends or just her closest friends.
 
-::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::: example-illustrated ::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
 ![Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/gabriana-secouriste.jpg "Gabriana Secouriste, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -243,7 +243,7 @@ Dedication to the pursuit of Knowledge can be expressed through a desire
 to learn the truth behind mysteries, to explore the world, or to learn
 all that can be learned.
 
-::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::: example-illustrated ::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
 ![Queen Mariana III of Gallinea, by Eleanor Ferron](assets/Portraits/queen-mariana.jpg "Queen Mariana III of Gallinea, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -288,7 +288,7 @@ group. You must specify who is the subject of your character's Loyalty
 if you choose this Passion. You might not actually like the people
 you're loyal to, but this isn't about friendship but honor.
 
-:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: example-illustrated :::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
 ![Martine Deveaux, by Eleanor Ferron](assets/Portraits/martine-deveaux.jpg "Martine Deveaux, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,4 +1,4 @@
-# Passions
+# Passions # {.breakbefore}
 
 Characters in this game are passionate, and their passions
 often spur them on to fantastic success or dismal failure.
