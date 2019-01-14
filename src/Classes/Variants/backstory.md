@@ -1,4 +1,5 @@
-## Option: Random Backstories
+## Option: Random Backstories ## 
+
 
 This is an optional method of character creation that allows you to roll
 randomly on a series of tables (or, with your MJ's permission, pick from

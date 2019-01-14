@@ -1,5 +1,3 @@
-# Quickstart Rules
-
 ## How to Play
 
 *The Queen's Cavaliers* (*TQC*) is a Baroque, swashbuckling, clockpunk

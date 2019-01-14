@@ -1,4 +1,4 @@
-## Option: Playing Without Classes
+## Option: Playing Without Classes ## {.breakbefore}
 
 You don't even have to play with classes (or backstories) at all. The MJ
 might allow this option if she wants everyone to have the most

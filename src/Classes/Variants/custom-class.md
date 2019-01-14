@@ -1,4 +1,4 @@
-## Option: Creating a Custom Class
+## Option: Creating a Custom Class ## {.breakbefore}
 
 If only one of the classes appeals to you, you can create a custom class
 with the MJ's consent. (Having two custom classes is not recommended;

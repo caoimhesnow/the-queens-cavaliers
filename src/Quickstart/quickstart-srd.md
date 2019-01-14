@@ -1,5 +1,3 @@
-# Quickstart Rules
-
 ## How to Play
 
 Each player creates a player character (PC).

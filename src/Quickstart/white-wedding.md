@@ -1,4 +1,4 @@
-## Nice Day for a White Wedding
+## Nice Day for a White Wedding ## {.breakbefore}
 
 This is a sample adventure that can be used by starting players and MJs to
 introduce the world and the game rules.
@@ -155,24 +155,12 @@ the evening is a Streetwise (Carouse) roll, with standard opposition of
 Easy (3D6) if the character speaks Varendish, and Moderate (3D8) if not.
 Some rumors or secrets include:
 
-1\. The Landgraf recently canceled an order of steel breastplates from
-Canard-Noir (true; common rumor, or uncommon secret)
-
-2\. Three of the serving staff were hired a month ago (true; rare rumor
-or uncommon secret)
-
-3\. Someone in Stimmtburg was asking about mercenaries a few weeks ago,
-which admittedly isn't all that uncommon for Varendia (true; common
-rumor, or rare secret)
-
-4\. The marquise's consort is actually a spy in the employ of Prince
-Jean-Remy (false; common rumor)
-
-5\. The musicians were chosen because of their repertoire of Gallinean
-belle danse music (false; rare rumor)
-
-6\. Hans broke off an engagement with a duke's daughter to marry Piers
-(false; common rumor)
+  #. The Landgraf recently canceled an order of steel breastplates from Canard-Noir (true; common rumor, or uncommon secret) 
+  #. Three of the serving staff were hired a month ago (true; rare rumor or uncommon secret) 
+  #. Someone in Stimmtburg was asking about mercenaries a few weeks ago, which admittedly isn't all that uncommon for Varendia (true; common rumor, or rare secret) 
+  #. The marquise's consort is actually a spy in the employ of Prince Jean-Remy (false; common rumor) 
+  #. The musicians were chosen because of their repertoire of Gallinean belle danse music (false; rare rumor) 
+  #. Hans broke off an engagement with a duke's daughter to marry Piers (false; common rumor)
 
 Remember that rumors could be true or could be false, while secrets are
 always true. You can provide additional rumors or secrets at your
@@ -183,23 +171,12 @@ check, against Easy (3D6) standard opposition. Alternately, a Knowledge
 roll with an appropriate skill could suffice as well. Some of the things
 a cavalier might notice: 
 
-1\. The cellist is not as good as the rest of the musicians, and missed
-a few notes here and there
-
-2\. There are 8 different members of the serving staff who move around
-delivering food and drinks, and carrying off empty plates
-
-3\. The guards did pause to eat some strudel given to them by some
-serving staff
-
-4\. There is a cold breeze blowing over the balcony and the sky above is
-getting cloudier, blocking out some stars
-
-5\. The marquise's consort, Esdeline, looks bored and her bearing marks
-her as a non-noble
-
-6\. The wine is mostly imported from Gallinea and was brought by the
-marquise.
+  #. The cellist is not as good as the rest of the musicians, and missed a few notes here and there
+  #. There are 8 different members of the serving staff who move around delivering food and drinks, and carrying off empty plates
+  #. The guards did pause to eat some strudel given to them by some serving staff
+  #. There is a cold breeze blowing over the balcony and the sky above is getting cloudier, blocking out some stars
+  #. The marquise's consort, Esdeline, looks bored and her bearing marks her as a non-noble
+  #. The wine is mostly imported from Gallinea and was brought by the marquise.
 
 Not all of these observations are important. You can feel free to add
 additional details from the information given in the adventure, or just
@@ -257,7 +234,6 @@ actually an Unemployed Thespian passing herself off as a visitor from
 Gallinea. Nobody's actually heard of her before
 this.
 
-:::::::::::::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::
 Table: Opponent Summary
 
 | Players     | Opponents                                                            |
@@ -267,7 +243,6 @@ Table: Opponent Summary
 | 4 cavaliers | Cellist, 3 Servers                                                   |
 | 5 cavaliers | Cellist, Oboe Player (Brash Fencer), 3 Servers                       |
 | 6 cavaliers | Cellist, Oboe Player, 3 Servers, "Minor Noble" (Unemployed Thespian) |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The nobles and guests present, including the grooms, won't join the
 fight -- they're non-combatants and mostly drunk, so it's up to the
@@ -337,7 +312,6 @@ can have a somewhat silly out-of-the-blue motivation with the
 but it's there if you need it. In any case, have Greta make her
 motivation clear as she tries to get Hans onto the airship.
 
-::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Opponent Summary
 
 | Players     | Opponents                                                                  |
@@ -347,7 +321,6 @@ Table: Opponent Summary
 | 4 cavaliers | Greta Valliken (Privateer Captain), 3 Crewmembers                          |
 | 5 cavaliers | Greta Valliken, 4 Crewmembers                                              |
 | 6 cavaliers | Greta Valliken, 4 Crewmembers                                              |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Resolution
 
@@ -360,11 +333,9 @@ join the fray, rescuing Hans but not defeating Greta -- leave that to
 the cavaliers, or have her escape (although that's less
 satisfying).
 
-:::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ##### Rewards
 
 |                   |                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | Experience Points | 1 XP for each cavalier                                                                       |
 | Monetary Rewards  | 1D6 Reward from Landgraf von Stimmt, 1D8 Reward from Marquise de Montambre for each cavalier |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
