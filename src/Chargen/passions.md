@@ -117,6 +117,9 @@ a religious institution, most commonly the Asrian church under the
 direction of the Matriarch.
 
 :::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
+![Guardian Farrazin, by Eleanor Ferron](assets/Portraits/guardian-farrazin.jpg "Guardian Farrazin, by Eleanor Ferron")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *Example:* High Chaplain Farrazin, Guardian of the Faith of Gallinea,
 is a very devout man, yes. But ultimately his loyalty is less to the
 teachings of the goddess Essere than to her church. Raised in an Asrian
@@ -197,6 +200,9 @@ them – even die for them in some cases. You can decide if this applies
 to all your character's friends or just her closest friends.
 
 ::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
+![Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/gabriana-secouriste.jpg "Gabriana Secouriste, by Eleanor Ferron")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *Example:* Gabriana Secouriste is a young member of the Queen's
 Cavaliers. Personable and easy-going, she makes friends easily and is
 slow to lose them.
@@ -238,6 +244,9 @@ to learn the truth behind mysteries, to explore the world, or to learn
 all that can be learned.
 
 ::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
+![Queen Mariana III of Gallinea, by Eleanor Ferron](assets/Portraits/queen-mariana.jpg "Queen Mariana III of Gallinea, by Eleanor Ferron")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *Example:* As a princess, Mariana of Gallinea was much more interested
 in scientific pursuits and clockwork engineering than she was in courtly
 rituals and noble intrigues. She was a top student at the Royal
@@ -280,6 +289,9 @@ if you choose this Passion. You might not actually like the people
 you're loyal to, but this isn't about friendship but honor.
 
 :::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
+![Martine Deveaux, by Eleanor Ferron](assets/Portraits/martine-deveaux.jpg "Martine Deveaux, by Eleanor Ferron")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *Example:* Martine Deveaux was once a faithful and loyal member of the
 Queen's Cavaliers, willing to die for the organization and those within
 it. After a disastrous mission with the Cavaliers where she was made the

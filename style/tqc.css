@@ -288,9 +288,7 @@ h2::before {
   border: 0.75pt solid #654321;
   }
 
-.example p:first-child {
-  text-indent: 0;
-  }
+.example p { text-indent: 0; }
 
 .statblock {
   margin: 0.2in;
@@ -366,3 +364,42 @@ h1+h2, h2+h3, h1+h3, h2+h4, h1+h4 {
   break-inside: avoid-page;
   break-before: avoid-page;
   }
+
+/* artwork */
+
+div { 
+  content: "";
+  clear: both;
+  display: table;
+}
+
+figure { margin: 0; 
+  break-inside: avoid-page; 
+}
+
+figure img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+figcaption {
+  padding: 2pt;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2pt;
+  text-align: left;
+  border: 1pt solid #432100;
+  font-family: 'IM Fell Double Pica PRO', 'IM Fell Double Pica', monospace;
+  width: 1.20in;
+  font-size: 8pt;
+  }
+
+div.thumbnail-left  { float: left;  padding-right: 1em; }
+div.thumbnail-right { float: right; padding-left:  1em; }
+
+div.thumbnail-left img, div.thumbnail-right img {
+  width: 1.25in;
+  }
+
