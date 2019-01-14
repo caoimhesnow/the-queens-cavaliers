@@ -1,4 +1,0 @@
-###### Yeoman
-
-*description needed*
-

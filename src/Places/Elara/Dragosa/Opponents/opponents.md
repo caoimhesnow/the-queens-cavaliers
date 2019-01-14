@@ -1,2 +1,0 @@
-### Dragosan Individuals
-

@@ -1,4 +1,0 @@
-### Dragosan History
-
-*introduction needed*
-
