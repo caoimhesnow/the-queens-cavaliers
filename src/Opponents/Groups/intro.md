@@ -1,4 +1,4 @@
-## Opponent Groups
+## Opponent Groups ## {.breakbefore}
 
 Certain types of opponents are usually encountered in mixed groups. Here
 are several that you can use or adapt when you need them.

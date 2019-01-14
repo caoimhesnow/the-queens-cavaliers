@@ -1,4 +1,4 @@
-## Minor Characters
+## Minor Characters ## {.breakbefore}
 
 You should name each minor character that figures into your game,
 although you don't need to have them directly introduce themselves to
