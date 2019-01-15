@@ -34,18 +34,155 @@ your character's uniqueness.
 | Backer Wrangling                       | Rachel Tolliver                                  |
 | Editing                                | Kristine Chester, Caoimhe Ora Snow               |
 
+#### Fonts
+
+This game uses the Fell Types revival fonts.
+
+> The Fell Types took their name from John Fell, a Bishop of Oxford in the seventeenth-century. 
+> Not only he created an unique collection of printing types but he started one of the most 
+> important adventures in the history of typography. 
+
+The Fell Types are digitally reproduced by Igino Marini. <www.iginomarini.com>
+
 ### Playtests ###                                                                                      {.nobreak}
 
 Playtests for *The Queen's Cavaliers* were held throughout southern California, including at the Strategicon conventions, 
 at Game Empire Pasadena, at Clockwork Couture, at Comic Quest, and elsewhere. 
 Hundreds of people playtested *TQC* and their feedback was essential in shaping the game!
 
-*list needed*
+Primary playtesters include
+Alana Tolliver, Alex Katz, Bay Grabowski, Bing Hsu, Brian Kuwabara, Buddy Arnold, Chris Gray, Dave Pakirdjian, Drake Mirabile,
+Elan Garfias, Forrest McDonald, Ira Taborn, Ivy Bishop, James Clawson, James Freeman, James Zack, Jeff Hollis, Jeremy Forbing,
+Jorin Bossen, Jose Farinas, Kristine Chester, Maire Bourke, Maximilian Trevino, Noah Tolliver, Pascal Martelli, Paul “Mongo” Gebeau,
+Rachel Tolliver, Reverend DAK, Richard Mirabile, Robert “Not James” Fuentes, Roland Trevino, Tim Hanson, and Tim Labor.
 
 ### Kickstarter Backers  ###                                                                             {.nobreak}
 
-*list needed*
+We would like to extend our gratitude to the following people who backed our project on Kickstarter.
 
+#### Exemplary Cavaliers
+
+Queen Mariana II personally commends the following Cavalier officers for service to Gallinea above and beyond the call of
+duty, and awards them the highest honors of queendom, La Médaille Étoile de La dame de La Victoire.
+
+::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Adam Solis\
+Bri\
+Michelle Trout\
+Noxweiler Berf\
+Pablo "Hersho" Domínguez\
+Paul MacDonald\
+Vicky Bartlett
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Officers - Seize the Initiative
+
+Prince Jean-Remy inducts the following Cavalier officers into the Order of the Sable Sol-de-Essere for quick and
+decisive action in the cause of the crown.
+
+::::::::::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Ashok Desai, Byron Black, Dalassa, David A. Stern III, Jason K Averill, Jesse Butler, Matthew McFarland, Robert P. Stefko, Simon David Taylor, Wade Geer
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Officers
+
+The following Cavaliers have proven themselves time and time again to be worthy champions of Gallinea, and are
+hereby award all honors accorded to a senior officer of the crown.
+
+::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+A. A. Price, Adam Everman, Alex Eizenhart, Alex Fux, Andreas Bodensohn, Andrew Curl, Andrew Lloyd, Arie LaTourette, Arkadiusz "Stoperssonn" Stopczyk,
+Ben Niehoff, Beth Brooks-Smith, Brent Walters, Brian "Becky" Cranmer Jr., Brian Allred, Brian Isikoff, Brooke Wiewel, Cesar "Kimble" Luz, Charles Myers,
+Christina Le Galloudec, Christopher Fales, Conan McKegg, Crane Laws, CrystalRose Fales, Daniel Bélanger, Daniel Ley, Daniel N Jones, David and Julie Scott,
+Erik Garland, G. Michael Truran, Håkon Gaut, Ira Taborn, Jeff Erwin, jenh, Jennifer Sutton, Jim Waters, John Doyle, Joseph Johnston, Justin Vander Schaaf,
+K. David Ladage, Kevin Weaver, 林立人 Lin Liren, Mari Walker, Mark Buckley, Martin Lamssies, Matt Hurd, Matthew "Monk of Thunder" Orwig, Matthew Thornton Bivens, Michael Baker,
+Monsieur d'Amherst capitaine lieutenant, Morgan Weeks, Nathan McCoy, Nic Neidenbach, Pablo Guzman, Patrick O'Donnell, Patrick Thomas Morgan, Ric Wagner,
+Richard 'Vidiian' Greene, Rob Barrett, Robert Sanzone, Ron Wilhelm, Ruza, Sam Gordon, Sandra WarKitteh Phillips, Scott "MoonHunter" Fitz, Sean Carroll,
+Seth Baker, Shawn P, Sheryl Williams, Simon Ward, Steve "Slipperboy" Donohue, Steve Williams, StoneTabletGames.com, Susanna May Krawczyk, Teddy Adam Byrd,
+Terry Heying, The Marquis de Salles, Timothy McGowan, Timothy Salisbury, Todd Peden, Tony & Jenna Elaluf, Trip Space-Parasite, Warren P Nelson
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Queen's Cavaliers - Seize the Initiative
+
+Prince-Father Michel Aubene has taken note of the following Cavaliers for showing initiative in their support of the crown, and extends his personal
+gratitude and appreciation.
+
+::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Alistair Morrison, Allan Carpenter,
+Anna Johnson-Betty, Darren Hennessey, Dave Satterthwaite, Ed Moretti, Jakob Pape, Joshua Ramsey, Ken Finlayson, Konstantinos "Yo! Master" Rentas,
+Kristen Rappazzo, Maire Bourke, Mike "Doctorfuzion" Leader, peter peretti, Queen Colleen, Sean Tait Bircher, Stephanie Wagner, Tom Ladegard, Tomohisa Naka
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Queen's Cavaliers
+
+Queen Mariana honors the following Cavaliers for their service to the throne.
+
+
+::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Adam Mosley, Adam Whitcomb, Adam Windsor, Adams Tower, AJ Letter, Alex Kartzoff, Alexander "Lxndr" Cherry, Amy Brennan, Andrea Gaulke, Andrea Martinelli,
+Andrés Santiago Pérez-Bergquist, Andy Cook, Anthony Lanese, Aquantis, Armin Sykes, Austin Lehrer, Ben 'Red Rook' Nettleship, Bernie Frick, brazil808,
+Brendan Myers, Brian Griesbach, C. Kushnir, Cameron Blackwood, Carlos Ovalle, Casey Hayes, Casidhe Nebulosa, Cavan and Theresa Rider, Cheyenne Smith,
+Chris Cooper, Chris Fairbanks, Chris Mortika, Chuck Modzinski, Cintra Bristol, Clemens du Bellier, Colin Steele, Craig Oxbrow, Dan Massey, Dan Quattrone,
+Dane Evans, Daniel Steadman, Daniel Wood, David "Tarislan" Yellope, David Bent, David Olshanski, David Terhune, Deana Lancaster,
+Drew (Andrew) South, Drew Wendorf, Drew Wood, Duke John Kennedy I, Ed Johns, Ed Kowalczewski, Edward Sturges, Emery Shier, Enty, Erika Graham, Evan F.,
+Evan Mitchell, Felicia Hudson, Feltk, Forrest McDonald, Frank Zazanis, Frost Holliman, Gavin Kenny, GMGerrymander, Greg "Dr. SkySkull" Gbur,
+Gulliver, Guy "Derek" Garnett, Hannah Taylor, Hans Holm, Herman Duyker, In Memory of Olwen Ferrie, J. Quincy Sperber, Jack Gulick, Jake Leeder,
+James F Tillman, Janelle Estaris, Jason Childs, Jason Marks, Jeff Grubb, Jeff Lee, Jeffrey Chan, Jen Manna, Jeremy Douglass, Jeremy Forbing,
+Jerry Ozbun, Jim Sandoval, Joann Clarke-Stein, John Bliss, John S. Willson, Jon, Jon Finn, Jonathan "Buddha" Davis, Josh Medin, Julian "Ani" W.,
+Julien Delabre, Justin Levitt, Kaj J. Nicholson, Kali Chandler, Kari Wilfong, Kat Pepmiller, Kees DeBruin, Keith Trost, Keri Wyllie, Kevin Watson, Kitka,
+Kristine Chester, Kurt, Lady Erica Schmitt Marquesa of Vulpinmarch, Lawrence Schick, Liam Allman, Lloyd Rasmussen, Lori Otis, Luke Martinez,
+M. Sean Molley, Maria Laine, Marie-Claude Dufour, Marisol Cueva, Mark Diaz Truman and Marissa Kelly Magpie Games, Mark K. Boore, Mark S,
+Matt & Nykki Boersma, Matt Herron, Matt Paxton, Matthew Ruane, Maurice Strubel, MaxMahem, Melusine of the Rivers, Mendel Schmiedekamp, Michael Cassil,
+Michael Feldhusen, Michael Hölzl, Michael James Banks, Michael Langford, Michael T. Pureka, Mike Mistele, Mike Smith, Murray K. Dahm, Natalie Asplund,
+Nate Saunders, Nathan Nolan, Nigs Phillips, NPC Aaron, Paco Garcia Jaen, Patrice Mermoud, Pete Hurley, Peter H Krulder II, Pierre Gavard-Colenny, Pony,
+Rachel Poole, Raechel Coon, Ralph Mazza, Richard Gant, Richard Iorio II, Rob McDiarmid, Robert Abrazado, Robert P. V. Davis, Robert S., Roberto ElGrande,
+Roger N. Dominick, Roland R. Trevino Esq., Romall Smith - Nasty Critical Games, Ross Cheung, Ross Hunter, Russell "Critias" Zimmerman, Ryan McMullan,
+Schedim, Sean and Laura Holland, Sean Demory, Selene Tan, Shiny Rosie, Simon 'Sly' Stroud, Simon Weinert, Solaria, Sophia Brandt, Stephanie Bryant,
+Stephen Dann, Steven D Warble, Taylor Lloyd Ekena, Teresa Oswald, The Jackdaw, Thom Ryng, Tim D, Timothy Carroll, Timothy Hanson, Tomer Gurantz,
+Tor Iver Wilhelmsen, Tracy O'Brien, Travis H. Prescott, Travis S. Casey, Treska Cole, UltRandom, Volker Jacobsen, Waning Gibbous Games LLC,
+Wayne Ross, Wilfred Thornton-Start, Wlodarczak, Zac Bunn, Zaffiro
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Recruits
+
+Prince-Consort Carolus greets the following recruits with a hearty "Wilcumian into ðone as ðyncðo un−l¯æd duguð ides!"
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Aaron Nowack, Adam Lane, Adumbratus, Alek Furchtgott, Alexandre de Tessier, Andreas Rugård Klæsøe, Andreas Sewe, Andrew 'Pheylorn' Medeiros, Andrew Cherry,
+Andrew Osterburg, Andrew Peregrine, Andy Goldman, Andy Keith, Angel Haggerty, Annastacia and Nathaniel Smith, Antonio Ignacio, Ari Multhauf, Arkane Loste,
+Asen R. Georgiev, Austin Dern, Berin Kinsman, Bez Bezson, Bill Treadwell, Blake Hutchins, Blysse Ling, Bob Hanks, Borna "anothga" Pekaric, Brad Osborne,
+Brennan Dawson, Brennan Taylor, Brent Hoyler, Brian J. Brady, Bruce Harlick, C. J. Hunter, Carl L Gilchrist, Carl Ollivier, Carmen Clemons, Chace Thibodeaux,
+Chris "Eva_Fan" Trace, Chris Edwards, Chris Hopkinson, Chris Quin, Chris Visser, Chris Willett, Christopher Irvine, Clyde Lee Graham, Confanity, Corbett Kirkley,
+Corey J Baham, Cynthia Armistead, Dai, Daniel Homer, Daniel Turetsky, Daryl Pruett, Dave "Balthazar Vorio" Crane, David Chart, David Fergman, David H Quiñonez,
+David Mandeville, David Rego, Denis McCarthy, Derek "Pineapple Steak" Swoyer, Dominic Quach, Doug Atkinson, Dr John Duxbury, DUK!, Dustin Gulledge, ELAN GARFIAS,
+Elise Morrison, Emma Lord, Eric C. Magnuson, Erika Maris, Erstwhile, Evgeniy "Jamie" Vasin, Fabrice Breau, Fagner Lima, Francis Dickinson, Frank P.,
+Gabriel Michael Jones, Graham Bottley, Gristle McThronbody, H. M. 'Dain' Lybarger, Haleigh C, HANATAKA Shinya, Heather Blandford, Henry Wong, Hsieh, Wei-Hua,
+Ilyra, Isulka, J. Derrick Kapchinsky, Jacqueline Legazcue, James, James "pandaman" Forest, James LaRue, James W. Rouse III, James Zack, Jamie Revell,
+Jarad Fennell, Jason Blalock, Jeffrey Hosmer, Jenny and Scott Barnes, Jerry Sköld, Jesse Fehrenbacher, jim pinto John Bornmann, John Donahue, John Gabriel Utanes,
+Jonathan Korman, Jonathan Shaver, Jonathan Ying, Jordi Rabionet, Joshua Hatler, Joy Fleisig, Juliet Youngren, JW Paul, Karl F Maurer, Karl Knutson, Kimmo Kyttä,
+Kirt "von" Dankmyer, Kristin Hunt, Kristoffer "Illern" Holmén, Krystina Metalis, L. Christopher, Lady Chiviona, Leland Myrick, lilrenshai, Lindy Willian,
+Lisa Padol, Loxly, Lynnea Glasser, Magnus Bergqvist, Marc Majcher, Marc Margelli, Marcus Shepherd, Maria V. Arnold, Mark Leymaster of Grammarye, Mark Orr,
+Mark Reed, Markus Viklund, Matthew Bannock, Meera Barry, Megan Coppock, Megan Peterson, Melissa Moritz, Merry H., Michael "gleepism" McCormack,
+Michael "Gronan of Simmerya" Mornard, Michael Bowman, Michael Esmailzadeh, Michael Miller, Michael Sandlin, Michelle Clark, Mike McGee, Misha Handman,
+Mohammad Nur Adli, Nat "woodelf" Barmore, Neall Raemonn Price, Nessa, Nichola Muehlenweg, Nicholas 'Tobes' Barry, Nicholas Yu, Nick the Lemming, Niels A. Corbet,
+Nigel Wright, Nihar Nilekani, Olna Jenn Smith, Patric Goetz, Patrick O'Duffy, Paul Baldowski, Paul Bellitto, Paul de Haan, paul engle, Pedro Steckecilo,
+Peter Cobcroft, Peter R Brooks, Philip "xipehuz" Espi, Phillip Ames, Phillip Bailey, Quentin Antrim, Rae Wood, Ralf "Sandfox" Sandfuchs, Remo di Sconzi,
+Reverance Pavane, Richard Taylor, Rick Harrelson, Robert Van Natter, Ross Smith, Rowan Parsons, Ryan R., Sam Chupp, Sarah J Brown, Sascha Kriewel, Scott Kullberg,
+Sean "Garg" McAlister, Selene O'Rourke, Seth Hartley, Shannon R. Lewis, Shaun Welch, Siôn Rodriguez y Gibson, Slade Eide-Ettaro, Steve Lord, Susan Bischoff,
+Svend Andersen, Sylvia Steere, Tabitha Doyle, Taralyn Rose Frasqueri-Molina, The Nickus, Theo, Thomas de la Riis, Tim & Alyssa Brownrigg, Tim Ellis,
+Tim Jensen & Willow Palecek, Tim Newman Esquire, Tishariel, To Peace, Todd Hangos, Tom Conneely, Tom Reed, Travis Eneix, Trevis Martin, Vaughan Cockell, Walter F. Croft,
+Wilhelm Fitzpatrick, Will, William Artris Otto Allcorn, wraith808
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Citizens of Gallinea
+
+The following are citizens of Gallinea and under the protection of the Crown.
+
+::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+AE Fisher, Andrew and Heleen Durston, Apollo Randall, Bert Isla, Carol Darnell, Casey DeWitt, Charles Summerhill, Cubethulhu, Eiglo Games, J&A Holdridge,
+James E Fallance, James Schoonmaker, John "Millionwordman" Dodd, John Thomas Jessop, Jonathan Killstring, Kit Fowley, Kyrinn S. Eis, Len DeSoto, Leron Culbreath,
+LizChai, Łukasz Matylla, Mark Pond, Michael Tree, Molly Fate, Noah and Alana Tolliver, Peter B Galindo, Rene Alcantar - Boomsickle, Robert Daines, Sara Sestak,
+Scott Vandervalk, Sean Ravenheart, Sigil Stone Publishing, Sofia Meaden, Yekaterina Bowyer, Yoshio Kamata
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ### Licenses
@@ -3635,7 +3772,7 @@ Success Point. This allows for flexibility in player actions by
 comparing against similar tasks, and using those results.
 
 
-### Generic Success Tables
+### Generic Success Tables ## {.breakbefore}
 
 The following Success Tables can be used in lieu of, or in addition to,
 the specific Success Tables for each Specialty. The results should be
@@ -3815,7 +3952,7 @@ should be serious without being directly deadly and possibly very
 embarrassing. The player character can attempt the task again one she
 recovers from the effects of her terrible luck.
 
-### Culture
+### Culture ## {.breakbefore}
 
 The Culture skill includes arts, history, religion, language, mythology,
 music, customs, traditions, noble families, and other societal elements
@@ -4031,7 +4168,7 @@ teach another student at the same time. A student can only learn one
 such temporary Competency at any time, from any teacher.
 
 
-### Defense
+### Defense ## {.breakbefore}
 
 The Defense skill is used in combat to avoid taking damage. Whenever you
 are attacked, you can choose which of the appropriate Defense
@@ -4203,7 +4340,7 @@ spending four Success Points per point of Yield.
 Area without using an action or paying a Drop penalty.
 
 
-### Dueling
+### Dueling ## {.breakbefore}
 
 The Dueling skill lets you make attacks using a dueling weapon, such as
 a sword, a knife, a quarterstaff, or even a pike.
@@ -4370,7 +4507,7 @@ Parry you. You get to choose if the weapon ends up on the ground in your
 Area, in an adjacent Area, or in your hand if you have one free.
 
 
-### Initiative
+### Initiative ## {.breakbefore} 
 
 The Initiative skill is used in combat to determine who goes first, as
 well as to take additional actions during a fight. The order of
@@ -4507,7 +4644,7 @@ leaving that Area; this blocks the opponent's movement but does not
 redirect the attack. You can Interpose only once per round.
 
 
-### Interaction
+### Interaction ## {.breakbefore}
 
 The Interaction skill covers social interactions between individual
 characters, as well as characters addressing a group.
@@ -4747,7 +4884,7 @@ those who heard it still believe you that you didn't intend to deceive
 them. Maybe you were mistaken, or they misheard you, or you misspoke.
 
 
-### Magicks
+### Magicks ## {.breakbefore}
 
 The world of Elara has very subtle forms of magick: brewing draughts,
 weaving charms into clothing, and reading portents. Most characters
@@ -4966,7 +5103,7 @@ Table: Maximum Hex Penalty
 | \+5            | Drop 4              |
 
 
-### Medicine
+### Medicine ## {.breakbefore}
 
 Medical science is relatively advanced in Elara, thanks to both a long
 history of witch-midwives and alchemy, and recent advances in science.
@@ -5257,7 +5394,7 @@ you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
 
-### Military
+### Military ## {.breakbefore}
 
 The Military skill includes training in ranged combat and unarmed
 combat, plus strategic planning. A character with Competency in the
@@ -5449,7 +5586,7 @@ Table: Maximum Bonus Die
 | \+5            | \+1D12            |
 
 
-### Nature
+### Nature ## {.breakbefore}
 
 Knowledge of the natural world is expressed through Competency in the
 Nature skill. Nature is a hands-on skill, learned through experience
@@ -5731,7 +5868,7 @@ three Style Points at any time.
 remain unseen if you are already hidden.
 
 
-###  Observation
+###  Observation ## {.breakbefore}
 
 The Observation skill encompasses both reading situations and reading
 people, as well as putting together disparate clues to see the bigger
@@ -5933,7 +6070,7 @@ clue or witness more of a plan, you automatically know how to include it
 in your complex conclusion.
 
 
-### Science
+### Science ## {.breakbefore}
 
 Science is a skill that covers the use, repair, and creation of advanced
 technology and complex mathematics, from time watches to airships, from
@@ -6268,7 +6405,7 @@ three Style Points at any time.
 usually involving polynomials or integrals. 
 
 
-### Streetwise
+### Streetwise ## {.breakbefore}
 
 Streetwise skill covers the ability to survive and prosper in a medium
 or large city, sometimes relating to people of varying Social Ranks.
@@ -6899,7 +7036,7 @@ The Success Table: *Specialty* quality adds additional options to the
 indicated success table.
 
 ::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
-| Success Table Weapon Qualities  |                                   |
+| Weapon Qualities                |                                   |
 | ------------------------------- | --------------------------------- |
 | \+                              |  Basket Hilt (Decrease Advantage) |
 | \+                              |  Retort (Execute a Riposte)       |
@@ -8960,6 +9097,7 @@ building-scale object is usually divided into multiple Areas.
 When talking about animals this large, such as giant squids or great
 whales, the term behemoth scale is used.
 
+::::::::::::::::::::::::: option ::::::::::::::::::::::::::::::::::::::::::;
 #### Optional Rule: Encumbrance
 
 This is an optional rule that the MJ can use if it will enhance her
@@ -9034,6 +9172,7 @@ gears, that counts as three Pocket-size objects, or 1 Handheld object.
 Two or fewer units of these supplies don't count for encumbrance
 purposes.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Wealth
 
@@ -9070,7 +9209,7 @@ The availability of the item is dependent upon where you are and how
 common the item is, as determined by the MJ based on the following
 table.
 
-###### Availability
+Table: Availability
 
 | Availability | Die | Skill Required |
 | ------------ | --- | -------------- |
@@ -9117,11 +9256,13 @@ If the player wins the opposed Wealth roll, she still drops one die from
 her Wealth pool to represent the expenditure of resources, and spends
 her success points on the following success table:
 
+:::::::::::: success :::::::::::::::::::
 | Wealth Rolls |                       |
 | ------------ | --------------------- |
 | Opposition   | Cost and availability |
 | \+           | Purchase Item         |
 | \++++        | No Drop               |
+::::::::::::::::::::::::::::::::::::::::
 
 **Purchase Item:** You can purchase the item or service in question. If
 the item has a B beside the cost, it can be purchased in bulk, and each
@@ -9229,7 +9370,7 @@ sun pattern, and Lunes show a crescent moon.
 The approximate values of an item, Barter die, or Reward are shown on
 the following table.
 
-###### Gallinean Currency
+Table: Gallinean Currency
 
 | Die | Cost            | Barter Die Value | Reward Value     |
 | :-: | :-------------- | :--------------- | :--------------- |
@@ -9283,12 +9424,12 @@ you can instead take a +1D6 Barter die.
 
 You can pick from the following basic weapons:
 
-- Cutlass (Sword +1D8, Main Hand)
-- Dagger (Knife +1D6, Either Hand)
-- Flintlock Pistol (Pistol +1D6, Either Hand)
-- Rapier (Sword +1D8, Main Hand)
-- Sabre (Sword +1D6, Main Hand, Cavalry)
-- Smallsword (Sword +1D6, Either Hand)
+ - **Cutlass** (Sword +1D8, Main Hand)
+ - **Dagger** (Knife +1D6, Either Hand)
+ - **Flintlock Pistol** (Pistol +1D6, Either Hand)
+ - **Rapier** (Sword +1D8, Main Hand)
+ - **Sabre** (Sword +1D6, Main Hand, Cavalry)
+ - **Smallsword** (Sword +1D6, Either Hand)
 
 #### Weapon Qualities
 
@@ -9476,10 +9617,9 @@ listed in the following tables.
 The availability of common weapons is almost always 1D0 in settlements
 of any size. The exceptions are cutlass, rapier, sabre, and smallsword
 -- the common swords -- in a small rural settlement. In such situations,
-the availability increases to
-1D6.
+the availability increases to 1D6.
 
-###### Common Dueling Weapons
+Table: Common Dueling Weapons
 
 | Weapon       | Cost | Hands          | Weapon Die  | Specialties                         |
 | :----------- | :--: | :------------- | :---------- | :---------------------------------- |
@@ -9507,7 +9647,7 @@ Uncommon dueling weapons have an availability of 1D0 in a capital city,
 one exception is that a bullwhip always has an availability of
 1D0.
 
-###### Uncommon Dueling Weapons
+Table: Uncommon Dueling Weapons
 
 | Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                          |
 | :---------------- | :--: | :------------- | :------------ | :------------------------------------------------------------------- |
@@ -9550,6 +9690,7 @@ one exception is that a bullwhip always has an availability of
   - **Truncheon:** *description needed*\
   - **Weighted Net:** *description needed*\
 
+:::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
 ###### Foreign Weapons
 
 In addition to the common and uncommon dueling weapons listed in the
@@ -9572,6 +9713,7 @@ For neighboring countries, the availability of foreign dueling weapons
 is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
 In far-distant countries, the availability increases to 1D8 in a capital
 city, 1D12 in any other city, and unavailable in smaller settlements.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Aimed Weapons
 
@@ -9619,6 +9761,7 @@ long ranges.
     at least a Drop 1 penalty. If there is no Long Range listed for a
     weapon, it can't be used to attack at Long Range.
 
+::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
 ###### Maximum Range?
 
 The tables below don't specify a maximum distance for long range. That's
@@ -9630,10 +9773,10 @@ range will be much lower.
 
 Ultimately it's up to the MJ to decide what the maximum effective range
 is for any weapon used at extreme long range, although usually not more
-than 10
-areas.
+than 10 areas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-###### Aimed Weapons
+Table: Aimed Weapons
 
 | Weapon           | Cost | Hands          | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :--------------- | :--: | :------------- | :----------- | :----- | :----- | :----- | :----- | :----- |
@@ -9669,17 +9812,23 @@ areas.
   - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.\
   - **Thrown Spear:** Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.\
 
+:::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::
 ###### Ammunition
 
 Firing a musket or pistol uses a small amount of blackpowder and a
-bullet, while a bow requires an arrow. However, in the *The Queen's
+bullet, while a bow requires an arrow. 
+
+However, in the *The Queen's
 Cavaliers*, strict tracking of ammunition and powder doesn't contribute
 to the swashbuckling adventure style of the genre. If you have an Aimed
 weapon that has a Reload value, you're assumed to have enough powder,
 bullets, or arrows to fire your weapon and reload it as many times as
-necessary. This applies even if you use someone else's weapon, or a
+necessary. 
+
+This applies even if you use someone else's weapon, or a
 weapon you just picked up -- you just don't track ammo for Aimed weapons
 in *The Queen's Cavaliers*. Except, of course, for explosive weapons.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Explosive Weapons
 
@@ -9699,7 +9848,7 @@ on every creature, object, or other target within that area.
   - **Naval Areas**: *description needed*
   - **Supplies**: *description needed*
 
-###### Grenades
+Table: Grenades
 
 | Weapon              | Cost | Base Damage | Yield | Special                |
 | :------------------ | :--: | :---------- | :---: | :--------------------- |
@@ -9710,7 +9859,7 @@ on every creature, object, or other target within that area.
 | Grenade, thunder    | 1D6  | 1 Wound     | x3    | \++: Add 1 Area        |
 | Grenade, wildfire   | 2D6  | 1D6 Wounds  | x2    | \+: Add 1 Area         |
 
-Grenade Attacks
+Table: Grenade Attacks
 
 | Delivery Mechanism | Cost | Hands | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :----------------- | :--: | :---: | :----------- | :----- | :----- | :----- | :----- | :----- |
@@ -9718,7 +9867,7 @@ Grenade Attacks
 | Mortar, hand       | 1D8  | Both  | Cannon +1D10 | Drop 2 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
 | Arrow, fired       | \--  | Both  | Bow +1D6     | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
 
-Placed Bombs
+Table: Placed Bombs
 
 | Bomb Type        | Cost | Scale       | Item Die          | Base Damage | Yield | Radius Steps            | Special                |
 | :--------------- | :--: | :---------- | :---------------- | :---------- | :---: | :---------------------- | :--------------------- |
@@ -9733,7 +9882,7 @@ Placed Bombs
 | Bomb, thunder    | 3D6  | Carried     | Blackpowder +1D8  | 1D6 Wounds  | x3    | Close, Adjacent, Short  | \--                    |
 | Bomb, wildfire   | 3D8  | Carried     | Blackpowder +1D6  | 1D10 Wounds | x2    | Adjacent, Short, Medium | \++: Step-Up Radius    |
 
-Artillery
+Table: Artillery
 
 | Weapon               | Cost | Scale       | Weapon Die   | Base Damage | Supplies | Close  | Short  | Medium | Long   | Maximum Range  |
 | :------------------- | :--: | :---------- | :----------- | :---------- | :------- | :----- | :----- | :----- | :----- | :------------- |
@@ -9746,7 +9895,7 @@ Artillery
 | Rabinet              | 2D8  | Human-Scale | Cannon +1D6  | 1 Wound     | \--      | Drop 0 | Drop 2 | Drop 2 | \--    | 4 Naval Areas  |
 | Vouivre-mignon       | 3D10 | Furniture   | Cannon +1D8  | 1D8 Wounds  | 1 unit   | Drop 0 | Drop 0 | Drop 1 | Drop 2 | 6 Naval Areas  |
 
-Cannon Shot
+Table: Cannon Shot
 
 | Projectile Type          | Cost | Extra Damage | Yield | Radius Steps            | Special                |
 | :----------------------- | :--: | :----------- | :---: | :---------------------- | :--------------------- |
@@ -9792,7 +9941,7 @@ The following table lists the types of armor commonly found in Gallinea;
 each of these would have a +1D0 Availability Die in major cities, and
 +1D6 elsewhere.
 
-###### Common Armor
+Table: Common Armor
 
 | Armor Type        | Cost | Prowess  | Item Die          |
 | :---------------- | :--: | :------: | :---------------- |
@@ -9808,7 +9957,7 @@ Some less common armors are shown below. Each has an Availability Die in
 a city that equals its cost, and one or more steps higher in smaller
 towns.
 
-###### Uncommon Armor
+Table: Uncommon Armor
 
 | Armor Type     | Cost | Prowess  | Item Die           |
 | :------------- | :--: | :------: | :----------------- |
@@ -9831,6 +9980,7 @@ towns.
     While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. See Chapter 9, "Specialty Equipment," for more information on charmweaving.
 
     Parade armor helmet charms can be Culture (Arts, Etiquette, Scholarship) or Observation (Perceive, Intuition, Deduce); breastplate charms can be Defense (Block, Parry, Dodge) or Interaction (Inspire, Negotiate, Deceive); gauntlet charms can be Military (Brawl, Aim, Strategy) or Streetwise (Banter, Carouse, Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl) or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor must be worn or none of the charms are active.
+
   - **Plate armor: **The knights of Varendia are famous for their heavy plate armor, which does provide superior protective ability albeit at the expense of mobility. While you are wearing plate armor, you take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition, you can't wear any additional articles of clothing save for shoulder items such as cloaks or tabards.
   - **Valmain-rivet:** Originally created in Varendia ("valmain" references an older Albian term meaning "Varendish"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing valmain-rivet.
 
@@ -9852,6 +10002,8 @@ benefit from both the draught and a charmwoven item that affect the same
 specialty, only one or the other.
 
 
+Table: Draughts
+
 | Item                     | Cost     | Affected Specialty       |
 | :----------------------- | :------: | :----------------------- |
 | Accuracy Draught         | D6, bulk | Military (Aim)           |
@@ -9872,6 +10024,8 @@ specialty, only one or the other.
 Salves, oils, and unguents are applied externally, usually to the hands, requiring one turn to
 use. The effects last until the end of the scene. Salves with increased potency have a cost equal to the die value.
 
+Table: Salves
+
 | Item                  | Cost     | Function                                               |
 | :-------------------- | :------: | :----------------------------------------------------- |
 | Brawler's Balm        | D6, bulk | Military (Brawl)                                       |
@@ -9889,6 +10043,8 @@ the spot by an alchemist orother character with skill in Magicks (Brew).
 Making a Brew roll to produce a concoction takes one turn, with Moderate
 (3D8) standard opposition; successes are spent as shown on the table
 below. Each concoction created requires the expenditure of one unit of Alchemical Supplies.
+
+Table: Concoctions
 
 | Concoction          | Effect Produced                                                                                                                |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
@@ -9914,6 +10070,8 @@ Poison antidote is general-use and can be used against any type of
 standard poison. It's ineffective against some exotic poisons, such as
 yellow-bellied scorpion venom.
 
+Table: Poisons
+
 | Item              | Cost     | Function                    |
 | :---------------- | :------: | :-------------------------- |
 | Antidote          | D6, bulk | Expend 1 per use of Poison  |
@@ -9923,9 +10081,11 @@ yellow-bellied scorpion venom.
 
 ###### Deadly Poison 
 
+::::: success ::::::::::::
 |      |                 |
 | :--: | :-------------- |
 | +++: | Inflict 1 Wound |
+::::::::::::::::::::::::::
 
 **Inflict 1 Wound:** Your opponent takes one Wound. If she takes Wounds
 equalling her Wound Limit (which is four for player characters, and from
@@ -9934,9 +10094,11 @@ dying.
 
 ###### Impairing Poison
 
+:::::::::::::: success ::::::::
 |      |                      |
 | :--: | :------------------- |
 | +++: | Inflict Drop Penalty |
+:::::::::::::::::::::::::::::::
 
 **Inflict Drop Penalty:** Your opponent gains a Drop penalty on all rolls
 equal to one die for every three Success Points you spend, up to a
@@ -9944,9 +10106,11 @@ maximum of Drop 4. This impairment lasts for 1 hour.
 
 ###### Sleep Poison
 
+:::::::: success :::::::::
 |      |                 |
 | :--: | :-------------- |
 | +:   | Inflict 1 Yield |
+::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every Success Point
 you spend on Yield. If her Yield equals or exceeds her Yield Limit, she
@@ -10007,6 +10171,8 @@ The difficulty of the Science (Calculus) roll to draw plans is
 determined by the complexity of the device you are designing, as shown
 on the table below. 
 
+Table: Device Complexity
+
 | Device Complexity | Standard Opposition   |
 | :---------------: | :-------------------- |
 | 2                 | Easy (3D6)            |
@@ -10020,6 +10186,8 @@ follows them) a D6 bonus on rolls to install and complete the device.
 For each additional two success points you spend, you can increase the
 size of that die up to a maximum limited by your ranks in Science
 (Calculus), as shown below.
+
+Table: Maximum Die
 
 | Calculus Ranks | Maximum Die |
 | :------------: | :---------: |
@@ -10130,6 +10298,8 @@ least one rank in the Clockworks specialty.
 followed by the gear space of that casing in parentheses. Examples:
 pocket (space 1), person (space 8), building (space 64).
 
+Table: Casings 
+
 | Casing Size | Cost | Gear Space |
 | :---------- | :--: | :--------: |
 | Pocket      | D0   | 1          |
@@ -10236,6 +10406,8 @@ alchemical supplies to do so. The maximum number of alchemical supplies
 that can be spent to create an alchemical capacitor is equal to the
 brewer's ranks in Magicks (Brew).
 
+Table: Alchemical Capacitor Power Source
+
 | Space | Cost | Supplies              | Power Supplied | Duration |
 | :---: | :--- | :-------------------: | :------------: | :------: |
 | 2     | D6   | 1 alchemical supplies | 1              | 24 Hours |
@@ -10268,6 +10440,8 @@ to power it. For example, a variable gear train (space 0+1, power supply
 2 power units for a Drop 2 penalty, and 3 power units for a Drop 4
 penalty.
 
+Table: Gear Train Power Source
+
 | Space | Cost | Supplies   | Power Supplied | Drop   | Duration   |
 | :---: | :--: | :--------: | :------------: | :----: | :--------: | 
 | 0     | D0   | 0 gears    | 1              | Drop 1 | One Action |
@@ -10297,6 +10471,8 @@ required to create a blackpowder flintlock, and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a blackpowder flintlock is equal to the
 powderworker's ranks in Science (Blackpowder).
+
+Table: Blackpowder Flintlock Power Source
 
 | Space | Cost | Supplies              | Power Supplied | Reset   | Duration |
 | :---: | :--: | :-------------------: | :------------: | :----:  | :------: |
@@ -10338,6 +10514,8 @@ power supply 1, wind 1 turn/1 minute/10 minutes, duration 1 minute/10
 minutes/1 hour) supplies power for 1 minute if wound for 1 turn, 10
 minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
 
+Table: Mainspring  Power Source
+
 | Space | Cost | Supplies | Power Supplied |
 | :---: | :--: | :------: | :------------: |
 | 1     | D0   | 0 gears  | 1              |
@@ -10345,6 +10523,8 @@ minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
 | 4     | D8   | 2 gears  | 4              |
 | 8     | D10  | 3 gears  | 6              |
 | 16    | D12  | 4 gears  | 8              |
+
+Table: Mainspring Options Power Source
 
 | Space | Cost | Supplies | Wind       | Duration                   |
 | :---: | :--: | :------: | :--------- | :------------------------- |
@@ -10377,6 +10557,8 @@ in most situations. Tidal flow usually only can provide 1 power unit.
 but the power supplied can only be used for movement. It also requires
 the purchase of one unit of fabric supplies per power unit.
 
+Table: Naturalistic Turbine Power Source
+
 | Space | Cost | Supplies | Power Supplied |
 | :---: | :--: | :------: | :------------: |
 | 2     | D6   | 1 gear   | 1              |
@@ -10407,6 +10589,8 @@ clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a phlogistone furnace is equal to the powderworker's
 ranks in Science (Blackpowder).
 
+Table: Phlogistone Furnace Power Source
+
 | Space | Cost | Supplies | Power Supplied              | Envelope Cost | Envelope Supplies |
 | :---: | :--: | :------: | :-------------------------- | :-----------: | :---------------: |
 | 4     | D12  | 4 gears  | 10 (carry or movement only) | D10           | 4 fabric          |
@@ -10420,6 +10604,8 @@ action with a penalty of Drop 1 to Drop 4. Unlike gear trains, tension
 triggers store energy for future use rather than immediate use, but
 unlike mainsprings a tension trigger will only store that energy for a
 single use.
+
+Table: Tension Trigger Power Source
 
 | Space | Cost | Supplies | Power Supplied | Reset  | Duration |
 | :---: | :--: | :------: | :------------: | :----: | :------- |
@@ -10468,6 +10654,8 @@ Armor plating protects both the device itself and anyone using or within
 the device. The armor component grants an Armor Die that can be used for
 Defense (Block) rolls.
 
+Table: Armor Component
+
 | Space | Cost | Supplies | Power | Armor Die |
 | :---: | :--: | :------: | :---: | :-------: |
 | 0     | D0   | 0 gears  | 0     | D0        |
@@ -10485,9 +10673,11 @@ body with a clockwork limb, such as an arm or a leg. The articulation
 component reduces those penalties from Drop 4 down to Drop 2, Drop 1 or
 Drop 0.
 
-Creating an Articulation Component: The Medicine (Surgery) specialty is
+**Creating an Articulation Component:** The Medicine (Surgery) specialty is
 required to create an articulation component with a low Drop penalty.
 Surgery +1 is required for Drop 1, and Surgery +2 for Drop 0.
+
+Table: Articulation Component
 
 | Space | Cost | Supplies | Power | Penalty  |
 | :---: | :--: | :------: | :---: | :------: |
@@ -10518,11 +10708,13 @@ input for all appropriate information, such as the longitude and
 latitude, the weather conditions, and so on. Faulty data can lead to
 faulty calculations.
 
-Creating a Calculation Component: The Science (Calculus) specialty is
+**Creating a Calculation Component:** The Science (Calculus) specialty is
 required to create a calculation component and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a calculation component is equal to the creator's
 ranks in Science (Calculus).
+
+Table: Calculation Component
 
 | Space | Cost | Supplies | Power | Calculation Complexity |
 | :---: | :--: | :------: | :---: | :--------------------- |
@@ -10538,6 +10730,8 @@ The carry component gives a device the ability to lift additional
 weight. Most devices with the movement component have enough carrying
 capacity to lift themselves, including a normal load; some have even
 greater capacity depending on their use.
+
+Table: Carry Component
 
 | Space | Cost | Supplies | Power | Carrying Capacity |
 | :---: | :--: | :------: | :---: | :---------------: |
@@ -10561,6 +10755,8 @@ Delay timers are most frequently used with blackpowder flintlock or
 tension trigger power sources, and often trigger projectile weapon traps
 or bombs.
 
+Table: Delay Timer Component
+
 | Space | Cost | Supplies | Power | Arm      | Delay Duration        |
 | :---: | :--: | :------: | :---: | :------- | :-------------------- |
 | 1     | D0   | 0 gears  | 0     | Drop 2   | End of current action |
@@ -10580,6 +10776,8 @@ needed to produce simple cloth.
 
 An efficiency component cannot reduce the time of complex tasks that
 involve specialty rolls, such as charmweaving or surgery.
+
+Table: Efficiency Component
 
 | Space | Cost | Supplies | Power | Drop Reduction   | Time Reduction     |
 | :---: | :--: | :------: | :---: | :--------------- | :----------------- |
@@ -10614,6 +10812,8 @@ blackpowder supplies to do so. The maximum number of blackpowder
 supplies that can be spent to create an explosion component is equal to
 the powderworker's ranks in Science (Blackpowder).
 
+Table: Explosion Component
+
 | Space | Cost | Supplies              | Power | Environmental Damage (1 area, 2 areas) |
 | :---: | :--: | :-------------------: | :---: | :------------------------------------- |
 | 1     | D0   | 1 blackpowder charge  | 2     | 3D6                                    |
@@ -10632,12 +10832,16 @@ define a complete Hand-to-Hand Weapon.
 **Size Limit:** A device with the hand-to-hand weapon component can be no
 larger than Portable size.
 
+Table: Hand-to-Hand Weapon Component
+
 | Space | Cost | Supplies | Power | Weapon Die |
 | :---: | :--: | :------: | :---: | :--------: |
 | 1     | D0   | 0 gears  | 0     | D6         |
 | 2     | D0   | 0 gears  | 0     | D8         |
 | 4     | D6   | 1 gear   | 0     | D10        |
 | 8     | D8   | 2 gears  | 0     | D12        |
+
+Table: Hand-To-Hand Weapon Component Options
 
 | Space | Cost | Supplies | Power | Casing Size | Weapon Prowess | Max Weapon Die |
 | :---: | :--: | :------: | :---: | :---------- | :------------- | :------------: |
@@ -10658,6 +10862,8 @@ to refill the device.
 
 Using the device in a combat situation requires a Medicine (Poisons)
 roll to deliver its payload.
+
+Table: Injector Component
 
 | Space | Cost | Supplies | Power |
 | :---: | :--: | :------: | :---: |
@@ -10683,6 +10889,8 @@ melee Weapon Die to a device.
 
 **Military (Aim):** Use the Projectile Weapon component to add a ranged Weapon Die to a device.
 
+Table: Item Die Component
+
 | Space | Cost | Supplies | Power | Item Die |
 | :---: | :--: | :------: | :---: | :------: |
 | 1     | D0   | 0 gears  | 0     | D6       |
@@ -10696,6 +10904,8 @@ A magazine component holds multiple shots of ammunition (bullets and
 powder or quarrels, for example) for a device with the projectile weapon
 component. The amount held in each magazine, and the time required to
 reload the device with a full magazine, are shown in the table below.
+
+Table: Magazine Component
 
 | Space | Cost | Supplies | Power | Shots | Reload    |
 | :---: | :--: | :------: | :---: | :---: | :-------- |
@@ -10718,6 +10928,8 @@ pressure.
 A measurement component is often tied to a calculation component to
 allow the device to process the information that it measures.
 
+Table: Measurement Component
+
 | Space | Cost | Supplies | Power | Qualities Measured |
 | :---: | :--: | :------: | :---: | :----------------: | 
 | 1     | D0   | 0 gears  | 1     | 1                  |
@@ -10739,6 +10951,8 @@ existing components; this is reflected by additional gear space that is
 added to that of the casing.
 
 **Unique Component:** A device can have only one miniaturization component.
+
+Table: Miniaturization Component
 
 | Space | Cost | Supplies | Power | Additional Gear Space |
 | :---: | :--: | :------: | :---: | :-------------------: |
@@ -10768,6 +10982,8 @@ The movement component gives the device the ability to move itself.
 
 **Fly:** The device can fly through the air. Unless it is powered by a Phlogistone Furnace, the device must maintain a minimum of Walk speed in order to stay aloft.
 
+Table: Movement Component
+
 | Space | Cost | Supplies | Power | Walk    | Run     | Overland Speed      |
 | :---: | :--: | :------: | :---: | :-----: | :-----: | :------------------ |
 | 1     | D0   | 0 gears  | 0     | 0 Areas | 1 Area  | 1 league per hour   |
@@ -10775,6 +10991,8 @@ The movement component gives the device the ability to move itself.
 | 2     | D8   | 2 gears  | 2     | 1 Area  | 3 Areas | 6 leagues per hour  |
 | 4     | D10  | 3 gears  | 3     | 1 Area  | 4 Areas | 10 leagues per hour |
 | 8     | D12  | 4 gears  | 4     | 1 Area  | 5 Areas | 15 leagues per hour |
+
+Table: Movement Component Options
 
 | Space | Cost | Supplies | Power | Movement Mode | Maximum Speed   |
 | :---: | :--: | :------: | :---: | :------------ | :-------------- |
@@ -10800,6 +11018,8 @@ than Portable size.
 **Requires Hand-to-Hand Weapon:** You can only add this component to a
 device if it already possesses the hand-to-hand weapon component. The
 powered weapon Bonus Die cannot exceed the Weapon Die of the device.
+
+Table: Powered Weapon Component
 
 | Space | Cost | Supplies | Power | Bonus Die  |
 | :---: | ;--: | :------: | :---: | :--------: |
@@ -10840,6 +11060,8 @@ must be filled in with a Drop penalty or N/A.
 The default ranges for a weapon with no extra space, cost, or power
 requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 
+Table: Projectile Weapon Component
+
 | Space | Cost | Supplies | Power | Weapon Die | Reload |
 | :---: | :--: | :------: | :---: | :--------: | :----: |
 | 1     | D0   | 0 gears  | 1     | D6         | Drop 1 |
@@ -10847,6 +11069,8 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 | 2     | D8   | 2 gears  | 1     | D10        | Drop 2 |
 | 4     | D10  | 3 gears  | 2     | D12        | Drop 4 |
  
+Table: Projectile Weapon Component Range Options
+
 | Space | Cost | Supplies | Power | Close (0) | Short (1-2) | Medium (3-4) | Long (5+) |
 | :---: | :--: | :------: | :---: | :-------: | :---------: | :----------: | :-------: |
 | +0    | D0   | 0 gears  | +0    | Drop 0    | N/A         |              |           |
@@ -10860,6 +11084,7 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 | +0    | D6   | 1 gears  | +1    | Drop 1    |             |              |           |
 | +0    | D0   | 0 gears  | +0    | Drop 2    |             |              |           |
 
+Table: Projectile Weapon Component Use Options
 | Space | Cost | Supplies | Power | Casing Size | Max Weapon Die | Skill Prowess  |
 | :---: | :--: | :------: | :---: | :---------- | :------------- | :------------- |
 | +0    | D0   | 0 gears  | +0    | Pocket      | Pistol +1D6    | Pistol         |
@@ -11164,10 +11389,10 @@ The following table lists the most common types of clothes that are
 found in Gallinea. Detailed descriptions of each type of clothing are
 given in Chapter 9.
 
-###### Articles of Clothing
+Table: Articles of Clothing
 
 | Item                | Cost | Worn On   | Social Rank    |
-| ------------------- | ---- | --------- | -------------- |
+| :------------------ | :--: | :-------- | :------------- |
 | Beret, artisan's    | 1D0  | Head      | Artisan (1D8)  |
 | Bodice, fine        | 1D6  | Torso     | Noble (1D10)   |
 | Bodice, common      | 1D0  | Torso     | Commoner (1D0) |
@@ -11220,10 +11445,10 @@ addition to sharing a common cost, outfits are all considered part of
 the same social rank, regardless of the actual social rank of each
 item.
 
-###### outfits
+Table: outfits
 
 | Item                | Cost    | Includes                                                             |
-| ------------------- | ------- | -------------------------------------------------------------------- |
+| :------------------ | :-----: | :------------------------------------------------------------------- |
 | Clockworker outfit  | 2D6     | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
 | Corsair outfit      | 4D6     | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
 | Courtly outfit      | 3D6     | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
@@ -11344,7 +11569,7 @@ charmweaver makes a simple Magicks (Weave) roll with the opposition pool
 based on how much they don't know, as shown on the following
 table.
 
-###### Opposition Pool for Charm Attunement Rolls
+Table: Opposition Pool for Charm Attunement Rolls
 
 | Die | Birth Date           | Birth Time          | Place of Birth           |
 | --- | -------------------- | ------------------- | ------------------------ |
@@ -11395,7 +11620,7 @@ charms can be applied to which pieces of attire.
 
 *description of dissonance needed*
 
-###### Dissonance
+Table: Dissonance
 
 | Dissonance Level | Maximum Charm Die |
 | ---------------- | ----------------- |
@@ -11413,7 +11638,7 @@ charms can be applied to which pieces of attire.
 
 *explanation needed*
 
-###### Dissonance Generated by Cacophony
+Table: Dissonance Generated by Cacophony
 
 | Additional Colors | Dissonance |
 | ----------------- | ---------- |
@@ -11436,7 +11661,7 @@ charms can be applied to which pieces of attire.
 
 *explanation needed*
 
-###### Dissonance Generated by Damage
+Table: Dissonance Generated by Damage
 
 | Unrepaired Rips | Dissonance |
 | --------------- | ---------- |
@@ -11457,7 +11682,7 @@ charms can be applied to which pieces of attire.
 Mismatched refers to the social rank associated with each item.
 Predefined outfits automatically count as a single rank.
 
-###### Dissonance Generated by Social Rank Mismatch
+Table: Dissonance Generated by Social Rank Mismatch
 
 | Step of Mismatch | Dissonance |
 | ---------------- | ---------- |
@@ -11478,7 +11703,7 @@ Predefined outfits automatically count as a single rank.
 
 This only applies to items or outfits of social rank 1D10.
 
-###### Dissonance Generated by Dated Fashions
+Table: Dissonance Generated by Dated Fashions
 
 | Years      | Dissonance |
 | ---------- | ---------- |
@@ -11506,10 +11731,10 @@ This only applies to items or outfits of social rank 1D10.
 
 *introduction needed*
 
-###### Arm Apparel
+Table: Arm Apparel
 
 | Item                | Cost | Social Rank | Pertinent Skills                 |
-| ------------------- | ---- | ----------- | -------------------------------- |
+| :------------------ | :--: | :---------- | :------------------------------- |
 | Gloves, Courtier's  | 1D6  | D10         | Culture, Interaction, Streetwise |
 | Gloves, Craftsman's | 1D0  | D8          | Magicks, Medicine, Science       |
 | Gloves, Soldier's   | 1D0  | D6          | Defense, Dueling, Military       |
@@ -11521,10 +11746,10 @@ This only applies to items or outfits of social rank 1D10.
 
 *introduction needed*
 
-###### Torso Apparel
+Table: Torso Apparel
 
 | Item            | Cost | Social Rank | Pertinent Skills                           |
-| --------------- | ---- | ----------- | ------------------------------------------ |
+| :-------------- | :--: | :---------- | :----------------------------------------- |
 | Bodice, Common  | 1D0  | D0          | Interaction, Nature, Streetwise            |
 | Bodice, Fine    | 1D6  | D10         | Defense, Dueling, Interaction              |
 | Casaque         | 1D6  | D6          | Culture, Defense, Dueling, Military        |
@@ -11543,10 +11768,10 @@ This only applies to items or outfits of social rank 1D10.
 
 *introduction needed*
 
-###### Foot Apparel
+Table: Foot Apparel
 
 | Item            | Cost | Social Rank | Pertinent Skills               |
-| --------------- | ---- | ----------- | ------------------------------ |
+| :-------------- | :--: | :---------- | :----------------------------- |
 | Boots, Military | 1D6  | D6          | Defense, Military, Nature      |
 | Boots, Work     | 1D6  | D0          | Military, Nature, Streetwise   |
 | Chopines        | 1D6  | D10         | Culture, Interaction           |
@@ -11562,10 +11787,10 @@ available to every type of charm -- all the skills, with the exception
 of Initiative. The types of hats available are shown in the following
 table.
 
-###### Head Apparel
+Table: Head Apparel
 
 | Item                | Cost | Social Rank | Pertinent Skills                  |
-| ------------------- | ---- | ----------- | --------------------------------- |
+| :------------------ | :--: | :---------- | :-------------------------------- |
 | Beret, Artisan's    | 1D0  | D8          | Culture, Magicks, Science         |
 | Capotain            | 1D0  | D6          | Military, Nature, Streetwise      |
 | Cavalier Hat        | 1D6  | D6          | Defense, Dueling, Streetwise      |
@@ -11653,7 +11878,7 @@ Shoulder charms tend to be about skills that are flashy and
 attention-getting, although a few have use in disguising or hiding the
 wearer.
 
-###### Shoulder Apparel
+Table: Shoulder Apparel
 
 | Item              | Cost | Social Rank | Pertinent Skills                              |
 | ----------------- | ---- | ----------- | --------------------------------------------- |
@@ -11670,7 +11895,7 @@ wearer.
 
 *introduction needed*
 
-###### standard Outfits
+Table: standard Outfits
 
 | Item                | Cost | Social Rank | Includes                                                             |
 | ------------------- | ---- | ----------- | -------------------------------------------------------------------- |
@@ -11853,7 +12078,7 @@ wearer.
 Articles that can take streetwise charms are a varied set, ranging from
 the peasant's cloth cape to the noble's ornate stole.
 
-###### Streetwise Pertinence
+Table: Streetwise Pertinence
 
 | Category | Pertinent Articles of Clothing           |
 | -------- | ---------------------------------------- |
@@ -11867,7 +12092,7 @@ the peasant's cloth cape to the noble's ornate stole.
 
 *introduction needed*
 
-###### Neutral Colors
+Table: Neutral Colors
 
 *introduction needed*
 Neutral Colors
@@ -11879,7 +12104,7 @@ Neutral Colors
 | Cendrée  | Grey            |
 | Sable    | Black           |
 
-###### Verve Colors
+Table: Verve Colors
 
 *introduction needed*
 Verve Colors
@@ -11892,7 +12117,7 @@ Verve Colors
 | Gules         | Red             |
 | Or            | Yellow          |
 
-###### Affinity Colors
+Table: Affinity Colors
 
 *introduction needed*
 
@@ -11907,7 +12132,7 @@ Affinity Colors
 | Cendrée (only)  | Grey         |
 | Vert            | Green        |
 
-###### Guile Colors
+Table: Guile Colors
 
 *introduction needed*
 
@@ -11921,35 +12146,22 @@ Guile Colors
 
 *introduction needed*
 
-**Amaranth:** This is a violet-red color, close to a magenta. It is an Affinity color.
-
-**Argent:** Argent is both the color white and the color silver. When used in combination, it's considered a neutral color; used by itself, it's a Verve color.
-
-**Azure:** A medium shade of blue, azure is a Verve color.
-
-**Bleu-Céleste:** The light blue shade of a clear sky, bleu-céleste is not as dark as azure.
-
-**Brunâtre:** Brown, or brunâtre, is an Affinity color. If used in combination with another color, it's considered a neutral color.
-
-**Carnation:** An Affinity color, carnation is a softer pink color, often a lighter shade of Amaranth.
-
-**Cendrée:** Named for the dark grey of cinders, cendrée is an Affinity color when used by itself, or a neutral color when used in combination with another color.
-
-**Gules:** Gules, a medium shade of red, is a Verve color.  
-
-**Or:** *Or* represents yellow or gold. It is a Verve color.
-
-**Purpure:** This is a dark purple color and is a Guile color.
-
-**Sable:** Items that are entirely black are considered sable, a Guile color. If combined with another color, then the black becomes a neutral color.
-
-**Sanguine:** Dark red, the color of blood, is a Guile color.
-
-**Tenné:** This is a dark shade of orange, and is a Guile color.
-
-**Vert:** The color of forest vegetation, vert is an Affinity color.
-
-###### Charmweaving Colors
+ - **Amaranth:** This is a violet-red color, close to a magenta. It is an Affinity color.
+ - **Argent:** Argent is both the color white and the color silver. When used in combination, it's considered a neutral color; used by itself, it's a Verve color.
+ - **Azure:** A medium shade of blue, azure is a Verve color.
+ - **Bleu-Céleste:** The light blue shade of a clear sky, bleu-céleste is not as dark as azure.
+ - **Brunâtre:** Brown, or brunâtre, is an Affinity color. If used in combination with another color, it's considered a neutral color.
+ - **Carnation:** An Affinity color, carnation is a softer pink color, often a lighter shade of Amaranth.
+ - **Cendrée:** Named for the dark grey of cinders, cendrée is an Affinity color when used by itself, or a neutral color when used in combination with another color.
+ - **Gules:** Gules, a medium shade of red, is a Verve color.  
+ - **Or:** *Or* represents yellow or gold. It is a Verve color.
+ - **Purpure:** This is a dark purple color and is a Guile color.
+ - **Sable:** Items that are entirely black are considered sable, a Guile color. If combined with another color, then the black becomes a neutral color.
+ - **Sanguine:** Dark red, the color of blood, is a Guile color.
+ - **Tenné:** This is a dark shade of orange, and is a Guile color.
+ - **Vert:** The color of forest vegetation, vert is an Affinity color.
+  
+Table: Charmweaving Colors
 
 | Color Name | Description     | Attribute          |
 | ---------- | --------------- | ------------------ |
@@ -11988,7 +12200,7 @@ Characters who go carousing and buy rounds on the house can use the
 price of the most expensive alcohol bought as an Item die on their
 Streetwise (Carouse) rolls.
 
-###### Living Expenses
+Table: Living Expenses
 
 | Service Requested                     | Cost |
 | :------------------------------------ | :--: |
@@ -12010,28 +12222,18 @@ Streetwise (Carouse) rolls.
 | Stabling for one night                | 1D0  |
 | Stabling for one week                 | 1D6  |
 
-**Drinks, good:** *description needed* 
-
-**Drinks, private reserve:** *description needed* 
-
-**Drinks, watered down:** *description needed* 
-
-**Lodging, cheap:** *description needed* 
-
-**Lodging, good:** *description needed* 
-
-**Lodging, sumptuous:** *description needed* 
-
-**Meals, bland:** *description needed* 
-
-**Meals, good:** *description needed* 
-
-**Meals, gourmet:** *description needed* 
-
-**Round on the house:** *description needed* 
-
-**Stabling:** *description needed* 
-
+ - **Drinks, good:** *description needed* 
+ - **Drinks, private reserve:** *description needed* 
+ - **Drinks, watered down:** *description needed* 
+ - **Lodging, cheap:** *description needed* 
+ - **Lodging, good:** *description needed* 
+ - **Lodging, sumptuous:** *description needed* 
+ - **Meals, bland:** *description needed* 
+ - **Meals, good:** *description needed* 
+ - **Meals, gourmet:** *description needed* 
+ - **Round on the house:** *description needed* 
+ - **Stabling:** *description needed* 
+  
 ### Miscellaneous Gear
 
 *introduction needed*
@@ -12046,7 +12248,7 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 
 *introduction needed*
 
-###### Vehicles
+Table: Vehicles
 
 | Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed      |
 | :----------: | :--: | :--------: | :-------: | :------------------ |
@@ -12061,31 +12263,22 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 | Velocipede   | 1D8  | 1 Area     | 3 Areas   | 3 leagues per hour  | 
 | Wagon        | 1D6  | 1 Area     | 2 Areas   | 3 leagues per hour  | 
 
-**Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
-
-**Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
-
-**Cart**: *description needed* 
-
-**Gondola:** *description needed*  river
-
-**Narrowboat:** *description needed* river
-
-**River Barge:** *description needed* river
-
-**Rowboat:** *description needed* river
-
-**Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
-
-**Velocipede:** *description needed*
-
-**Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
-
+ - **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
+ - **Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+ - **Cart**: *description needed* 
+ - **Gondola:** *description needed*  river
+ - **Narrowboat:** *description needed* river
+ - **River Barge:** *description needed* river
+ - **Rowboat:** *description needed* river
+ - **Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
+ - **Velocipede:** *description needed*
+ - **Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+  
 #### Mounts
 
 *introduction needed*
 
-###### Mounts
+Table: Mounts
 
 | Mount        | Cost | Walk Speed | Run Speed | Overland Speed     | Item Die       |
 | :----------- | :--: | :--------: | :-------: | :----------------- | :------------- |
@@ -12093,12 +12286,10 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 | Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
 | Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
 
-**Draft Horse:** *description needed*
-
-**Riding Horse:** *description needed* 
-
-**Warhorse:** *description needed*
-
+ - **Draft Horse:** *description needed*
+ - **Riding Horse:** *description needed* 
+ - **Warhorse:** *description needed*
+  
 ##### Horse Accessories
 
 *introduction needed*
@@ -12109,7 +12300,7 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 
 **Domesticated:** *description needed*
 
-###### Pets and Farm Animals
+Table: Pets and Farm Animals
 
 | Animal            | Cost | Example(s)                         |
 | :---------------- | :--: | :--------------------------------- |
@@ -12133,41 +12324,24 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 | Rodent            | 1D0  | Mouse, rat                         |
 | Rabbit            | 1D0  | Bunny, hare                        |
 
-**Beast of Burden (domesticated):** These are strong animals used for
-pulling plows, pulling wagons, and other farming chores. They have an
-Item Die of Husbandry +1D6 when used for this purpose. 
-
-**Bird, Messenger (domesticated):** *description needed* 
-
-**Bird, Song:** *description needed*
-
-**Cat, Common:** *description needed*
-
-**Cat, Purebred:** *description needed*
-
-**Dog, Companion (Domesticated):** *description needed*
-
-**Dog, Guard (Domesticated):** *description needed*
-
-**Dog, Herding (Domesticated):** *description needed*
-
-**Dog, Mongrel (Domesticated):** *description needed*
-
-**Fowl, Barnyard:** *description needed*
-
-**Livestock, Dairy:** *description needed*
-
-**Livestock, Meat:** *description needed*
-
-**Livestock, Wool:** *description needed*
-
-**Raptor, Trained (Domesticated):** *description needed*
-
-**Raptor, Untrained:** *description needed*
-
-**Reptile:** *description needed*
-
-**Rodents and Rabbits:** *description needed*
+ - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
+ - **Bird, Messenger (domesticated):** *description needed* 
+ - **Bird, Song:** *description needed*
+ - **Cat, Common:** *description needed*
+ - **Cat, Purebred:** *description needed*
+ - **Dog, Companion (Domesticated):** *description needed*
+ - **Dog, Guard (Domesticated):** *description needed*
+ - **Dog, Herding (Domesticated):** *description needed*
+ - **Dog, Mongrel (Domesticated):** *description needed*
+ - **Fowl, Barnyard:** *description needed*
+ - **Livestock, Dairy:** *description needed*
+ - **Livestock, Meat:** *description needed*
+ - **Livestock, Wool:** *description needed*
+ - **Raptor, Trained (Domesticated):** *description needed*
+ - **Raptor, Untrained:** *description needed*
+ - **Reptile:** *description needed*
+ - **Rodents and Rabbits:** *description needed*
+  
 
 ## Additional Rules # {.breakbefore}
 
@@ -12504,7 +12678,7 @@ disarms our opponent.” This has no extra Drop penalty, since you aren't
 moving and your sword is already out. If your opponent doesn't become
 disarmed by the end of the round, you can either go ahead and make your
 attack, or wait until next round.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ###### Reload
@@ -12668,7 +12842,7 @@ Drop Penalties from Wounds are cumulative with Drop Penalties for combined actio
 - Dueling (all Specialties)
 - Military (Brawl, Aim)
 
-::::::::::::::::::::::::::::; example ::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
 *Example:* Your character is stabbed by an opponent's Lunge attack and
 receives one Wound. You now get a Drop 1 penalty on all applicable
 actions, such as attacking or defending. Later in the fight, you are
@@ -12996,6 +13170,93 @@ Table: Organization Advancements
 
 ## Gallinean Culture #
 
+::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::
+### Alais de Neversette
+
+In the year 1199 PQ, a previously unknown writer named M.E. Labouret published a novel called "The Laughing Blade" that introduced a new character, Alais de Neversette.
+
+"The Laughing Blade" took Lutetia by storm, and for the last fifty years there have been at least one book in The Various Adventures of Alais Neversette, save for the darkest year of 1244.
+
+Alais lives in the first half of the reign of Queen Delphine -- usually said to be the 1150s to 1160s -- and is the daughter of a minor noblewoman who snuck out from her studies and saved Princess-Regent Clarisse, the young queen's stepmother, from an assassination attempt. This bravery earned her a spot in the Queen's Cavaliers, over the objections of her doting mother and father.
+
+Alais de Neversette is known for three qualities: her reckless abandon, her sexual promiscuity, and her love for wordplay. In the earliest stories she had a pronounced sexist streak -- quite biased against males (even as she romanced them for the cause of the Queen) -- but that aspect has been played down in recent years. She is bisexual and her relationships -- be they with women, men, or others -- legendarily end in heartbreak or death by the end of each novel.
+
+Starting with the second book in 1200 PQ, the titles all began with "Alais de Neversette and ...", and in 1203 the core line of books began being called by the collective title "The Amazing Adventures of Alais de Neversette." Several additional series have appeared, including "The Nautical Adventures of Alais de Neversette," "The Secret Adventures of Alais de Neversette," "The Erotic Adventures of Alais de Neversette," and "The Wartime Adventures of Alais de Neversette." Each series takes a different approach to the character; "Wartime" is about her fictional exploits published during the 20 Years War, for example, while "Erotic" is decidedly not for children.
+
+Highly popular among the common people, Alais is dismissed as dreadfully overwritten prose among those who fancy themselves more educated -- although the enduring popularity of the character and her books have led a minority of scholars to take a greater interest in the books.
+
+The exact identity of M.E. Labouret is unknown, and it's said that even her publishers don't know her true identity. The theories held by Alais scholars is that Labouret is a pen named shared by several people over the years, perhaps a family, as distinctive patterns run through certain books and not others. Most scholars agree that the writer(s) of Alais are natives of Lutetia, and probably from the educated artisan class.
+
+The books are reviled by many of the older members of the Queen's Cavaliers as they present a wholly unrealistic and slightly ridiculous view of life in the Queen's service, but in recent years, many of the new recruits are people who have grown up reading about Alais. Despite the greyswords' opinions, the "Adventures" may be one of the greatest recruiting tools for the Cavaliers and a source of at least some of the public goodwill toward the Queen's Cavaliers.
+
+Several of Alais de Neversette's fictional adventures have been adapted for the stage. Most of these have been performed only in the smaller or common theatres of Gallinea, but a few have had higher profile performances -- although none in front of a royal audience.
+
+"The Laughing Blade" is the story most often adapted for these plays, often titled as "Alais de Neversette and the Laughing Blade." A musical version of "The Nautical Adventures of Alais de Neversette: Alais de Neversette and the Hidden Reef" is one of the largest crowd-pleasers, and has given young Lutetians the idea that all pirates are singing pirates.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+### The Gallinean Calendar
+
+Years in Elara are measured from the abandonment of Qarta (Post Qarta), which dates to 1 PQ. Dates before 1 PQ are dated backwards with Before Qarta (BQ). A year without PQ/BQ notation is presumed to be PQ.
+
+#### Months ##
+
+Months are named for the common weather in Lutetia during each month.
+
+Table: Months of the Year
+
+| Number | Month Name  | Birthstone | Season |
+| :----: | :---------- | :--------- | :----- |
+| 1      | Pluviôse    | Garnet     | Winter |
+| 2      | Ventôse     | Amethyst            |
+| 3      | Germinal    | Bloodstone | Spring |
+| 4      | Floréal     | Sapphire   |        |
+| 5      | Prairial    | Agate      |        |
+| 6      | Messidor    | Emerald    | Summer |
+| 7      | Fervidor    | Onyx       |        |
+| 8      | Fructidor   | Carnelian  |        |
+| 9      | Vendémiaire | Peridot    | Autumn |
+| 10     | Brumaire    | Beryl      |        |
+| 11     | Frimaire    | Topaz      |        |
+| 12     | Nivôse      | Ruby       | Winter |
+
+The neighboring countries have their own days for the months in their own languages. For example, in Albian, the months are Rainous, Windous, Buddal, Floweral, Meadowal, Reapidor, Heatidor, Fruitidor, Vintagearious, Fogarious, Frostarious, and Snowous.
+
+Each month has 30 days. Each year has 360 days.
+
+#### Days of the Week
+
+There are six days of the week in the Gallinean calendar. There are 5 weeks in every month.
+
+Table: Days of the Week
+
+| Number | Day Name   |
+| :----: | :--------- |
+| 1      | Moon Day   |
+| 2      | Second Day |
+| 3      | Third Day  |
+| 4      | Fourth Day |
+| 5      | Stars Day  |
+| 6      | Sun Day    |
+
+Asrian worship services are held on Sun Day, which is usually a day off for most. Devrans worship the Desert Goddess on Moon Day, after the sun has gone down.
+
+#### Monthly Calendar
+
+Because there are five six-day weeks in every month, each month's calendar is the same. Thus, every full moon is on the 1st of the month and every new moon on the 16th.
+
+Table: Monthly Calendar
+
+| Moon Day | Second Day | Third Day | Fourth Day | Stars Day | Sun Day | Week Name   |
+| :------: | :--------: | :-------: | :--------: | :-------: | :-----: | :---------- |
+| 1        | 2          | 3         | 4          | 5         | 6       | First Week  |
+| 7        | 8          | 9         | 10         | 11        | 12      | Second Week |
+| 13       | 14         | 15        | 16         | 17        | 18      | Third Week  |
+| 19       | 20         | 21        | 22         | 23        | 24      | Fourth Week |
+| 25       | 26         | 27        | 28         | 29        | 30      | Fifth Week  |
+
+:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+The current date for a new campaign start is presumed to be 1 Messidor 1249 PQ unless otherwise specified by the MJ!
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ### Gender, Sexuality, and Race # {.breakbefore}
@@ -13318,6 +13579,167 @@ are secular holidays celebrated as Year's Dusk and Year's Dawn. These
 are usually quiet days of reflection on the events of the previous
 twelve months and a time to make plans for the upcoming year.
 
+
+### Languages in Gallinea
+
+The primary language of Gallinea is, of course, modern Gallinean. The language is
+structurally descended from Old Qartan, but with many native words and names also
+based in the indigenous Brigue that predates the Qartan Empire's conquest of the land.
+
+While some Gallineans hold to the arrogance that their tongue is the height of civilization
+and thus the only language one need to know, Gallinea's constant interactions with its
+neighboring countries means the most practical Gallineans will speak and read at least
+one additional languages.
+
+:::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+##### Old Gallinean is French?
+
+While *The Queen's Cavaliers* is written in English, many of the older names for
+locations, families, and specific traditions are French. We use French to indicate
+an older version of Gallinean than is spoken by modern inhabitants of the queendom.
+Contemporary Gallineans can certainly understand the language of several centuries
+back, but it sounds old-fashioned and archaic, much as Shakespeare sounds to modern
+speakers of English.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+The languages commonly known in Gallinea are listed on the following table. Those considered
+"dead languages" are shown in italics.
+
+Table: Languages
+
+| Language          | Linguistic Roots                       | Alphabet  | 
+| :---------------- | :------------------------------------- | :-------- |
+| Albian            | Ancient Varendish, Old Qartan, Mathain | Qartan    |
+| *Brigue*          | Khefikkan                              | Khefikkan |
+| Ekalian           | Ancient Ekalian, Old Qartan, Khefikkan | Ekalian   | 
+| Gallinean         | Old Qartan, Brigue                     | Qartan    | 
+| Ifrani            | Old Qartan, Karangan                   | Aad       | 
+| Karangan          |                                        | Karangan  |
+| Khefikkan         |                                        | Khefikkna |
+| *Mathain*         |                                        | Mathac    |
+| *Old Qartan*      | Khefikkan, Karangan, Ancient Ekalian   | Qartan    |
+| Ondalese          | Old Qartan                             | Qartan    |
+| Serican           |                                        | Serican   |
+| Talanian          | Ancient Varendish                      | Varendish |
+| Varendish         | Ancient Varendish                      | Varendish |
+
+**Albian** is primarily spoken in Albia and its colony, New Dunon, as well as the Storm
+Islands and the region of Varendia known as Albingia. Many Gallineans learned Albian
+during the Twenty Years' War for strategic reasons, and just as many refused to speak
+a word of it for patriotic reasons.
+
+**Brigue** is the language of the original inhabitants of Gallinea more than two millennia
+back. Despite lending its words to many Gallinean place names, there are no known native 
+speakers of Brigue alive today. The language does continue to be used by witches and others
+who follow the Old Faith; however, most view phrases in Brigue to be merely "magick
+words" with no meaning outside of rituals and superstition.
+
+**Ekalian** is spoken in Gallinea's close neighbor to the east. The ubiquity of Ekalian
+sailors in every port has made it the de facto language of sea commerce, and this is
+evidenced by the number of Jeweled Coast natives who speak it fluently. Ekalian is also
+one of the three languages spoken in Dragosa.
+
+**Gallinean** is also spoken in Elissia, Gallinea's West Ifran colony. Each region of Gallinea 
+has its own dialect, and those with an ear for accents and vocabulary can narrow down a Gallinean's
+home province quite easily. Scanbrian Gallinean mixes in rough-sounding Varendish language,
+while Jeweled-Coast Gallinean has an Ekalian lilt. Lutetians speak Gallinean at a fast
+rate, while Lowlanders favor a slow drawl.
+
+**Ifrani** is spoken in the cities of Pitdah and Ubar, as well as throughout the Ifrani
+Desert. Although it's not a requirement of the faith, most Devran *Songs of the Desert Mother*
+collections are written in the cursive, flowing Aad script. In Gallinea, Ifrani is spoken
+primarily within Devran communities.
+
+**Karangan** is the language of The Furthest South, more properly known as Mwene Karanga. 
+Few Gallineans even know the name "Mwene Karanga," let alone speak even a word of the language.
+Karangan is a rich, complex tongue suitable not only for sociopolitical exchanges but
+also highly technical discussions. For the latter reason, a handful of mechanicians are
+trying to learn the language.
+
+**Khefikkan** originates in Kheffika, more commonly known in Gallinea as the Coffee Coast.
+Khefikkan predates the Qartan Empire and in fact was a precursor to both Old Qartana and the
+aboriginal Brigue of Gallinea. Today it's primarily spoken by those who trade extensively with
+the lands to the east of Elara.
+
+**Mathain** is the language of the original inhabitants of Bear Island, now part of Albia.
+Most Mathain survives in the form of ancient carvings in the Mathac script, a series of slashes
+and cuts in stone ruins.
+
+**Old Qartan** was spoken throughout the Qartan Empire and has had the biggest linguistic
+impact on Elara and northern Ifran. While few people speak Old Qartan today, it's used ceremonially
+in the Asrian religion and *The Books of the Sun* are written in Old Qartan. Thus, every
+Asrian Chaplain, and many other lay scholars, can read and write Old Qartan effortlessly.
+
+**Ondalese** is the most direct descendant of Old Qartan; in fact, some speakers of 
+Ondalese even refer to it as Modern Qartan. This is a bit misguided, however, as much of
+the vocabulary and even sentence structure has changed drastically over the last 1400 years.
+Most speakers of Ondalese can't understand Old Qartan at all.
+
+**Serican** is the language of the lands beyond even the Coffee Coast, in the sprawling 
+confederation of nation-states known as Serica and Shan. In truth, there are more than a 
+dozen other languages spoken in Serica, but speakers from the Sekai region have engaged in
+the most trade with Elara, so when a Gallinean thinks of "Serican", she's actually thinking of
+Sekai. Serican is an ideographic language whose written form proves difficult for most
+Gallineans to master reading or writing.
+
+**Talanian** was formerly spoken primarily in Talania, but with the Shattering Frost and 
+resulting Talanian diaspora, the tongue has spread throughout Elara. Talanian is also one
+of the three primary languages of Dragosa. In Gallinea, Talanian is most often used in
+Valerienne, where many refugees from Talania have settled.
+
+**Varendish** is one of the few unifying factors of the patchwork states known as Varendia.
+The common language serves to keep them culturally united even as it also limits their
+cultural and technological evolation. The runic script of Varendish is ill-suited for
+many modern concepts, so even in Varendia, most scientific and theological writings are
+in Gallinean or Albian.
+
+
+### Units of Measure
+
+Various units of measurement are used throughout Elara and Ifran, most of which are based on the Qartan Empire's standardized units. The units on this page are those used in Gallinea, although there are equivalent units in most other countries descended from Qarta.
+
+#### Length and Distance
+
+The basic measure of length is the **pied de la reine**, or **pied** for short.
+
+Table: Units of Length and Distance
+
+| Unit                         | Relative Value | SI Value  | Notes                                                          |
+| :--------------------------- | :------------: | --------: | :------------------------------------------------------------- |
+| **pouce** or inch            | 1/12           | ~27.07 mm |                                                                |
+| **pied de la reine** or foot | 1              | ~32.48 cm |                                                                |
+| **toise** or fathom          | 6              | ~1.949 m  | About two yards, used for depth measurements at sea            |
+| **perche** or perch          | 22             | ~7.146 m  |                                                                |
+| **arpent**                   | 220            | ~71.46 m  |                                                                |
+| **lieue** or league          | 10,000         | ~3.248 km | About 2 miles, or as far as someone can easily walk in an hour |
+
+#### Weight
+
+The basic measure of weight is the **livre**.
+
+Table: Units of Weight
+
+| Unit                   | Relative Value | SI Value  | Notes                         |
+| :--------------------- | :------------: | --------; | :---------------------------- |
+| **once** or ounce      | 1/16           | ~30.59 g  |                               |
+| **marc** or half pound | 1/2            | ~244.8 g  |                               |
+| **livre** or pound     | 1              | ~489.5    | Roughly equal to a U.S. pound |
+| **quintal**            | 100            | ~48.95 kg | 107.9 lb                      |
+
+#### Liquid Volume
+
+The basic measure of liquid is the **pinte**.
+
+Table: Units of Liquid Volume
+
+| Unit         | Relative Value | SI Value  | Notes                                         |
+| :----------- | :------------: | --------: | :-------------------------------------------- |
+| **demiard**  | 1/4            | ~238 ml   |                                               |
+| **chopine**  | 1/2            | ~4.76 ml  | About a (US) pint; a decent sized drink       |
+| **pinte**    | 1              | ~952.1 ml | Almost a liter; a very large drink            |
+| **quade**    | 2              | ~1.904 L  | Half a gallon                                 |
+| **velte**    | 8              | ~7.617 L  | Two gallons                                   |
+| **barrique** | 236            | ~225 L    | A barrel of wine (or sometimes other alcohol) |
 
 
 
@@ -16176,7 +16598,7 @@ affects an air of mystery and tries to appear older than she really is.
 - **Style Points:** 1 (maximum 3)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-#### Creating Major Characters
+#### Creating Major Characters   ## {.breakbefore}
 
 As key opponents in a game of *The Queen's Cavaliers*, major characters
 should be created to serve specific roles in your game, such as a master
@@ -16332,8 +16754,8 @@ of war even at formal occasions.
 Certain types of opponents are usually encountered in mixed groups. Here
 are several that you can use or adapt when you need them.
 
-In the listings that follow, (P) means one of these for every player
-character in your group, and (P/2) means one for every two player
+In the listings that follow, *P* means one of these for every player
+character in your group, and *P*/2 means one for every two player
 characters. Listed Ideals can be used once each per group, in addition
 to the Passions of each member; remember that Passions and Ideals can
 reflect either an inclination toward a value or against one.
@@ -16347,7 +16769,7 @@ section on Organizations.
 Encountered primarily on the open road, these bandits are often, but not
 always, mounted on horses.
 
-  - (P) Greedy Bandits
+  - *P* Greedy Bandits
   - 2 Grizzled Veterans
   - 1 Rogue Highwayman
   - **Ideals:** Wealth (D8), Justice (D6)
@@ -16362,7 +16784,7 @@ always, mounted on horses.
 This can be any city watch or group of guards. Double their numbers if
 you want them to be more than an inconvenience for your cavaliers.
 
-  - (P) Lutetian Watch Grunts
+  - *P* Lutetian Watch Grunts
   - 1 Lutetian Watch Officer
   - **Ideals:** Loyalty (D8), Country (D6)
   - **Scope:** Local (D6); **Attributes:** Prestige D10, Resources D8,
@@ -16374,9 +16796,9 @@ you want them to be more than an inconvenience for your cavaliers.
 A loose assortment of ne'er-do-wells and cutthroats who would sell out
 their own grandmothers if there were profit in it.
 
-  - (P) Street Toughs
-  - (P) Desperate Convicts
-  - (P/2) Devious Smugglers
+  - *P* Street Toughs
+  - *P* Desperate Convicts
+  - *P*/2 Devious Smugglers
   - 1 Dishonest Mechanician
   - **Ideals:** Wealth (D10), Justice (D8), Pride (D6)
   - **Scope:** Immediate (D0); **Attributes:** Prestige D6, Resources
@@ -16391,8 +16813,8 @@ their own grandmothers if there were profit in it.
 These will most commonly be soldiers in the Gallinean army, if your
 cavaliers are in Gallinea. Sometimes they're encountered in a bar.
 
-  - (P) Infantry Recruits
-  - (P/2) Cavalry Officers
+  - *P* Infantry Recruits
+  - *P*/2 Cavalry Officers
   - 1 Grizzled Veteran (sergeant)
   - 1 Modern Sergents-Majors Généraux
   - **Ideals:** Country (D8), Loyalty (D6)
@@ -16407,7 +16829,7 @@ Using the pretext of righteous indignation, a mob of angry commoners has
 been stirred up and are looking for victims. And there's an immigrant
 couple straight ahead -- carrying a small baby\! Oh no\!
 
-  - 2 (P) Angry Mob Members
+  - 2*P* Angry Mob Members
   - 1 Dangerous Revolutionary, Grizzled Veteran, Asrian Priestess, or
     Petty Noble
   - **Ideals:** Church (D8), Justice (D6)
@@ -16421,8 +16843,8 @@ Traveling in style in one or more carriages, nobles may sometimes find
 themselves at the mercy of a bandit group -- requiring the cavaliers to
 take sides.
 
-  - (P/2) Gossiping Courtiers
-  - (P/2) Grizzled Veterans
+  - *P*/2 Gossiping Courtiers
+  - *P*/2 Grizzled Veterans
   - 2 Boorish Fops
   - 1 Fastidious Physicker or Longsuffering Tutor
   - 1 Petty Noble
@@ -16442,7 +16864,7 @@ These are the crew of a small sailing ship. For larger ships, add more
 Privateer Captains as officers, and create a major character as the
 captain.
 
-  - (P) Bloodthirsty Buccaneers
+  - *P* Bloodthirsty Buccaneers
   - 1 Privateer Captain
   - **Ideals:** Wealth (D8), Loyalty (D6)
   - **Scope:** Immediate (D0);** Attributes:** Prestige D6, Resources
@@ -16457,7 +16879,7 @@ captain.
 This group may be other members of the Queen's Cavaliers, or their
 equivalents in a parallel organization.
 
-  - (P) Brash Fencers, Cavalry Officers, Grizzled Veterans, or Petty
+  - *P* Brash Fencers, Cavalry Officers, Grizzled Veterans, or Petty
     Nobles
   - **Ideals:** Pride (D10), Loyalty (D8), Country (D6)
   - **Scope:** Immediate (D0);** Attributes:** Prestige D10, Resources
@@ -16472,9 +16894,9 @@ centers of commerce featuring goods for sale. These are the kinds of
 people usually found in a smaller marketplace; double or triple the
 number for larger bazaars.
 
-  - (P) Laconic Farmers
-  - (P/2) Bedraggled Urchins
-  - (P/2) Wary Shopkeepers
+  - *P* Laconic Farmers
+  - *P*/2 Bedraggled Urchins
+  - *P*/2 Wary Shopkeepers
   - 2 Lutetian Watch Grunts
   - 2 Street Toughs
   - 1 Fastidious Physicker, Dishonest Mechanician, or Secretive
@@ -16492,10 +16914,10 @@ number for larger bazaars.
 Operating in the shadows to avoid taxes or other legal entanglements,
 these secretive smugglers look to optimize profits.
 
-  - (P) Elissian Colonists
-  - (P/2) Street Toughs
-  - (P/2) Devious Smugglers
-  - (P/2) Wary Shopkeepers
+  - *P* Elissian Colonists
+  - *P*/2 Street Toughs
+  - *P*/2 Devious Smugglers
+  - *P*/2 Wary Shopkeepers
   - **Ideals:** Wealth (D8), Loyalty (D6)
   - **Scope:** Local (D6); **Attributes:** Prestige D6, Resources D8,
     Secrets D10; **Assets:** Alliances +1, Intrigue +2, Revenue +2,
@@ -16510,9 +16932,9 @@ Barroom fights break out quite often due to the presence of alcohol and
 surly people. Here are the typical opponents you might find in such a
 drunken melee.
 
-  - (P) Drunken Brawlers
-  - (P/2) Boorish Fops
-  - (P/2) Grizzled Veterans
+  - *P* Drunken Brawlers
+  - *P*/2 Boorish Fops
+  - *P*/2 Grizzled Veterans
   - 1 Gossiping Courtier
   - 1 Brash Fencer
   - 1 Gregarious Barkeep
@@ -16528,10 +16950,10 @@ drunken melee.
 
 Those who plot against the crown can be a very mixed lot of opponents.
 
-  - (P/2) Angry Mob Members
-  - (P/2) Street Thugs
-  - (P) Dangerous Revolutionaries
-  - (P/2) Gossiping Courtiers or Boorish Fops
+  - *P*/2 Angry Mob Members
+  - *P*/2 Street Thugs
+  - *P* Dangerous Revolutionaries
+  - *P*/2 Gossiping Courtiers or Boorish Fops
   - 1 Petty Noble
   - **Ideals:** Justice (D8), Pride (D6)
   - **Scope:** Local (D6); **Attributes:** Prestige D6, Resources D8,
@@ -17129,7 +17551,7 @@ This is a pretty scary snake. You really don't want to be bit by it.
 
 ## Bonus Material
 
-This is from various denos, special events, etc.
+This is from various demos, special events, etc.
 
 
 

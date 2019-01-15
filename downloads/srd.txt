@@ -1,62 +1,17 @@
 
 
-THE QUEEN’S CAVALIERS
+SYSTEM REFERENCE DOCUMENT
 
 
-Introduction
-
-_The Queen’s Cavaliers_ is a tabletop roleplaying game set in an
-alternate fantasy France, circa the early-to-mid 1600s. Inspired by _The
-Three Musketeers_ and other swashbuckling stories, _TQC_’s skill system
-is flexible and designed to be entertaining, with more options than
-simply doing damage from round to round. Want to swing on a chandelier
-to gain advantage over your foes, or recite an epic poem to build style
-points? These are all valid and effective strategies in _TQC_.
-
-Mechanically, _TQC_ uses a dice pool system based primarily on your
-three attributes: VERVE, AFFINITY, and GUILE. Skills and specialties
-grant you extra dice, as do weapons and tools. _Charmwoven apparel_ is
-unique to the setting – your clothes don’t just make you look
-fashionable but also enhance your dice pools … assuming you don’t
-violate the Laws of Fashion and end up garishly attired.
-
-Clockwork devices are also common in the setting, with mechanician
-characters able to build or even invent useful gadgets ranging from
-repeating crossbows to flying airships.
-
-Your _TQC_ character is built by combining together two classes to
-create a unique role; with over 20 classes, that gives hundreds of
-combinations such as Duelist/Virtuosa, Brigand/Chirurgeon,
-Charmweaver/Witch, or Mechanician/Visionary. These class pairings give
-you a structure that speeds character creation while allowing for
-creative combinations to express your character’s uniqueness.
+This is a listing of the game material available under a CreativeCommons
+CC-BY-4.0 license.
 
 Credits
 
-  ------------------ --------------------------------------------------
-  Game Designer      Caoimhe Ora Snow
-  Contributors       Berin Kinsman, Sam Chupp
-  Worldbuilding      Caoimhe Ora Snow, Rachel Tolliver, Joanne Renaud
-  Artists            Joanne Renaud, Eleanor Feron, Sara Otterstaetter
-  Cartography        Robert Altbauer
-  Vexillography      Robert P. Stefko
-  Backer Wrangling   Rachel Tolliver
-  Editing            Kristine Chester, Caoimhe Ora Snow
-  ------------------ --------------------------------------------------
-
-Playtests
-
-Playtests for _The Queen’s Cavaliers_ were held throughout southern
-California, including at the Strategicon conventions, at Game Empire
-Pasadena, at Clockwork Couture, at Comic Quest, and elsewhere. Hundreds
-of people playtested _TQC_ and their feedback was essential in shaping
-the game!
-
-_list needed_
-
-Kickstarter Backers
-
-_list needed_
+  --------------- ------------------------------------
+  Game Designer   Caoimhe Ora Snow
+  Editing         Kristine Chester, Caoimhe Ora Snow
+  --------------- ------------------------------------
 
 Licenses
 
@@ -5469,17 +5424,17 @@ Success Table Options
 The Success Table: _Specialty_ quality adds additional options to the
 indicated success table.
 
-  Success Table Weapon Qualities   
-  -------------------------------- ----------------------------------
-  +                                Basket Hilt (Decrease Advantage)
-  +                                Retort (Execute a Riposte)
-  +++                              Entangling
-  +++                              Tripping (Knockdown)
-  +++                              Unhorse
-  +++                              Wounding (Inflict 1 Wound)
-  +++                              Yielding (Inflict 4 Yield)
-  ++++                             Disarming
-  +++++                            Weapon-Breaking
+  Weapon Qualities   
+  ------------------ ----------------------------------
+  +                  Basket Hilt (Decrease Advantage)
+  +                  Retort (Execute a Riposte)
+  +++                Entangling
+  +++                Tripping (Knockdown)
+  +++                Unhorse
+  +++                Wounding (Inflict 1 Wound)
+  +++                Yielding (Inflict 4 Yield)
+  ++++               Disarming
+  +++++              Weapon-Breaking
 
 BASKET HILT: If your opponent has Advantage, you can decrease her die
 size by one step, or remove her Advantage Die entirely if she has +1D6
@@ -7696,7 +7651,9 @@ building-scale object is usually divided into multiple Areas.
 When talking about animals this large, such as giant squids or great
 whales, the term behemoth scale is used.
 
-Optional Rule: Encumbrance
+::::::::::::::::::::::::: option
+::::::::::::::::::::::::::::::::::::::::::; #### Optional Rule:
+Encumbrance
 
 This is an optional rule that the MJ can use if it will enhance her
 game. In most cases, the calculations are more effort than they’re worth
@@ -7770,6 +7727,8 @@ gears, that counts as three Pocket-size objects, or 1 Handheld object.
 Two or fewer units of these supplies don’t count for encumbrance
 purposes.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Wealth
 
 In this game, money is treated as an abstract resource rather than
@@ -7804,15 +7763,15 @@ The availability of the item is dependent upon where you are and how
 common the item is, as determined by the Gamemaster based on the
 following table.
 
-Availability
-
-  Availability   Die   Skill Required
-  -------------- ----- ----------------
+  Availability   Die   Skill Level Required
+  -------------- ----- ----------------------
   Very Common    D0    Apprentice
   Common         D6    Journeyman
   Uncommon       D8    Expert
   Rare           D10   Master
   Very Rare      D12   Grandmaster
+
+  : Availability
 
 There are no set values for availability, but as a general rule the
 highest die in an item’s cost is often equal to its availability rating,
@@ -7981,12 +7940,12 @@ If you don’t want a free weapon, you can instead take a +1D6 Barter die.
 
 You can pick from the following basic weapons:
 
--   Cutlass (Sword +1D8, Main Hand)
--   Dagger (Knife +1D6, Either Hand)
--   Flintlock Pistol (Pistol +1D6, Either Hand)
--   Rapier (Sword +1D8, Main Hand)
--   Sabre (Sword +1D6, Main Hand, Cavalry)
--   Smallsword (Sword +1D6, Either Hand)
+-   CUTLASS (Sword +1D8, Main Hand)
+-   DAGGER (Knife +1D6, Either Hand)
+-   FLINTLOCK PISTOL (Pistol +1D6, Either Hand)
+-   RAPIER (Sword +1D8, Main Hand)
+-   SABRE (Sword +1D6, Main Hand, Cavalry)
+-   SMALLSWORD (Sword +1D6, Either Hand)
 
 Weapon Qualities
 
@@ -8174,8 +8133,6 @@ of any size. The exceptions are cutlass, rapier, sabre, and smallsword –
 the common swords – in a small rural settlement. In such situations, the
 availability increases to 1D6.
 
-Common Dueling Weapons
-
   Weapon          Cost  Hands            Weapon Die    Specialties
   -------------- ------ ---------------- ------------- -------------------------------------
   Buckler          D6   Either           Shield +1D8   Parry, Block
@@ -8186,6 +8143,8 @@ Common Dueling Weapons
   Rapier           D6   Main             Sword +1D8    Parry, Lunge, Riposte, Feint
   Sabre            D6   Main (Cavalry)   Sword +1D6    Parry, Lunge, Feint
   Smallsword       D6   Either           Sword +1D6    Parry, Lunge, Riposte, Feint
+
+  : Common Dueling Weapons
 
 -   BUCKLER: A buckler is a small shield that can be strapped to your
     forearm, usually on your non-dominant hand. You can hold an item in
@@ -8212,8 +8171,6 @@ Common Dueling Weapons
 Uncommon dueling weapons have an availability of 1D0 in a capital city,
 1D6 in any other city, and 1D8 in villages and other rural areas. The
 one exception is that a bullwhip always has an availability of 1D0.
-
-Uncommon Dueling Weapons
 
   ------------------------------------------------------------------------------------------
   Weapon               Cost  Hands       Weapon    Specialties
@@ -8275,6 +8232,8 @@ Uncommon Dueling Weapons
   Weighted Net          D6   Main        Net +1D6  Feint (+++: Restrain)
                              (Reach)               
   ------------------------------------------------------------------------------------------
+
+  : Uncommon Dueling Weapons
 
 -   BACKSWORD: _description needed_
 -   BAYONET: A bayonet is attached to the barrel of a musket and can be
@@ -8358,8 +8317,6 @@ Ultimately it’s up to the Gamemaster to decide what the maximum
 effective range is for any weapon used at extreme long range, although
 usually not more than 10 areas.
 
-Aimed Weapons
-
   Weapon              Cost  Hands            Weapon Die     Reload   Close    Short    Medium   Long
   ------------------ ------ ---------------- -------------- -------- -------- -------- -------- --------
   Arbalest            D10   Both             Bow +1D10      Drop 4   Drop 2   Drop 0   Drop 0   Drop 2
@@ -8377,6 +8334,8 @@ Aimed Weapons
   Rifled Musket        D8   Both             Musket +1D10   Drop 4   Drop 1   Drop 0   Drop 0   Drop 1
   Thrown Dagger        D0   Either           Knife +1D6     --       Drop 0   Drop 0   --       --
   Thrown Spear         D6   Main             Polearm +1D6   --       Drop 1   Drop 0   Drop 1   --
+
+  : Aimed Weapons
 
 -   ARBALEST: Also known as a heavy crossbow, the arbalest is harder to
     use than a common crossbow but packs a larger punch.
@@ -8419,14 +8378,17 @@ Aimed Weapons
 Ammunition
 
 Firing a musket or pistol uses a small amount of blackpowder and a
-bullet, while a bow requires an arrow. However, strict tracking of
-ammunition and powder doesn’t contribute to the swashbuckling adventure
-style of the genre. If you have an Aimed weapon that has a Reload value,
-you’re assumed to have enough powder, bullets, or arrows to fire your
-weapon and reload it as many times as necessary. This applies even if
-you use someone else’s weapon, or a weapon you just picked up – you just
-don’t track ammo for Aimed weapons. Except, of course, for explosive
-weapons.
+bullet, while a bow requires an arrow.
+
+However, strict tracking of ammunition and powder doesn’t contribute to
+the swashbuckling adventure style of the genre. If you have an Aimed
+weapon that has a Reload value, you’re assumed to have enough powder,
+bullets, or arrows to fire your weapon and reload it as many times as
+necessary.
+
+This applies even if you use someone else’s weapon, or a weapon you just
+picked up – you just don’t track ammo for Aimed weapons. Except, of
+course, for explosive weapons.
 
 Explosive Weapons
 
@@ -8446,8 +8408,6 @@ on every creature, object, or other target within that area.
 -   NAVAL AREAS: _description needed_
 -   SUPPLIES: _description needed_
 
-Grenades
-
   Weapon                 Cost  Base Damage    Yield  Special
   --------------------- ------ ------------- ------- -----------------------
   Grenade                1D6   1D6 Wounds      x2    --
@@ -8457,7 +8417,7 @@ Grenades
   Grenade, thunder       1D6   1 Wound         x3    ++: Add 1 Area
   Grenade, wildfire      2D6   1D6 Wounds      x2    +: Add 1 Area
 
-Grenade Attacks
+  : Grenades
 
   Delivery Mechanism    Cost   Hands  Weapon Die     Reload   Close    Short    Medium   Long
   -------------------- ------ ------- -------------- -------- -------- -------- -------- --------
@@ -8465,7 +8425,7 @@ Grenade Attacks
   Mortar, hand          1D8    Both   Cannon +1D10   Drop 2   Drop 2   Drop 0   Drop 0   Drop 2
   Arrow, fired           --    Both   Bow +1D6       Drop 4   Drop 3   Drop 1   Drop 3   Drop 3
 
-Placed Bombs
+  : Grenade Attacks
 
   ----------------------------------------------------------------------------------------------
   Bomb Type     Cost  Scale         Item Die      Base      Yield  Radius Steps   Special
@@ -8504,7 +8464,7 @@ Placed Bombs
   wildfire                          +1D6          Wounds           Short, Medium  Radius
   ----------------------------------------------------------------------------------------------
 
-Artillery
+  : Placed Bombs
 
   ------------------------------------------------------------------------------------------------------------
   Weapon            Cost  Scale         Weapon   Base     Supplies   Close   Short   Medium   Long   Maximum
@@ -8535,7 +8495,7 @@ Artillery
                                         +1D8     Wounds                                              Areas
   ------------------------------------------------------------------------------------------------------------
 
-Cannon Shot
+  : Artillery
 
   --------------------------------------------------------------------------------
   Projectile Type     Cost  Extra      Yield  Radius Steps       Special
@@ -8564,6 +8524,8 @@ Cannon Shot
   Cannon shot,        1D10  +1D8        x2    Adjacent, Short,   ++: Step-Up
   wildfire                                    Medium             Radius
   --------------------------------------------------------------------------------
+
+  : Cannon Shot
 
 Armor
 
@@ -8596,13 +8558,13 @@ The following table lists the types of armor commonly found in Gallinea;
 each of these would have a +1D0 Availability Die in major cities, and
 +1D6 elsewhere.
 
-Common Armor
-
   Armor Type           Cost   Prowess   Item Die
   ------------------- ------ ---------- -------------------
   Buckler              1D6     Shield   Block, Parry +1D8
   Leather jerkin       1D6    Flexible  Block +1D6
   Steel breastplate    1D8     Rigid    Block +1D10
+
+  : Common Armor
 
 -   BUCKLER: A buckler is a type of small shield commonly used in
     dueling, usually paired with a rapier or other sword. They’re good
@@ -8622,8 +8584,6 @@ Some less common armors are shown below. Each has an Availability Die in
 a city that equals its cost, and one or more steps higher in smaller
 towns.
 
-Uncommon Armor
-
   Armor Type        Cost   Prowess   Item Die
   ---------------- ------ ---------- --------------------
   Buff coat         1D10   Flexible  Block +1D8
@@ -8634,6 +8594,8 @@ Uncommon Armor
   Parade armor      1D12    Rigid    Block +1D8
   Plate armor       1D10    Rigid    Block +1D12
   Almain-rivet      1D6     Rigid    Block +1D8
+
+  : Uncommon Armor
 
 -   BUFF COAT: Essentially a longer, reinforced gambeson, buff coats are
     favored by military officers. As with gambesons, they have
@@ -8682,6 +8644,7 @@ Uncommon Armor
     Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl)
     or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor
     must be worn or none of the charms are active.
+
 -   PLATE ARMOR: Plate armor provides superior protective ability albeit
     at the expense of mobility. While you are wearing plate armor, you
     take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition,
@@ -8726,6 +8689,8 @@ specialty, only one or the other.
   Tactics Draught             D6, bulk  Military (Strategy)
   Teetotaler’s Tea            D6, bulk  Streetwise (Carouse)
 
+  : Draughts
+
 Salves
 
 Salves, oils, and unguents are applied externally, usually to the hands,
@@ -8756,6 +8721,8 @@ Salves with increased potency have a cost equal to the die value.
   Weaver’s Lotion    D6,   Magicks (Weave)
                      bulk  
   -----------------------------------------------------------------------
+
+  : Salves
 
 Concoctions
 
@@ -8788,6 +8755,8 @@ Alchemical Supplies.
   Smoke Cloud     A cloud of harmless smoke that fills one Area per + spent.
   -----------------------------------------------------------------------------
 
+  : Concoctions
+
 Poisons
 
 There are three types of standard poisons in general use: lethal poison,
@@ -8809,6 +8778,8 @@ yellow-bellied scorpion venom.
   Poison, deadly       D6, bulk  Expend 1 per use of Poison
   Poison, impairing    D6, bulk  Expend 1 per use of Poison
   Poison, sleep        D6, bulk  Expend 1 per use of Poison
+
+  : Poisons
 
 Deadly Poison
 
@@ -8903,6 +8874,8 @@ on the table below.
          5 – 8        Hard (3D10)
           9+          Very Difficult (3D12)
 
+  : Device Complexity
+
 If you earn at least two success points on the Science (Calculus) roll,
 you have successfully drawn plans that will give you (or anyone else who
 follows them) a D6 bonus on rolls to install and complete the device.
@@ -8917,6 +8890,8 @@ size of that die up to a maximum limited by your ranks in Science
          +3             D10
          +4             D12
          +5             D12
+
+  : Maximum Die
 
 PROTOTYPE: If you have an existing prototype for the device, either
 created by yourself or by someone else, you gain a bonus D6 die on the
@@ -9029,6 +9004,8 @@ pocket (space 1), person (space 8), building (space 64).
   Room           D10        32
   Building       D12        64
 
+  : Casings
+
 Pocket Size
 
 A pocket-sized device is easily concealed, requires only one hand to
@@ -9133,6 +9110,8 @@ brewer’s ranks in Magicks (Brew).
      8    D10     3 alchemical supplies         3          24 Hours
     16    D12     4 alchemical supplies         4          24 Hours
 
+  : Alchemical Capacitor Power Source
+
 Gear Train
 
 A gear train is used to transmit mechanical energy to a device as part
@@ -9174,6 +9153,8 @@ penalty.
      4     D10    3 gears          4          Drop 1   One Action
      8     D12    4 gears          4          Drop 0   One Action
 
+  : Gear Train Power Source
+
 Blackpowder Flintlock
 
 A blackpowder flintlock is a kind of trigger that fires off once, using
@@ -9195,6 +9176,8 @@ powderworker’s ranks in Science (Blackpowder).
      2      D8    2 blackpowder charges         6          Drop 4    One use
      3     D10    3 blackpowder charges         8          2 Turns   One use
      4     D12    4 blackpowder charges         10         3 Turns   One use
+
+  : Blackpowder Flintlock Power Source
 
 Mainspring
 
@@ -9236,6 +9219,8 @@ minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
      8     D10    3 gears          6
     16     D12    4 gears          8
 
+  : Mainspring Power Source
+
    Space   Cost   Supplies  Wind         Duration
   ------- ------ ---------- ------------ ---------------------------
     +0      D0    0 gears   1 Turn       One use per success point
@@ -9248,6 +9233,8 @@ minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
     +0      D8    2 gears   1 minute     1 hour
     +0      D8    2 gears   10 minutes   24 hours
     +0     D10    3 gears   1 minute     24 hours
+
+  : Mainspring Options Power Source
 
 Naturalistic Turbine
 
@@ -9273,6 +9260,8 @@ the purchase of one unit of fabric supplies per power unit.
      4      D8    2 gears          2
      6     D10    3 gears          3
      8     D12    4 gears          4
+
+  : Naturalistic Turbine Power Source
 
 Phlogistone Furnace
 
@@ -9302,6 +9291,8 @@ ranks in Science (Blackpowder).
      4     D12    4 gears   10 (carry or movement only)         D10            4 fabric
      6     2D12   5 gears   20 (carry or movement only)         D12            5 fabric
 
+  : Phlogistone Furnace Power Source
+
 Tension Trigger
 
 A tension trigger stores energy for use and then releases it. To reset a
@@ -9322,6 +9313,8 @@ single use.
      1     D10    3 gears          2          Drop 1  One use
      1     D10    3 gears          3          Drop 2  One use
      1     D12    4 gears          3          Drop 1  One use
+
+  : Tension Trigger Power Source
 
 Components
 
@@ -9366,6 +9359,8 @@ Defense (Block) rolls.
      4     D10    3 gears      0        D10
      8     D12    4 gears      0        D12
 
+  : Armor Component
+
 Articulation
 
 Clockwork devices are inherently clumsy; if used as replacements for a
@@ -9375,7 +9370,7 @@ body with a clockwork limb, such as an arm or a leg. The articulation
 component reduces those penalties from Drop 4 down to Drop 2, Drop 1 or
 Drop 0.
 
-Creating an Articulation Component: The Medicine (Surgery) specialty is
+CREATING AN ARTICULATION COMPONENT: The Medicine (Surgery) specialty is
 required to create an articulation component with a low Drop penalty.
 Surgery +1 is required for Drop 1, and Surgery +2 for Drop 0.
 
@@ -9390,6 +9385,8 @@ Surgery +1 is required for Drop 1, and Surgery +2 for Drop 0.
      0      D8    2 gears      0     Drop 1
      1      D8    2 gears      0     Drop 0
      0     D10    3 gears      0     Drop 0
+
+  : Articulation Component
 
 Calculation
 
@@ -9408,7 +9405,7 @@ input for all appropriate information, such as the longitude and
 latitude, the weather conditions, and so on. Faulty data can lead to
 faulty calculations.
 
-Creating a Calculation Component: The Science (Calculus) specialty is
+CREATING A CALCULATION COMPONENT: The Science (Calculus) specialty is
 required to create a calculation component and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a calculation component is equal to the creator’s
@@ -9421,6 +9418,8 @@ ranks in Science (Calculus).
      2      D8    2 gears      1    Navigation
      4     D10    3 gears      1    Polynomials
      8     D12    4 gears      1    Analytics
+
+  : Calculation Component
 
 Carry
 
@@ -9438,6 +9437,8 @@ greater capacity depending on their use.
      4      D8    2 gears      2         Carriage
      8     D10    3 gears      4           Room
     16     D12    4 gears      8         Building
+
+  : Carry Component
 
 Delay Timer
 
@@ -9459,6 +9460,8 @@ or bombs.
      1     D10    3 gears      0    1 minute   1-8 Hours
      1     D12    4 gears      0    1 minute   1-6 Days
 
+  : Delay Timer Component
+
 Efficiency
 
 The efficiency component reduces the time necessary to do a simple,
@@ -9478,6 +9481,8 @@ involve specialty rolls, such as charmweaving or surgery.
      4      D8    2 gears      1    Reduce Drop by 4   Reduce Time by 50%
      8     D10    3 gears      2    –                  Reduce Time by 75%
     16     D12    4 gears      4    –                  Reduce Time by 90%
+
+  : Efficiency Component
 
 Explosion
 
@@ -9512,6 +9517,8 @@ the powderworker’s ranks in Science (Blackpowder).
      4     D10    4 blackpowder charges     8    3D12 (3D8)
      8     D12    5 blackpowder charges    10    5D12 (3D10, 3D6)
 
+  : Explosion Component
+
 Hand-to-Hand Weapon
 
 The Hand-to-Hand Weapon component gives a device the ability to be used
@@ -9529,6 +9536,8 @@ larger than Portable size.
      4      D6     1 gear      0        D10
      8      D8    2 gears      0        D12
 
+  : Hand-to-Hand Weapon Component
+
    Space   Cost   Supplies   Power  Casing Size   Weapon Prowess    Max Weapon Die
   ------- ------ ---------- ------- ------------- ---------------- ----------------
     +0      D0    0 gears     +0    Pocket        Knife                  1D6
@@ -9538,6 +9547,8 @@ larger than Portable size.
     +1      D0    0 gears     +0    Portable      Sword                  1D12
     +2      D0    0 gears     +0    Portable      Cudgel                 1D12
     +0      D0    0 gears     +0    Portable      Pike                   1D12
+
+  : Hand-To-Hand Weapon Component Options
 
 Injector
 
@@ -9553,6 +9564,8 @@ roll to deliver its payload.
   ------- ------ ---------- -------
      1      D6     1 gear      1
      1      D8    2 gears      0
+
+  : Injector Component
 
 Item Die
 
@@ -9582,6 +9595,8 @@ Weapon Die to a device.
      4      D8    2 gears      1       D10
      8     D10    3 gears      2       D12
 
+  : Item Die Component
+
 Magazine
 
 A magazine component holds multiple shots of ammunition (bullets and
@@ -9596,6 +9611,8 @@ reload the device with a full magazine, are shown in the table below.
      2      D8    2 gears      0       8    2 Turns
      4     D10    3 gears      0      16    3 Turns
      8     D12    4 gears      0      32    4 Turns
+
+  : Magazine Component
 
 Measurement
 
@@ -9622,6 +9639,8 @@ allow the device to process the information that it measures.
      4     D12    4 gears      0             8
      4     D12    4 gears      4             16
 
+  : Measurement Component
+
 Miniaturization
 
 The miniaturization component doesn’t actually add any capabilities to a
@@ -9639,6 +9658,8 @@ UNIQUE COMPONENT: A device can have only one miniaturization component.
      0      D8    2 gears      0              +4
      0     D10    3 gears      0              +6
      0     D12    4 gears      0              +8
+
+  : Miniaturization Component
 
 Movement
 
@@ -9675,6 +9696,8 @@ order to stay aloft.
      4     D10    3 gears      3     1 Area    4 Areas  10 leagues per hour
      8     D12    4 gears      4     1 Area    5 Areas  15 leagues per hour
 
+  : Movement Component
+
    Space   Cost   Supplies   Power  Movement Mode   Maximum Speed
   ------- ------ ---------- ------- --------------- ---------------
     +0      D0    0 gears     +0    Roll            3 Areas
@@ -9684,6 +9707,8 @@ order to stay aloft.
     +2      D0    0 gears     +1    Float           4 Areas
     +4      D6     1 gear     +2    Submerge        3 Areas
     +8      D6     1 gear     +3    Fly             5 Areas
+
+  : Movement Component Options
 
 Powered Weapon
 
@@ -9699,6 +9724,8 @@ than Portable size.
 REQUIRES HAND-TO-HAND WEAPON: You can only add this component to a
 device if it already possesses the hand-to-hand weapon component. The
 powered weapon Bonus Die cannot exceed the Weapon Die of the device.
+
+Table: Powered Weapon Component
 
 Space | Cost | Supplies | Power | Bonus Die |
 :—: | ;–: | :——: | :—: | :——–: |
@@ -9746,6 +9773,8 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
      2      D8    2 gears      1        D10       Drop 2
      4     D10    3 gears      2        D12       Drop 4
 
+  : Projectile Weapon Component
+
    Space   Cost   Supplies   Power   Close (0)   Short (1-2)   Medium (3-4)   Long (5+)
   ------- ------ ---------- ------- ----------- ------------- -------------- -----------
     +0      D0    0 gears     +0      Drop 0         N/A                     
@@ -9759,19 +9788,20 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
     +0      D6    1 gears     +1      Drop 1                                 
     +0      D0    0 gears     +0      Drop 2                                 
 
-   Space   Cost   Supplies   Power  Casing Size   Max Weapon Die   Skill Prowess
-  ------- ------ ---------- ------- ------------- ---------------- ---------------
-    +0      D0    0 gears     +0    Pocket        Pistol +1D6      Pistol
-    +0      D0    0 gears     +0    Handheld      Pistol +1D8      Pistol
-    +0      D6     1 gear     +0    Handheld      Bow +1D8         Crossbow
-    +0      D0    0 gears     +0    Portable      Bow +1D10        Crossbow
-    +0      D0    0 gears     +0    Portable      Musket +1D10     Musket
-    +0      D6     1 gear     +0    Portable      Cannon +1D10     Cannon
-    +0      D6     1 gear     +0    Person        Bow +1D12        Crossbow
-    +0      D6     1 gear     +0    Person        Musket +1D12     Musket
-    +0      D6     1 gear     +0    Person        Cannon +1D12     Cannon
-    +0      D0    0 gears     +0    Carriage      Cannon +1D12     Cannon
-    +0      D6     1 gear     +0    Carriage      Crossbow +1D12   Crossbow
+  : Projectile Weapon Component Range Options
+
+Table: Projectile Weapon Component Use Options | Space | Cost | Supplies
+| Power | Casing Size | Max Weapon Die | Skill Prowess | | :—: | :–: |
+:——: | :—: | :———- | :————- | :————- | | +0 | D0 | 0 gears | +0 | Pocket
+| Pistol +1D6 | Pistol | | +0 | D0 | 0 gears | +0 | Handheld | Pistol
++1D8 | Pistol | | +0 | D6 | 1 gear | +0 | Handheld | Bow +1D8 | Crossbow
+| | +0 | D0 | 0 gears | +0 | Portable | Bow +1D10 | Crossbow | | +0 | D0
+| 0 gears | +0 | Portable | Musket +1D10 | Musket | | +0 | D6 | 1 gear |
++0 | Portable | Cannon +1D10 | Cannon | | +0 | D6 | 1 gear | +0 | Person
+| Bow +1D12 | Crossbow | | +0 | D6 | 1 gear | +0 | Person | Musket +1D12
+| Musket | | +0 | D6 | 1 gear | +0 | Person | Cannon +1D12 | Cannon | |
++0 | D0 | 0 gears | +0 | Carriage | Cannon +1D12 | Cannon | | +0 | D6 |
+1 gear | +0 | Carriage | Crossbow +1D12 | Crossbow |
 
 Sample Devices
 
@@ -10066,53 +10096,53 @@ are one scale category higher, including the packaging.
 The following table lists the most common types of clothes that are
 found in Gallinea.
 
-Articles of Clothing
-
-  Item                  Cost   Worn On     Social Rank
+  Item                   Cost  Worn On     Social Rank
   --------------------- ------ ----------- ----------------
-  Beret, artisan’s      1D0    Head        Artisan (1D8)
-  Bodice, fine          1D6    Torso       Noble (1D10)
-  Bodice, common        1D0    Torso       Commoner (1D0)
-  Boots, military       1D6    Feet        Soldier (1D6)
-  Boots, work           1D6    Feet        Commoner (1D0)
-  Breeches              1D6    Legs        Commoner (1D0)
-  Cape, cloth           1D0    Shoulders   Soldier (1D6)
-  Cape, fur             1D8    Shoulders   Artisan (1D8)
-  Capotain              1D0    Head        Military (1D6)
-  Casaque               1D6    Torso       Soldier (1D6)
-  Cavalier hat          1D6    Head        Military (1D6)
-  Chopines              1D6    Feet        Noble (1D10)
-  Cloak                 1D0    Shoulders   Commoner (1D0)
-  Doublet, common       1D6    Torso       Commoner (1D0)
-  Doublet, fine         1D0    Torso       Noble (1D10)
-  Gloves, courtier’s    1D6    Hands       Noble (1D10)
-  Gloves, craftsman’s   1D0    Hands       Artisan (1D8)
-  Gloves, farmer’s      1D0    Hands       Commoner (1D0)
-  Gloves, soldier’s     1D0    Hands       Soldier (1D6)
-  Goggles, gearspring   1D6    Head        Artisan (1D8)
-  Gown, courtly         1D10   Torso       Noble (1D10)
-  Gown, surgeon’s       1D6    Torso       Artisan (1D8)
-  Hair ribbons          1D0    Head        Noble (1D10)
-  Hose                  1D0    Legs        Noble (1D10)
-  Masque                1D0    Head        Noble (1D10)
-  Pantaloons            1D6    Legs        Military (1D6)
-  Pantofles             1D0    Feet        Artisan (1D8)
-  Petticoat             1D6    Legs        Noble (1D10)
-  Plague mask           1D6    Head        Artisan (1D8)
-  Poulaines             1D0    Feet        Military (1D6)
-  Robes                 1D0    Torso       Commoner (1D0)
-  Sandals               1D0    Feet        Commoner (1D0)
-  Shift                 1D0    Torso       Commoner (1D0)
-  Shoes, buckled        1D0    Feet        Commoner (1D0)
-  Skirt                 1D6    Legs        Common (1D0)
-  Skullcap, clerical    1D0    Head        Artisan (1D8)
-  Smock                 1D0    Torso       Commoner (1D0)
-  Stockings             1D0    Legs        Commoner (1D0)
-  Stole, liturgical     1D0    Shoulders   Artisan (1D8)
-  Stole, ornate         1D8    Shoulders   Noble (1D10)
-  Tabard                1D6    Shoulders   Soldier (1D6)
-  Tricorne              1D6    Head        Military (1D6)
-  Vestments             1D6    Torso       Artisan (1D8)
+  Beret, artisan’s       1D0   Head        Artisan (1D8)
+  Bodice, fine           1D6   Torso       Noble (1D10)
+  Bodice, common         1D0   Torso       Commoner (1D0)
+  Boots, military        1D6   Feet        Soldier (1D6)
+  Boots, work            1D6   Feet        Commoner (1D0)
+  Breeches               1D6   Legs        Commoner (1D0)
+  Cape, cloth            1D0   Shoulders   Soldier (1D6)
+  Cape, fur              1D8   Shoulders   Artisan (1D8)
+  Capotain               1D0   Head        Military (1D6)
+  Casaque                1D6   Torso       Soldier (1D6)
+  Cavalier hat           1D6   Head        Military (1D6)
+  Chopines               1D6   Feet        Noble (1D10)
+  Cloak                  1D0   Shoulders   Commoner (1D0)
+  Doublet, common        1D6   Torso       Commoner (1D0)
+  Doublet, fine          1D0   Torso       Noble (1D10)
+  Gloves, courtier’s     1D6   Hands       Noble (1D10)
+  Gloves, craftsman’s    1D0   Hands       Artisan (1D8)
+  Gloves, farmer’s       1D0   Hands       Commoner (1D0)
+  Gloves, soldier’s      1D0   Hands       Soldier (1D6)
+  Goggles, gearspring    1D6   Head        Artisan (1D8)
+  Gown, courtly          1D10  Torso       Noble (1D10)
+  Gown, surgeon’s        1D6   Torso       Artisan (1D8)
+  Hair ribbons           1D0   Head        Noble (1D10)
+  Hose                   1D0   Legs        Noble (1D10)
+  Masque                 1D0   Head        Noble (1D10)
+  Pantaloons             1D6   Legs        Military (1D6)
+  Pantofles              1D0   Feet        Artisan (1D8)
+  Petticoat              1D6   Legs        Noble (1D10)
+  Plague mask            1D6   Head        Artisan (1D8)
+  Poulaines              1D0   Feet        Military (1D6)
+  Robes                  1D0   Torso       Commoner (1D0)
+  Sandals                1D0   Feet        Commoner (1D0)
+  Shift                  1D0   Torso       Commoner (1D0)
+  Shoes, buckled         1D0   Feet        Commoner (1D0)
+  Skirt                  1D6   Legs        Common (1D0)
+  Skullcap, clerical     1D0   Head        Artisan (1D8)
+  Smock                  1D0   Torso       Commoner (1D0)
+  Stockings              1D0   Legs        Commoner (1D0)
+  Stole, liturgical      1D0   Shoulders   Artisan (1D8)
+  Stole, ornate          1D8   Shoulders   Noble (1D10)
+  Tabard                 1D6   Shoulders   Soldier (1D6)
+  Tricorne               1D6   Head        Military (1D6)
+  Vestments              1D6   Torso       Artisan (1D8)
+
+  : Articles of Clothing
 
 Standard outfits
 
@@ -10121,40 +10151,40 @@ one or two standard outfits depending on her class and backstory. In
 addition to sharing a common cost, outfits are all considered part of
 the same social rank, regardless of the actual social rank of each item.
 
-outfits
-
   ----------------------------------------------------------------------------
-  Item           Cost      Includes
+  Item             Cost    Includes
   -------------- --------- ---------------------------------------------------
-  Clockworker    2D6       Gearspring goggles, smock, breeches, craftsman’s
+  Clockworker       2D6    Gearspring goggles, smock, breeches, craftsman’s
   outfit                   gloves, pantofles
 
-  Corsair outfit 4D6       Tricorne, doublet, soldier’s gloves, pantaloons,
+  Corsair outfit    4D6    Tricorne, doublet, soldier’s gloves, pantaloons,
                            boots
 
-  Courtly outfit 3D6       Hair ribbons, bodice, courtier’s gloves, skirt,
+  Courtly outfit    3D6    Hair ribbons, bodice, courtier’s gloves, skirt,
                            chopines
 
-  Crafter outfit 2D6       Artisan’s beret, smock, breeches, craftsman’s
+  Crafter outfit    2D6    Artisan’s beret, smock, breeches, craftsman’s
                            gloves, buckled shoes
 
-  Military       2D6       Capotain, soldier’s gloves, breeches, boots, tabard
+  Military          2D6    Capotain, soldier’s gloves, breeches, boots, tabard
   outfit                   
 
-  Peasant outfit 1D6       Shift, breeches, buckled shoes
+  Peasant outfit    1D6    Shift, breeches, buckled shoes
 
-  Physician      3D6       Plague mask, surgeon’s gown, breeches, pantofles
+  Physician         3D6    Plague mask, surgeon’s gown, breeches, pantofles
   outfit                   
 
-  Priest outfit  2D6       Clerical skullcap, vestments, courtier’s gloves,
+  Priest outfit     2D6    Clerical skullcap, vestments, courtier’s gloves,
                            breeches, pantofles
 
-  Scholar’s      1D6+1D8   Ornate stole, robes, breeches, poulaines
+  Scholar’s       1D6+1D8  Ornate stole, robes, breeches, poulaines
   outfit                   
 
-  Swashbuckler   4D6       Cavalier hat, doublet, soldier’s gloves, breeches,
+  Swashbuckler      4D6    Cavalier hat, doublet, soldier’s gloves, breeches,
   outfit                   boots, cloth cape
   ----------------------------------------------------------------------------
+
+  : Standard Outfits
 
 CLOCKWORKER OUTFIT (ARTISAN 1D8): This is worn while doing mechanician
 work, and usually has a lot of extraneous pockets and loops for tools
@@ -10253,8 +10283,6 @@ about your birth that you’re missing. At the end of that process, the
 charmweaver makes a simple Magicks (Weave) roll with the opposition pool
 based on how much they don’t know, as shown on the following table.
 
-Opposition Pool for Charm Attunement Rolls
-
   Die   Birth Date             Birth Time            Place of Birth
   ----- ---------------------- --------------------- --------------------------
   D0    Exact date             Time, to the minute   City or village of birth
@@ -10262,6 +10290,8 @@ Opposition Pool for Charm Attunement Rolls
   D8    Month known            Morning or Night      Country of birth
   D10   Year known             --                    Continent of birth
   D12   Nothing known          Nothing known         Nothing known
+
+  : Opposition Pool for Charm Attunement Rolls
 
 The dice pool is based on all of these factors – so if you know the
 exact date of your birth, that you know you were born in the morning,
@@ -10304,8 +10334,6 @@ _“Dissonance limits the effectiveness of charms.”_
 
 _description of dissonance needed_
 
-Dissonance
-
   Dissonance Level   Maximum Charm Die
   ------------------ -------------------
   0                  No limits
@@ -10316,13 +10344,13 @@ Dissonance
   5                  1D0
   6 or more          None
 
+  : Dissonance
+
 The Fifth Law: The Law of Cacophony
 
 _“Unrestrained use of color creates dissonance.”_
 
 _explanation needed_
-
-Dissonance Generated by Cacophony
 
   Additional Colors   Dissonance
   ------------------- ------------
@@ -10332,6 +10360,8 @@ Dissonance Generated by Cacophony
   4                   +4
   5                   +5
   6 or more           +6
+
+  : Dissonance Generated by Cacophony
 
 The Sixth Law: The Law of Neutrality
 
@@ -10345,8 +10375,6 @@ _“Rips, tears, and holes produce dissonance.”_
 
 _explanation needed_
 
-Dissonance Generated by Damage
-
   Unrepaired Rips   Dissonance
   ----------------- ------------
   0                 +0
@@ -10357,6 +10385,8 @@ Dissonance Generated by Damage
   5                 +5
   6 or more         +6
 
+  : Dissonance Generated by Damage
+
 The Eighth Law: The Law of Station
 
 _“Outfits of mismatched attire produce dissonance.”_
@@ -10365,8 +10395,6 @@ _explanation needed_
 
 Mismatched refers to the social rank associated with each item.
 Predefined outfits automatically count as a single rank.
-
-Dissonance Generated by Social Rank Mismatch
 
   Step of Mismatch   Dissonance
   ------------------ ------------
@@ -10378,6 +10406,8 @@ Dissonance Generated by Social Rank Mismatch
   5                  +5
   6 or more          +6
 
+  : Dissonance Generated by Social Rank Mismatch
+
 The Ninth Law: The Law of _Dernier Cri_
 
 _“Dated fashions generate dissonance.”_
@@ -10385,8 +10415,6 @@ _“Dated fashions generate dissonance.”_
 _explanation needed_
 
 This only applies to items or outfits of social rank 1D10.
-
-Dissonance Generated by Dated Fashions
 
   Years        Dissonance
   ------------ ------------
@@ -10397,6 +10425,8 @@ Dissonance Generated by Dated Fashions
   4            +4
   5            +5
   6 or older   +6
+
+  : Dissonance Generated by Dated Fashions
 
 Wearing Charmwoven Clothing
 
@@ -10414,8 +10444,6 @@ Arm Apparel
 
 _introduction needed_
 
-Arm Apparel
-
   Item                  Cost   Social Rank   Pertinent Skills
   --------------------- ------ ------------- ----------------------------------
   Gloves, Courtier’s    1D6    D10           Culture, Interaction, Streetwise
@@ -10423,13 +10451,13 @@ Arm Apparel
   Gloves, Soldier’s     1D0    D6            Defense, Dueling, Military
   Gloves, Farmer’s      1D0    D0            Nature, Streetwise
 
+  : Arm Apparel
+
 _descriptions needed_
 
 Torso Apparel
 
 _introduction needed_
-
-Torso Apparel
 
   Item              Cost   Social Rank   Pertinent Skills
   ----------------- ------ ------------- --------------------------------------------
@@ -10445,13 +10473,13 @@ Torso Apparel
   Smock             1D0    D8            Culture, Magicks, Science
   Vestments         1D6    D8            Culture, Interaction, Magicks, Observation
 
+  : Torso Apparel
+
 _descriptions needed_
 
 Foot Apparel
 
 _introduction needed_
-
-Foot Apparel
 
   Item              Cost   Social Rank   Pertinent Skills
   ----------------- ------ ------------- --------------------------------
@@ -10463,14 +10491,14 @@ Foot Apparel
   Sandals           1D0    D0            Nature, Streetwise
   Shoes, Buckled    1D0    D0            Culture, Nature, Streetwise
 
+  : Foot Apparel
+
 Head Apparel
 
 The people of France wear many different kinds of hats, with a type of
 headwear available to every type of charm – all the skills, with the
 exception of Initiative. The types of hats available are shown in the
 following table.
-
-Head Apparel
 
   Item                  Cost   Social Rank   Pertinent Skills
   --------------------- ------ ------------- -----------------------------------
@@ -10483,6 +10511,8 @@ Head Apparel
   Plague Mask           1D6    D8            Medicine, Observation, Science
   Skullcap, Clerical    1D0    D8            Culture, Interaction, Observation
   Tricorne              1D6    D6            Military, Nature, Streetwise
+
+  : Head Apparel
 
 BERET, ARTISAN’S: The simple woolen beret is common among crafters, and
 you can get a beret in many different colors.
@@ -10538,8 +10568,6 @@ Shoulder charms tend to be about skills that are flashy and
 attention-getting, although a few have use in disguising or hiding the
 wearer.
 
-Shoulder Apparel
-
   Item                Cost   Social Rank   Pertinent Skills
   ------------------- ------ ------------- -----------------------------------------------
   Cape, Cloth         1D0    D6            Defense, Dueling, Interaction, Streetwise
@@ -10549,13 +10577,13 @@ Shoulder Apparel
   Stole, Ornate       1D8    D10           Culture, Interaction, Streetwise
   Tabard              1D6    D6            Defense, Dueling, Interaction, Military
 
+  : Shoulder Apparel
+
 _descriptions needed_
 
 Standard Outfits
 
 _introduction needed_
-
-standard Outfits
 
   ------------------------------------------------------------------------------
   Item           Cost   Social   Includes
@@ -10588,6 +10616,8 @@ standard Outfits
   Outfit                         breeches, boots, cape
   ------------------------------------------------------------------------------
 
+  : standard Outfits
+
 _descriptions needed_
 
 Creating Charmwoven Clothing
@@ -10602,8 +10632,6 @@ Culture
 
 _introduction needed_
 
-Culture Pertinence
-
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------------------------
   Arm        Courtier’s gloves
@@ -10612,11 +10640,11 @@ Culture Pertinence
   Head       Artisan’s beret, hair ribbons, clerical skullcap
   Shoulder   Fur cape, liturgical stole, ornate stole
 
+  : Culture Pertinence
+
 Defense
 
 _introduction needed_
-
-Defense Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------
@@ -10626,11 +10654,11 @@ Defense Pertinence
   Head       Cavalier hat
   Shoulder   Cloth cape, cloak, tabard
 
+  : Defense Pertinence
+
 Dueling
 
 _introduction needed_
-
-Dueling Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- -------------------------------------
@@ -10640,11 +10668,11 @@ Dueling Pertinence
   Head       Cavalier hat, masque
   Shoulder   Cloth cape, fur cape, cloak, tabard
 
+  : Dueling Pertinence
+
 Initiative
 
 _introduction needed_
-
-Initiative Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------
@@ -10654,11 +10682,11 @@ Initiative Pertinence
   Head       --
   Shoulder   --
 
+  : Initiative Pertinence
+
 Interaction
 
 _introduction needed_
-
-Interaction Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- -----------------------------------------------------------------
@@ -10668,11 +10696,11 @@ Interaction Pertinence
   Head       Hair ribbons, masque, clerical skullcap
   Shoulder   Cloth cape, fur cape, liturgical stole, ornate stole, tabard
 
+  : Interaction Pertinence
+
 Magicks
 
 _introduction needed_
-
-Magicks Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------
@@ -10682,11 +10710,11 @@ Magicks Pertinence
   Head       Artisan’s beret, hair ribbons
   Shoulder   Fur cape, liturgical stole
 
+  : Magicks Pertinence
+
 Medicine
 
 _introduction needed_
-
-Medicine Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------
@@ -10696,11 +10724,11 @@ Medicine Pertinence
   Head       Plague mask
   Shoulder   --
 
+  : Medicine Pertinence
+
 Military
 
 _introduction needed_
-
-Military Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- ----------------------------------------
@@ -10710,11 +10738,11 @@ Military Pertinence
   Head       Capotain, gearspring goggles, tricorne
   Shoulder   Tabard
 
+  : Military Pertinence
+
 Nature
 
 _introduction needed_
-
-Nature Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- ----------------------------------------
@@ -10724,11 +10752,11 @@ Nature Pertinence
   Head       Capotain, tricorne
   Shoulder   Cloak
 
+  : Nature Pertinence
+
 Observation
 
 _introduction needed_
-
-Observation Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- ----------------------------------------------------
@@ -10738,11 +10766,11 @@ Observation Pertinence
   Head       Gearspring goggles, plague mask, clerical skullcap
   Shoulder   --
 
+  : Observation Pertinence
+
 Science
 
 _introduction needed_
-
-Science Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- --------------------------------------------------
@@ -10752,12 +10780,12 @@ Science Pertinence
   Head       Artisan’s beret, gearspring goggles, plague mask
   Shoulder   --
 
+  : Science Pertinence
+
 Streetwise
 
 Articles that can take streetwise charms are a varied set, ranging from
 the peasant’s cloth cape to the noble’s ornate stole.
-
-Streetwise Pertinence
 
   Category   Pertinent Articles of Clothing
   ---------- ------------------------------------------
@@ -10767,11 +10795,13 @@ Streetwise Pertinence
   Head       Capotain, cavalier hat, masque, tricorne
   Shoulder   Cloth cape, cloak, ornate stole
 
+  : Streetwise Pertinence
+
 Colors
 
 _introduction needed_
 
-Neutral Colors
+Table: Neutral Colors
 
 _introduction needed_ Neutral Colors
 
@@ -10782,7 +10812,7 @@ _introduction needed_ Neutral Colors
   Cendrée    Grey
   Sable      Black
 
-Verve Colors
+  : Verve Colors
 
 _introduction needed_ Verve Colors
 
@@ -10794,7 +10824,7 @@ Azure | Blue |
 Gules | Red |
 Or | Yellow |
 
-Affinity Colors
+Table: Affinity Colors
 
 _introduction needed_
 
@@ -10809,7 +10839,7 @@ Affinity Colors
   Cendrée (only)    Grey
   Vert              Green
 
-Guile Colors
+  : Guile Colors
 
 _introduction needed_
 
@@ -10823,45 +10853,30 @@ Guile Colors
 
 _introduction needed_
 
-AMARANTH: This is a violet-red color, close to a magenta. It is an
-Affinity color.
-
-ARGENT: Argent is both the color white and the color silver. When used
-in combination, it’s considered a neutral color; used by itself, it’s a
-Verve color.
-
-AZURE: A medium shade of blue, azure is a Verve color.
-
-BLEU-CÉLESTE: The light blue shade of a clear sky, bleu-céleste is not
-as dark as azure.
-
-BRUNÂTRE: Brown, or brunâtre, is an Affinity color. If used in
-combination with another color, it’s considered a neutral color.
-
-CARNATION: An Affinity color, carnation is a softer pink color, often a
-lighter shade of Amaranth.
-
-CENDRÉE: Named for the dark grey of cinders, cendrée is an Affinity
-color when used by itself, or a neutral color when used in combination
-with another color.
-
-GULES: Gules, a medium shade of red, is a Verve color.
-
-OR: _Or_ represents yellow or gold. It is a Verve color.
-
-PURPURE: This is a dark purple color and is a Guile color.
-
-SABLE: Items that are entirely black are considered sable, a Guile
-color. If combined with another color, then the black becomes a neutral
-color.
-
-SANGUINE: Dark red, the color of blood, is a Guile color.
-
-TENNÉ: This is a dark shade of orange, and is a Guile color.
-
-VERT: The color of forest vegetation, vert is an Affinity color.
-
-Charmweaving Colors
+-   AMARANTH: This is a violet-red color, close to a magenta. It is an
+    Affinity color.
+-   ARGENT: Argent is both the color white and the color silver. When
+    used in combination, it’s considered a neutral color; used by
+    itself, it’s a Verve color.
+-   AZURE: A medium shade of blue, azure is a Verve color.
+-   BLEU-CÉLESTE: The light blue shade of a clear sky, bleu-céleste is
+    not as dark as azure.
+-   BRUNÂTRE: Brown, or brunâtre, is an Affinity color. If used in
+    combination with another color, it’s considered a neutral color.
+-   CARNATION: An Affinity color, carnation is a softer pink color,
+    often a lighter shade of Amaranth.
+-   CENDRÉE: Named for the dark grey of cinders, cendrée is an Affinity
+    color when used by itself, or a neutral color when used in
+    combination with another color.
+-   GULES: Gules, a medium shade of red, is a Verve color.
+-   OR: _Or_ represents yellow or gold. It is a Verve color.
+-   PURPURE: This is a dark purple color and is a Guile color.
+-   SABLE: Items that are entirely black are considered sable, a Guile
+    color. If combined with another color, then the black becomes a
+    neutral color.
+-   SANGUINE: Dark red, the color of blood, is a Guile color.
+-   TENNÉ: This is a dark shade of orange, and is a Guile color.
+-   VERT: The color of forest vegetation, vert is an Affinity color.
 
   Color Name   Description       Attribute
   ------------ ----------------- --------------------
@@ -10881,6 +10896,8 @@ Charmweaving Colors
   Tenné        Orange or tan     Affinity
   Vert         Green             Affinity
 
+  : Charmweaving Colors
+
 Living Expenses
 
 Characters are assumed to have their housing and daily nutritional needs
@@ -10899,8 +10916,6 @@ drink, and suite.
 Characters who go carousing and buy rounds on the house can use the
 price of the most expensive alcohol bought as an Item die on their
 Streetwise (Carouse) rolls.
-
-Living Expenses
 
   Service Requested                        Cost
   --------------------------------------- ------
@@ -10922,27 +10937,19 @@ Living Expenses
   Stabling for one night                   1D0
   Stabling for one week                    1D6
 
-DRINKS, GOOD: _description needed_
+  : Living Expenses
 
-DRINKS, PRIVATE RESERVE: _description needed_
-
-DRINKS, WATERED DOWN: _description needed_
-
-LODGING, CHEAP: _description needed_
-
-LODGING, GOOD: _description needed_
-
-LODGING, SUMPTUOUS: _description needed_
-
-MEALS, BLAND: _description needed_
-
-MEALS, GOOD: _description needed_
-
-MEALS, GOURMET: _description needed_
-
-ROUND ON THE HOUSE: _description needed_
-
-STABLING: _description needed_
+-   DRINKS, GOOD: _description needed_
+-   DRINKS, PRIVATE RESERVE: _description needed_
+-   DRINKS, WATERED DOWN: _description needed_
+-   LODGING, CHEAP: _description needed_
+-   LODGING, GOOD: _description needed_
+-   LODGING, SUMPTUOUS: _description needed_
+-   MEALS, BLAND: _description needed_
+-   MEALS, GOOD: _description needed_
+-   MEALS, GOURMET: _description needed_
+-   ROUND ON THE HOUSE: _description needed_
+-   STABLING: _description needed_
 
 Miscellaneous Gear
 
@@ -10955,8 +10962,6 @@ _introduction needed_
 Vehicles
 
 _introduction needed_
-
-Vehicles
 
      Vehicle      Cost   Walk Speed   Run Speed  Overland Speed
   -------------- ------ ------------ ----------- -------------------
@@ -10971,35 +10976,26 @@ Vehicles
     Velocipede    1D8      1 Area      3 Areas   6 miles per hour
       Wagon       1D6      1 Area      2 Areas   6 miles per hour
 
-AIRSHIP: _description needed_ Actual speed will vary depending on wind
-and weather conditions.
+  : Vehicles
 
-CARRIAGE: _description needed_ Carriage and wagon speed is limited by
-the speed of the horses, and is reduced if going off of roads.
-
-CART: _description needed_
-
-GONDOLA: _description needed_ river
-
-NARROWBOAT: _description needed_ river
-
-RIVER BARGE: _description needed_ river
-
-ROWBOAT: _description needed_ river
-
-SAILING SHIP: _descripton needed_ Actual speed will vary depending on
-wind and weather conditions.
-
-VELOCIPEDE: _description needed_
-
-WAGON: _description needed_ Carriage and wagon speed is limited by the
-speed of the horses, and is reduced if going off of roads.
+-   AIRSHIP: _description needed_ Actual speed will vary depending on
+    wind and weather conditions.
+-   CARRIAGE: _description needed_ Carriage and wagon speed is limited
+    by the speed of the horses, and is reduced if going off of roads.
+-   CART: _description needed_
+-   GONDOLA: _description needed_ river
+-   NARROWBOAT: _description needed_ river
+-   RIVER BARGE: _description needed_ river
+-   ROWBOAT: _description needed_ river
+-   SAILING SHIP: _descripton needed_ Actual speed will vary depending
+    on wind and weather conditions.
+-   VELOCIPEDE: _description needed_
+-   WAGON: _description needed_ Carriage and wagon speed is limited by
+    the speed of the horses, and is reduced if going off of roads.
 
 Mounts
 
 _introduction needed_
-
-Mounts
 
   Mount           Cost   Walk Speed   Run Speed  Overland Speed       Item Die
   -------------- ------ ------------ ----------- -------------------- ----------------
@@ -11007,11 +11003,11 @@ Mounts
   Riding Horse    1D8     2 Areas      3 Areas   6 leagues per hour   Cavalry +1D6
   Warhorse        1D10    1 Areas      3 Areas   4 leagues per hour   Cavalry +1D10
 
-DRAFT HORSE: _description needed_
+  : Mounts
 
-RIDING HORSE: _description needed_
-
-WARHORSE: _description needed_
+-   DRAFT HORSE: _description needed_
+-   RIDING HORSE: _description needed_
+-   WARHORSE: _description needed_
 
 Horse Accessories
 
@@ -11022,8 +11018,6 @@ Pets and Farm Animals
 _introduction needed_
 
 DOMESTICATED: _description needed_
-
-Pets and Farm Animals
 
   Animal               Cost  Example(s)
   ------------------- ------ ----------------------
@@ -11047,41 +11041,27 @@ Pets and Farm Animals
   Rodent               1D0   Mouse, rat
   Rabbit               1D0   Bunny, hare
 
-BEAST OF BURDEN (DOMESTICATED): These are strong animals used for
-pulling plows, pulling wagons, and other farming chores. They have an
-Item Die of Husbandry +1D6 when used for this purpose.
+  : Pets and Farm Animals
 
-BIRD, MESSENGER (DOMESTICATED): _description needed_
-
-BIRD, SONG: _description needed_
-
-CAT, COMMON: _description needed_
-
-CAT, PUREBRED: _description needed_
-
-DOG, COMPANION (DOMESTICATED): _description needed_
-
-DOG, GUARD (DOMESTICATED): _description needed_
-
-DOG, HERDING (DOMESTICATED): _description needed_
-
-DOG, MONGREL (DOMESTICATED): _description needed_
-
-FOWL, BARNYARD: _description needed_
-
-LIVESTOCK, DAIRY: _description needed_
-
-LIVESTOCK, MEAT: _description needed_
-
-LIVESTOCK, WOOL: _description needed_
-
-RAPTOR, TRAINED (DOMESTICATED): _description needed_
-
-RAPTOR, UNTRAINED: _description needed_
-
-REPTILE: _description needed_
-
-RODENTS AND RABBITS: _description needed_
+-   BEAST OF BURDEN (DOMESTICATED): These are strong animals used for
+    pulling plows, pulling wagons, and other farming chores. They have
+    an Item Die of Husbandry +1D6 when used for this purpose.
+-   BIRD, MESSENGER (DOMESTICATED): _description needed_
+-   BIRD, SONG: _description needed_
+-   CAT, COMMON: _description needed_
+-   CAT, PUREBRED: _description needed_
+-   DOG, COMPANION (DOMESTICATED): _description needed_
+-   DOG, GUARD (DOMESTICATED): _description needed_
+-   DOG, HERDING (DOMESTICATED): _description needed_
+-   DOG, MONGREL (DOMESTICATED): _description needed_
+-   FOWL, BARNYARD: _description needed_
+-   LIVESTOCK, DAIRY: _description needed_
+-   LIVESTOCK, MEAT: _description needed_
+-   LIVESTOCK, WOOL: _description needed_
+-   RAPTOR, TRAINED (DOMESTICATED): _description needed_
+-   RAPTOR, UNTRAINED: _description needed_
+-   REPTILE: _description needed_
+-   RODENTS AND RABBITS: _description needed_
 
 
 Additional Rules
@@ -11148,8 +11128,6 @@ If a new combatant enters a fight already in progress, she rolls
 Initiative and is added into the Initiative order at the appropriate
 place in the next round.
 
-:::::::::::::::::::::; toolbox
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: #####
 Identical NPCs
 
 When Rabble or Stock Characters are used in quantities of more than two,
@@ -11157,7 +11135,6 @@ the Gamemaster can group them together with one Initiative roll. All
 combatants in the group will take their actions at the same place in the
 Initiative sequence. Any Initiative Points spent apply to only one of
 such grouped characters at a given time.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Spending Initiative Points
 
@@ -11465,7 +11442,6 @@ Advantage, your Advantage Die goes up to D6; then D8, D10, and D12 with
 subsequent (or simultaneous) expenditures of Success Points on
 increasing Advantage.
 
-:::::::::::::::::::::::::::; example :::::::::::::::::::::::::::::::::::
 _Example:_ You decide you want your character to make a Feint attack
 against her opponent, and you succeed with three Success Points. It’s
 the start of the fight, so you have no Advantage to begin with, but the
@@ -11473,7 +11449,6 @@ Increase Advantage option on the Feint success table lets you spend one
 Success Point for each increase of Advantage. The first point gives you
 a D6 Advantage Die, then the following two increase that die size to
 D10, spending all three of your Success Points.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Using Advantage
 
@@ -11482,12 +11457,10 @@ you make during combat. Each time you use your Advantage Die, it steps
 down one size – from D10 to D8, for example, or from D6 to no Advantage
 Die.
 
-:::::::::::::::::::::::::;; example
-:::::::::::::::::::::::::::::::::::::: _Example:_ You make a Lunge
-attack and elect to include your Advantage Die, which currently stands
-at a D10. You add a D10 to your dice pool for the attack, and after
-resolving the Lunge roll, your Advantage Die drops to a D8.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+_Example:_ You make a Lunge attack and elect to include your Advantage
+Die, which currently stands at a D10. You add a D10 to your dice pool
+for the attack, and after resolving the Lunge roll, your Advantage Die
+drops to a D8.
 
 Other Combat Modifiers
 
@@ -11517,8 +11490,9 @@ option of the Gamemaster. A PC who reaches her Yield Limit can stay in
 the fight, but if she does, every attack against her gains the following
 addition to its Success Table:
 
-:::::::; success ::::::::: | | (Yielded Out) | |:—–| :————– | | +: |
-Inflict 1 Wound | ::::::::::::::::::::::::::
+       (Yielded Out)
+  ---- -----------------
+  +:   Inflict 1 Wound
 
 INFLICT 1 WOUND: Your opponent takes one Wound. If she takes more Wounds
 than her Wound Limit (which is four for player characters, and from one
@@ -12949,8 +12923,8 @@ Opponent Groups
 Certain types of opponents are usually encountered in mixed groups. Here
 are several that you can use or adapt when you need them.
 
-In the listings that follow, (P) means one of these for every player
-character in your group, and (P/2) means one for every two player
+In the listings that follow, _P_ means one of these for every player
+character in your group, and _P_/2 means one for every two player
 characters. Listed Ideals can be used once each per group, in addition
 to the Passions of each member; remember that Passions and Ideals can
 reflect either an inclination toward a value or against one.
@@ -12963,8 +12937,7 @@ Bandit Gang
 Encountered primarily on the open road, these bandits are often, but not
 always, mounted on horses.
 
--   (P) Greedy Bandits
-
+-   _P_ Greedy Bandits
 -   2 Grizzled Veterans
 -   1 Rogue Highwayman
 -   IDEALS: Wealth (D8), Justice (D6)
@@ -12978,8 +12951,7 @@ City Watch Patrol
 This can be any city watch or group of guards. Double their numbers if
 you want them to be more than an inconvenience for your players.
 
--   (P) City Watch Grunts
-
+-   _P_ City Watch Grunts
 -   1 City Watch Officer
 -   IDEALS: Loyalty (D8), Country (D6)
 -   SCOPE: Local (D6); ATTRIBUTES: Prestige D10, Resources D8, Secrets
@@ -12990,11 +12962,9 @@ Den of Thieves
 A loose assortment of ne’er-do-wells and cutthroats who would sell out
 their own grandmothers if there were profit in it.
 
--   (P) Street Toughs
-
--   (P) Desperate Convicts
-
--   (P/2) Devious Smugglers
+-   _P_ Street Toughs
+-   _P_ Desperate Convicts
+-   _P_/2 Devious Smugglers
 -   1 Dishonest Mechanician
 -   IDEALS: Wealth (D10), Justice (D8), Pride (D6)
 -   SCOPE: Immediate (D0); ATTRIBUTES: Prestige D6, Resources D10,
@@ -13008,9 +12978,8 @@ Military Unit
 These will most commonly be soldiers in the local army. Sometimes
 they’re encountered in a bar.
 
--   (P) Infantry Recruits
-
--   (P/2) Cavalry Officers
+-   _P_ Infantry Recruits
+-   _P_/2 Cavalry Officers
 -   1 Grizzled Veteran (sergeant)
 -   1 Modern Sergents-Majors Généraux
 -   IDEALS: Country (D8), Loyalty (D6)
@@ -13024,7 +12993,7 @@ Using the pretext of righteous indignation, a mob of angry commoners has
 been stirred up and are looking for victims. And there’s an immigrant
 couple straight ahead – carrying a small baby! Oh no!
 
--   2 (P) Angry Mob Members
+-   2_P_ Angry Mob Members
 -   1 Dangerous Revolutionary, Grizzled Veteran, Asrian Priestess, or
     Petty Noble
 -   IDEALS: Church (D8), Justice (D6)
@@ -13037,8 +13006,8 @@ Traveling in style in one or more carriages, nobles may sometimes find
 themselves at the mercy of a bandit group – requiring the cavaliers to
 take sides.
 
--   (P/2) Gossiping Courtiers
--   (P/2) Grizzled Veterans
+-   _P_/2 Gossiping Courtiers
+-   _P_/2 Grizzled Veterans
 -   2 Boorish Fops
 -   1 Fastidious Physicker or Longsuffering Tutor
 -   1 Petty Noble
@@ -13057,8 +13026,7 @@ These are the crew of a small sailing ship. For larger ships, add more
 Privateer Captains as officers, and create a major character as the
 captain.
 
--   (P) Bloodthirsty Buccaneers
-
+-   _P_ Bloodthirsty Buccaneers
 -   1 Privateer Captain
 -   IDEALS: Wealth (D8), Loyalty (D6)
 -   SCOPE: Immediate (D0);** Attributes:** Prestige D6, Resources D8,
@@ -13074,10 +13042,9 @@ centers of commerce featuring goods for sale. These are the kinds of
 people usually found in a smaller marketplace; double or triple the
 number for larger bazaars.
 
--   (P) Laconic Farmers
-
--   (P/2) Bedraggled Urchins
--   (P/2) Wary Shopkeepers
+-   _P_ Laconic Farmers
+-   _P_/2 Bedraggled Urchins
+-   _P_/2 Wary Shopkeepers
 -   2 Lutetian Watch Grunts
 -   2 Street Toughs
 -   1 Fastidious Physicker, Dishonest Mechanician, or Secretive
@@ -13094,11 +13061,10 @@ Smuggling Ring
 Operating in the shadows to avoid taxes or other legal entanglements,
 these secretive smugglers look to optimize profits.
 
--   (P) Elissian Colonists
-
--   (P/2) Street Toughs
--   (P/2) Devious Smugglers
--   (P/2) Wary Shopkeepers
+-   _P_ Elissian Colonists
+-   _P_/2 Street Toughs
+-   _P_/2 Devious Smugglers
+-   _P_/2 Wary Shopkeepers
 -   IDEALS: Wealth (D8), Loyalty (D6)
 -   SCOPE: Local (D6); ATTRIBUTES: Prestige D6, Resources D8, Secrets
     D10; ASSETS: Alliances +1, Intrigue +2, Revenue +2, Technology +1
@@ -13110,10 +13076,9 @@ Barroom fights break out quite often due to the presence of alcohol and
 surly people. Here are the typical opponents you might find in such a
 drunken melee.
 
--   (P) Drunken Brawlers
-
--   (P/2) Boorish Fops
--   (P/2) Grizzled Veterans
+-   _P_ Drunken Brawlers
+-   _P_/2 Boorish Fops
+-   _P_/2 Grizzled Veterans
 -   1 Gossiping Courtier
 -   1 Brash Fencer
 -   1 Gregarious Barkeep
@@ -13128,11 +13093,10 @@ Treasonous Conspiracy
 
 Those who plot against the crown can be a very mixed lot of opponents.
 
--   (P/2) Angry Mob Members
--   (P/2) Street Thugs
--   (P) Dangerous Revolutionaries
-
--   (P/2) Gossiping Courtiers or Boorish Fops
+-   _P_/2 Angry Mob Members
+-   _P_/2 Street Thugs
+-   _P_ Dangerous Revolutionaries
+-   _P_/2 Gossiping Courtiers or Boorish Fops
 -   1 Petty Noble
 -   IDEALS: Justice (D8), Pride (D6)
 -   SCOPE: Local (D6); ATTRIBUTES: Prestige D6, Resources D8, Secrets
