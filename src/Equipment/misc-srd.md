@@ -17,7 +17,7 @@ Characters who go carousing and buy rounds on the house can use the
 price of the most expensive alcohol bought as an Item die on their
 Streetwise (Carouse) rolls.
 
-###### Living Expenses
+Table: Living Expenses
 
 | Service Requested                     | Cost |
 | :------------------------------------ | :--: |
@@ -39,27 +39,17 @@ Streetwise (Carouse) rolls.
 | Stabling for one night                | 1D0  |
 | Stabling for one week                 | 1D6  |
 
-**Drinks, good:** *description needed* 
-
-**Drinks, private reserve:** *description needed* 
-
-**Drinks, watered down:** *description needed* 
-
-**Lodging, cheap:** *description needed* 
-
-**Lodging, good:** *description needed* 
-
-**Lodging, sumptuous:** *description needed* 
-
-**Meals, bland:** *description needed* 
-
-**Meals, good:** *description needed* 
-
-**Meals, gourmet:** *description needed* 
-
-**Round on the house:** *description needed* 
-
-**Stabling:** *description needed* 
+ - **Drinks, good:** *description needed* 
+ - **Drinks, private reserve:** *description needed* 
+ - **Drinks, watered down:** *description needed* 
+ - **Lodging, cheap:** *description needed* 
+ - **Lodging, good:** *description needed* 
+ - **Lodging, sumptuous:** *description needed* 
+ - **Meals, bland:** *description needed* 
+ - **Meals, good:** *description needed* 
+ - **Meals, gourmet:** *description needed* 
+ - **Round on the house:** *description needed* 
+ - **Stabling:** *description needed* 
 
 ## Miscellaneous Gear
 
@@ -73,7 +63,7 @@ Streetwise (Carouse) rolls.
 
 *introduction needed*
 
-###### Vehicles
+Table: Vehicles
 
 | Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed    |
 | :----------: | :--: | :--------: | :-------: | :---------------- |
@@ -88,31 +78,22 @@ Streetwise (Carouse) rolls.
 | Velocipede   | 1D8  | 1 Area     | 3 Areas   | 6 miles per hour  | 
 | Wagon        | 1D6  | 1 Area     | 2 Areas   | 6 miles per hour  | 
 
-**Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
-
-**Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
-
-**Cart**: *description needed* 
-
-**Gondola:** *description needed*  river
-
-**Narrowboat:** *description needed* river
-
-**River Barge:** *description needed* river
-
-**Rowboat:** *description needed* river
-
-**Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
-
-**Velocipede:** *description needed*
-
-**Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
-
+ - **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
+ - **Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+ - **Cart**: *description needed* 
+ - **Gondola:** *description needed*  river
+ - **Narrowboat:** *description needed* river
+ - **River Barge:** *description needed* river
+ - **Rowboat:** *description needed* river
+ - **Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
+ - **Velocipede:** *description needed*
+ - **Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+  
 ### Mounts
 
 *introduction needed*
 
-###### Mounts
+Table: Mounts
 
 | Mount        | Cost | Walk Speed | Run Speed | Overland Speed     | Item Die       |
 | :----------- | :--: | :--------: | :-------: | :----------------- | :------------- |
@@ -120,12 +101,10 @@ Streetwise (Carouse) rolls.
 | Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
 | Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
 
-**Draft Horse:** *description needed*
-
-**Riding Horse:** *description needed* 
-
-**Warhorse:** *description needed*
-
+ - **Draft Horse:** *description needed*
+ - **Riding Horse:** *description needed* 
+ - **Warhorse:** *description needed*
+  
 #### Horse Accessories
 
 *introduction needed*
@@ -136,7 +115,7 @@ Streetwise (Carouse) rolls.
 
 **Domesticated:** *description needed*
 
-###### Pets and Farm Animals
+Table: Pets and Farm Animals
 
 | Animal            | Cost | Example(s)                         |
 | :---------------- | :--: | :--------------------------------- |
@@ -160,38 +139,21 @@ Streetwise (Carouse) rolls.
 | Rodent            | 1D0  | Mouse, rat                         |
 | Rabbit            | 1D0  | Bunny, hare                        |
 
-**Beast of Burden (domesticated):** These are strong animals used for
-pulling plows, pulling wagons, and other farming chores. They have an
-Item Die of Husbandry +1D6 when used for this purpose. 
-
-**Bird, Messenger (domesticated):** *description needed* 
-
-**Bird, Song:** *description needed*
-
-**Cat, Common:** *description needed*
-
-**Cat, Purebred:** *description needed*
-
-**Dog, Companion (Domesticated):** *description needed*
-
-**Dog, Guard (Domesticated):** *description needed*
-
-**Dog, Herding (Domesticated):** *description needed*
-
-**Dog, Mongrel (Domesticated):** *description needed*
-
-**Fowl, Barnyard:** *description needed*
-
-**Livestock, Dairy:** *description needed*
-
-**Livestock, Meat:** *description needed*
-
-**Livestock, Wool:** *description needed*
-
-**Raptor, Trained (Domesticated):** *description needed*
-
-**Raptor, Untrained:** *description needed*
-
-**Reptile:** *description needed*
-
-**Rodents and Rabbits:** *description needed*
+ - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
+ - **Bird, Messenger (domesticated):** *description needed* 
+ - **Bird, Song:** *description needed*
+ - **Cat, Common:** *description needed*
+ - **Cat, Purebred:** *description needed*
+ - **Dog, Companion (Domesticated):** *description needed*
+ - **Dog, Guard (Domesticated):** *description needed*
+ - **Dog, Herding (Domesticated):** *description needed*
+ - **Dog, Mongrel (Domesticated):** *description needed*
+ - **Fowl, Barnyard:** *description needed*
+ - **Livestock, Dairy:** *description needed*
+ - **Livestock, Meat:** *description needed*
+ - **Livestock, Wool:** *description needed*
+ - **Raptor, Trained (Domesticated):** *description needed*
+ - **Raptor, Untrained:** *description needed*
+ - **Reptile:** *description needed*
+ - **Rodents and Rabbits:** *description needed*
+  

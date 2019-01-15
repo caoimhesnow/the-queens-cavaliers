@@ -1,4 +1,4 @@
-## Science
+## Science ## {.breakbefore}
 
 Science is a skill that covers the use, repair, and creation of advanced
 technology and complex mathematics, from time watches to airships, from

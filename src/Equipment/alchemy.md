@@ -15,6 +15,8 @@ benefit from both the draught and a charmwoven item that affect the same
 specialty, only one or the other.
 
 
+Table: Draughts
+
 | Item                     | Cost     | Affected Specialty       |
 | :----------------------- | :------: | :----------------------- |
 | Accuracy Draught         | D6, bulk | Military (Aim)           |
@@ -35,6 +37,8 @@ specialty, only one or the other.
 Salves, oils, and unguents are applied externally, usually to the hands, requiring one turn to
 use. The effects last until the end of the scene. Salves with increased potency have a cost equal to the die value.
 
+Table: Salves
+
 | Item                  | Cost     | Function                                               |
 | :-------------------- | :------: | :----------------------------------------------------- |
 | Brawler's Balm        | D6, bulk | Military (Brawl)                                       |
@@ -52,6 +56,8 @@ the spot by an alchemist orother character with skill in Magicks (Brew).
 Making a Brew roll to produce a concoction takes one turn, with Moderate
 (3D8) standard opposition; successes are spent as shown on the table
 below. Each concoction created requires the expenditure of one unit of Alchemical Supplies.
+
+Table: Concoctions
 
 | Concoction          | Effect Produced                                                                                                                |
 | :------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
@@ -77,6 +83,8 @@ Poison antidote is general-use and can be used against any type of
 standard poison. It's ineffective against some exotic poisons, such as
 yellow-bellied scorpion venom.
 
+Table: Poisons
+
 | Item              | Cost     | Function                    |
 | :---------------- | :------: | :-------------------------- |
 | Antidote          | D6, bulk | Expend 1 per use of Poison  |
@@ -86,9 +94,11 @@ yellow-bellied scorpion venom.
 
 ##### Deadly Poison 
 
+::::: success ::::::::::::
 |      |                 |
 | :--: | :-------------- |
 | +++: | Inflict 1 Wound |
+::::::::::::::::::::::::::
 
 **Inflict 1 Wound:** Your opponent takes one Wound. If she takes Wounds
 equalling her Wound Limit (which is four for player characters, and from
@@ -97,9 +107,11 @@ dying.
 
 ##### Impairing Poison
 
+:::::::::::::: success ::::::::
 |      |                      |
 | :--: | :------------------- |
 | +++: | Inflict Drop Penalty |
+:::::::::::::::::::::::::::::::
 
 **Inflict Drop Penalty:** Your opponent gains a Drop penalty on all rolls
 equal to one die for every three Success Points you spend, up to a
@@ -107,9 +119,11 @@ maximum of Drop 4. This impairment lasts for 1 hour.
 
 ##### Sleep Poison
 
+:::::::: success :::::::::
 |      |                 |
 | :--: | :-------------- |
 | +:   | Inflict 1 Yield |
+::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every Success Point
 you spend on Yield. If her Yield equals or exceeds her Yield Limit, she

@@ -330,7 +330,7 @@ disarms our opponent.” This has no extra Drop penalty, since you aren't
 moving and your sword is already out. If your opponent doesn't become
 disarmed by the end of the round, you can either go ahead and make your
 attack, or wait until next round.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::;
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 #### Reload
@@ -494,7 +494,7 @@ Drop Penalties from Wounds are cumulative with Drop Penalties for combined actio
 - Dueling (all Specialties)
 - Military (Brawl, Aim)
 
-::::::::::::::::::::::::::::; example ::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
 *Example:* Your character is stabbed by an opponent's Lunge attack and
 receives one Wound. You now get a Drop 1 penalty on all applicable
 actions, such as attacking or defending. Later in the fight, you are

@@ -1,4 +1,4 @@
-## Interaction
+## Interaction ## {.breakbefore}
 
 The Interaction skill covers social interactions between individual
 characters, as well as characters addressing a group.

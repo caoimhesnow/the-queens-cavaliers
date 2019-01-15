@@ -72,7 +72,7 @@ The Success Table: *Specialty* quality adds additional options to the
 indicated success table.
 
 ::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
-| Success Table Weapon Qualities  |                                   |
+| Weapon Qualities                |                                   |
 | ------------------------------- | --------------------------------- |
 | \+                              |  Basket Hilt (Decrease Advantage) |
 | \+                              |  Retort (Execute a Riposte)       |

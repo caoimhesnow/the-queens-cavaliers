@@ -53,6 +53,8 @@ The difficulty of the Science (Calculus) roll to draw plans is
 determined by the complexity of the device you are designing, as shown
 on the table below. 
 
+Table: Device Complexity
+
 | Device Complexity | Standard Opposition   |
 | :---------------: | :-------------------- |
 | 2                 | Easy (3D6)            |
@@ -66,6 +68,8 @@ follows them) a D6 bonus on rolls to install and complete the device.
 For each additional two success points you spend, you can increase the
 size of that die up to a maximum limited by your ranks in Science
 (Calculus), as shown below.
+
+Table: Maximum Die
 
 | Calculus Ranks | Maximum Die |
 | :------------: | :---------: |
@@ -176,6 +180,8 @@ least one rank in the Clockworks specialty.
 followed by the gear space of that casing in parentheses. Examples:
 pocket (space 1), person (space 8), building (space 64).
 
+Table: Casings 
+
 | Casing Size | Cost | Gear Space |
 | :---------- | :--: | :--------: |
 | Pocket      | D0   | 1          |
@@ -282,6 +288,8 @@ alchemical supplies to do so. The maximum number of alchemical supplies
 that can be spent to create an alchemical capacitor is equal to the
 brewer's ranks in Magicks (Brew).
 
+Table: Alchemical Capacitor Power Source
+
 | Space | Cost | Supplies              | Power Supplied | Duration |
 | :---: | :--- | :-------------------: | :------------: | :------: |
 | 2     | D6   | 1 alchemical supplies | 1              | 24 Hours |
@@ -314,6 +322,8 @@ to power it. For example, a variable gear train (space 0+1, power supply
 2 power units for a Drop 2 penalty, and 3 power units for a Drop 4
 penalty.
 
+Table: Gear Train Power Source
+
 | Space | Cost | Supplies   | Power Supplied | Drop   | Duration   |
 | :---: | :--: | :--------: | :------------: | :----: | :--------: | 
 | 0     | D0   | 0 gears    | 1              | Drop 1 | One Action |
@@ -343,6 +353,8 @@ required to create a blackpowder flintlock, and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a blackpowder flintlock is equal to the
 powderworker's ranks in Science (Blackpowder).
+
+Table: Blackpowder Flintlock Power Source
 
 | Space | Cost | Supplies              | Power Supplied | Reset   | Duration |
 | :---: | :--: | :-------------------: | :------------: | :----:  | :------: |
@@ -384,6 +396,8 @@ power supply 1, wind 1 turn/1 minute/10 minutes, duration 1 minute/10
 minutes/1 hour) supplies power for 1 minute if wound for 1 turn, 10
 minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
 
+Table: Mainspring  Power Source
+
 | Space | Cost | Supplies | Power Supplied |
 | :---: | :--: | :------: | :------------: |
 | 1     | D0   | 0 gears  | 1              |
@@ -391,6 +405,8 @@ minutes if wound for 1 minute, and 1 hour if wound for 10 minutes.
 | 4     | D8   | 2 gears  | 4              |
 | 8     | D10  | 3 gears  | 6              |
 | 16    | D12  | 4 gears  | 8              |
+
+Table: Mainspring Options Power Source
 
 | Space | Cost | Supplies | Wind       | Duration                   |
 | :---: | :--: | :------: | :--------- | :------------------------- |
@@ -423,6 +439,8 @@ in most situations. Tidal flow usually only can provide 1 power unit.
 but the power supplied can only be used for movement. It also requires
 the purchase of one unit of fabric supplies per power unit.
 
+Table: Naturalistic Turbine Power Source
+
 | Space | Cost | Supplies | Power Supplied |
 | :---: | :--: | :------: | :------------: |
 | 2     | D6   | 1 gear   | 1              |
@@ -453,6 +471,8 @@ clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a phlogistone furnace is equal to the powderworker's
 ranks in Science (Blackpowder).
 
+Table: Phlogistone Furnace Power Source
+
 | Space | Cost | Supplies | Power Supplied              | Envelope Cost | Envelope Supplies |
 | :---: | :--: | :------: | :-------------------------- | :-----------: | :---------------: |
 | 4     | D12  | 4 gears  | 10 (carry or movement only) | D10           | 4 fabric          |
@@ -466,6 +486,8 @@ action with a penalty of Drop 1 to Drop 4. Unlike gear trains, tension
 triggers store energy for future use rather than immediate use, but
 unlike mainsprings a tension trigger will only store that energy for a
 single use.
+
+Table: Tension Trigger Power Source
 
 | Space | Cost | Supplies | Power Supplied | Reset  | Duration |
 | :---: | :--: | :------: | :------------: | :----: | :------- |
@@ -514,6 +536,8 @@ Armor plating protects both the device itself and anyone using or within
 the device. The armor component grants an Armor Die that can be used for
 Defense (Block) rolls.
 
+Table: Armor Component
+
 | Space | Cost | Supplies | Power | Armor Die |
 | :---: | :--: | :------: | :---: | :-------: |
 | 0     | D0   | 0 gears  | 0     | D0        |
@@ -531,9 +555,11 @@ body with a clockwork limb, such as an arm or a leg. The articulation
 component reduces those penalties from Drop 4 down to Drop 2, Drop 1 or
 Drop 0.
 
-Creating an Articulation Component: The Medicine (Surgery) specialty is
+**Creating an Articulation Component:** The Medicine (Surgery) specialty is
 required to create an articulation component with a low Drop penalty.
 Surgery +1 is required for Drop 1, and Surgery +2 for Drop 0.
+
+Table: Articulation Component
 
 | Space | Cost | Supplies | Power | Penalty  |
 | :---: | :--: | :------: | :---: | :------: |
@@ -564,11 +590,13 @@ input for all appropriate information, such as the longitude and
 latitude, the weather conditions, and so on. Faulty data can lead to
 faulty calculations.
 
-Creating a Calculation Component: The Science (Calculus) specialty is
+**Creating a Calculation Component:** The Science (Calculus) specialty is
 required to create a calculation component and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
 be spent to create a calculation component is equal to the creator's
 ranks in Science (Calculus).
+
+Table: Calculation Component
 
 | Space | Cost | Supplies | Power | Calculation Complexity |
 | :---: | :--: | :------: | :---: | :--------------------- |
@@ -584,6 +612,8 @@ The carry component gives a device the ability to lift additional
 weight. Most devices with the movement component have enough carrying
 capacity to lift themselves, including a normal load; some have even
 greater capacity depending on their use.
+
+Table: Carry Component
 
 | Space | Cost | Supplies | Power | Carrying Capacity |
 | :---: | :--: | :------: | :---: | :---------------: |
@@ -607,6 +637,8 @@ Delay timers are most frequently used with blackpowder flintlock or
 tension trigger power sources, and often trigger projectile weapon traps
 or bombs.
 
+Table: Delay Timer Component
+
 | Space | Cost | Supplies | Power | Arm      | Delay Duration        |
 | :---: | :--: | :------: | :---: | :------- | :-------------------- |
 | 1     | D0   | 0 gears  | 0     | Drop 2   | End of current action |
@@ -626,6 +658,8 @@ needed to produce simple cloth.
 
 An efficiency component cannot reduce the time of complex tasks that
 involve specialty rolls, such as charmweaving or surgery.
+
+Table: Efficiency Component
 
 | Space | Cost | Supplies | Power | Drop Reduction   | Time Reduction     |
 | :---: | :--: | :------: | :---: | :--------------- | :----------------- |
@@ -660,6 +694,8 @@ blackpowder supplies to do so. The maximum number of blackpowder
 supplies that can be spent to create an explosion component is equal to
 the powderworker's ranks in Science (Blackpowder).
 
+Table: Explosion Component
+
 | Space | Cost | Supplies              | Power | Environmental Damage (1 area, 2 areas) |
 | :---: | :--: | :-------------------: | :---: | :------------------------------------- |
 | 1     | D0   | 1 blackpowder charge  | 2     | 3D6                                    |
@@ -678,12 +714,16 @@ define a complete Hand-to-Hand Weapon.
 **Size Limit:** A device with the hand-to-hand weapon component can be no
 larger than Portable size.
 
+Table: Hand-to-Hand Weapon Component
+
 | Space | Cost | Supplies | Power | Weapon Die |
 | :---: | :--: | :------: | :---: | :--------: |
 | 1     | D0   | 0 gears  | 0     | D6         |
 | 2     | D0   | 0 gears  | 0     | D8         |
 | 4     | D6   | 1 gear   | 0     | D10        |
 | 8     | D8   | 2 gears  | 0     | D12        |
+
+Table: Hand-To-Hand Weapon Component Options
 
 | Space | Cost | Supplies | Power | Casing Size | Weapon Prowess | Max Weapon Die |
 | :---: | :--: | :------: | :---: | :---------- | :------------- | :------------: |
@@ -704,6 +744,8 @@ to refill the device.
 
 Using the device in a combat situation requires a Medicine (Poisons)
 roll to deliver its payload.
+
+Table: Injector Component
 
 | Space | Cost | Supplies | Power |
 | :---: | :--: | :------: | :---: |
@@ -729,6 +771,8 @@ melee Weapon Die to a device.
 
 **Military (Aim):** Use the Projectile Weapon component to add a ranged Weapon Die to a device.
 
+Table: Item Die Component
+
 | Space | Cost | Supplies | Power | Item Die |
 | :---: | :--: | :------: | :---: | :------: |
 | 1     | D0   | 0 gears  | 0     | D6       |
@@ -742,6 +786,8 @@ A magazine component holds multiple shots of ammunition (bullets and
 powder or quarrels, for example) for a device with the projectile weapon
 component. The amount held in each magazine, and the time required to
 reload the device with a full magazine, are shown in the table below.
+
+Table: Magazine Component
 
 | Space | Cost | Supplies | Power | Shots | Reload    |
 | :---: | :--: | :------: | :---: | :---: | :-------- |
@@ -764,6 +810,8 @@ pressure.
 A measurement component is often tied to a calculation component to
 allow the device to process the information that it measures.
 
+Table: Measurement Component
+
 | Space | Cost | Supplies | Power | Qualities Measured |
 | :---: | :--: | :------: | :---: | :----------------: | 
 | 1     | D0   | 0 gears  | 1     | 1                  |
@@ -785,6 +833,8 @@ existing components; this is reflected by additional gear space that is
 added to that of the casing.
 
 **Unique Component:** A device can have only one miniaturization component.
+
+Table: Miniaturization Component
 
 | Space | Cost | Supplies | Power | Additional Gear Space |
 | :---: | :--: | :------: | :---: | :-------------------: |
@@ -814,6 +864,8 @@ The movement component gives the device the ability to move itself.
 
 **Fly:** The device can fly through the air. Unless it is powered by a Phlogistone Furnace, the device must maintain a minimum of Walk speed in order to stay aloft.
 
+Table: Movement Component
+
 | Space | Cost | Supplies | Power | Walk    | Run     | Overland Speed      |
 | :---: | :--: | :------: | :---: | :-----: | :-----: | :------------------ |
 | 1     | D0   | 0 gears  | 0     | 0 Areas | 1 Area  | 1 league per hour   |
@@ -821,6 +873,8 @@ The movement component gives the device the ability to move itself.
 | 2     | D8   | 2 gears  | 2     | 1 Area  | 3 Areas | 6 leagues per hour  |
 | 4     | D10  | 3 gears  | 3     | 1 Area  | 4 Areas | 10 leagues per hour |
 | 8     | D12  | 4 gears  | 4     | 1 Area  | 5 Areas | 15 leagues per hour |
+
+Table: Movement Component Options
 
 | Space | Cost | Supplies | Power | Movement Mode | Maximum Speed   |
 | :---: | :--: | :------: | :---: | :------------ | :-------------- |
@@ -846,6 +900,8 @@ than Portable size.
 **Requires Hand-to-Hand Weapon:** You can only add this component to a
 device if it already possesses the hand-to-hand weapon component. The
 powered weapon Bonus Die cannot exceed the Weapon Die of the device.
+
+Table: Powered Weapon Component
 
 | Space | Cost | Supplies | Power | Bonus Die  |
 | :---: | ;--: | :------: | :---: | :--------: |
@@ -886,6 +942,8 @@ must be filled in with a Drop penalty or N/A.
 The default ranges for a weapon with no extra space, cost, or power
 requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 
+Table: Projectile Weapon Component
+
 | Space | Cost | Supplies | Power | Weapon Die | Reload |
 | :---: | :--: | :------: | :---: | :--------: | :----: |
 | 1     | D0   | 0 gears  | 1     | D6         | Drop 1 |
@@ -893,6 +951,8 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 | 2     | D8   | 2 gears  | 1     | D10        | Drop 2 |
 | 4     | D10  | 3 gears  | 2     | D12        | Drop 4 |
  
+Table: Projectile Weapon Component Range Options
+
 | Space | Cost | Supplies | Power | Close (0) | Short (1-2) | Medium (3-4) | Long (5+) |
 | :---: | :--: | :------: | :---: | :-------: | :---------: | :----------: | :-------: |
 | +0    | D0   | 0 gears  | +0    | Drop 0    | N/A         |              |           |
@@ -906,6 +966,7 @@ requirements are: close Drop 0, short Drop 0, medium Drop 1, long N/A.
 | +0    | D6   | 1 gears  | +1    | Drop 1    |             |              |           |
 | +0    | D0   | 0 gears  | +0    | Drop 2    |             |              |           |
 
+Table: Projectile Weapon Component Use Options
 | Space | Cost | Supplies | Power | Casing Size | Max Weapon Die | Skill Prowess  |
 | :---: | :--: | :------: | :---: | :---------- | :------------- | :------------- |
 | +0    | D0   | 0 gears  | +0    | Pocket      | Pistol +1D6    | Pistol         |

@@ -32,12 +32,12 @@ you can instead take a +1D6 Barter die.
 
 You can pick from the following basic weapons:
 
-- Cutlass (Sword +1D8, Main Hand)
-- Dagger (Knife +1D6, Either Hand)
-- Flintlock Pistol (Pistol +1D6, Either Hand)
-- Rapier (Sword +1D8, Main Hand)
-- Sabre (Sword +1D6, Main Hand, Cavalry)
-- Smallsword (Sword +1D6, Either Hand)
+ - **Cutlass** (Sword +1D8, Main Hand)
+ - **Dagger** (Knife +1D6, Either Hand)
+ - **Flintlock Pistol** (Pistol +1D6, Either Hand)
+ - **Rapier** (Sword +1D8, Main Hand)
+ - **Sabre** (Sword +1D6, Main Hand, Cavalry)
+ - **Smallsword** (Sword +1D6, Either Hand)
 
 ## Weapon Qualities
 
@@ -225,10 +225,9 @@ listed in the following tables.
 The availability of common weapons is almost always 1D0 in settlements
 of any size. The exceptions are cutlass, rapier, sabre, and smallsword
 -- the common swords -- in a small rural settlement. In such situations,
-the availability increases to
-1D6.
+the availability increases to 1D6.
 
-##### Common Dueling Weapons
+Table: Common Dueling Weapons
 
 | Weapon       | Cost | Hands          | Weapon Die  | Specialties                         |
 | :----------- | :--: | :------------- | :---------- | :---------------------------------- |
@@ -256,7 +255,7 @@ Uncommon dueling weapons have an availability of 1D0 in a capital city,
 one exception is that a bullwhip always has an availability of
 1D0.
 
-##### Uncommon Dueling Weapons
+Table: Uncommon Dueling Weapons
 
 | Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                          |
 | :---------------- | :--: | :------------- | :------------ | :------------------------------------------------------------------- |
@@ -299,6 +298,7 @@ one exception is that a bullwhip always has an availability of
   - **Truncheon:** *description needed*\
   - **Weighted Net:** *description needed*\
 
+:::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
 #### Foreign Weapons
 
 In addition to the common and uncommon dueling weapons listed in the
@@ -321,6 +321,7 @@ For neighboring countries, the availability of foreign dueling weapons
 is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
 In far-distant countries, the availability increases to 1D8 in a capital
 city, 1D12 in any other city, and unavailable in smaller settlements.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Aimed Weapons
 
@@ -368,6 +369,7 @@ long ranges.
     at least a Drop 1 penalty. If there is no Long Range listed for a
     weapon, it can't be used to attack at Long Range.
 
+::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
 #### Maximum Range?
 
 The tables below don't specify a maximum distance for long range. That's
@@ -379,10 +381,10 @@ range will be much lower.
 
 Ultimately it's up to the MJ to decide what the maximum effective range
 is for any weapon used at extreme long range, although usually not more
-than 10
-areas.
+than 10 areas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##### Aimed Weapons
+Table: Aimed Weapons
 
 | Weapon           | Cost | Hands          | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :--------------- | :--: | :------------- | :----------- | :----- | :----- | :----- | :----- | :----- |
@@ -418,17 +420,23 @@ areas.
   - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.\
   - **Thrown Spear:** Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.\
 
+:::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::
 #### Ammunition
 
 Firing a musket or pistol uses a small amount of blackpowder and a
-bullet, while a bow requires an arrow. However, in the *The Queen's
+bullet, while a bow requires an arrow. 
+
+However, in the *The Queen's
 Cavaliers*, strict tracking of ammunition and powder doesn't contribute
 to the swashbuckling adventure style of the genre. If you have an Aimed
 weapon that has a Reload value, you're assumed to have enough powder,
 bullets, or arrows to fire your weapon and reload it as many times as
-necessary. This applies even if you use someone else's weapon, or a
+necessary. 
+
+This applies even if you use someone else's weapon, or a
 weapon you just picked up -- you just don't track ammo for Aimed weapons
 in *The Queen's Cavaliers*. Except, of course, for explosive weapons.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Explosive Weapons
 
@@ -448,7 +456,7 @@ on every creature, object, or other target within that area.
   - **Naval Areas**: *description needed*
   - **Supplies**: *description needed*
 
-##### Grenades
+Table: Grenades
 
 | Weapon              | Cost | Base Damage | Yield | Special                |
 | :------------------ | :--: | :---------- | :---: | :--------------------- |
@@ -459,7 +467,7 @@ on every creature, object, or other target within that area.
 | Grenade, thunder    | 1D6  | 1 Wound     | x3    | \++: Add 1 Area        |
 | Grenade, wildfire   | 2D6  | 1D6 Wounds  | x2    | \+: Add 1 Area         |
 
-Grenade Attacks
+Table: Grenade Attacks
 
 | Delivery Mechanism | Cost | Hands | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :----------------- | :--: | :---: | :----------- | :----- | :----- | :----- | :----- | :----- |
@@ -467,7 +475,7 @@ Grenade Attacks
 | Mortar, hand       | 1D8  | Both  | Cannon +1D10 | Drop 2 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
 | Arrow, fired       | \--  | Both  | Bow +1D6     | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
 
-Placed Bombs
+Table: Placed Bombs
 
 | Bomb Type        | Cost | Scale       | Item Die          | Base Damage | Yield | Radius Steps            | Special                |
 | :--------------- | :--: | :---------- | :---------------- | :---------- | :---: | :---------------------- | :--------------------- |
@@ -482,7 +490,7 @@ Placed Bombs
 | Bomb, thunder    | 3D6  | Carried     | Blackpowder +1D8  | 1D6 Wounds  | x3    | Close, Adjacent, Short  | \--                    |
 | Bomb, wildfire   | 3D8  | Carried     | Blackpowder +1D6  | 1D10 Wounds | x2    | Adjacent, Short, Medium | \++: Step-Up Radius    |
 
-Artillery
+Table: Artillery
 
 | Weapon               | Cost | Scale       | Weapon Die   | Base Damage | Supplies | Close  | Short  | Medium | Long   | Maximum Range  |
 | :------------------- | :--: | :---------- | :----------- | :---------- | :------- | :----- | :----- | :----- | :----- | :------------- |
@@ -495,7 +503,7 @@ Artillery
 | Rabinet              | 2D8  | Human-Scale | Cannon +1D6  | 1 Wound     | \--      | Drop 0 | Drop 2 | Drop 2 | \--    | 4 Naval Areas  |
 | Vouivre-mignon       | 3D10 | Furniture   | Cannon +1D8  | 1D8 Wounds  | 1 unit   | Drop 0 | Drop 0 | Drop 1 | Drop 2 | 6 Naval Areas  |
 
-Cannon Shot
+Table: Cannon Shot
 
 | Projectile Type          | Cost | Extra Damage | Yield | Radius Steps            | Special                |
 | :----------------------- | :--: | :----------- | :---: | :---------------------- | :--------------------- |

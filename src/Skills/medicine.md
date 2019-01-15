@@ -1,4 +1,4 @@
-## Medicine
+## Medicine ## {.breakbefore}
 
 Medical science is relatively advanced in Elara, thanks to both a long
 history of witch-midwives and alchemy, and recent advances in science.

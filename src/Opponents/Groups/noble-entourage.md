@@ -4,8 +4,8 @@ Traveling in style in one or more carriages, nobles may sometimes find
 themselves at the mercy of a bandit group -- requiring the cavaliers to
 take sides.
 
-  - (P/2) Gossiping Courtiers
-  - (P/2) Grizzled Veterans
+  - *P*/2 Gossiping Courtiers
+  - *P*/2 Grizzled Veterans
   - 2 Boorish Fops
   - 1 Fastidious Physicker or Longsuffering Tutor
   - 1 Petty Noble

@@ -78,6 +78,7 @@ building-scale object is usually divided into multiple Areas.
 When talking about animals this large, such as giant squids or great
 whales, the term behemoth scale is used.
 
+::::::::::::::::::::::::: option ::::::::::::::::::::::::::::::::::::::::::;
 ### Optional Rule: Encumbrance
 
 This is an optional rule that the MJ can use if it will enhance her
@@ -152,3 +153,4 @@ gears, that counts as three Pocket-size objects, or 1 Handheld object.
 Two or fewer units of these supplies don't count for encumbrance
 purposes.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

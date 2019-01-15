@@ -33,7 +33,7 @@ The availability of the item is dependent upon where you are and how
 common the item is, as determined by the MJ based on the following
 table.
 
-###### Availability
+Table: Availability
 
 | Availability | Die | Skill Required |
 | ------------ | --- | -------------- |
@@ -80,11 +80,13 @@ If the player wins the opposed Wealth roll, she still drops one die from
 her Wealth pool to represent the expenditure of resources, and spends
 her success points on the following success table:
 
+:::::::::::: success :::::::::::::::::::
 | Wealth Rolls |                       |
 | ------------ | --------------------- |
 | Opposition   | Cost and availability |
 | \+           | Purchase Item         |
 | \++++        | No Drop               |
+::::::::::::::::::::::::::::::::::::::::
 
 **Purchase Item:** You can purchase the item or service in question. If
 the item has a B beside the cost, it can be purchased in bulk, and each
@@ -192,7 +194,7 @@ sun pattern, and Lunes show a crescent moon.
 The approximate values of an item, Barter die, or Reward are shown on
 the following table.
 
-###### Gallinean Currency
+Table: Gallinean Currency
 
 | Die | Cost            | Barter Die Value | Reward Value     |
 | :-: | :-------------- | :--------------- | :--------------- |

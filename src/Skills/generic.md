@@ -1,4 +1,4 @@
-## Generic Success Tables
+## Generic Success Tables ## {.breakbefore}
 
 The following Success Tables can be used in lieu of, or in addition to,
 the specific Success Tables for each Specialty. The results should be

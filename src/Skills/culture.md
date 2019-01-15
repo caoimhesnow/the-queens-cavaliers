@@ -1,4 +1,4 @@
-## Culture
+## Culture ## {.breakbefore}
 
 The Culture skill includes arts, history, religion, language, mythology,
 music, customs, traditions, noble families, and other societal elements

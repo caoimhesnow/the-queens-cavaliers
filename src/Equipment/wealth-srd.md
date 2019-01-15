@@ -33,15 +33,15 @@ The availability of the item is dependent upon where you are and how
 common the item is, as determined by the Gamemaster based on the following
 table.
 
-###### Availability
+Table: Availability
 
-| Availability | Die | Skill Required |
-| ------------ | --- | -------------- |
-| Very Common  | D0  | Apprentice     |
-| Common       | D6  | Journeyman     |
-| Uncommon     | D8  | Expert         |
-| Rare         | D10 | Master         |
-| Very Rare    | D12 | Grandmaster    |
+| Availability | Die | Skill Level Required |
+| ------------ | --- | -------------------- |
+| Very Common  | D0  | Apprentice           |
+| Common       | D6  | Journeyman           |
+| Uncommon     | D8  | Expert               |
+| Rare         | D10 | Master               |
+| Very Rare    | D12 | Grandmaster          |
 
 There are no set values for availability, but as a general rule the
 highest die in an item's cost is often equal to its availability rating,
@@ -80,11 +80,14 @@ If the player wins the opposed Wealth roll, she still drops one die from
 her Wealth pool to represent the expenditure of resources, and spends
 her success points on the following success table:
 
+
+::::::::::::::: success ::::::::::::::::
 | Wealth Rolls |                       |
 | ------------ | --------------------- |
 | Opposition   | Cost and availability |
 | \+           | Purchase Item         |
 | \++++        | No Drop               |
+::::::::::::::::::::::::::::::::::::::::
 
 **Purchase Item:** You can purchase the item or service in question. If
 the item has "bulk" beside the cost, it can be purchased in bulk, and each

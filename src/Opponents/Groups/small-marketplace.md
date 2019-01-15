@@ -5,9 +5,9 @@ centers of commerce featuring goods for sale. These are the kinds of
 people usually found in a smaller marketplace; double or triple the
 number for larger bazaars.
 
-  - (P) Laconic Farmers
-  - (P/2) Bedraggled Urchins
-  - (P/2) Wary Shopkeepers
+  - *P* Laconic Farmers
+  - *P*/2 Bedraggled Urchins
+  - *P*/2 Wary Shopkeepers
   - 2 Lutetian Watch Grunts
   - 2 Street Toughs
   - 1 Fastidious Physicker, Dishonest Mechanician, or Secretive

@@ -29,7 +29,7 @@ The following table lists the types of armor commonly found in Gallinea;
 each of these would have a +1D0 Availability Die in major cities, and
 +1D6 elsewhere.
 
-###### Common Armor
+Table: Common Armor
 
 | Armor Type        | Cost | Prowess  | Item Die          |
 | :---------------- | :--: | :------: | :---------------- |
@@ -45,7 +45,7 @@ Some less common armors are shown below. Each has an Availability Die in
 a city that equals its cost, and one or more steps higher in smaller
 towns.
 
-###### Uncommon Armor
+Table: Uncommon Armor
 
 | Armor Type     | Cost | Prowess  | Item Die           |
 | :------------- | :--: | :------: | :----------------- |
@@ -68,6 +68,7 @@ towns.
     While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. See Chapter 9, "Specialty Equipment," for more information on charmweaving.
 
     Parade armor helmet charms can be Culture (Arts, Etiquette, Scholarship) or Observation (Perceive, Intuition, Deduce); breastplate charms can be Defense (Block, Parry, Dodge) or Interaction (Inspire, Negotiate, Deceive); gauntlet charms can be Military (Brawl, Aim, Strategy) or Streetwise (Banter, Carouse, Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl) or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor must be worn or none of the charms are active.
+
   - **Plate armor: **The knights of Varendia are famous for their heavy plate armor, which does provide superior protective ability albeit at the expense of mobility. While you are wearing plate armor, you take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition, you can't wear any additional articles of clothing save for shoulder items such as cloaks or tabards.
   - **Valmain-rivet:** Originally created in Varendia ("valmain" references an older Albian term meaning "Varendish"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing valmain-rivet.
 

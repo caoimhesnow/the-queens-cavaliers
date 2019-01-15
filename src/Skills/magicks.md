@@ -1,4 +1,4 @@
-## Magicks
+## Magicks ## {.breakbefore}
 
 The world of Elara has very subtle forms of magick: brewing draughts,
 weaving charms into clothing, and reading portents. Most characters

@@ -1,5 +1,5 @@
 # Bonus Material
 
-This is from various denos, special events, etc.
+This is from various demos, special events, etc.
 
 

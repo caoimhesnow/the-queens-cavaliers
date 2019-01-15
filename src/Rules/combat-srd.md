@@ -59,7 +59,7 @@ If a new combatant enters a fight already in progress, she rolls
 Initiative and is added into the Initiative order at the appropriate
 place in the next round.
 
-:::::::::::::::::::::; toolbox :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ### Identical NPCs
 
 When Rabble or Stock Characters are used in quantities of more than two, the Gamemaster can
@@ -372,7 +372,7 @@ Advantage, your Advantage Die goes up to D6; then D8, D10, and D12 with
 subsequent (or simultaneous) expenditures of Success Points on
 increasing Advantage.
 
-:::::::::::::::::::::::::::; example :::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::
 *Example:* You decide you want your character to make a Feint attack
 against her opponent, and you succeed with three Success Points. It's
 the start of the fight, so you have no Advantage to begin with, but the
@@ -389,7 +389,7 @@ you make during combat. Each time you use your Advantage Die, it steps
 down one size – from D10 to D8, for example, or from D6 to no Advantage
 Die.
 
-:::::::::::::::::::::::::;; example ::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
 *Example:* You make a Lunge attack and elect to include your Advantage
 Die, which currently stands at a D10. You add a D10 to your dice pool
 for the attack, and after resolving the Lunge roll, your Advantage Die
@@ -423,7 +423,7 @@ option of the Gamemaster. A PC who reaches her Yield Limit can stay in the
 fight, but if she does, every attack against her gains the following
 addition to its Success Table:
 
-:::::::; success :::::::::
+:::::::: success :::::::::
 |      | (Yielded Out)   |
 |:-----| :-------------- |
 | +:   | Inflict 1 Wound |

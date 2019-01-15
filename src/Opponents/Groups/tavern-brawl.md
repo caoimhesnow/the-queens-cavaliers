@@ -4,9 +4,9 @@ Barroom fights break out quite often due to the presence of alcohol and
 surly people. Here are the typical opponents you might find in such a
 drunken melee.
 
-  - (P) Drunken Brawlers
-  - (P/2) Boorish Fops
-  - (P/2) Grizzled Veterans
+  - *P* Drunken Brawlers
+  - *P*/2 Boorish Fops
+  - *P*/2 Grizzled Veterans
   - 1 Gossiping Courtier
   - 1 Brash Fencer
   - 1 Gregarious Barkeep

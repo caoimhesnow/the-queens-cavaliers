@@ -1,4 +1,4 @@
-## Streetwise
+## Streetwise ## {.breakbefore}
 
 Streetwise skill covers the ability to survive and prosper in a medium
 or large city, sometimes relating to people of varying Social Ranks.

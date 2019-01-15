@@ -1,4 +1,4 @@
-## Dueling
+## Dueling ## {.breakbefore}
 
 The Dueling skill lets you make attacks using a dueling weapon, such as
 a sword, a knife, a quarterstaff, or even a pike.

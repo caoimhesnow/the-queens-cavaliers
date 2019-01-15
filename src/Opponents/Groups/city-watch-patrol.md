@@ -3,7 +3,7 @@
 This can be any city watch or group of guards. Double their numbers if
 you want them to be more than an inconvenience for your cavaliers.
 
-  - (P) Lutetian Watch Grunts
+  - *P* Lutetian Watch Grunts
   - 1 Lutetian Watch Officer
   - **Ideals:** Loyalty (D8), Country (D6)
   - **Scope:** Local (D6); **Attributes:** Prestige D10, Resources D8,

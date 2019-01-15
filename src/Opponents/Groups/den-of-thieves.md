@@ -3,9 +3,9 @@
 A loose assortment of ne'er-do-wells and cutthroats who would sell out
 their own grandmothers if there were profit in it.
 
-  - (P) Street Toughs
-  - (P) Desperate Convicts
-  - (P/2) Devious Smugglers
+  - *P* Street Toughs
+  - *P* Desperate Convicts
+  - *P*/2 Devious Smugglers
   - 1 Dishonest Mechanician
   - **Ideals:** Wealth (D10), Justice (D8), Pride (D6)
   - **Scope:** Immediate (D0); **Attributes:** Prestige D6, Resources

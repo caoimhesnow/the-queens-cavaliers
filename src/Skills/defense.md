@@ -1,4 +1,4 @@
-## Defense
+## Defense ## {.breakbefore}
 
 The Defense skill is used in combat to avoid taking damage. Whenever you
 are attacked, you can choose which of the appropriate Defense

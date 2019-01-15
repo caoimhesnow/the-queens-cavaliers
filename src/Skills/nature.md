@@ -1,4 +1,4 @@
-## Nature
+## Nature ## {.breakbefore}
 
 Knowledge of the natural world is expressed through Competency in the
 Nature skill. Nature is a hands-on skill, learned through experience

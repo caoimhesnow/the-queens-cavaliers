@@ -1,4 +1,4 @@
-## Military
+## Military ## {.breakbefore}
 
 The Military skill includes training in ranged combat and unarmed
 combat, plus strategic planning. A character with Competency in the

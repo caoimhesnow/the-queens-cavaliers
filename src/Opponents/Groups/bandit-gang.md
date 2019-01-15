@@ -3,7 +3,7 @@
 Encountered primarily on the open road, these bandits are often, but not
 always, mounted on horses.
 
-  - (P) Greedy Bandits
+  - *P* Greedy Bandits
   - 2 Grizzled Veterans
   - 1 Rogue Highwayman
   - **Ideals:** Wealth (D8), Justice (D6)
