@@ -25,6 +25,7 @@ This list summarizes the available maneuvers.
   - **Boundless Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling
   - **Brilliant Analysis:** Spend 2 Style Points to set the value of one Deduce die to its maximum value before rolling
   - **Broadsides:** When firing a ship-mounted cannon, spend 1 Style Point to add Explore dice to a Blackpowder roll
+  - **Buccaneer Style:** When fighting with a smallsword, cutlass, or rapier in one hand and a pistol in the other hand, spend 1 Style Point to add Feint dice to an Aim roll
   - **Camouflage Mastery:** When moving though the wilderness, spend 1 Style Point to add Explore dice to a Prowl roll
   - **Cartography:** When navigating using a map, spend 1 Style Point to add Calculus dice to an Explore roll
   - **Chemical Calculations:** When working in a well-equipped laboratory, spend 1 Style Point to add Calculus dice to a Brew roll
@@ -128,6 +129,7 @@ This list summarizes the available maneuvers.
   - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
   - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
   - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
+  - **Rough 'n' Tumble:** When fighting with a weapon in one hand and the other hand empty, spend 1 Style Point to add Brawl dice to a Dodge roll
   - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
   - **Saw That Coming:** When unarmed and facing an armed opponent, spend 1 Style Point to add Portents dice to a Dodge roll
   - **Scalpel's Cut:** When using a knife or chirurgeon's knives, spend 1 Style Point to add Surgery dice to a Lunge roll
@@ -154,6 +156,7 @@ This list summarizes the available maneuvers.
   - **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a Lunge roll
   - **Ubiquitous Shield:** Spend 2 Style Points to set the value of one Rigid Armor or Shield item die to its maximum value before rolling 
   - **Uncanny Prediction:** Spend 2 Style Points to set the value of one Portents die to its maximum value before rolling
+  - **Unexpected Defense:** When fighting with a rapier or longsword in one hand and a shield in the other hand, spend 1 Style Point to add Deceive dice to a Parry roll
   - **Unorthodox Tactics:** Spend 2 Style Points to set the value of one Strategy die to its maximum value before rolling
   - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
   - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
