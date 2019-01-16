@@ -37,10 +37,6 @@ your character's uniqueness.
 
 This game uses the Fell Types revival fonts.
 
-> The Fell Types took their name from John Fell, a Bishop of Oxford in the seventeenth-century. 
-> Not only he created an unique collection of printing types but he started one of the most 
-> important adventures in the history of typography. 
-
 The Fell Types are digitally reproduced by Igino Marini. <www.iginomarini.com>
 
 ### Playtests ###                                                                                      {.nobreak}
@@ -65,13 +61,13 @@ Queen Mariana II personally commends the following Cavalier officers for service
 duty, and awards them the highest honors of queendom, La Médaille Étoile de La dame de La Victoire.
 
 ::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Adam Solis\
-Bri\
-Michelle Trout\
-Noxweiler Berf\
-Pablo "Hersho" Domínguez\
-Paul MacDonald\
-Vicky Bartlett
+  - Adam Solis
+  - Bri
+  - Michelle Trout
+  - Noxweiler Berf
+  - Pablo "Hersho" Domínguez
+  - Paul MacDonald
+  - Vicky Bartlett
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Cavalier Officers - Seize the Initiative
