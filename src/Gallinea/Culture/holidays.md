@@ -7,6 +7,8 @@ when most Asrian holy days celebrate the sun goddess Eserre. Devout
 Gallineans are expected to attend church on those days, even if they
 don't manage to make it to services on any other Sun Day in a month.
 
+### Winter Holy Days
+
 6 Nivôse is celebrated as Winter's Dawn, and is considered the official
 start of the winter season. Services in the Asrian churches ask for the
 blessings of the Goddess-Empress Eserre upon the faithful, and ask for a
@@ -26,6 +28,8 @@ shadow at noon on Winter's Dusk, winter weather will continue into
 Germinal, the next month. The Chaplains in Lutetia raise sun jays
 specifically for this purpose.
 
+### Spring Holy Days
+
 Spring's Dawn, on 6 Germinal, is a day of thanks for the end of winter
 and start of spring, with churches and worshipers alike decorated with
 flowers. The 6th of Floréal is Spring's Noon, the vernal equinox, and is
@@ -39,6 +43,8 @@ each year, young teenagers publicly present themselves as faithful
 followers of the Sun Goddess and are henceforth considered as adults by
 the Church.
 
+### Summer Holy Days
+
 On 6 Messidor, Summer's Dawn, the Asrian high holy months officially
 begin, lasting until Summer's Dusk, 6 Fructidor. The legends of Eserre
 and the Qartan Empire are read or re-enacted over the course of eight
@@ -48,6 +54,8 @@ as Summer's Noon, the most lavish celebrations are held under the midday
 sun. The most non-pious Gallineans will make a point to attend these
 midsummer services, even if they will never enter a church or cathedral
 the rest of the year.
+
+### Fall Holy Days
 
 The fall holy days of Autumn's Dawn (6 Vendémiaire), Autumn's Noon (6
 Brumaire), and Autumn's Dusk (6 Frimaire) are quieter affairs, devoted
@@ -60,6 +68,21 @@ In addition to Asrian religious holy days, Gallineans also celebrate
 ancient traditions associated with the Old Faith of the witches. These
 folk holidays occur on new moons, in the evening when the sky is dark.
 Most involve sharing of gifts and meals with family and close friends.
+
+| Date             | New Moon Festival   | Traditional Gifts |
+| :-------------   | :------------------ | :---------------- |
+| 16 Pluviose      | New Wolf Moon       | Furs              |
+| 16 Ventose       | New Snow Moon       | Wine              |
+| 16 Germinal      | New Sap Moon        | Maple             |
+| 16 Floreal       | New Rain Moon       | Boots             |
+| 16 Prairial      | New Wishing Moon    | Lucky trinkets    |
+| 16 Messidor      | New Berry Moon      | Pies              |
+| 16 Fervidor      | New Kissing Moon    | Kisses            |
+| 16 Fructidor     | New Peddler's Moon  | Handmade gifts    |
+| 16 Vendemiaire   | New Harvest Moon    | Dances            |
+| 16 Brumaire      | New Huntress Moon   | Game meats        |
+| 16 Frimaire      | New Mourning Moon   | Memories          |
+| 16 Nivose        | New Hunger Moon     | Food              |
 
 The New Hunger Moon, 16 Nivôse, is a time for giving food to those in
 need in the chill of winter. 16 Pluviôse, the New Wolf Moon, is marked

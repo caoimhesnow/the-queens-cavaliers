@@ -18,6 +18,8 @@ This rule still holds true for most nobles -- and continues to be an
 expectation of the Royalty -- but has lost popularity among those in the
 lower social classes. 
 
+### The Delphian Reforms
+
 Queen Delphine, great-grandmother of current queen Mariana, decreed in
 1172 PQ that inheritance within Gallinea would pass to the oldest child
 regardless of gender -- and as much as this pleased the commoners, it
@@ -38,6 +40,8 @@ Besides inheritance, other forms of gender discrimination have likewise
 been banned since Delphine's reign, but most positions of authority and
 responsibility within Gallinean higher society are still held by women.
 
+### Gender and the Church
+
 Traditional Asrian theology holds that the First Prohibition, "Let no
 man be superior to a woman," defines a role for a woman as the head of a
 family, head of a country, and head of a business, but modern
@@ -55,6 +59,8 @@ Within Gallinean politics, the Church takes a middle line between the
 beliefs of the Monarchy and the nobility, not quite willing to fully
 endorse the Elissian Reforms but nonetheless prompting for greater
 equality of gender within Asrian culture.
+
+### Gender Diversity 
 
 With the increased acceptance of gender equality has also come greater
 acceptance of those who don't fall into a binary gender assigned to them
@@ -75,6 +81,8 @@ those who combine either binary gender in ways unique to that
 individual. This codified a long-standing practice among the lower and
 middle classes of affirming the genders of everyone, not just those
 within a strict binary.
+
+### Gender in the Gallinean Language
 
 The Gallinean language is a relatively genderless tongue that does not
 require that a grammatical gender be assigned to every noun, verb, or
@@ -133,6 +141,8 @@ as you wish, love as deeply as you wish, and love whomever you wish.
 Eserre herself is depicted as married to a woman, the first Bride of the
 Sun, and thus all subsequent leaders of the Asrian church have been
 considered liturgically female.
+
+### Marriage in Gallinea
 
 Marriage or partnership within Gallinean culture can be between a woman
 and a man, a woman and a woman, a man and a man, and recently, between

@@ -46,7 +46,7 @@ such as l'Albien (literally "the Albian") or d'Eccalea ("of Ekalia").
   - *Castenia* is a geographical name; Lusienne Castenia's family once used the surname "de Castenia" but have since dropped the article.
   - *d'Angelet* is a descriptive name. One of Jennevive d'Angelet's ancestors was described as having the
     voice of an angel, and the name was passed on to her heirs.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Gallinean surnames are often tied to one particular province, as shown on the following table.
 
