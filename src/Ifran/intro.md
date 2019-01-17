@@ -1,4 +1,4 @@
-# Ifran
+# The Countries of Ifran
 
 Elara's neighbor to the south of the Middle Sea was the original home of the Qartan Empire.
 
@@ -6,12 +6,7 @@ In modern times, most of northern Ifran is a vast desert, although this was not 
 case. Legend says that as the Qartan Empire grew, so did the desert, until finally the 
 desert swallowed Qarta whole and the Empire fell into ruin. There's a grain of truth to the story.
 
-Western Ifran is mostly cold, dreary swampland, separated from the rest of the continent by a row
-of high mountains. Only in recent times have the Elarans taken interest in establishing colonies
-there, due to the discovery of phlogistone.
-
 The majority of Ifran is unknown to most Elarans, who only refer to it as "The Furthest South."
 It's not really the furthest south. The lust forests of Mwene Karanga gave rise to an
 advanced civilization known as Mwene Karanga.
-
 
