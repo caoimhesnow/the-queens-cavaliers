@@ -107,7 +107,7 @@ a number of medical procedures exist that can provide further changes to
 bring one's body into conformance with their stated gender.
 
 :::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
-##  Gender Terminology
+Gender Terminology
 
 - **Clarissic:** An adjective describing someone whose gender is not that
 assigned at birth. A reference to Clarisse Sudelune, a former soldier,
@@ -168,7 +168,7 @@ establishes full legal equality, including inheritance rights, to people
 who are asexual.
 
 :::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::
-## Sexuality Terminology
+Sexuality Terminology
 
 - **Jathyc:** An adjective describing a sexual or romantic relationship between two men, named after the Ekalian deity Jathys, god of craftsmanship and commerce.
 - **Outré:** An archaic adjective describing a man who is exclusively attracted to women, or a woman who is exclusively attracted to men.  Often considered offensive.

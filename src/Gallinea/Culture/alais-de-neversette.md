@@ -1,5 +1,5 @@
 ::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::
-## Alais de Neversette
+Alais de Neversette
 
 In the year 1199 PQ, a previously unknown writer named M.E. Labouret published a novel called "The Laughing Blade" that introduced a new character, Alais de Neversette.
 

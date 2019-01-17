@@ -10,7 +10,7 @@ opponents, of course, can challenge a group of cavaliers as major
 villains or powerful allies\!
 
 ::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::
-##### Using Opponents
+Using Opponents
 
 Don't assume that all opponents are there to fight\! A corrupt noble,
 scheming artisan, angry soldier, or even hapless rabble could complicate

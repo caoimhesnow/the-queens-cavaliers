@@ -11,7 +11,7 @@ mathematical matters.
 Her practical experience on the battlefield, however, may be very
 limited.
 
-She can make a great foil for cavaliers in a city-based adventure, or
+She can make a great foil for player characters in a city-based adventure, or
 could be leading any military unit in the field.
 
 - **Competency Die:** D6

@@ -58,7 +58,7 @@ Table: Bridges of Lutetia
 | 16th   | Pont Neuf            | The New Bridge         |
 
 ::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::
-## The 17th Bridge
+The 17th Bridge
 
 There are sixteen bridges leading across the lake to the great city of Lutetia. The saying 
 goes, "For every person, there is a bridge" - all are welcome in Lutetia, be they nobles, 

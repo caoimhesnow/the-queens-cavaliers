@@ -1,5 +1,5 @@
 :::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::
-# Diegan Playing Cards
+Diegan Playing Cards
 
 Playing cards have been used in Elara and Ifran for centuries; they are said to 
 have been popularized in the Qartan Empire by traders returning from Serica.

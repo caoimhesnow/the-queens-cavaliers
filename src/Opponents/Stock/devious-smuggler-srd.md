@@ -6,7 +6,7 @@
 Smugglers and other criminals can be found at the edges of civilized
 society, trading in information as much as they do their
 contraband goods. This is a typical smuggler who might be encountered in
-Gallinea or abroad.
+France or abroad.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D8, Guile D10

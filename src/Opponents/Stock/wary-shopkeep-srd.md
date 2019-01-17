@@ -6,7 +6,7 @@
 This merchant has dealt with shoplifters before – as well as arrogant
 player characters who think they can come into her shop and boss her around –
 and isn't in the mood for any funny business. Her business could be any
-of the kind found in Lutetia and surrounding areas.
+of the kind found in Paris and surrounding areas.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D10, Guile D8

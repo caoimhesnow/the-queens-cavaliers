@@ -59,17 +59,17 @@ Table: Uncommon Armor
 | Valmain-rivet  | 1D6  | Rigid    | Block +1D8         |
 
   - **Buff coat:** Essentially a longer, reinforced gambeson, buff coats are favored by military officers. As with gambesons, they have charmwoven enchants; they are Soldier (1D6) social rank, can take Military (Brawl, Aim, or Strategy) charms, and are available in the full range of colors used in charmweaving. 
-  <a href="#charmwoven-attire" class="xref-see-charmweaving"></a>
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
   
   - **Gambeson:** Thick cloth padding makes these jerkins equal to leather in protective value, but the slightly longer construction time means they see less use. However, they can have charmwoven enchants added.  Gambesons are considered to be Soldier (1D6) social rank, can have Defense (Block, Parry, or Dodge) charms added, and are only available in neutral colors.
-  <a href="#charmwoven-attire" class="xref-see-charmweaving"></a>
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
   - **Kite shield:** Also known as a heater shield, this is larger than a buckler. The size prevents you from effectively using any Main Hand weapon at the same time as the shield.
   - **Maille hauberk:** This is a jacket or vest made of chainmail. The protective benefits in modern Gallinea are outweighed by the time -- and thus the cost -- necessary to produce it.
   - **Morion:** This is an open-faced, steel helmet shaped somewhat like a hat with a ridge down the middle. Morions are favored by guards and infantry. While it gives minimal protection when used alone, it grants a +1D6 Bonus Die to Block rolls if you're wearing a steel breastplate. You can't wear an article of head attire while wearing a morion.
   - **Parade armor:** These are highly decorative suits of plate armor, each one individually made for its wearer. (They're only available in major cities, and even then usually have a +1D12 Availability Die.) Like other suits of plate armor, the wearer takes a Drop 2 penalty on Defense (Dodge), Dueling (Feint), and Nature (Prowl) rolls when parade armor is worn. 
 
     While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. 
-  <a href="#charmwoven-attire" class="xref-see-charmweaving"></a>
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
 
     Parade armor helmet charms can be Culture (Arts, Etiquette, Scholarship) or Observation (Perceive, Intuition, Deduce); breastplate charms can be Defense (Block, Parry, Dodge) or Interaction (Inspire, Negotiate, Deceive); gauntlet charms can be Military (Brawl, Aim, Strategy) or Streetwise (Banter, Carouse, Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl) or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor must be worn or none of the charms are active.
 

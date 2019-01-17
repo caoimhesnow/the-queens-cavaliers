@@ -223,7 +223,7 @@ spend 3 success points to knock your target off her horse.
 
 ### Availability of Dueling Weapons
 
-As stated <a href="#wealth-1" class="xref-insection"></a>, to purchase any item you must roll
+As stated <a href="#anchor-wealth" class="xref-insection"></a>, to purchase any item you must roll
 against a pool consisting of that item's availability and its cost.
 
 Common dueling weapons are those which aren't hard at all to find any
@@ -307,7 +307,7 @@ Table: Uncommon Dueling Weapons
   - **Weighted Net:** *description needed*
 
 :::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
-#### Foreign Weapons
+Foreign Weapons
 
 In addition to the common and uncommon dueling weapons listed in the
 previous tables and aimed weapons later in this chapter, the nations
@@ -379,7 +379,7 @@ long ranges.
     weapon, it can't be used to attack at Long Range.
 
 ::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
-#### Maximum Range?
+Maximum Range?
 
 The tables below don't specify a maximum distance for long range. That's
 because areas are an abstract representation of distance, not exact

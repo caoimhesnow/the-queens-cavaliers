@@ -10,7 +10,7 @@ neighboring countries means the most practical Gallineans will speak and read at
 one additional languages.
 
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::
-### Old Gallinean is French?
+Old Gallinean is French?
 
 While *The Queen's Cavaliers* is written in English, many of the older names for
 locations, families, and specific traditions are French. We use French to indicate

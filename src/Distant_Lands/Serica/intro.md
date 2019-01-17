@@ -3,7 +3,7 @@
 *introduction needed*
 
 ::::::::::::::::::::: country ::::::::::::::::::::::::::
-## The Heavenly Principalities of Serica and Shan
+The Heavenly Principalities of Serica and Shan
 
 |                 |                                    |
 | --------------- | ---------------------------------- |

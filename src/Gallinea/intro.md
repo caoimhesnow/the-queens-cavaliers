@@ -1,7 +1,7 @@
 # Gallinea                                        {.breakbefore}
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
-## The Queendom of Gallinea
+The Queendom of Gallinea
 
 ![Flag of Gallinea](assets/Flags/Gallinea.png "Flag of Gallinea")
 

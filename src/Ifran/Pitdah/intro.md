@@ -1,7 +1,7 @@
 # Pitdah
 
 :::::::::::::: country ::::::::::::::::::::::::::::::
-###### The City-State of Pitdah
+The City-State of Pitdah
 
 |                 |                                 |
 | --------------- | ------------------------------- |

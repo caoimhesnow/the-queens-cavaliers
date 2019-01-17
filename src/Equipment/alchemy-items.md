@@ -2,7 +2,7 @@
 
 The most items created using the Magicks (Brew) specialty are shown below.
 For a more complete list and rules on using Brew to create your own draughts,
-salves, and other alchemy items, see <a href="alchemical-items" class="xref-inchapter-under"></a>.
+salves, and other alchemy items, see <a href="#alchemical-items" class="xref-inchapter-under"></a>.
 
 Table: Alchemy Items
 

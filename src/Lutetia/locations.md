@@ -15,8 +15,6 @@ allowing Her Majesty to remain above much of the petty politicking.
 
 ## The Bridges of Lutetia
 
-*introduction needed*
-
 Lutetia is divided up into 55 different *arrondissements*, or
 neighborhoods, named after the 16 bridges that span the Luisante. When a
 resident of Lutetia speaks of her location or address within the city,
@@ -46,7 +44,7 @@ Table: Bridges of Lutetia
 | 16th   | Pont Neuf            | The New Bridge         |
 
 ::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::
-# The 17th Bridge
+The 17th Bridge
 
 There are sixteen bridges leading across the lake to the great city of Lutetia. The saying 
 goes, "For every person, there is a bridge" - all are welcome in Lutetia, be they nobles, 
@@ -113,7 +111,7 @@ Table: List of Arrodissements
 | 16th   | 16th *sur l'île*   | 16th *sur le pont* | 16th *travers le pont*              | 16th *delà du mur*   |
 
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-## Lutetian Idioms
+Lutetian Idioms
 
 Many Lutetian colloquialisms relate to the names of the arrondissements. As they are in
 Gallinean but rely on knowledge of the layout of the city, these terms can be 
@@ -427,7 +425,7 @@ Le Puissant (S)
   - Street: Rue du Sud
 
 *description needed*
-::::::::::::::::::::: location ::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 Airship Tower (T)
