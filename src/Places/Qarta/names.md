@@ -1,4 +1,0 @@
-# Qartan Names
-
-*description needed*
-
