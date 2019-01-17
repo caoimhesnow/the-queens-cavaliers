@@ -1,161 +1,11 @@
-## Clothing
+# Charmweaving
 
-Charmweaving, is the practice of adding
+Charmweaving is the practice of adding
 specific dyes, trinkets, threads, and other magickal enhancements to
 articles of clothing. These enhancements provide bonuses to specific
 tasks. 
 
-### Clothing Qualities
-
-Articles of clothing have the following qualities:
-
-**Worn On:** Each article of clothing is designed to be worn on a
-specific part of your body -- head, shoulders, torso, hands, legs, or
-feet. In general, you can wear only one item per location, although you
-may be able to stack multiple cloaks on your shoulders under certain
-circumstances -- check with your Gamemaster to be sure.
-
-Items worn on the legs can't have charms woven into them. 
-
-**Social Rank:** Some items are associated with certain social ranks.
-This doesn't restrict what you can wear, regardless of your own social
-rank, but it may affect how you and your outfit are seen by others. The
-social rank of an article of clothing can be used as an availability die
-in a purchase roll.
-
-**Scale:** Articles of clothing are usually handheld scale when carried,
-and don't contribute to encumbrance when worn if the optional system for
-encumbrance is used. Items wrapped up in a box for gifting or transport
-are one scale category higher, including the packaging.
-
-The following table lists the most common types of clothes that are
-found in Gallinea. 
-
-Table: Articles of Clothing
-
-| Item                | Cost | Worn On   | Social Rank    |
-| :------------------ | :--: | :-------- | :------------- |
-| Beret, artisan's    | 1D0  | Head      | Artisan (1D8)  |
-| Bodice, fine        | 1D6  | Torso     | Noble (1D10)   |
-| Bodice, common      | 1D0  | Torso     | Commoner (1D0) |
-| Boots, military     | 1D6  | Feet      | Soldier (1D6)  |
-| Boots, work         | 1D6  | Feet      | Commoner (1D0) |
-| Breeches            | 1D6  | Legs      | Commoner (1D0) |
-| Cape, cloth         | 1D0  | Shoulders | Soldier (1D6)  |
-| Cape, fur           | 1D8  | Shoulders | Artisan (1D8)  |
-| Capotain            | 1D0  | Head      | Military (1D6) |
-| Casaque             | 1D6  | Torso     | Soldier (1D6)  |
-| Cavalier hat        | 1D6  | Head      | Military (1D6) |
-| Chopines            | 1D6  | Feet      | Noble (1D10)   |
-| Cloak               | 1D0  | Shoulders | Commoner (1D0) |
-| Doublet, common     | 1D6  | Torso     | Commoner (1D0) |
-| Doublet, fine       | 1D0  | Torso     | Noble (1D10)   |
-| Gloves, courtier's  | 1D6  | Hands     | Noble (1D10)   |
-| Gloves, craftsman's | 1D0  | Hands     | Artisan (1D8)  |
-| Gloves, farmer's    | 1D0  | Hands     | Commoner (1D0) |
-| Gloves, soldier's   | 1D0  | Hands     | Soldier (1D6)  |
-| Goggles, gearspring | 1D6  | Head      | Artisan (1D8)  |
-| Gown, courtly       | 1D10 | Torso     | Noble (1D10)   |
-| Gown, surgeon's     | 1D6  | Torso     | Artisan (1D8)  |
-| Hair ribbons        | 1D0  | Head      | Noble (1D10)   |
-| Hose                | 1D0  | Legs      | Noble (1D10)   |
-| Masque              | 1D0  | Head      | Noble (1D10)   |
-| Pantaloons          | 1D6  | Legs      | Military (1D6) |
-| Pantofles           | 1D0  | Feet      | Artisan (1D8)  |
-| Petticoat           | 1D6  | Legs      | Noble (1D10)   |
-| Plague mask         | 1D6  | Head      | Artisan (1D8)  |
-| Poulaines           | 1D0  | Feet      | Military (1D6) |
-| Robes               | 1D0  | Torso     | Commoner (1D0) |
-| Sandals             | 1D0  | Feet      | Commoner (1D0) |
-| Shift               | 1D0  | Torso     | Commoner (1D0) |
-| Shoes, buckled      | 1D0  | Feet      | Commoner (1D0) |
-| Skirt               | 1D6  | Legs      | Common (1D0)   |
-| Skullcap, clerical  | 1D0  | Head      | Artisan (1D8)  |
-| Smock               | 1D0  | Torso     | Commoner (1D0) |
-| Stockings           | 1D0  | Legs      | Commoner (1D0) |
-| Stole, liturgical   | 1D0  | Shoulders | Artisan (1D8)  |
-| Stole, ornate       | 1D8  | Shoulders | Noble (1D10)   |
-| Tabard              | 1D6  | Shoulders | Soldier (1D6)  |
-| Tricorne            | 1D6  | Head      | Military (1D6) |
-| Vestments           | 1D6  | Torso     | Artisan (1D8)  |
-
-### Standard outfits
-
-Many outfits just naturally go together. Every new character starts with
-one or two standard outfits depending on her class and backstory. In
-addition to sharing a common cost, outfits are all considered part of
-the same social rank, regardless of the actual social rank of each
-item.
-
-Table: Standard Outfits
-
-| Item                | Cost    | Includes                                                             |
-| :------------------ | :-----: | :------------------------------------------------------------------- |
-| Clockworker outfit  | 2D6     | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
-| Corsair outfit      | 4D6     | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
-| Courtly outfit      | 3D6     | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
-| Crafter outfit      | 2D6     | Artisan's beret, smock, breeches, craftsman's gloves, buckled shoes  |
-| Military outfit     | 2D6     | Capotain, soldier's gloves, breeches, boots, tabard                  |
-| Peasant outfit      | 1D6     | Shift, breeches, buckled shoes                                       |
-| Physician outfit    | 3D6     | Plague mask, surgeon's gown, breeches, pantofles                     |
-| Priest outfit       | 2D6     | Clerical skullcap, vestments, courtier's gloves, breeches, pantofles |
-| Scholar's outfit    | 1D6+1D8 | Ornate stole, robes, breeches, poulaines                             |
-| Swashbuckler outfit | 4D6     | Cavalier hat, doublet, soldier's gloves, breeches, boots, cloth cape |
-
-**Clockworker outfit (Artisan 1D8):** This is worn while doing
-mechanician work, and usually has a lot of extraneous pockets and loops
-for tools and gears. The most notable feature is the set of gearspring
-goggles, which give an item die bonus of Perceive +1D6 on visual checks.
-
-**Corsair outfit (Soldier 1D6):** Worn by sailors and pirates around the
-world, and by many would-be buccaneers, this outfit certainly captures
-the look of the chic privateer.
-
-**Courtly outfit (Noble 1D10):** Nobles, and those who must interact
-with them, are known for their outlandishly ornate couture and finely
-arranged coiffure.
-
-**Crafter outfit (Artisan 1D8):** Similar to a clockworker outfit, a
-crafter outfit is for doing productive work, be it artistic, magickal,
-or smithing in content.
-
-**Military outfit (Soldier 1D6):** Military outfits come with an
-appropriate tabard from the correct military unit, noble house,
-mercenary group, or city guard. For example, a veteran/constable may
-have one tabard from the French army, and another from the Parisian
-watch. Military outfits don't come with a torso item, to facilitate the
-wearing of armor.
-
-**Peasant outfit (Commoner 1D0):** Plain and practical, peasant outfits
-can be found throughout Europe, and in nearly every social rank. As
-they're easily patched, many peasant outfits are simply stitched
-together from different types and colors of fabric. 
-
-**Physician outfit (Artisan 1D8):** The notable feature of this outfit
-is the large, vaguely bird-shaped mask used during surgery; the beak of
-this mask contains herbs and cloth meant to filter out diseases. Most
-physician outfits start out white in color, but quickly become stained
-with crimson.
-
-**Priest outfit (Artisan 1D8):** The traditional dress of clergy
-varies by their rank within the church. 
-
-**Scholar's outfit (Artisan 1D8):** Students and instructors at
-universities, seminaries, officer schools, and other institutions of
-higher learning are expected to dress in traditional scholarly robes
-while teaching or attending classes. Outside of class, of course,
-they're free to wear whatever they want.
-
-**Swashbuckler outfit (Soldier 1D6):** The cavalier hat, the billowing
-cape, the high boots -- anyone wearing this outfit cuts a dashing figure
-indeed. While some such outfits are more sedate and refined, many look
-are flamboyant to an excessive degree.
-
-## (subchapter) Charmwoven Attire
-
-*introduction needed*
-
-### The Nine Laws of Fashion
+## The Nine Laws of Fashion
 
 Charmwoven clothes are useful, stylish, and expensive, but they are also
 made according to exacting standards known as the Nine Laws of
@@ -164,7 +14,7 @@ work at all\!
 
 The First is the simplest Law:
 
-#### The First Law: The Law of Couture
+### The First Law: The Law of Couture
 
 *"One's clothes must fit properly."*
 
@@ -180,7 +30,7 @@ comes to body size, and there are no "standard sizes". Your clothes will
 need to be either be created specifically for you, or altered by a
 tailor. Only then can charms be effectively added to such apparel.
 
-#### The Second Law: The Law of Attunement
+### The Second Law: The Law of Attunement
 
 *"Charms are unique to the wearer."*
 
@@ -230,7 +80,7 @@ must see you the entire time, and you must be willing to have it done.
 Each success point spent reveals either your birth date, your birth time
 to the minute, or your city or village of birth.
 
-#### The Third Law: The Law of Pertinence
+### The Third Law: The Law of Pertinence
 
 *"The charm must correspond to the article."*
 
@@ -241,12 +91,11 @@ For example, gloves for soldiers can be given charms that assist with
 Dueling or Military (Aim), while gloves for craftsmen can be charmed for
 Magicks, Medicine, or Science.
 
-Pertinent skills for any given type of clothing are found later in this
-chapter, in the "Articles of Clothing" section. The "Creating Charmwoven
-Clothing" section, also found in this chapter, summarizes which types of
-charms can be applied to which pieces of attire.
+Pertinent skills for any given type of clothing are found later in this chapter
+<a href="#creating-charmwoven-clothing" class="xref-insection"></a>,
+which also summarizes which types of charms can be applied to which pieces of attire.
 
-#### The Fourth Law: The Law of Dissonance
+### The Fourth Law: The Law of Dissonance
 
 *"Dissonance limits the effectiveness of charms."*
 
@@ -264,7 +113,7 @@ Table: Dissonance
 | 5                | 1D0               |
 | 6 or more        | None              |
 
-#### The Fifth Law: The Law of Cacophony
+### The Fifth Law: The Law of Cacophony
 
 *"Unrestrained use of color creates dissonance."*
 
@@ -281,13 +130,13 @@ Table: Dissonance Generated by Cacophony
 | 5                 | \+5        |
 | 6 or more         | \+6        |
 
-#### The Sixth Law: The Law of Neutrality
+### The Sixth Law: The Law of Neutrality
 
 *"Neutral colors do not generate dissonance."*
 
 *explanation needed*
 
-#### The Seventh Law: The Law of Darning
+### The Seventh Law: The Law of Darning
 
 *"Rips, tears, and holes produce dissonance."*
 
@@ -305,7 +154,7 @@ Table: Dissonance Generated by Damage
 | 5               | \+5        |
 | 6 or more       | \+6        |
 
-#### The Eighth Law: The Law of Station
+### The Eighth Law: The Law of Station
 
 *"Outfits of mismatched attire produce dissonance."*
 
@@ -327,7 +176,7 @@ Table: Dissonance Generated by Social Rank Mismatch
 | 6 or more        | \+6        |
 
 
-#### The Ninth Law: The Law of *Dernier Cri*
+### The Ninth Law: The Law of *Dernier Cri*
 
 *"Dated fashions generate dissonance."*
 
@@ -347,19 +196,19 @@ Table: Dissonance Generated by Dated Fashions
 | 5          | \+5        |
 | 6 or older | \+6        |
 
-#### Wearing Charmwoven Clothing
+### Wearing Charmwoven Clothing
 
 *explanation needed*
 
-#### Wearing Mundane Clothing
+### Wearing Mundane Clothing
 
 *explanation needed*
 
-### Articles of Clothing
+## Articles of Clothing
 
 *introduction needed*
 
-#### Arm Apparel
+### Arm Apparel
 
 *introduction needed*
 
@@ -374,7 +223,7 @@ Table: Arm Apparel
 
 *descriptions needed*
 
-#### Torso Apparel
+### Torso Apparel
 
 *introduction needed*
 
@@ -396,7 +245,7 @@ Table: Torso Apparel
 
 *descriptions needed*
 
-#### Foot Apparel
+### Foot Apparel
 
 *introduction needed*
 
@@ -412,7 +261,7 @@ Table: Foot Apparel
 | Sandals         | 1D0  | D0          | Nature, Streetwise             |
 | Shoes, Buckled  | 1D0  | D0          | Culture, Nature, Streetwise    |
 
-#### Head Apparel
+### Head Apparel
 
 The people of France wear many different kinds of hats, with a type of headwear
 available to every type of charm -- all the skills, with the exception
@@ -481,7 +330,7 @@ shapes.  Tricornes are most popular among sailors and members of
 the military, with officers using them to display medals and other
 symbols of rank.
 
-#### Shoulder Apparel
+### Shoulder Apparel
 
 Shoulder charms tend to be about skills that are flashy and
 attention-getting, although a few have use in disguising or hiding the
@@ -500,7 +349,7 @@ Table: Shoulder Apparel
 
 *descriptions needed*
 
-### Standard Outfits
+## Standard Outfits
 
 *introduction needed*
 
@@ -520,15 +369,15 @@ Table: standard Outfits
 
 *descriptions needed*
 
-### Creating Charmwoven Clothing
+## Creating Charmwoven Clothing
 
 *introduction needed*
 
-#### Pertinence
+### Pertinence
 
 *introduction needed*
 
-##### Culture
+#### Culture
 
 *introduction needed*
 
@@ -542,7 +391,7 @@ Table: Culture Pertinence
 | Head     | Artisan's beret, hair ribbons, clerical skullcap |
 | Shoulder | Fur cape, liturgical stole, ornate stole         |
 
-##### Defense
+#### Defense
 
 *introduction needed*
 
@@ -556,7 +405,7 @@ Table: Defense Pertinence
 | Head     | Cavalier hat                   |
 | Shoulder | Cloth cape, cloak, tabard      |
 
-##### Dueling
+#### Dueling
 
 *introduction needed*
 
@@ -570,7 +419,7 @@ Table: Dueling Pertinence
 | Head     | Cavalier hat, masque                |
 | Shoulder | Cloth cape, fur cape, cloak, tabard |
 
-##### Initiative
+#### Initiative
 
 *introduction needed*
 
@@ -584,7 +433,7 @@ Table: Initiative Pertinence
 | Head     | \--                            |
 | Shoulder | \--                            |
 
-##### Interaction
+#### Interaction
 
 *introduction needed*
 
@@ -598,7 +447,7 @@ Table: Interaction Pertinence
 | Head     | Hair ribbons, masque, clerical skullcap                         |
 | Shoulder | Cloth cape, fur cape, liturgical stole, ornate stole, tabard    |
 
-##### Magicks
+#### Magicks
 
 *introduction needed*
 
@@ -612,7 +461,7 @@ Table: Magicks Pertinence
 | Head     | Artisan's beret, hair ribbons  |
 | Shoulder | Fur cape, liturgical stole     |
 
-##### Medicine
+#### Medicine
 
 *introduction needed*
 
@@ -626,7 +475,7 @@ Table: Medicine Pertinence
 | Head     | Plague mask                    |
 | Shoulder | \--                            |
 
-##### Military
+#### Military
 
 *introduction needed*
 
@@ -640,7 +489,7 @@ Table: Military Pertinence
 | Head     | Capotain, gearspring goggles, tricorne |
 | Shoulder | Tabard                                 |
 
-##### Nature
+#### Nature
 
 *introduction needed*
 
@@ -654,7 +503,7 @@ Table: Nature Pertinence
 | Head     | Capotain, tricorne                     |
 | Shoulder | Cloak                                  |
 
-##### Observation
+#### Observation
 
 *introduction needed*
 
@@ -668,7 +517,7 @@ Table: Observation Pertinence
 | Head     | Gearspring goggles, plague mask, clerical skullcap |
 | Shoulder | \--                                                |
 
-##### Science
+#### Science
 
 *introduction needed*
 
@@ -682,7 +531,7 @@ Table: Science Pertinence
 | Head     | Artisan's beret, gearspring goggles, plague mask |
 | Shoulder | \--                                              |
 
-##### Streetwise
+#### Streetwise
 
 Articles that can take streetwise charms are a varied set, ranging from
 the peasant's cloth cape to the noble's ornate stole.
@@ -697,7 +546,7 @@ Table: Streetwise Pertinence
 | Head     | Capotain, cavalier hat, masque, tricorne |
 | Shoulder | Cloth cape, cloak, ornate stole          |
 
-#### Colors
+### Colors
 
 *introduction needed*
 

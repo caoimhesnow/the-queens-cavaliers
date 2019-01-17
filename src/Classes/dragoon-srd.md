@@ -2,7 +2,7 @@
 
 A Dragoon is a professional soldier, usually a member of the cavalry.
 Dragoons are found throughout France and beyond; they are usually more
-serious and less flashy than the swashbuckling Cavaliers. Dragoons
+serious and less flashy than the swashbuckling musketeers. Dragoons
 usually wear heavier armor in the field.
 
 - **Suggested Classes:** Brigand, Chaplain, Constable, Duelist, Dogsbody, Provincial, Veteran.

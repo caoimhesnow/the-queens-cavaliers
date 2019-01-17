@@ -129,7 +129,7 @@ and D8 for finding an Expert charmweaver, for a total of 2D8+1D6 as the
 opposition to your Wealth roll.
 
 By comparison, an uncharmed cavalier hat would cost D6 plus D0
-availability in Lutetia (they're all the rage these days), for a total
+availability in Paris (they're all the rage these days), for a total
 of 1D6.
 
 ##### Cost D0

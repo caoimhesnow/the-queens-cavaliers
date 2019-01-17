@@ -1,7 +1,7 @@
 ### The Provincial 
 
-Outside of the big cities of France are the provinces of
-Gallinea – home to commoners and petty noblefolk, many of whom lack
+Outside of Paris are the provinces of
+France – home to commoners and petty noblefolk, many of whom lack
 education and refinement. These Provincials – and the Provincials of
 other nations – are looked down on by the city folk.
 

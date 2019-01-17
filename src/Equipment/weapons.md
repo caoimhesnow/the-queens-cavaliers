@@ -23,7 +23,8 @@ the process. To make an attack with explosives, you use the Science
 (Blackpowder) specialty. This category includes cannons, grenades, and
 bombs.
 
-#### Free Starting Weapon
+::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Free Starting Weapon
 
 When you create your character for *The Queen's Cavaliers*, you get a
 free weapon in addition to any granted by your classes and any
@@ -38,6 +39,7 @@ You can pick from the following basic weapons:
  - **Rapier** (Sword +1D8, Main Hand)
  - **Sabre** (Sword +1D6, Main Hand, Cavalry)
  - **Smallsword** (Sword +1D6, Either Hand)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Weapon Qualities
 
@@ -89,31 +91,37 @@ musket, Drop 4 for the rapier.
     specialty, from throwing a knife to firing a musket. If you have
     prowess in the weapon you're using, you can add its Weapon Die to
     your Aim roll as an Item Die.
+
   - **Block:** Defense (Block) allows the use of armor and general
     toughness to throw off the effects of an attack. It can be used to
     negate attacks from either Dueling or Aimed weapons. You add your
     armor's Armor Die to your Block roll as an Item Die if you have
     Armor Prowess in that item.
+
   - **Brawl:** Only a few Dueling weapons can be used as part of a
     Military (Brawl) attack or defense; Brawl usually doesn't use an
     Item Die of any kind. Brawl can be used to inflict Yield, to disarm
     or knock down an opponent, or to defend against a Brawl attack.
+
   - **Feint:** The primary use of Dueling (Feint) is to build Advantage
     during a fight through tricky maneuvering or a false attack to draw
     the your opponent off-guard. It can also inflict Yield or trigger a
     Riposte. If you have prowess in the weapon you're using, you can add
     its Weapon Die to your Riposte roll as an Item Die, although you can
     perform a Feint without a weapon also.
+
   - **Lunge:** A Lunge is a straightforward attack against an opponent
     using a Dueling weapon, usually by stabbing, chopping, slashing, or
     bashing. It's the best way to inflict either Yield or Wounds on your
     target. If you have prowess in the weapon you're using, add its
     Weapon Die to your Lunge roll as an Item Die.
+
   - **Parry:** This specialty of the Defense skill can be used to negate
     incoming attacks from Dueling weapons, and if possible, trigger a
     Riposte. You need to have a weapon, improvised or otherwise, in your
     hand to attempt a Parry. If you have prowess in that weapon, add its
     Weapon Die to your Parry roll as an Item Die.
+
   - **Riposte:** Dueling (Riposte) is a triggered Dueling attack
     that you can use by spending success points from another specialty
     -- either Defense (Parry) or Dueling (Feint). A successful Riposte
@@ -215,7 +223,7 @@ spend 3 success points to knock your target off her horse.
 
 ### Availability of Dueling Weapons
 
-As stated in Chapter 7: Wealth, to purchase any item you must roll
+As stated <a href="#wealth-1" class="xref-insection"></a>, to purchase any item you must roll
 against a pool consisting of that item's availability and its cost.
 
 Common dueling weapons are those which aren't hard at all to find any
@@ -241,14 +249,14 @@ Table: Common Dueling Weapons
 | Smallsword   | D6   | Either         | Sword +1D6  | Parry, Lunge, Riposte, Feint        |
 
 
-  - **Buckler:** A buckler is a small shield that can be strapped to your forearm, usually on your non-dominant hand. You can hold an item in that hand but trying to attack with that hand while wearing a buckler gives you a Drop 2 penalty on rolls using either the buckler or that weapon.\
-  - **Club:** A standard club is simply a piece of wood or metal that you can swing at someone. It's not very sophisticated, but then again, you can likely pick one up wherever you are at any given time.  \
-  - **Cutlass:** The favored weapon of buccaneers, pirates, and other sailors.\
-  - **Dagger:** A dagger is a large knife that can also be thrown using the Aim specialty.\
-  - **Quarterstaff:** A medium-sized pole wielded in both hands that can also be used in a Brawl dice pool as well.\
-  - **Rapier:** The most common type of Sword in *The Queen's Cavaliers* is a sharp, pointy weapon that can be used for all types of fencing.\
-  - **Sabre:** A lighter and faster weapon, the sabre is designed to be used from horseback although it functions equally well when dismounted.\
-  - **Smallsword:** Effectively a smaller, lighter version of a rapier, a smallsword can be used in the same way -- or you could dual-wield two of them if you want.\
+  - **Buckler:** A buckler is a small shield that can be strapped to your forearm, usually on your non-dominant hand. You can hold an item in that hand but trying to attack with that hand while wearing a buckler gives you a Drop 2 penalty on rolls using either the buckler or that weapon.
+  - **Club:** A standard club is simply a piece of wood or metal that you can swing at someone. It's not very sophisticated, but then again, you can likely pick one up wherever you are at any given time.  
+  - **Cutlass:** The favored weapon of buccaneers, pirates, and other sailors.
+  - **Dagger:** A dagger is a large knife that can also be thrown using the Aim specialty.
+  - **Quarterstaff:** A medium-sized pole wielded in both hands that can also be used in a Brawl dice pool as well.
+  - **Rapier:** The most common type of Sword in *The Queen's Cavaliers* is a sharp, pointy weapon that can be used for all types of fencing.
+  - **Sabre:** A lighter and faster weapon, the sabre is designed to be used from horseback although it functions equally well when dismounted.
+  - **Smallsword:** Effectively a smaller, lighter version of a rapier, a smallsword can be used in the same way -- or you could dual-wield two of them if you want.
 
 Uncommon dueling weapons have an availability of 1D0 in a capital city,
 1D6 in any other city, and 1D8 in villages and other rural areas. The
@@ -260,7 +268,7 @@ Table: Uncommon Dueling Weapons
 | Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                          |
 | :---------------- | :--: | :------------- | :------------ | :------------------------------------------------------------------- |
 | Backsword         | D6   | Main           | Sword +1D8    | Parry, Lunge, Riposte, Feint                                         |
-| Bayonet           | D6   | \--            | Polearm +1D6  | Lunge, Feint                                                         |
+| Bayonet           | D6   |                | Polearm +1D6  | Lunge, Feint                                                         |
 | Bullwhip          | D0   | Main (Reach)   | Whip +1D6     | Riposte, Feint (+++: Knockdown, +++++: Grab)                         |
 | Cat-O'-Nine-Tails | D6   | Main           | Whip +1D8     | Riposte, Feint (+++: Knockdown)                                      |
 | Glaive            | D8   | Both (Reach)   | Polearm +1D10 | Parry, Lunge, Feint                                                  |
@@ -279,24 +287,24 @@ Table: Uncommon Dueling Weapons
 | Truncheon         | D6   | Main           | Cudgel +1D6   | Parry, Lunge, Brawl                                                  |
 | Weighted Net      | D6   | Main (Reach)   | Net +1D6      | Feint (+++: Restrain)                                                |
 
-  - **Backsword:** *description needed*\
-  - **Bayonet:** A bayonet is attached to the barrel of a musket and can be used as a Dueling weapon without having to change weapons.\
-  - **Bullwhip:** The bullwhip also can be used as a +1D6 Item Die for Husbandry when trying to control domesticated animals or drive off wild animals.\
-  - **Cat-O'-Nine-Tails:** *description needed*\
-  - **Glaive:** *description needed*\
-  - **Halberd:** *description needed*\
-  - **Hooked Net:** *description needed*\
-  - **Lance:** *description needed*\
-  - **Longsword:** When used with two hands, the Weapon Die of a longsword increases to +1D10.\
-  - **Main Gauche:** *description needed*\
-  - **Pike:** *description needed*\
-  - **Pollaxe:** *description needed*\
-  - **Scourge:** *description needed*\
-  - **Spear:** *description needed*\
-  - **Swordbreaker:** *description needed*\
-  - **Trident Dagger:** *description needed*\
-  - **Truncheon:** *description needed*\
-  - **Weighted Net:** *description needed*\
+  - **Backsword:** *description needed*
+  - **Bayonet:** A bayonet is attached to the barrel of a musket and can be used as a Dueling weapon without having to change weapons.
+  - **Bullwhip:** The bullwhip also can be used as a +1D6 Item Die for Husbandry when trying to control domesticated animals or drive off wild animals.
+  - **Cat-O'-Nine-Tails:** *description needed*
+  - **Glaive:** *description needed*
+  - **Halberd:** *description needed*
+  - **Hooked Net:** *description needed*
+  - **Lance:** *description needed*
+  - **Longsword:** When used with two hands, the Weapon Die of a longsword increases to +1D10.
+  - **Main Gauche:** *description needed*
+  - **Pike:** *description needed*
+  - **Pollaxe:** *description needed*
+  - **Scourge:** *description needed*
+  - **Spear:** *description needed*
+  - **Swordbreaker:** *description needed*
+  - **Trident Dagger:** *description needed*
+  - **Truncheon:** *description needed*
+  - **Weighted Net:** *description needed*
 
 :::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
 #### Foreign Weapons
@@ -304,14 +312,15 @@ Table: Uncommon Dueling Weapons
 In addition to the common and uncommon dueling weapons listed in the
 previous tables and aimed weapons later in this chapter, the nations
 that comprise Elara and Ifran have their own weapons as well. These
-national weapons are described in chapters 14 and 15, and include:
+national weapons are described <a href="#the-countries-of-elara" class="xref-inchapter"></a>
+and <a href="#the-countries-of-ifran" class="xref-inchapter"></a>, 
 
-  - **Albia:** claymore, dirk, longbow, tuck\
-  - **Ekalia:** brandestoc, cinquedea, hook prothesis\
-  - **Northern Ifran:** horsebow, jambiya, shamshir\
-  - **Ondala:** espada ropera, montante\
-  - **Talania:** koncerz, szabla\
-  - **Varendia:** colichedemarde, katzbalger, zweihander\
+  - **Albia:** claymore, dirk, longbow, tuck
+  - **Ekalia:** brandestoc, cinquedea, hook prothesis
+  - **Northern Ifran:** horsebow, jambiya, shamshir
+  - **Ondala:** espada ropera, montante
+  - **Talania:** koncerz, szabla
+  - **Varendia:** colichedemarde, katzbalger, zweihander
 
 The availability of foreign dueling weapons is the same as that of
 uncommon weapons -- 1D0 in a capital city, 1D6 in any other city, and
@@ -390,35 +399,35 @@ Table: Aimed Weapons
 | :--------------- | :--: | :------------- | :----------- | :----- | :----- | :----- | :----- | :----- |
 | Arbalest         | D10  | Both           | Bow +1D10    | Drop 4 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
 | Arquebus         | D6   | Both           | Musket +1D8  | Drop 3 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
-| Blunderbuss      | D8   | Both           | Musket +1D10 | Drop 2 | Drop 0 | Drop 1 | Drop 2 | \--    |
+| Blunderbuss      | D8   | Both           | Musket +1D10 | Drop 2 | Drop 0 | Drop 1 | Drop 2 |        |
 | Caliver          | D8   | Both           | Musket +1D8  | Drop 2 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
 | Composite Bow    | D8   | Both           | Bow +1D8     | Drop 0 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
 | Crossbow         | D8   | Both           | Bow +1D8     | Drop 2 | Drop 0 | Drop 0 | Drop 0 | Drop 2 |
-| Double Musket    | D10  | Both           | Musket +1D8  | Drop 4 | Drop 2 | Drop 0 | Drop 2 | \--    |
-| Double Pistol    | D8   | Either         | Pistol +1D6  | Drop 4 | Drop 0 | Drop 0 | Drop 2 | \--    |
-| Dragon           | D6   | Main (Cavalry) | Pistol +1D8  | Drop 2 | Drop 0 | Drop 1 | \--    | \--    |
+| Double Musket    | D10  | Both           | Musket +1D8  | Drop 4 | Drop 2 | Drop 0 | Drop 2 |        |
+| Double Pistol    | D8   | Either         | Pistol +1D6  | Drop 4 | Drop 0 | Drop 0 | Drop 2 |        |
+| Dragon           | D6   | Main (Cavalry) | Pistol +1D8  | Drop 2 | Drop 0 | Drop 1 |        |        |
 | Flintlock Musket | D8   | Both           | Musket +1D10 | Drop 3 | Drop 1 | Drop 0 | Drop 0 | Drop 2 |
-| Flintlock Pistol | D6   | Either         | Pistol +1D6  | Drop 2 | Drop 0 | Drop 0 | Drop 2 | \--    |
+| Flintlock Pistol | D6   | Either         | Pistol +1D6  | Drop 2 | Drop 0 | Drop 0 | Drop 2 |        |
 | Hunting Bow      | D6   | Both           | Bow +1D6     | Drop 0 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
 | Rifled Musket    | D8   | Both           | Musket +1D10 | Drop 4 | Drop 1 | Drop 0 | Drop 0 | Drop 1 |
-| Thrown Dagger    | D0   | Either         | Knife +1D6   | \--    | Drop 0 | Drop 0 | \--    | \--    |
-| Thrown Spear     | D6   | Main           | Polearm +1D6 | \--    | Drop 1 | Drop 0 | Drop 1 | \--    |
+| Thrown Dagger    | D0   | Either         | Knife +1D6   |        | Drop 0 | Drop 0 |        |        |
+| Thrown Spear     | D6   | Main           | Polearm +1D6 |        | Drop 1 | Drop 0 | Drop 1 |        |
 
-  - **Arbalest:** Also known as a heavy crossbow, the arbalest is harder to use than a common crossbow but packs a larger punch.\
-  - **Arquebus:** A smaller and lighter musket with shorter range and less firepower.\
-  - **Blunderbuss:** The flared barrel of this musket makes it easier to reload, but also reduces its effective range.\
-  - **Caliver:** Another type of musket that can reload faster without the reduced range of the blunderbuss, but with a smaller Weapon Die.\
-  - **Composite Bow:** A heavier bow with longer effective range and pull.  \
-  - **Crossbow:** The crossbow uses stored mechanical power to fire bolts, instead of relying upon personal muscle power as a normal bow does.\
-  - **Double Musket:** The primary advantage of this double-barreled musket is the ability to fire twice, once per barrel, without reloading. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D12, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double musket with a Drop 3 action.\
-  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.\
-  - **Dragon:** This heavier version of a pistol is favored by cavalry -- especially Dragoons, who take their name from the use of this large pistol.\
-  - **Flintlock Musket:** This is a standard musket used by infantry throughout Elara.\
-  - **Flintlock Pistol:** A single-barrel pistol found all over Elara and Ifran.\
-  - **Hunting Bow:** This standard bow, also called a shortbow or flatbow, has been used for millennia in pretty much every nation.\
-  - **Rifled Musket:** With a rifled barrel to provide better accuracy at long range, this musket is the favored weapon of snipers.\
-  - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.\
-  - **Thrown Spear:** Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.\
+  - **Arbalest:** Also known as a heavy crossbow, the arbalest is harder to use than a common crossbow but packs a larger punch.
+  - **Arquebus:** A smaller and lighter musket with shorter range and less firepower.
+  - **Blunderbuss:** The flared barrel of this musket makes it easier to reload, but also reduces its effective range.
+  - **Caliver:** Another type of musket that can reload faster without the reduced range of the blunderbuss, but with a smaller Weapon Die.
+  - **Composite Bow:** A heavier bow with longer effective range and pull.  
+  - **Crossbow:** The crossbow uses stored mechanical power to fire bolts, instead of relying upon personal muscle power as a normal bow does.
+  - **Double Musket:** The primary advantage of this double-barreled musket is the ability to fire twice, once per barrel, without reloading. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D12, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double musket with a Drop 3 action.
+  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.
+  - **Dragon:** This heavier version of a pistol is favored by cavalry -- especially Dragoons, who take their name from the use of this large pistol.
+  - **Flintlock Musket:** This is a standard musket used by infantry throughout Elara.
+  - **Flintlock Pistol:** A single-barrel pistol found all over Elara and Ifran.
+  - **Hunting Bow:** This standard bow, also called a shortbow or flatbow, has been used for millennia in pretty much every nation.
+  - **Rifled Musket:** With a rifled barrel to provide better accuracy at long range, this musket is the favored weapon of snipers.
+  - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.
+  - **Thrown Spear:** Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.
 
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::
 #### Ammunition
@@ -460,35 +469,35 @@ Table: Grenades
 
 | Weapon              | Cost | Base Damage | Yield | Special                |
 | :------------------ | :--: | :---------- | :---: | :--------------------- |
-| Grenade             | 1D6  | 1D6 Wounds  | x2    | \--                    |
-| Grenade, alchemical | 2D6  | 1 Wound     | x4    | \+: Inflict 1 Yield    |
-| Grenade, canister   | 2D6  | 1D6 Wounds  | x2    | \+++: Inflict 2 Wounds |
-| Grenade, smoke      | 2D6  | \--         | x2    | \++: Add 1 Area        |
-| Grenade, thunder    | 1D6  | 1 Wound     | x3    | \++: Add 1 Area        |
-| Grenade, wildfire   | 2D6  | 1D6 Wounds  | x2    | \+: Add 1 Area         |
+| Grenade             | 1D6  | 1D6 Wounds  | x2    |                        |
+| Grenade, alchemical | 2D6  | 1 Wound     | x4    | +: Inflict 1 Yield     |
+| Grenade, canister   | 2D6  | 1D6 Wounds  | x2    | +++: Inflict 2 Wounds  |
+| Grenade, smoke      | 2D6  | --          | x2    | ++: Add 1 Area         |
+| Grenade, thunder    | 1D6  | 1 Wound     | x3    | ++: Add 1 Area         |
+| Grenade, wildfire   | 2D6  | 1D6 Wounds  | x2    | +: Add 1 Area          |
 
 Table: Grenade Attacks
 
 | Delivery Mechanism | Cost | Hands | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
 | :----------------- | :--: | :---: | :----------- | :----- | :----- | :----- | :----- | :----- |
-| Thrown             | \--  | Main  | Grenade +1D6 | \--    | Drop 0 | Drop 0 | Drop 2 | \--    |
+| Thrown             |      | Main  | Grenade +1D6 |        | Drop 0 | Drop 0 | Drop 2 |        |
 | Mortar, hand       | 1D8  | Both  | Cannon +1D10 | Drop 2 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
-| Arrow, fired       | \--  | Both  | Bow +1D6     | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
+| Arrow, fired       |      | Both  | Bow +1D6     | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
 
 Table: Placed Bombs
 
 | Bomb Type        | Cost | Scale       | Item Die          | Base Damage | Yield | Radius Steps            | Special                |
 | :--------------- | :--: | :---------- | :---------------- | :---------- | :---: | :---------------------- | :--------------------- |
-| Bomb, alchemical | 4D8  | Carried     | Blackpowder +1D6  | 1D6 Wounds  | x4    | Close, Adjacent, Short  | \+: Inflict 1 Yield    |
-| Bomb, canister   | 3D8  | Carried     | Blackpowder +1D8  | 1D8 Wounds  | x2    | Adjacent, Short, Medium | \+++: Inflict 2 Wounds |
-| Bomb, heavy      | 3D8  | Human-Scale | Blackpowder +1D12 | 2D6 Wounds  | x2    | Medium, Long            | \--                    |
-| Bomb, mining     | 2D6  | Carried     | Blackpowder +1D10 | 1D6 Wounds  | x2    | Adjacent, Close         | \--                    |
-| Bomb, powderhorn | \--  | Pocket      | Blackpowder +1D0  | 1 Wound     | x2    | Close                   | \--                    |
-| Bomb, powderkeg  | 1D6  | Handheld    | Blackpowder +1D0  | 1D6 Wounds  | x2    | Close, Adjacent         | \--                    |
-| Bomb, smoke      | 2D6  | Carried     | Blackpowder +1D6  | \--         | x3    | Short, Medium           | \--                    |
-| Bomb, structure  | 2D8  | Human-Scale | Blackpowder +1D8  | 1D8 Wounds  | x2    | Short, Medium, Long     | \--                    |
-| Bomb, thunder    | 3D6  | Carried     | Blackpowder +1D8  | 1D6 Wounds  | x3    | Close, Adjacent, Short  | \--                    |
-| Bomb, wildfire   | 3D8  | Carried     | Blackpowder +1D6  | 1D10 Wounds | x2    | Adjacent, Short, Medium | \++: Step-Up Radius    |
+| Bomb, alchemical | 4D8  | Carried     | Blackpowder +1D6  | 1D6 Wounds  | x4    | Close, Adjacent, Short  |  +: Inflict 1 Yield    |
+| Bomb, canister   | 3D8  | Carried     | Blackpowder +1D8  | 1D8 Wounds  | x2    | Adjacent, Short, Medium |  +++: Inflict 2 Wounds |
+| Bomb, heavy      | 3D8  | Human-Scale | Blackpowder +1D12 | 2D6 Wounds  | x2    | Medium, Long            |                        |
+| Bomb, mining     | 2D6  | Carried     | Blackpowder +1D10 | 1D6 Wounds  | x2    | Adjacent, Close         |                        |
+| Bomb, powderhorn |      | Pocket      | Blackpowder +1D0  | 1 Wound     | x2    | Close                   |                        |
+| Bomb, powderkeg  | 1D6  | Handheld    | Blackpowder +1D0  | 1D6 Wounds  | x2    | Close, Adjacent         |                        |
+| Bomb, smoke      | 2D6  | Carried     | Blackpowder +1D6  |             | x3    | Short, Medium           |                        |
+| Bomb, structure  | 2D8  | Human-Scale | Blackpowder +1D8  | 1D8 Wounds  | x2    | Short, Medium, Long     |                        |
+| Bomb, thunder    | 3D6  | Carried     | Blackpowder +1D8  | 1D6 Wounds  | x3    | Close, Adjacent, Short  |                        |
+| Bomb, wildfire   | 3D8  | Carried     | Blackpowder +1D6  | 1D10 Wounds | x2    | Adjacent, Short, Medium |  ++: Step-Up Radius    |
 
 Table: Artillery
 
@@ -499,21 +508,21 @@ Table: Artillery
 | Couleuvrine, grande  | 4D12 | Room        | Cannon +1D12 | 1D12 Wounds | 4 units  | Drop 0 | Drop 0 | Drop 1 | Drop 2 | 8 Naval Areas  |
 | Couleuvrine, moyenne | 4D10 | Furniture   | Cannon +1D10 | 1D8 Wounds  | 2 units  | Drop 0 | Drop 1 | Drop 0 | Drop 2 | 10 Naval Areas |
 | Falconet             | 3D8  | Human-Scale | Cannon +1D6  | 1D6 Wounds  | 1 unit   | Drop 0 | Drop 0 | Drop 2 | Drop 2 | 6 Naval Areas  |
-| Mortar, heavy        | 4D10 | Room        | Cannon +1D10 | 1D8 Wounds  | 2 units  | Drop 2 | Drop 0 | Drop 0 | \--    | 4 Naval Areas  |
-| Rabinet              | 2D8  | Human-Scale | Cannon +1D6  | 1 Wound     | \--      | Drop 0 | Drop 2 | Drop 2 | \--    | 4 Naval Areas  |
+| Mortar, heavy        | 4D10 | Room        | Cannon +1D10 | 1D8 Wounds  | 2 units  | Drop 2 | Drop 0 | Drop 0 |        | 4 Naval Areas  |
+| Rabinet              | 2D8  | Human-Scale | Cannon +1D6  | 1 Wound     |          | Drop 0 | Drop 2 | Drop 2 |        | 4 Naval Areas  |
 | Vouivre-mignon       | 3D10 | Furniture   | Cannon +1D8  | 1D8 Wounds  | 1 unit   | Drop 0 | Drop 0 | Drop 1 | Drop 2 | 6 Naval Areas  |
 
 Table: Cannon Shot
 
 | Projectile Type          | Cost | Extra Damage | Yield | Radius Steps            | Special                |
 | :----------------------- | :--: | :----------- | :---: | :---------------------- | :--------------------- |
-| Cannon shot, alchemical  | 1D10 | \+1 Wound    | x3    | Close, Adjacent, Short  | \+: Inflict 1 Yield    |
-| Cannon shot, canister    | 1D10 | \+1D8 Wounds | x2    | Adjacent, Short, Medium | \+++: Inflict 2 Wounds |
-| Cannon shot, blackpowder | 1D8  | \+1D6 Wounds | x2    | Adjacent, Short         | \--                    |
-| Cannon shot, chain       | 1D8  | \+1D6 Wounds | x3    | Adjacent, Short         | \+: Inflict 1 Yield    |
-| Cannon shot, round       | 2D6  | \+1D6        | x2    | Close                   | \--                    |
-| Cannon shot, smoke       | 1D8  | \--          | x3    | Adjacent, Short, Medium | \++: Step-Up Radius    |
-| Cannon shot, thunder     | 2D6  | \+1 Wound    | x3    | Adjacent, Short, Medium | \--                    |
-| Cannon shot, wildfire    | 1D10 | \+1D8        | x2    | Adjacent, Short, Medium | \++: Step-Up Radius    |
+| Cannon shot, alchemical  | 1D10 |  +1 Wound    | x3    | Close, Adjacent, Short  |  +: Inflict 1 Yield    |
+| Cannon shot, canister    | 1D10 |  +1D8 Wounds | x2    | Adjacent, Short, Medium |  +++: Inflict 2 Wounds |
+| Cannon shot, blackpowder | 1D8  |  +1D6 Wounds | x2    | Adjacent, Short         |                        |
+| Cannon shot, chain       | 1D8  |  +1D6 Wounds | x3    | Adjacent, Short         |  +: Inflict 1 Yield    |
+| Cannon shot, round       | 2D6  |  +1D6        | x2    | Close                   |                        |
+| Cannon shot, smoke       | 1D8  |              | x3    | Adjacent, Short, Medium |  ++: Step-Up Radius    |
+| Cannon shot, thunder     | 2D6  |  +1 Wound    | x3    | Adjacent, Short, Medium |                        |
+| Cannon shot, wildfire    | 1D10 |  +1D8        | x2    | Adjacent, Short, Medium |  ++: Step-Up Radius    |
 
 

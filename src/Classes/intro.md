@@ -70,7 +70,7 @@ Table: Social Classes
 ::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
 ## Additional Classes
 
-In Chapter Four: The Setting, additional classes for each of Gallinea's
+<a href="#the-countries-of-elara" class="xref-capital-inchapter"></a>, additional classes for each of Gallinea's
 neighbors are described. Those are:
 
 Table: Additional Classes
@@ -90,3 +90,6 @@ Each of these classes adds a specific cultural flavor. If your character
 is not from the listed country, talk to the MJ to see if you can still
 choose one of these classes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Class Descriptions
+

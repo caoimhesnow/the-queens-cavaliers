@@ -59,10 +59,11 @@ Table: Social Classes
 | 1D8 | Class       | Summary                                          |
 | --- | ----------- | ------------------------------------------------ |
 | 1   | Barrister   | Represents clients in a court of law             |
-| 2, 3| Chaplain    | Clergy of the Asrian faith                       |
+| 2, 3| Chaplain    | Clergy of the Christian faith                    |
 | 4   | Charlatan   | Mountebank out to swindle the populace           |
 | 5   | Courtier    | Member of the Royal Court                        |
 | 6   | Dogsbody    | Faithful manservant and henchperson              |
 | 7   | Envoy       | Ambassador for a national or regional government |
 | 8   | Provocateur | Mysterious spy with hidden motives               |
 
+## Class Descriptions

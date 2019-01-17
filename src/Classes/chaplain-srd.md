@@ -22,7 +22,6 @@ training in combat but are skilled at interacting with people.
 #### Chaplain Maneuvers
 
 - **Apologetics:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
-- **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll
 - **Commanding Presence:** Spend 2 Style Points to set the value of one Inspire die to its maximum value before rolling
 - **Honed Instincts:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
