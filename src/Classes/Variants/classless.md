@@ -35,7 +35,7 @@ two rewards equal to your highest social rank. You can spend those
 normally to buy your starting equipment.
 
 ::::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::
-### Example of Class-Free Character Creation
+Example of Class-Free Character Creation
 
 Morgan decides she's going to create a character who is all about
 airships. She starts with the base character and then spends her 30

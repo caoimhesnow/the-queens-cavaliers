@@ -112,8 +112,7 @@ Drop 2 penalty on Carouse rolls.
 identify the type and origin of liquor with a taste, recall your
 companion(s) in previous drunken trysts.
 
-**Crafting:** Beer, ale, wine, and other alcoholic beverages, as 
-described in Chapter 10, "Crafting."
+**Crafting:** Beer, ale, wine, and other alcoholic beverages<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Item Die:** If you buy a round of drinks for everyone in a tavern, you 
 can add the highest die in its cost to your Carousing roll as an Item
@@ -193,14 +192,13 @@ The Larceny specialty is used for criminal endeavors, primarily theft.
 You use Larceny rolls not only to steal objects but also fence them and
 to purchase stolen goods on the black market.
 
-| Knowledge Rolls:   | Estimate the value of a stolen object, evaluate the |
+**Knowledge Rolls:**  Estimate the value of a stolen object, evaluate the 
 quality of a lock or door, recall the names and rap sheets of famous
 criminals.
 
-| Crafting:   | Locks, traps, alarms, and forgeries, as described in |
-Chapter 10, "Crafting."
+**Crafting:**  Locks, traps, alarms, and forgeries<a href="#crafting" class="xref-asdesc-insection"></a>.
 
-**Rushing: **You can reduce the time to perform a Larceny roll by taking
+**Rushing:** You can reduce the time to perform a Larceny roll by taking
 a Drop penalty on your die roll. The size of the Drop penalty depends on
 how quickly you rush, as shown on the following table:
 

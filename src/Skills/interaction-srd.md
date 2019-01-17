@@ -123,8 +123,7 @@ take an hour or more.
 **Knowledge Rolls:** Evaluate the price of an object, recall details on
 treaties, remember something the other party might have overlooked.
 
-**Crafting:** Contracts, treaties, and other legal documents, as
-described in Chapter 10, "Crafting."
+**Crafting:** Contracts, treaties, and other legal documents<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Negotiate rolls are always opposed by the other party's
 Negotiate rolls. If there isn't a party in opposition to you, you
@@ -199,8 +198,7 @@ storytelling.
 **Knowledge Rolls:** This Specialty is not often used to make knowledge
 rolls.
 
-**Crafting:** An alternate identity or a simple disguise, as described
-in Chapter 10, "Crafting."
+**Crafting:** An alternate identity or a simple disguise<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Use the Intuition specialty of each person who is
 listening to the lies.

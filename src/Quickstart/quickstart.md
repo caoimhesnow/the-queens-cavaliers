@@ -44,7 +44,7 @@ game – so you should also make sure your character can defend herself in
 a fight.
 
 :::::::::::::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::
-### For the MJ:
+For the MJ:
 
 Tell your players a little about the type of stories that you'd like to
 tell, and if there are any particularly appropriate concepts or
@@ -299,7 +299,7 @@ The number of Standard Opposition dice is always three, but the type of
 dice vary depending on the difficulty level set by the MJ.
 
 ::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::
-### For the MJ: 
+For the MJ: 
 
 Select the size of dice to roll by consulting this table:
 
@@ -403,7 +403,7 @@ that if she doesn't comply, she may be in trouble with her superiors."
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::
-### For the MJ:
+For the MJ:
 
 It's perfectly within your rights to veto any stylish description if you
 think it's too absurd, but most of the time you should let players get
@@ -531,7 +531,7 @@ of a session, at the end of a session, or between scenes. You can't
 spend your experience points during a scene, however.
 
 ::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::
-### For the MJ:
+For the MJ:
 
 The XP system is flexible and relies on your judgment as to how many
 points to award per session, although the default is three XP to five XP

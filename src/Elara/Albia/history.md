@@ -62,7 +62,7 @@ as they envision a Greater Albia that stretches from the tip of the
 Storm Islands to the Jeweled Coast. Under Albian rule, of course.
 
 :::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
-## A Uniquely Albian Heresy
+A Uniquely Albian Heresy
 
 Dualiatarian is a religious philosophy developed in the last two
 centuries, holding that the Goddess-Empress and the Desert Mother are

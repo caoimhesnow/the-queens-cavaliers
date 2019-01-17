@@ -15,8 +15,9 @@ The only dice actions a character can take are those which will give the
 character Advantage in the combat – such as a Prowl roll or a Strategy
 roll. All Success Points from such rolls can only be spent on Advantage,
 and only one roll of a given type can be made. Success Points from these
-rolls cannot be spent on gaining Style Points. (See later in this
-chapter for more about Advantage.)
+rolls cannot be spent on gaining Style Points. 
+<a href="#advantage" class="xref-capital-seesection"></a> for more about
+advantage.
 
 ### Surprise
 
@@ -60,7 +61,7 @@ Initiative and is added into the Initiative order at the appropriate
 place in the next round.
 
 :::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::::::
-### Identical NPCs
+Identical NPCs
 
 When Rabble or Stock Characters are used in quantities of more than two, the MJ can
 group them together with one Initiative roll. All combatants in the

@@ -33,8 +33,7 @@ is to break your weapon.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Bucklers and extra shields, as described in Chapter 10,
-"Crafting."
+**Crafting:** Bucklers and extra shields<a class="xref-asdesc-insection" href="#crafting"></a>.
 
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
@@ -88,7 +87,7 @@ your own body.
 shield, remember the names of famous soldiers, identify the blacksmith's
 maker's mark on armor.
 
-**Crafting:** Rigid armor, as described in Chapter 10, "Crafting."
+**Crafting:** Rigid armor<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Block roll can be used to defend against an attacker's
 Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.

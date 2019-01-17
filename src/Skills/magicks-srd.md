@@ -20,8 +20,7 @@ birthstone and other personal qualities.
 charms, determine the specific master charmweaver who created an item of
 apparel, recall facts related to the creation of cloth and silk.
 
-**Crafting: **Articles of clothing, including charmwoven apparel, as
-described in Chapter 10, "Crafting."
+**Crafting: **Articles of clothing, including charmwoven apparel<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Most Weave rolls are made to craft garments. Sensing or
 restoring a charm is Easy (3D6) standard opposition. An attempt to
@@ -83,8 +82,7 @@ draughts.
 names of the master alchemists in a city, describe where exotic
 ingredients can be found.
 
-**Crafting: **Salves, draughts, and other alchemical formulations, as
-described in Chapter 10, "Crafting."
+**Crafting: **Salves, draughts, and other alchemical formulations<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Most Magicks (Brew) rolls are made to create a draught
 or salve. Mixing a concoction has a standard difficulty of Easy (3D6). 
@@ -103,7 +101,8 @@ or salve. Mixing a concoction has a standard difficulty of Easy (3D6).
 **Mix a Concoction:** You hastily mix together volatile chemicals and
 reagents to produce an immediate reaction. You spend 1 unit of
 alchemical ingredients and create one of the concoctions listed in
-Chapter 9, "Specialty Equipment". The concoction has an initial potency
+<a href="#concoctions" class="xref-inchapter"></a>.
+The concoction has an initial potency
 level of 1 but increases by 1 for every 2 success points you spend. The
 concoction lasts until your next turn, after which it becomes inert.
 
@@ -131,8 +130,7 @@ throughout history, identify when someone is the target of a hex,
 identify a bibelot's charm, remember the astrological signs and
 birthstones.
 
-**Crafting: **Astrological charts, bibelots, and divination tools, as
-described in Chapter 10, "Crafting."
+**Crafting: **Astrological charts, bibelots, and divination tools<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** If you read either the general omens around you or a
 willing subject, the roll is an automatic success and the success points

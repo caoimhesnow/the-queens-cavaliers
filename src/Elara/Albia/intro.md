@@ -1,7 +1,7 @@
 # Albia #                                               {.breakbefore}
 
 ::::::::::::::::::: country ::::::::::::::::::::::::::::::::::::::::::
-## The Kingdom of Albia
+The Kingdom of Albia
 
 ![The flag of Albia](assets/Flags/Albia.png "The flag of Albia")
 

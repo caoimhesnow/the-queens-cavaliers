@@ -1,7 +1,7 @@
 # Talania                                         {.breakbefore}
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
-## The Talanian Empire
+The Talanian Empire
 
 ![Flag of Talania](assets/Flags/Talania.png "Flag of Talania")
 

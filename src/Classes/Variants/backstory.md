@@ -770,7 +770,7 @@ You are the survivor of a bloody war and countless battles.
   battle, spend 1 Style Point to add Block dice to an Inspire roll)
 
 ::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
-### Example of Backstory-Based Character Creation
+Example of Backstory-Based Character Creation
 
 Dani decides to roll up a character using the optional random backstory
 system instead of choosing two classes.

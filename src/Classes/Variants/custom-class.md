@@ -49,7 +49,7 @@ suggestions on how you can modify the class if she sees potential
 problems with the class.
 
 :::::::::::::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::
-##### MJ-Created Classes
+MJ-Created Classes
 
 MJs, you can create classes too, and offer them as additional choices
 for your players. You should try to follow the general guidelines given

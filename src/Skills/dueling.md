@@ -20,8 +20,7 @@ close-up fight. It can be opposed by any Defense specialty.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Swords and polearms, as described in Chapter 10,
-"Crafting."
+**Crafting:** Swords and polearms<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
@@ -74,8 +73,7 @@ Wounds.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Daggers and other knives, as described in Chapter 10,
-"Crafting."
+**Crafting:** Daggers and other knives<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Riposte can only be defended against by a Block or
 Dodge roll, and not by a Parry roll.
@@ -126,7 +124,7 @@ although you can inflict Yield.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Nets and whips, as described in Chapter 10, "Crafting."
+**Crafting:** Nets and whips<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Feint roll can be defended against with a Parry or
 Dodge roll, but not by a Block roll.

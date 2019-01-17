@@ -68,7 +68,7 @@ Table: Social Classes
 | 8   | Speaker     | Zealous demagogue of the Desert Mother           |
 
 ::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
-## Additional Classes
+Additional Classes
 
 <a href="#the-countries-of-elara" class="xref-capital-inchapter"></a>, additional classes for each of Gallinea's
 neighbors are described. Those are:

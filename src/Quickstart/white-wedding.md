@@ -1,4 +1,4 @@
-## Nice Day for a White Wedding ## {.breakbefore}
+## Demo Adventure: Nice Day for a White Wedding ## {.breakbefore}
 
 This is a sample adventure that can be used by starting players and MJs to
 introduce the world and the game rules.

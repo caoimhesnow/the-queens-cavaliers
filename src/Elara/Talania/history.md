@@ -3,7 +3,7 @@
 *description needed*
 
 ::::::::::::::::: sidebar :::::::::::::::::::::::::::
-# The Shattering Frost
+The Shattering Frost
 
 *description needed*
 

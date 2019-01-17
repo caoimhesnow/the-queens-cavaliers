@@ -167,7 +167,7 @@ This list summarizes the available maneuvers.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::
-## MJ's Toolbox: New Style Maneuvers
+MJ's Toolbox: New Style Maneuvers
 
 As the MJ, you can create new Style Maneuvers that can be chosen by your players.
 

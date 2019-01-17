@@ -117,7 +117,6 @@ This list summarizes the available style maneuvers.
   - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
   - **Relentless Pathfinding:** Spend 2 Style Points to set the value of one Explore die to its maximum value before rolling
   - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
-  - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
   - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
   - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
   - **Saw That Coming:** When unarmed and facing an armed opponent, spend 1 Style Point to add Portents dice to a Dodge roll
@@ -185,7 +184,7 @@ other dice rolls.
 Finally, you need to decide which classes, nationalities, or other
 groups have access to the new maneuver. Perhaps it's a lost sword
 technique only taught to students of a retired blademaster, or it's
-commonly practiced by adult members of a house of the Ifran desert. It's
+commonly practiced by adult members of a distant tribe. It's
 possible you might decide that no groups can freely choose your new
 maneuver, in which case players will need to pay the additional XP cost
 when choosing it.

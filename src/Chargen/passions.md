@@ -390,7 +390,7 @@ the peasant girl Hersent who she grew up with, her first crush.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::
-## MJ's Toolbox: Passion Rolls
+MJ's Toolbox: Passion Rolls
 
 In addition to using Passions to earn or spend Style Points, you can
 have players make a Passion Roll at the beginning of a game session.

@@ -152,7 +152,7 @@ has not yet detonated.
 
 The Clockworks specialty allows you to create, repair, and customize
 clockwork devices. For more details, see the list of clockwork devices
-and components in Chapter 9, "Specialty Equipment."
+and components <a href="#clockworks-2" class="xref-inchapter-under"></a>.
 
 **Knowledge Rolls:** Identify the functions and components of a
 clockwork device, recall the names of famous mechanicians, determine
@@ -160,7 +160,7 @@ what components of a device are malfunctioning, read and understand
 plans drawn by other clockworkers.
 
 **Crafting: **Clockwork devices, components, power sources, and other
-mechanical contrivances, as described in Chapter 10, "Crafting."
+mechanical contrivances<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Time: **It takes one action to keep a device together or draw more
 power from it. Sabotaging a device takes 1 minute. To repair a device or
@@ -283,8 +283,7 @@ balance their books, and mariners use Calculus to create their charts.
 **Knowledge Rolls:** Read and understand the meaning behind complex
 equations, recall the names of famous mathematicians and scientists.
 
-**Crafting:** Calculations, clockwork plans, and mathematical theorems
-as described in Chapter 10, "Crafting."
+**Crafting:** Calculations, clockwork plans, and mathematical theorems<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Use Easy (3D6) for calculations done in a well-equipped
 workshop, or Moderate (3D8) for field work with paper and ink. Doing

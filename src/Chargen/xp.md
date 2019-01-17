@@ -55,7 +55,7 @@ Table: XP spent and competency dice
 | 100      | D12            | \+5                    |
 
 ::::::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::
-#### Optional Rule: Training Time
+Optional Rule: Training Time
 
 Each XP spent typically requires one week of practice or training. This
 requirement can be waived by the MJ if you've already invested time and

@@ -13,6 +13,167 @@ This is a listing of the game material available under a CreativeCommons CC-BY-4
 
 
 
+## Credits {.nobreak}
+
+|                                        |                                                  |
+| :------------------------------------- | :----------------------------------------------- |
+| Game Designer                          | Caoimhe Ora Snow                                 |
+| Contributors                           | Berin Kinsman, Sam Chupp                         |
+| Worldbuilding                          | Caoimhe Ora Snow, Rachel Tolliver, Joanne Renaud |
+| Artists                                | Joanne Renaud, Eleanor Feron, Sara Otterstaetter |
+| Cartography                            | Robert Altbauer                                  |
+| Vexillography                          | Robert P. Stefko                                 |
+| Backer Wrangling                       | Rachel Tolliver                                  |
+| Editing                                | Kristine Chester, Caoimhe Ora Snow               |
+
+### Fonts
+
+This game uses the Fell Types revival fonts.
+
+The Fell Types are digitally reproduced by Igino Marini. <www.iginomarini.com>
+
+### Playtests
+
+Playtests for *The Queen's Cavaliers* were held throughout southern California, including at the Strategicon conventions, 
+at Game Empire Pasadena, at Clockwork Couture, at Comic Quest, and elsewhere. 
+Hundreds of people playtested *TQC* and their feedback was essential in shaping the game!
+
+Primary playtesters include
+Alana Tolliver, Alex Katz, Bay Grabowski, Bing Hsu, Brian Kuwabara, Buddy Arnold, Chris Gray, Dave Pakirdjian, Drake Mirabile,
+Elan Garfias, Forrest McDonald, Ira Taborn, Ivy Bishop, James Clawson, James Freeman, James Zack, Jeff Hollis, Jeremy Forbing,
+Jorin Bossen, Jose Farinas, Kristine Chester, Maire Bourke, Maximilian Trevino, Noah Tolliver, Pascal Martelli, Paul “Mongo” Gebeau,
+Rachel Tolliver, Reverend DAK, Richard Mirabile, Robert “Not James” Fuentes, Roland Trevino, Tim Hanson, and Tim Labor.
+
+### Kickstarter Backers  ###                                                                             {.nobreak}
+
+We would like to extend our gratitude to the following people who backed our project on Kickstarter.
+
+#### Exemplary Cavaliers
+
+Queen Mariana II personally commends the following Cavalier officers for service to Gallinea above and beyond the call of
+duty, and awards them the highest honors of queendom, La Médaille Étoile de La dame de La Victoire.
+
+::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+  - Adam Solis
+  - Bri
+  - Michelle Trout
+  - Noxweiler Berf
+  - Pablo "Hersho" Domínguez
+  - Paul MacDonald
+  - Vicky Bartlett
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Officers - Seize the Initiative
+
+Prince Jean-Remy inducts the following Cavalier officers into the Order of the Sable Sol-de-Essere for quick and
+decisive action in the cause of the crown.
+
+::::::::::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Ashok Desai, Byron Black, Dalassa, David A. Stern III, Jason K Averill, Jesse Butler, Matthew McFarland, Robert P. Stefko, Simon David Taylor, Wade Geer
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Officers
+
+The following Cavaliers have proven themselves time and time again to be worthy champions of Gallinea, and are
+hereby award all honors accorded to a senior officer of the crown.
+
+::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+A. A. Price, Adam Everman, Alex Eizenhart, Alex Fux, Andreas Bodensohn, Andrew Curl, Andrew Lloyd, Arie LaTourette, Arkadiusz "Stoperssonn" Stopczyk,
+Ben Niehoff, Beth Brooks-Smith, Brent Walters, Brian "Becky" Cranmer Jr., Brian Allred, Brian Isikoff, Brooke Wiewel, Cesar "Kimble" Luz, Charles Myers,
+Christina Le Galloudec, Christopher Fales, Conan McKegg, Crane Laws, CrystalRose Fales, Daniel Bélanger, Daniel Ley, Daniel N Jones, David and Julie Scott,
+Erik Garland, G. Michael Truran, Håkon Gaut, Ira Taborn, Jeff Erwin, jenh, Jennifer Sutton, Jim Waters, John Doyle, Joseph Johnston, Justin Vander Schaaf,
+K. David Ladage, Kevin Weaver, Lin Liren, Mari Walker, Mark Buckley, Martin Lamssies, Matt Hurd, 
+Matthew "Monk of Thunder" Orwig, Matthew Thornton Bivens, Michael Baker,
+Monsieur d'Amherst capitaine lieutenant, Morgan Weeks, Nathan McCoy, Nic Neidenbach, Pablo Guzman, Patrick O'Donnell, Patrick Thomas Morgan, Ric Wagner,
+Richard "Vidiian" Greene, Rob Barrett, Robert Sanzone, Ron Wilhelm, Ruza, Sam Gordon, Sandra WarKitteh Phillips, Scott "MoonHunter" Fitz, Sean Carroll,
+Seth Baker, Shawn P, Sheryl Williams, Simon Ward, Steve "Slipperboy" Donohue, Steve Williams, StoneTabletGames.com, Susanna May Krawczyk, Teddy Adam Byrd,
+Terry Heying, The Marquis de Salles, Timothy McGowan, Timothy Salisbury, Todd Peden, Tony & Jenna Elaluf, Trip Space-Parasite, Warren P Nelson
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Queen's Cavaliers - Seize the Initiative
+
+Prince-Father Michel Aubene has taken note of the following Cavaliers for showing initiative in their support of the crown, and extends his personal
+gratitude and appreciation.
+
+::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Alistair Morrison, Allan Carpenter,
+Anna Johnson-Betty, Darren Hennessey, Dave Satterthwaite, Ed Moretti, Jakob Pape, Joshua Ramsey, Ken Finlayson, Konstantinos "Yo! Master" Rentas,
+Kristen Rappazzo, Maire Bourke, Mike "Doctorfuzion" Leader, peter peretti, Queen Colleen, Sean Tait Bircher, Stephanie Wagner, Tom Ladegard, Tomohisa Naka
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Queen's Cavaliers
+
+Queen Mariana honors the following Cavaliers for their service to the throne.
+
+
+::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Adam Mosley, Adam Whitcomb, Adam Windsor, Adams Tower, AJ Letter, Alex Kartzoff, Alexander "Lxndr" Cherry, Amy Brennan, Andrea Gaulke, Andrea Martinelli,
+Andrés Santiago Pérez-Bergquist, Andy Cook, Anthony Lanese, Aquantis, Armin Sykes, Austin Lehrer, Ben "Red Rook" Nettleship, Bernie Frick, brazil808,
+Brendan Myers, Brian Griesbach, C. Kushnir, Cameron Blackwood, Carlos Ovalle, Casey Hayes, Casidhe Nebulosa, Cavan and Theresa Rider, Cheyenne Smith,
+Chris Cooper, Chris Fairbanks, Chris Mortika, Chuck Modzinski, Cintra Bristol, Clemens du Bellier, Colin Steele, Craig Oxbrow, Dan Massey, Dan Quattrone,
+Dane Evans, Daniel Steadman, Daniel Wood, David "Tarislan" Yellope, David Bent, David Olshanski, David Terhune, Deana Lancaster,
+Drew (Andrew) South, Drew Wendorf, Drew Wood, Duke John Kennedy I, Ed Johns, Ed Kowalczewski, Edward Sturges, Emery Shier, Enty, Erika Graham, Evan F.,
+Evan Mitchell, Felicia Hudson, Feltk, Forrest McDonald, Frank Zazanis, Frost Holliman, Gavin Kenny, GMGerrymander, Greg "Dr. SkySkull" Gbur,
+Gulliver, Guy "Derek" Garnett, Hannah Taylor, Hans Holm, Herman Duyker, In Memory of Olwen Ferrie, J. Quincy Sperber, Jack Gulick, Jake Leeder,
+James F Tillman, Janelle Estaris, Jason Childs, Jason Marks, Jeff Grubb, Jeff Lee, Jeffrey Chan, Jen Manna, Jeremy Douglass, Jeremy Forbing,
+Jerry Ozbun, Jim Sandoval, Joann Clarke-Stein, John Bliss, John S. Willson, Jon, Jon Finn, Jonathan "Buddha" Davis, Josh Medin, Julian "Ani" W.,
+Julien Delabre, Justin Levitt, Kaj J. Nicholson, Kali Chandler, Kari Wilfong, Kat Pepmiller, Kees DeBruin, Keith Trost, Keri Wyllie, Kevin Watson, Kitka,
+Kristine Chester, Kurt, Lady Erica Schmitt Marquesa of Vulpinmarch, Lawrence Schick, Liam Allman, Lloyd Rasmussen, Lori Otis, Luke Martinez,
+M. Sean Molley, Maria Laine, Marie-Claude Dufour, Marisol Cueva, Mark Diaz Truman and Marissa Kelly Magpie Games, Mark K. Boore, Mark S,
+Matt & Nykki Boersma, Matt Herron, Matt Paxton, Matthew Ruane, Maurice Strubel, MaxMahem, Melusine of the Rivers, Mendel Schmiedekamp, Michael Cassil,
+Michael Feldhusen, Michael Hölzl, Michael James Banks, Michael Langford, Michael T. Pureka, Mike Mistele, Mike Smith, Murray K. Dahm, Natalie Asplund,
+Nate Saunders, Nathan Nolan, Nigs Phillips, NPC Aaron, Paco Garcia Jaen, Patrice Mermoud, Pete Hurley, Peter H Krulder II, Pierre Gavard-Colenny, Pony,
+Rachel Poole, Raechel Coon, Ralph Mazza, Richard Gant, Richard Iorio II, Rob McDiarmid, Robert Abrazado, Robert P. V. Davis, Robert S., Roberto ElGrande,
+Roger N. Dominick, Roland R. Trevino Esq., Romall Smith - Nasty Critical Games, Ross Cheung, Ross Hunter, Russell "Critias" Zimmerman, Ryan McMullan,
+Schedim, Sean and Laura Holland, Sean Demory, Selene Tan, Shiny Rosie, Simon "Sly" Stroud, Simon Weinert, Solaria, Sophia Brandt, Stephanie Bryant,
+Stephen Dann, Steven D Warble, Taylor Lloyd Ekena, Teresa Oswald, The Jackdaw, Thom Ryng, Tim D, Timothy Carroll, Timothy Hanson, Tomer Gurantz,
+Tor Iver Wilhelmsen, Tracy O'Brien, Travis H. Prescott, Travis S. Casey, Treska Cole, UltRandom, Volker Jacobsen, Waning Gibbous Games LLC,
+Wayne Ross, Wilfred Thornton-Start, Wlodarczak, Zac Bunn, Zaffiro
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Cavalier Recruits
+
+Prince-Consort Carolus greets the following recruits with a hearty "Velcume-a tu zee Qooeen's Cefeleeers!"
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Aaron Nowack, Adam Lane, Adumbratus, Alek Furchtgott, Alexandre de Tessier, Andreas Rugård Klæsøe, Andreas Sewe, Andrew "Pheylorn" Medeiros, Andrew Cherry,
+Andrew Osterburg, Andrew Peregrine, Andy Goldman, Andy Keith, Angel Haggerty, Annastacia and Nathaniel Smith, Antonio Ignacio, Ari Multhauf, Arkane Loste,
+Asen R. Georgiev, Austin Dern, Berin Kinsman, Bez Bezson, Bill Treadwell, Blake Hutchins, Blysse Ling, Bob Hanks, Borna "anothga" Pekaric, Brad Osborne,
+Brennan Dawson, Brennan Taylor, Brent Hoyler, Brian J. Brady, Bruce Harlick, C. J. Hunter, Carl L Gilchrist, Carl Ollivier, Carmen Clemons, Chace Thibodeaux,
+Chris "Eva_Fan" Trace, Chris Edwards, Chris Hopkinson, Chris Quin, Chris Visser, Chris Willett, Christopher Irvine, Clyde Lee Graham, Confanity, Corbett Kirkley,
+Corey J Baham, Cynthia Armistead, Dai, Daniel Homer, Daniel Turetsky, Daryl Pruett, Dave "Balthazar Vorio" Crane, David Chart, David Fergman, David H Quiñonez,
+David Mandeville, David Rego, Denis McCarthy, Derek "Pineapple Steak" Swoyer, Dominic Quach, Doug Atkinson, Dr John Duxbury, DUK!, Dustin Gulledge, ELAN GARFIAS,
+Elise Morrison, Emma Lord, Eric C. Magnuson, Erika Maris, Erstwhile, Evgeniy "Jamie" Vasin, Fabrice Breau, Fagner Lima, Francis Dickinson, Frank P.,
+Gabriel Michael Jones, Graham Bottley, Gristle McThronbody, H. M. "Dain" Lybarger, Haleigh C, HANATAKA Shinya, Heather Blandford, Henry Wong, Hsieh, Wei-Hua,
+Ilyra, Isulka, J. Derrick Kapchinsky, Jacqueline Legazcue, James, James "pandaman" Forest, James LaRue, James W. Rouse III, James Zack, Jamie Revell,
+Jarad Fennell, Jason Blalock, Jeffrey Hosmer, Jenny and Scott Barnes, Jerry Sköld, Jesse Fehrenbacher, jim pinto John Bornmann, John Donahue, John Gabriel Utanes,
+Jonathan Korman, Jonathan Shaver, Jonathan Ying, Jordi Rabionet, Joshua Hatler, Joy Fleisig, Juliet Youngren, JW Paul, Karl F Maurer, Karl Knutson, Kimmo Kyttä,
+Kirt "von" Dankmyer, Kristin Hunt, Kristoffer "Illern" Holmén, Krystina Metalis, L. Christopher, Lady Chiviona, Leland Myrick, lilrenshai, Lindy Willian,
+Lisa Padol, Loxly, Lynnea Glasser, Magnus Bergqvist, Marc Majcher, Marc Margelli, Marcus Shepherd, Maria V. Arnold, Mark Leymaster of Grammarye, Mark Orr,
+Mark Reed, Markus Viklund, Matthew Bannock, Meera Barry, Megan Coppock, Megan Peterson, Melissa Moritz, Merry H., Michael "gleepism" McCormack,
+Michael "Gronan of Simmerya" Mornard, Michael Bowman, Michael Esmailzadeh, Michael Miller, Michael Sandlin, Michelle Clark, Mike McGee, Misha Handman,
+Mohammad Nur Adli, Nat "woodelf" Barmore, Neall Raemonn Price, Nessa, Nichola Muehlenweg, Nicholas "Tobes" Barry, Nicholas Yu, Nick the Lemming, Niels A. Corbet,
+Nigel Wright, Nihar Nilekani, Olna Jenn Smith, Patric Goetz, Patrick O'Duffy, Paul Baldowski, Paul Bellitto, Paul de Haan, paul engle, Pedro Steckecilo,
+Peter Cobcroft, Peter R Brooks, Philip "xipehuz" Espi, Phillip Ames, Phillip Bailey, Quentin Antrim, Rae Wood, Ralf "Sandfox" Sandfuchs, Remo di Sconzi,
+Reverance Pavane, Richard Taylor, Rick Harrelson, Robert Van Natter, Ross Smith, Rowan Parsons, Ryan R., Sam Chupp, Sarah J Brown, Sascha Kriewel, Scott Kullberg,
+Sean "Garg" McAlister, Selene O'Rourke, Seth Hartley, Shannon R. Lewis, Shaun Welch, Siôn Rodriguez y Gibson, Slade Eide-Ettaro, Steve Lord, Susan Bischoff,
+Svend Andersen, Sylvia Steere, Tabitha Doyle, Taralyn Rose Frasqueri-Molina, The Nickus, Theo, Thomas de la Riis, Tim & Alyssa Brownrigg, Tim Ellis,
+Tim Jensen & Willow Palecek, Tim Newman Esquire, Tishariel, To Peace, Todd Hangos, Tom Conneely, Tom Reed, Travis Eneix, Trevis Martin, Vaughan Cockell, Walter F. Croft,
+Wilhelm Fitzpatrick, Will, William Artris Otto Allcorn, wraith808
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+#### Citizens of Gallinea
+
+The following are citizens of Gallinea and under the protection of the Crown.
+
+::::::::::::::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+AE Fisher, Andrew and Heleen Durston, Apollo Randall, Bert Isla, Carol Darnell, Casey DeWitt, Charles Summerhill, Cubethulhu, Eiglo Games, J&A Holdridge,
+James E Fallance, James Schoonmaker, John "Millionwordman" Dodd, John Thomas Jessop, Jonathan Killstring, Kit Fowley, Kyrinn S. Eis, Len DeSoto, Leron Culbreath,
+LizChai, Łukasz Matylla, Mark Pond, Michael Tree, Molly Fate, Noah and Alana Tolliver, Peter B Galindo, Rene Alcantar - Boomsickle, Robert Daines, Sara Sestak,
+Scott Vandervalk, Sean Ravenheart, Sigil Stone Publishing, Sofia Meaden, Yekaterina Bowyer, Yoshio Kamata
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 ### Licenses
 
 This describes the licenses that apply to *The Queen's Cavaliers*.
@@ -1127,17 +1288,16 @@ Table: Social Classes
 | 1D8 | Class       | Summary                                          |
 | --- | ----------- | ------------------------------------------------ |
 | 1   | Barrister   | Represents clients in a court of law             |
-| 2, 3| Chaplain    | Clergy of the Asrian faith                       |
+| 2, 3| Chaplain    | Clergy of the Christian faith                    |
 | 4   | Charlatan   | Mountebank out to swindle the populace           |
 | 5   | Courtier    | Member of the Royal Court                        |
 | 6   | Dogsbody    | Faithful manservant and henchperson              |
 | 7   | Envoy       | Ambassador for a national or regional government |
 | 8   | Provocateur | Mysterious spy with hidden motives               |
 
-
 ### Class Descriptions
 
-#### The Duelist
+### The Duelist
 
 A Duelist is a swashbuckling swordfighter who lives by her wits and her
 skill at her blade. She may be a member of the military, or may be a freelance fencer who runs her own
@@ -1150,7 +1310,7 @@ In other words, if you can't decide on a second class, choose Duelist.
 - **Suggested Classes:** Any
 - **Suggested Passions:** Any
 
-##### Duelist Qualities
+#### Duelist Qualities
 - **Skill Competency:** Dueling, Military, Streetwise
 - **Specialties:** Defense (Parry +1, Dodge +1), Dueling (Lunge +1, Riposte +1, Feint +1), Streetwise (Banter +1)
 - **Weapon Prowess:** Knife, Sword
@@ -1158,7 +1318,7 @@ In other words, if you can't decide on a second class, choose Duelist.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Swashbuckler outfit (cavalier hat, doublet, soldier's gloves, breeches, boots, cape), buckler (Shield +1D8), rapier (Sword +1D8)
 
-##### Duelist Maneuvers
+#### Duelist Maneuvers
 
 - **Confident Fencing:** Spend 1 Style Point to reroll a Dueling roll
 - **Deflecting Shield:** When using a Shield to parry, spend 1 Style Point to add Block dice to a Parry roll
@@ -1167,7 +1327,7 @@ In other words, if you can't decide on a second class, choose Duelist.
 - **Precise Swordplay: **Spend 2 Style Points to set the value of one Sword weapon die to its maximum value before rolling
 
 
-#### The Alchemist 
+### The Alchemist 
 
 Alchemists brew potions, poisons, and antidotes based on scientific principles. They can
 produce a variety of effects, ranging from healing to magical abilities.
@@ -1178,7 +1338,7 @@ apothecaries to vend their wares.
 - **Suggested Classes:** Charlatan, Chirurgeon, Mechanician, Visionary, Witch
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
 
-##### Alchemist Qualities
+#### Alchemist Qualities
 
 - **Skill Competency:** Culture, Magicks, Medicine, Science 
 - **Specialties:** Culture (Scholarship +1), Interaction (Negotiate +1),
@@ -1190,7 +1350,7 @@ apothecaries to vend their wares.
   gloves, breeches, buckled shoes), 8 supplies of alchemical ingredients,
   2 doses of poison antidote, alchemy tools (Brew, Poison +1D6)
 
-##### Alchemist Maneuvers
+#### Alchemist Maneuvers
 
 - **Anti-Toxins:** When creating an antidote or countering a poison, spend 1 Style Point to add Brew dice to a Poison roll
 - **Chemical Calculations:** When working in a well-equipped laboratory, spend 1 Style Point to add Calculus dice to a Brew roll
@@ -1200,7 +1360,7 @@ apothecaries to vend their wares.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 
 
-#### The Barrister 
+### The Barrister 
 
 When someone is accused of a crime another person, she will usually be represented in court by a Barrister.
 Barristers have special training in the law and court procedures, and
@@ -1209,7 +1369,7 @@ are skilled at speaking before a magistrate.
 - **Suggested Classes:** Chaplain, Constable, Courtier, Envoy, Visionary
 - **Suggested Passions:** Family, Justice, Loyalty, Pride
 
-##### Barrister Qualities
+#### Barrister Qualities
 
 - **Skill Competency:** Culture, Streetwise 
 - **Specialties:** Culture (Etiquette +1, Scholarship +1), Interaction
@@ -1221,7 +1381,7 @@ are skilled at speaking before a magistrate.
 - **Bonus Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves,
   skirt, chopines), 6 law books (Knowledge +1D6, six legal topics)
 
-##### Barrister Maneuvers
+#### Barrister Maneuvers
 
 - **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
 - **For The Defense:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
@@ -1231,7 +1391,7 @@ are skilled at speaking before a magistrate.
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
 
-#### The Brigand 
+### The Brigand 
 
 The typical Brigand is a peasant or even a minor noble whose fortunes
 fell and they resorted to force of arms to make their living.
@@ -1243,7 +1403,7 @@ poor.
 - **Suggested Classes:** Chaplain, Dogsbody, Dragoon, Explorer, Fusilier, Privateer, Provincial, Veteran
 - **Suggested Passions:** Friends, Justice, Loyalty, Wealth
 
-##### Brigand Qualities
+#### Brigand Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
 - **Specialties:** Defense (Dodge +1), Dueling (Lunge +1, Feint +1), Military (Aim +1), Nature (Prowl +1), Streetwise (Larceny +1)
@@ -1253,7 +1413,7 @@ poor.
 - **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), leather
 jerkin (Flexible +1D6), hunting bow (Bow +1D6)
 
-##### Brigand Maneuvers
+#### Brigand Maneuvers
 
 - **Cunning Camouflage:** Spend 2 Style Points to set the value of one Prowl die to its maximum value before rolling
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
@@ -1263,7 +1423,7 @@ jerkin (Flexible +1D6), hunting bow (Bow +1D6)
 - **Trick Shot:** When using a bow or crossbow, spend 1 Style Point to add Feint dice to an Aim roll
 
 
-#### The Chaplain 
+### The Chaplain 
 
 A Chaplain is a clergy member of an organized religion.
 The duties can vary but many times a Chaplain is found serving among
@@ -1273,7 +1433,7 @@ training in combat but are skilled at interacting with people.
 - **Suggested Classes:** Barrister, Chirurgeon, Courtier, Envoy, Explorer, Provincial, Veteran, Virtuoso, Visionary
 - **Suggested Passions:** Church, Faith, Justice, Knowledge
 
-##### Chaplain Qualities
+#### Chaplain Qualities
 
 - **Skill Competency:** Culture, Magicks, Medicine, Streetwise
 - **Specialties:** Culture (Arts +1, Scholarship +1), Interaction (Inspire +1, Negotiate +1), Observation (Perceive +1, Intuition +1)
@@ -1284,17 +1444,16 @@ training in combat but are skilled at interacting with people.
   gloves, breeches, pantofles), 3 religious books (Knowledge +1D6,
   religious topics), quarterstaff (Cudgel +1D8)
 
-##### Chaplain Maneuvers
+#### Chaplain Maneuvers
 
 - **Apologetics:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
-- **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll
 - **Commanding Presence:** Spend 2 Style Points to set the value of one Inspire die to its maximum value before rolling
 - **Honed Instincts:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 
 
-#### The Charlatan 
+### The Charlatan 
 
 Charlatans are swindlers, confidence men, mountebanks, and other
 tricksters who rely on their wits to defraud others. Many will hawk
@@ -1304,7 +1463,7 @@ angry crowd returns wanting their money back.
 - **Suggested Classes:** Alchemist, Dogsbody, Chirurgeon, Mechanician, Provocateur, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
 
-##### Charlatan Qualities
+#### Charlatan Qualities
 
 - **Skill Competency:** Culture, Magicks, Medicine, Streetwise
 - **Specialties:** Culture (Arts +1, Etiquette +1), Interaction (Negotiate +1, Deceive +1), Streetwise (Banter +1, Larceny +1)
@@ -1314,7 +1473,7 @@ angry crowd returns wanting their money back.
 - **Bonus Gear:** Crafter outfit (artisan's beret, smock, craftsman's gloves, breeches, buckled shoes), alchemy tools (Brew, Poison +1D6),
   wagon, draft horse
 
-##### Charlatan Maneuvers
+#### Charlatan Maneuvers
 
 - **Aggressive Mockery:** Spend 2 Style Points to set the value of one Banter die to its maximum value before rolling
 - **Confidence Game:** When engaging in a swindle, spend 1 Style Point to add Banter dice to a Deceive roll
@@ -1323,7 +1482,7 @@ angry crowd returns wanting their money back.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
-#### The Charmweaver 
+### The Charmweaver 
 
 A Charmweaver is a magickally proficient artisan who weaves charms and
 enchantments into fabrics. Most are skilled fashion designers and can
@@ -1333,7 +1492,7 @@ displays.
 - **Suggested Classes:** Courtier, Dogsbody, Virtuosa, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
 
-##### Charmweaver Qualities
+#### Charmweaver Qualities
 - **Skill Competency:** Culture, Magicks
 - **Specialties:** Culture (Arts +1, Etiquette +1), Interaction (Inspire +1, Negotiate +1), Magicks (Weave +1), Observation (Perceive +1)
 - **Weapon Prowess:** Knife
@@ -1342,7 +1501,7 @@ displays.
 - **Bonus Gear:** Crafter outfit (artisan's beret, smock, craftsman's
   gloves, breeches, buckled shoes), tailoring tools (Weave +1D6), 8 supplies of fabric
 
-##### Charmweaver Maneuvers
+#### Charmweaver Maneuvers
 
 - **Dress to Impress:** While wearing an outfit you created yourself, spend 1 Style Point to add Weave dice to a Negotiate roll
 - **Enhanced Enchantments:** Spend 2 Style points to set the value of one Charm die to its maximum value before rolling
@@ -1353,7 +1512,7 @@ displays.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 
 
-#### The Chirurgeon
+### The Chirurgeon
 
 The science of medicine is the domain of the Chirurgeon, who both treats
 diseases and injuries, and performs major surgeries. They are often
@@ -1368,7 +1527,7 @@ including alchemical remedies.
 - **Suggested Classes:** Alchemist, Charlatan, Courtier, Mechanician, Visionary
 - **Suggested Passions:** Artistry, Faith, Pride, Wealth
 
-##### Chirurgeon Qualities
+#### Chirurgeon Qualities
 
 - **Skill Competency:** Culture, Medicine, Science
 - **Specialties:** Culture (Scholarship +1), Medicine (Surgery +1, Treat +1, Poison +1), Observation (Intuition +1, Deduce +1)
@@ -1378,7 +1537,7 @@ including alchemical remedies.
 - **Bonus Gear:** Physician outfit (plague mask, surgeon's gown,
   breeches, pantofles), chirurgeon's knives (Knife, Surgery +1D6), 8 supplies of medicine
 
-##### Chirurgeon Maneuvers
+#### Chirurgeon Maneuvers
 
 - **Anatomical Studies:** When working in a well-equipped surgical theatre, spend 1 Style Point to add Scholarship dice to a Surgery roll
 - **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
@@ -1389,7 +1548,7 @@ including alchemical remedies.
 - **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
 
 
-#### The Constable
+### The Constable
 
 The Constables enforce the laws and protect the people from wrongdoers as well as
 capturing those who commit criminal acts.
@@ -1400,7 +1559,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Suggested Classes:** Barrister, Dragoon, Duelist, Provincial, Veteran
 - **Suggested Passions:** Country, Justice, Knowledge, Loyalty
 
-##### Constable Qualities
+#### Constable Qualities
 
 - **Skill Competency:** Dueling, Culture, Military, Streetwise
 - **Specialties:** Culture (Etiquette +1), Dueling (Riposte +1), Defense (Parry +1), Military (Brawl +1, Aim +1), Observation (Deduce +1)
@@ -1410,7 +1569,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches,
   boots, tabard), steel breastplate (Rigid Armor +1D6), flintlock musket (Musket +1D10)
 
-##### Constable Maneuvers
+#### Constable Maneuvers
 
 - **Criminology:** When investigating a crime scene, spend 1 Style Point to add Scholarship dice to a Deduce roll
 - **Brilliant Analysis:** Spend 2 Style Points to set the value of one Deduce die to its maximum value before rolling
@@ -1420,7 +1579,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
 
-#### The Courtier
+### The Courtier
 
 Members of the royal court, and other noble courts, are
 Courtiers. They are well-educated, trained in etiquette and social
@@ -1438,7 +1597,7 @@ leisure.
 - **Suggested Classes:** Alchemist, Barrister, Chaplain, Charmweaver, Chirurgeon, Duelist, Envoy, Provocateur, Veteran, Virtuosa, Visionary
 - **Suggested Passions:** Country, Friends, Lust, Pride
 
-##### Courtier Qualities
+#### Courtier Qualities
 
 - **Skill Competency:** Culture, Dueling, Military
 - **Specialties:** Culture (Arts +1, Etiquette +1), Defense (Parry +1), Interaction (Negotiate +1, Deceive +1), Observation (Intuition +1)
@@ -1447,7 +1606,7 @@ leisure.
 - **Social Rank:** Noble (D10)
 - **Bonus Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves, skirt, chopines), riding horse
 
-##### Courtier Maneuvers
+#### Courtier Maneuvers
 
 - **Don't You Know Who I Am?:** When speaking with someone of Artisan social rank or lower, spend 1 Style Point to add Social Rank dice to a Negotiate roll
 - **Polite Fictions:** When speaking with someone of at least Noble social rank, spend 1 Style Point to add Etiquette dice to a Deceive roll
@@ -1458,7 +1617,7 @@ leisure.
 - **There's No Need for Violence:** When unarmed and facing an armed opponent, spend 1 Style Point to add Inspire dice to a Dodge roll
 
 
-#### The Dogsbody
+### The Dogsbody
 
 A Dogsbody is a common manservant or henchperson, one who assists
 another in their escapades and only rarely comes up with a cunning plan.
@@ -1469,7 +1628,7 @@ openly than to the manservant's master.
 - **Suggested Classes:** Brigand, Chaplain, Charlatan, Courtier, Dragoon, Privateer, Provincial, Veteran
 - **Suggested Passions:** Family, Friends, Loyalty, Wealth
 
-##### Dogsbody Qualities
+#### Dogsbody Qualities
 
 - **Skill Competency:** Culture, Nature, Streetwise
 - **Specialties:** Culture (Etiquette +1), Interaction (Negotiate +1), Observation (Perceive +1), Nature (Husbandry +1), Streetwise (Carouse +1, Larceny +1)
@@ -1478,7 +1637,7 @@ openly than to the manservant's master.
 - **Social Rank:** Commoner (D0)
 - **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes)
 
-##### Dogsbody Maneuvers
+#### Dogsbody Maneuvers
 
 - **Comfortable Debauchery:** Spend 2 Style Points to set the value of one Carouse die to its maximum value before rolling
 - **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
@@ -1487,17 +1646,17 @@ openly than to the manservant's master.
 - **The Underground Economy:** When buying or selling on the black market, spend 1 Style Point to add Carouse dice to a Larceny roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
-#### The Dragoon 
+### The Dragoon 
 
 A Dragoon is a professional soldier, usually a member of the cavalry.
 Dragoons are found throughout France and beyond; they are usually more
-serious and less flashy than the swashbuckling Cavaliers. Dragoons
+serious and less flashy than the swashbuckling musketeers. Dragoons
 usually wear heavier armor in the field.
 
 - **Suggested Classes:** Brigand, Chaplain, Constable, Duelist, Dogsbody, Provincial, Veteran.
 - **Suggested Passions:** Country, Justice, Loyalty, Pride
 
-##### Dragoon Qualities
+#### Dragoon Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
 - **Specialties:** Defense (Block +1, Parry +1), Military (Brawl +1), Dueling (Lunge +1, Riposte +1), Nature (Husbandry +1)
@@ -1506,7 +1665,7 @@ usually wear heavier armor in the field.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches, boots, tabard), steel breastplate (Rigid Armor +1D10), lance (Polearm +1D10)
 
-##### Dragoon Maneuvers
+#### Dragoon Maneuvers
 
 - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
 - **Deflecting Shield:** When using a Shield to parry, spend 1 Style Point to add Block dice to a Parry roll
@@ -1516,7 +1675,7 @@ usually wear heavier armor in the field.
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
 
-#### The Envoy
+### The Envoy
 
 An Envoy is a diplomatic representative, usually of a country, province,
 or other political group, although some represent religious groups or
@@ -1529,7 +1688,7 @@ reaching compromises.
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Provocateur, Speaker
 - **Suggested Passions:** Church, Country, Knowledge, Loyalty -
 
-##### Envoy Qualities
+#### Envoy Qualities
 
 - **Skill Competency:** Culture, Nature
 - **Specialties:** Culture (Etiquette +1), Interaction (Inspire +1, Negotiate +1), Nature (Explore +1), Observation (Perceive +1, Intuition +1)
@@ -1538,7 +1697,7 @@ reaching compromises.
 - **Social Rank:** Noble (D10)
 - **Bonus Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves, skirt, chopines)
 
-##### Envoy Maneuvers
+#### Envoy Maneuvers
 
 - **Diplomatic Immunity:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
 - **Practiced Diplomacy:** Spend 2 Style Points to set the value of one Negotiate die to its maximum value before rolling
@@ -1548,7 +1707,7 @@ reaching compromises.
 - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
 
 
-#### The Explorer
+### The Explorer
 
 Explorers are alternately courageous or foolhardy depending
 on who you talk to, ready to leave their lives behind and seek out the unknown.
@@ -1559,7 +1718,7 @@ lands can be Provincials.
 - **Suggested Classes:** Brigand, Chaplain, Privateer, Provincial, Speaker, Veteran, Visionary
 - **Suggested Passions:** Country, Knowledge, Loyalty, Wealth
 
-##### Explorer Qualities
+#### Explorer Qualities
 
 - **Skill Competency:** Culture, Military, Nature, Science
 - **Specialties:** Culture (Etiquette +1), Military (Aim +1), Nature (Explore +1, Prowl +1), Observation (Perceive +1), Science (Calculus +1)
@@ -1568,7 +1727,7 @@ lands can be Provincials.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Corsair outfit (tricorne, doublet, craftman's gloves, breeches, boots), flintlock musket (Musket +1D10), bullwhip (Whip +1D6)
 
-##### Explorer Maneuvers
+#### Explorer Maneuvers
 - **Relentless Pathfinding:** Spend 2 Style Points to set the value of one Explore die to its maximum value before rolling
 - **Camouflage Mastery:** When moving though the wilderness, spend 1 Style Point to add Explore dice to a Prowl roll
 - **Cartography:** When navigating using a map, spend 1 Style Point to add Calculus dice to an Explore roll
@@ -1577,7 +1736,7 @@ lands can be Provincials.
 - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
 
 
-#### The Fusilier
+### The Fusilier
 
 The Fusilier is a soldier specializing in the use of the flintlock
 musket and other ranged firearms, including clockwork muskets and
@@ -1587,7 +1746,7 @@ weapon while blindfolded.
 - **Suggested Classes:** Brigand, Duelist, Mechanician, Provincial, Privateer, Veteran
 - **Suggested Passions:** Artistry, Country, Loyalty, Pride
 
-##### Fusilier Qualities
+#### Fusilier Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Science, Streetwise
 - **Specialties:** Defense (Dodge +1), Military (Aim +1), Nature (Prowl +1), Observation (Perceive +1), Science (Blackpowder +1, Calculus +1)
@@ -1596,7 +1755,7 @@ weapon while blindfolded.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches, boots, tabard), leather jerkin (Flexible Armor +1D6), flintlock musket (Musket +1D10)
 
-##### Fusilier Maneuvers
+#### Fusilier Maneuvers
 - **Ballistics:** When firing a cannon, spend 1 Style Point to add Calculus dice to a Blackpowder roll
 - **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
 - **Incoming Fire:** When avoiding a ranged attack, spend 1 Style Point to add Aim dice to a Dodge roll
@@ -1606,7 +1765,7 @@ weapon while blindfolded.
 - **Sniper:** When attacking from at least 3 areas away, spend 1 Style Point to add Prowl dice to an Aim roll
 
 
-#### The Mechanician 
+### The Mechanician 
 
 Fantastic clockwork devices are fashioned by Mechanicians, well-trained
 artisans who can engineer complex machinery to accomplish repetitive
@@ -1616,7 +1775,7 @@ usually only the wealthy can afford the most advanced items.
 - **Suggested Classes:** Alchemist, Charlatan, Fusilier, Privateer, Visionary
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth 
 
-##### Mechanican Qualities 
+#### Mechanican Qualities 
 
 - **Skill Competency:** Culture, Science
 - **Specialties:** Culture (Scholarship +1), Interaction (Negotiate +1), Observation (Deduce +1), Science (Blackpowder +1, Clockworks +1, Calculus +1)
@@ -1627,7 +1786,7 @@ usually only the wealthy can afford the most advanced items.
   smock, craftsman's gloves, breeches, pantofles), leather jerkin
   (Flexible Armor +1D6), repair tools (Clockworks +1D6), 8 supplies of clockwork gears
 
-##### Mechanician Maneuvers
+#### Mechanician Maneuvers
 
 - **Automatic Fire:** When using a clockwork weapon, spend 1 Style Point to add Clockworks dice to an Aim roll
 - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
@@ -1637,7 +1796,7 @@ usually only the wealthy can afford the most advanced items.
 - **Standing on the Shoulders of Giants:** When inventing a device in a well-equipped workshop, spend 1 Style Point to add Scholarship dice to a Clockworks roll
 
 
-#### The Privateer 
+### The Privateer 
 
 Not all Privateers are pirates; most these days are licensed by one of
 the national governments or may in fact be part of a Royal Navy.
@@ -1647,7 +1806,7 @@ the latter are still quite rare.
 - **Suggested Classes:** Brigand, Chirurgeon, Dogsbody, Duelist, Explorer, Fusilier, Mechanician, Provincial, Veteran, Virtuosa
 - **Suggested Passions:** Country, Loyalty, Lust, Wealth
 
-##### Privateer Qualities
+#### Privateer Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Science, Streetwise
 - **Specialties:** Defense (Dodge +1), Dueling (Lunge +1, Feint +1), Military (Aim +1), Nature (Explore +1), Streetwise (Carouse +1)
@@ -1656,7 +1815,7 @@ the latter are still quite rare.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Corsair outfit (tricorne, doublet, craftman's gloves, breeches, boots), cutlass (Sword +1D6)
 
-##### Privateer Maneuvers
+#### Privateer Maneuvers
 
 - **Broadsides:** When firing a ship-mounted cannon, spend 1 Style Point to add Explore dice to a Blackpowder roll
 - **Cunning Evasion:** Spend 2 Style Points to set the value of one Dodge die to its maximum value before rolling
@@ -1667,10 +1826,10 @@ the latter are still quite rare.
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 
 
-#### The Provincial 
+### The Provincial 
 
-Outside of the big cities of France are the provinces of
-Gallinea – home to commoners and petty noblefolk, many of whom lack
+Outside of Paris are the provinces of
+France – home to commoners and petty noblefolk, many of whom lack
 education and refinement. These Provincials – and the Provincials of
 other nations – are looked down on by the city folk.
 
@@ -1684,7 +1843,7 @@ although they rarely are afforded the respect given to their urban cousins.
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Veteran, Witch
 - **Suggested Passions:** Country, Family, Love, Pride
 
-##### Provincial Qualities
+#### Provincial Qualities
 
 - **Skill Competency:** Military, Nature, Streetwise
 - **Specialties:** Military (Brawl +1, Aim +1), Nature (Husbandry +1, Prowl +1), Observation (Perceive +1), Streetwise ( +1Carouse)
@@ -1693,7 +1852,7 @@ although they rarely are afforded the respect given to their urban cousins.
 - **Social Rank:** Commoner (D0)
 - **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), draft horse
 
-##### Provincial Maneuvers
+#### Provincial Maneuvers
 - **Aggressive Fisticuffs:** Spend 2 Style Points to set the value of one Brawl die to its maximum value before rolling
 - **Equestrienne:** When mounted on a horse you care for yourself, spend 1 Style Point to add Husbandry dice to a Lunge roll
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
@@ -1702,7 +1861,7 @@ although they rarely are afforded the respect given to their urban cousins.
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
 
-#### The Provocateur 
+### The Provocateur 
 
 A revolutionary, a spy, an assassin, a traitor, a conspirator – these
 are terms used to speak of the Provocateur, a shadowy figure enmeshed in
@@ -1715,7 +1874,7 @@ usually rely on her co-class for her public persona.
 - **Suggested Classes:** Charlatan, Courtier, Duelist, Envoy, Speaker, Visionary
 - **Suggested Passions:** Church, Country, Love, Wealth
 
-##### Provocateur Qualities
+#### Provocateur Qualities
 
 - **Skill Competency:** Culture, Medicine, Military, Streetwise
 - **Specialties:** Culture (Etiquette +1), Interaction (Negotiate +1, Deceive +1), Medicine (Poison +1), Streetwise (Carouse +1, Larceny +1)
@@ -1724,7 +1883,7 @@ usually rely on her co-class for her public persona.
 - **Social Rank:** Soldier (D6)
 - **Bonus Gear:** Any one outfit, dagger (Knife +1D6), 6 doses of poison
 
-##### Provocateur Maneuvers
+#### Provocateur Maneuvers
 - **Cunning Thievery:** Spend 2 Style Points to set the value of one Larceny die to its maximum value before rolling
 - **Deadly Toxicology:** Spend 2 Style Points to set the value of one Poison die to its maximum value before rolling
 - **Envenomed Blade:** When using a poisoned knife, spend 1 Style Point to add Poison dice to a Lunge roll
@@ -1736,7 +1895,7 @@ usually rely on her co-class for her public persona.
 
 
 
-#### The Veteran 
+### The Veteran 
 
 Veterans of war are well-trained in the art of battle,
 and if not currently part of a military unit, often join mercenary
@@ -1745,7 +1904,7 @@ companies or guard regiments rather than settle down into a civilian lifestyle.
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Provincial
 - **Suggested Passions:** Country, Family, Friends, Loyalty
 
-##### Veteran Qualities
+#### Veteran Qualities
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
 - **Specialties:** Defense (Block +1), Dueling (Lunge +1), Military (Aim +1, Strategy +1), Nature (Explore +1), Streetwise (Carouse +1)
 - **Weapon Prowess:** Knife, Sword, Polearm, Pistol, Musket
@@ -1754,7 +1913,7 @@ companies or guard regiments rather than settle down into a civilian lifestyle.
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches,
   boots, tabard), steel breastplate (Rigid Armor +1D10), flintlock musket (Musket +1D10)
 
-##### Veteran Maneuvers
+#### Veteran Maneuvers
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
 - **Practiced Sharpshooting:** Spend 2 Style Points to set the value of one Aim die to its maximum value before rolling
@@ -1763,7 +1922,7 @@ companies or guard regiments rather than settle down into a civilian lifestyle.
 - **Trained Endurance:** Spend 2 Style Points to set the value of one Block die to its maximum value before rolling
 
 
-#### The Virtuosa
+### The Virtuosa
 
 A Virtuosa is a master performer or artist, creating beautiful works of
 art, music, or drama. Virtuosas can be singers, actors, painters,
@@ -1776,7 +1935,7 @@ throughout society, especially among the upper classes.
 - **Suggested Classes:** Chaplain, Charmweaver, Courtier, Envoy, Privateer, Visionary
 - **Suggested Passions:** Artistry, Friends, Pride, Wealth
 
-##### Virtuosa Qualities
+#### Virtuosa Qualities
 - **Skill Competency:** Culture, Streetwise
 - **Specialties:** Culture (Arts +1, Etiquette +1), Interaction (Inspire +1, Negotiate +1), Streetwise (Banter +1, Carouse +1)
 - **Weapon Prowess:** Knife, Sword
@@ -1784,7 +1943,7 @@ throughout society, especially among the upper classes.
 - **Social Rank:** Artisan (D8)
 - **Bonus Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves, skirt, chopines), musical instrument (Arts +1D6)
 
-##### Virtuosa Maneuvers
+#### Virtuosa Maneuvers
 - **Boundless Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling
 - **Commanding Presence:** Spend 2 Style Points to set the value of one Inspire die to its maximum value before rolling
 - **From the Heart:** When performing or displaying a work of art, spend 1 Style Point to add Arts dice to an Inspire roll
@@ -1794,7 +1953,7 @@ throughout society, especially among the upper classes.
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
 
-#### The Visionary
+### The Visionary
 
 A Visionary is someone whose genius far exceeds that of the average
 person. True Renaissance women and men, they are able to apply logic and
@@ -1807,7 +1966,7 @@ and can speak confidently on a variety of topics.
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Explorer, Mechanician, Virtuosa
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
 
-##### Visionary Qualities
+#### Visionary Qualities
 - **Skill Competency:** Culture, Medicine, Military, Nature, Science
 - **Specialties:** Culture (Scholarship +1), Military (Strategy +1), Nature (Explore +1), Observation (Deduce +1), Science (Clockworks +1, Calculus +1)
 - **Weapon Prowess:** Knife
@@ -1816,7 +1975,7 @@ and can speak confidently on a variety of topics.
 - **Bonus Gear:** Crafter outfit (artisan's beret, smock, craftsman's
   gloves, breeches, buckled shoes), 6 books (Knowledge +1D6, one subject each), repair tools (Clockworks +1D6)
 
-##### Visionary Maneuvers
+#### Visionary Maneuvers
 - **Brilliant Analysis:** Spend 2 Style Points to set the value of one Deduce die to its maximum value before rolling
 - **Forensic Analysis:** When using a well-equipped laboratory, spend 1 Style Point to add Scholarship dice to a Deduce roll
 - **Inventive Mathematics:** Spend 2 Style Points to set the value of one Calculus die to its maximum value before rolling
@@ -1825,7 +1984,7 @@ and can speak confidently on a variety of topics.
 - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
 
 
-#### The Witch
+### The Witch
 
 Witches are experts at folk remedies, herbal lore, midwifery, and
 reading omens.  Some Witches are publicly known as such, but most keep their rituals
@@ -1834,7 +1993,7 @@ secret from the authorities, remembering recent periods of persecution.
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Provincial, Virtuosa
 - **Suggested Passions:** Faith, Family, Friends, Love
 
-##### Witch Qualities
+#### Witch Qualities
 - **Skill Competency:** Magicks, Medicine, Nature, Streetwise
 - **Specialties:** Magicks (Brew +1, Portents +1), Medicine (Treat +1, Poison +1), Nature (Husbandry +1), Streetwise (Carouse +1)
 - **Weapon Prowess:** Knife
@@ -1843,7 +2002,7 @@ secret from the authorities, remembering recent periods of persecution.
 - **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), 4
   supplies of alchemical ingredients, alchemy tools (Brew, Poison +1D6), divination tools (Portents +1D6)
 
-##### Witch Maneuvers
+#### Witch Maneuvers
 - **Anti-Toxins:** When creating an antidote or countering a poison, spend 1 Style Point to add Brew dice to a Poison roll
 - **First Aid:** Spend 2 Style Points to set the value of one Treat die to its maximum value before rolling
 - **Folk Remedies:** When you have access to a garden, forest, or herb collection, spend 1 Style Point to add Husbandry dice to a Treat roll
@@ -1935,8 +2094,8 @@ maintain, the player pushes her social ranks up to the maximum of Noble
 (D10)/Artisan (D8). This uses five of her customizations, and she's only
 got two left from the original 30.
 
-**Style Maneuvers:** Looking over the list of style maneuvers in Chapter
-5, the player finds two that thinks will be most appropriate for a future
+**Style Maneuvers:** Looking over the list of style maneuvers<a href="#style-maneuvers" class="xref-inchapter"></a>, 
+the player finds two that thinks will be most appropriate for a future
 air-captain like herself. She selects Powdersmith (when creating or
 repairing a device with a blackpowder flintlock power source, a
 phlogistone furnace power source, or an explosion component, spend 1
@@ -2342,8 +2501,8 @@ the name of a famous artist, identify tools and instruments used in art
 or music.
 
 **Crafting:** Create works of art such as drawings, poetry, paintings,
-sculptures, plays, songs, opera, novellas, and more, as described in
-Chapter 10, "Crafting."
+sculptures, plays, songs, opera, novellas, and more<a class="xref-asdesc-insection" href="#crafting"></a>.
+, as described 
 
 **Bonus Die:** If you are performing an existing work of art, such as a
 musical composition or a play, you can include the work's Tag Die as a
@@ -2487,7 +2646,7 @@ most prestigious universities and their professors, understand and
 disagree with an obscure theological argument.
 
 **Crafting:** Write research reports, translations, or non-fiction
-books, as described in Chapter 10, "Crafting."
+books<a class="xref-asdesc-insection" href="#crafting"></a>.
 
 **Extra Time:** You can spend extra time on your Scholarship to add a
 Bonus Die to your dice pool. The size of that die is limited by your
@@ -2569,8 +2728,7 @@ is to break your weapon.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Bucklers and extra shields, as described in Chapter 10,
-"Crafting."
+**Crafting:** Bucklers and extra shields<a class="xref-asdesc-insection" href="#crafting"></a>.
 
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
@@ -2624,7 +2782,7 @@ your own body.
 shield, remember the names of famous soldiers, identify the blacksmith's
 maker's mark on armor.
 
-**Crafting:** Rigid armor, as described in Chapter 10, "Crafting."
+**Crafting:** Rigid armor<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Block roll can be used to defend against an attacker's
 Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.
@@ -2727,8 +2885,7 @@ close-up fight. It can be opposed by any Defense specialty.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Swords and polearms, as described in Chapter 10,
-"Crafting."
+**Crafting:** Swords and polearms<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
@@ -2781,8 +2938,7 @@ Wounds.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Daggers and other knives, as described in Chapter 10,
-"Crafting."
+**Crafting:** Daggers and other knives<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Riposte can only be defended against by a Block or
 Dodge roll, and not by a Parry roll.
@@ -2833,7 +2989,7 @@ although you can inflict Yield.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Nets and whips, as described in Chapter 10, "Crafting."
+**Crafting:** Nets and whips<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** A Feint roll can be defended against with a Parry or
 Dodge roll, but not by a Block roll.
@@ -3131,8 +3287,7 @@ take an hour or more.
 **Knowledge Rolls:** Evaluate the price of an object, recall details on
 treaties, remember something the other party might have overlooked.
 
-**Crafting:** Contracts, treaties, and other legal documents, as
-described in Chapter 10, "Crafting."
+**Crafting:** Contracts, treaties, and other legal documents<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Negotiate rolls are always opposed by the other party's
 Negotiate rolls. If there isn't a party in opposition to you, you
@@ -3207,8 +3362,7 @@ storytelling.
 **Knowledge Rolls:** This Specialty is not often used to make knowledge
 rolls.
 
-**Crafting:** An alternate identity or a simple disguise, as described
-in Chapter 10, "Crafting."
+**Crafting:** An alternate identity or a simple disguise<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Use the Intuition specialty of each person who is
 listening to the lies.
@@ -3267,8 +3421,7 @@ birthstone and other personal qualities.
 charms, determine the specific master charmweaver who created an item of
 apparel, recall facts related to the creation of cloth and silk.
 
-**Crafting: **Articles of clothing, including charmwoven apparel, as
-described in Chapter 10, "Crafting."
+**Crafting: **Articles of clothing, including charmwoven apparel<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Most Weave rolls are made to craft garments. Sensing or
 restoring a charm is Easy (3D6) standard opposition. An attempt to
@@ -3330,8 +3483,7 @@ draughts.
 names of the master alchemists in a city, describe where exotic
 ingredients can be found.
 
-**Crafting: **Salves, draughts, and other alchemical formulations, as
-described in Chapter 10, "Crafting."
+**Crafting: **Salves, draughts, and other alchemical formulations<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Most Magicks (Brew) rolls are made to create a draught
 or salve. Mixing a concoction has a standard difficulty of Easy (3D6). 
@@ -3350,7 +3502,8 @@ or salve. Mixing a concoction has a standard difficulty of Easy (3D6).
 **Mix a Concoction:** You hastily mix together volatile chemicals and
 reagents to produce an immediate reaction. You spend 1 unit of
 alchemical ingredients and create one of the concoctions listed in
-Chapter 9, "Specialty Equipment". The concoction has an initial potency
+<a href="#concoctions" class="xref-inchapter"></a>.
+The concoction has an initial potency
 level of 1 but increases by 1 for every 2 success points you spend. The
 concoction lasts until your next turn, after which it becomes inert.
 
@@ -3378,8 +3531,7 @@ throughout history, identify when someone is the target of a hex,
 identify a bibelot's charm, remember the astrological signs and
 birthstones.
 
-**Crafting: **Astrological charts, bibelots, and divination tools, as
-described in Chapter 10, "Crafting."
+**Crafting: **Astrological charts, bibelots, and divination tools<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** If you read either the general omens around you or a
 willing subject, the roll is an automatic success and the success points
@@ -3530,8 +3682,7 @@ standard difficulty. Major surgeries are Moderate (3D8) or higher.
 | +++++:         | Major Surgical Procedure                 |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Patient Survives:** Despite the relatively advanced state of Elaran
-medicine, surgery remains a risky proposition. If you don't spend one
+**Patient Survives:** Surgery is a risky proposition. If you don't spend one
 Success Point to ensure the life of the patient, the patient takes one
 Wound.
 
@@ -3565,8 +3716,7 @@ must be healed using the Surgery specialty.
 disease, determine the cause of an injury, recall facts about a known
 illness and useful folk cures for the same.
 
-**Crafting:** Cures for diseases and other medical supplies, as
-described in Chapter 10, "Crafting."
+**Crafting:** Cures for diseases and other medical supplies<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Base Time:** Treating a wound or removing Yield takes one minute, and
 treating diseases or applying cures takes one hour.
@@ -3680,16 +3830,15 @@ The Poison specialty covers the creation, application, and use of
 various toxic substances as well as antidotes for the same. A target can
 be poisoned directly, or poison can be applied to a weapon.
 
-**Standard Poisons:** The following types poisons are commonly used
-throughout Elara and Ifran: deadly poison, impairing poison, and sleep
-poison. See the Equipment chapter for more details.
+**Standard Poisons:** The following types poisons are commonly used : 
+deadly poison, impairing poison, and sleep
+poison. See <a href="#poison" class="xref-inchapter-under"></a> for more details.
 
 **Knowledge Rolls:** Identify a poison without being exposed to it,
 diagnose someone suffering from poison based on the effects, determine
 whether or not an item of food is safe to consume.
 
-**Crafting:** Poisons and antidotes as described in Chapter 10,
-"Crafting."
+**Crafting:** Poisons and antidotes<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Applying poison to your own weapon is an automatic
 success, with the number of success points determining how many times
@@ -3774,8 +3923,7 @@ Parry, and Aim rolls, and cannot Dodge, Run, or Move. The penalty starts
 at Drop 1 when a hold is first achieved, and increases by 1 every time
 the hold is increased (see below).
 
-**Crafting:** Quarterstaves, clubs, and other bludgeons, as described in
-Chapter 10, "Crafting."
+**Crafting:** Quarterstaves, clubs, and other bludgeons<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Knowledge Rolls:** Evaluate someone's unarmed fighting technique after
 watching her brawl, recall the names of famous pugilists.
@@ -3838,8 +3986,7 @@ against an Aim attack, and not Parry.
 the type of weapon used to cause a wound, recall the names of famous
 marksmen.
 
-**Crafting: **Bows, crossbows, muskets, and pistols, as described in
-Chapter 10, "Crafting."
+**Crafting: **Bows, crossbows, muskets, and pistols<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 :::::::::::::::: success :::::::::::::::::
 | Aim          |                         |
@@ -3886,8 +4033,7 @@ during combat and reading the way a fight is going.
 plan to discover weaknesses, organize a supply line, recall the names of
 famous generals.
 
-**Crafting:** Battle plans, tactical maps, and military orders, as
-described in Chapter 10, "Crafting."
+**Crafting:** Battle plans, tactical maps, and military orders<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition: **Use the Military (Strategy) roll of your enemy's leader.
 If there's no leader, your roll is an automatic success and the success
@@ -3965,8 +4111,7 @@ found in distant lands, evaluate the quality of a sailing ship or
 airship, chart a route on a detailed map, recall the names of famous
 explorers and ship captains.
 
-**Crafting:** Maps, rafts, shelters, and other survival gear, as
-described in Chapter 10, "Crafting."
+**Crafting:** Maps, rafts, shelters, and other survival gear<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Base Time:** Determining directions or finding a shortcut takes one
 minute, and other uses of Nature (Explore) take 1 hour.
@@ -4050,8 +4195,7 @@ or edible plant, predict the weather over the next couple of days,
 recall the names of local landowners, identify the properties of an
 unknown plant or animal.
 
-**Crafting:** Leather goods, flexible armor, and cooked meals, as
-described in Chapter 10, "Crafting."
+**Crafting:** Leather goods, flexible armor, and cooked meals<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Wounds:** If you are treating a wounded animal, you have Drop Penalty
 based on the animal's wounds.
@@ -4582,7 +4726,7 @@ has not yet detonated.
 
 The Clockworks specialty allows you to create, repair, and customize
 clockwork devices. For more details, see the list of clockwork devices
-and components in Chapter 9, "Specialty Equipment."
+and components <a href="#clockworks-2" class="xref-inchapter-under"></a>.
 
 **Knowledge Rolls:** Identify the functions and components of a
 clockwork device, recall the names of famous mechanicians, determine
@@ -4590,7 +4734,7 @@ what components of a device are malfunctioning, read and understand
 plans drawn by other clockworkers.
 
 **Crafting: **Clockwork devices, components, power sources, and other
-mechanical contrivances, as described in Chapter 10, "Crafting."
+mechanical contrivances<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Time: **It takes one action to keep a device together or draw more
 power from it. Sabotaging a device takes 1 minute. To repair a device or
@@ -4713,8 +4857,7 @@ balance their books, and mariners use Calculus to create their charts.
 **Knowledge Rolls:** Read and understand the meaning behind complex
 equations, recall the names of famous mathematicians and scientists.
 
-**Crafting:** Calculations, clockwork plans, and mathematical theorems
-as described in Chapter 10, "Crafting."
+**Crafting:** Calculations, clockwork plans, and mathematical theorems<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Opposition:** Use Easy (3D6) for calculations done in a well-equipped
 workshop, or Moderate (3D8) for field work with paper and ink. Doing
@@ -4877,8 +5020,7 @@ Drop 2 penalty on Carouse rolls.
 identify the type and origin of liquor with a taste, recall your
 companion(s) in previous drunken trysts.
 
-**Crafting:** Beer, ale, wine, and other alcoholic beverages, as 
-described in Chapter 10, "Crafting."
+**Crafting:** Beer, ale, wine, and other alcoholic beverages<a href="#crafting" class="xref-asdesc-insection"></a>.
 
 **Item Die:** If you buy a round of drinks for everyone in a tavern, you 
 can add the highest die in its cost to your Carousing roll as an Item
@@ -4958,14 +5100,13 @@ The Larceny specialty is used for criminal endeavors, primarily theft.
 You use Larceny rolls not only to steal objects but also fence them and
 to purchase stolen goods on the black market.
 
-| Knowledge Rolls:   | Estimate the value of a stolen object, evaluate the |
+**Knowledge Rolls:**  Estimate the value of a stolen object, evaluate the 
 quality of a lock or door, recall the names and rap sheets of famous
 criminals.
 
-| Crafting:   | Locks, traps, alarms, and forgeries, as described in |
-Chapter 10, "Crafting."
+**Crafting:**  Locks, traps, alarms, and forgeries<a href="#crafting" class="xref-asdesc-insection"></a>.
 
-**Rushing: **You can reduce the time to perform a Larceny roll by taking
+**Rushing:** You can reduce the time to perform a Larceny roll by taking
 a Drop penalty on your die roll. The size of the Drop penalty depends on
 how quickly you rush, as shown on the following table:
 
@@ -5045,2058 +5186,6 @@ Table: Maximum Observation Opposition
 | 4            | Very Difficult (3D12) |
 | 5            | Very Difficult (3D12) |
 
-
-### Crafting ## {.breakbefore}
-
-As described in Chapter 4, "Skills & Specialties," characters
-can use most specialties in order to craft items
-related to that specialty. The requirements for crafting are:
-
-  - **You need to spend time.** The time varies -- minutes, hours, days,
-    weeks. You can't craft more than 8 hours in a day. (Lutetia's unions
-    are quite strong.) You may be able to increase or decrease the time
-    to craft an item, to affect your success at crafting.
-  - **You need tools to work.** If you don't have the right tools, you
-    at least need something that can function as the right tools, even
-    if you don't get an Item Die from the makeshift tool.
-  - **You need at least one specialty rank.** You can't make a crafting
-    roll based on the skill alone. Each further specialty rank adds new
-    items you can craft.
-  - **You need to expend supplies.** Supplies are counted in "units", an
-    abstracted measure of the raw material you have on hand. In most
-    cases, you can't substitute something else, but check with your MJ.
-  - **You need to make a specialty roll.** If you've met all the other
-    requirements listed above, you automatically succeed on the roll and
-    craft something. The purpose of the roll is to determine how well of
-    a job you did on the crafting. The more success points you spend,
-    the better the final product. You can't gain style points on
-    crafting rolls.
-
-
-##### Extra Supplies
-
-Sometimes you can spend more supplies than you need in order to craft a
-superior item. You could create a larger or more ornate version of an
-item, or perhaps simply make several prototypes before eventually
-getting it right.
-
-If the crafting Specialty has an "Extra Supplies" entry, you can use
-more materials than needed while crafting to add a Bonus Die to your
-dice pool. The size of that die is limited by your number of ranks in
-the Specialty, as shown on the following tables:
-
-Table: Extra Supplies
-
-| Units of Supplies | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
-| 2                 | 1D0       | \+1                     |
-| 3                 | 1D6       | \+2                     |
-| 4                 | 1D8       | \+3                     |
-| 6                 | 1D10      | \+4                     |
-| 8                 | 1D12      | \+5                     |
-
-
-##### Extra Time
-
-Taking your time to craft an item means you can check and re-check your
-work at every step of the way, and the extra crafting time allows for
-more careful work.
-
-If the description of the crafting specialty has an "Extra Time" entry,
-you can spend extra time on crafting to add a Bonus Die to your dice
-pool. The size of that die is limited by your number of ranks in the
-Specialty, as shown on the following tables:
-
-Table: Extra Time for a One-Minute Task
-
-| Completion Time | Bonus Die | Specialty Rank Required |
-| --------------- | --------- | ----------------------- |
-| 2 minutes       | 1D0       | \+1                     |
-| 5 minutes       | 1D6       | \+2                     |
-| 15 minutes      | 1D8       | \+3                     |
-| 1 hour          | 1D10      | \+4                     |
-| 4 hours         | 1D12      | \+5                     |
-
-Table: Extra Time for a One-Hour Task
-
-| Completion Time   | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
-| 2 hours           | 1D0       | \+1                     |
-| 4 hours           | 1D6       | \+2                     |
-| 8 hours (1 day)   | 1D8       | \+3                     |
-| 16 hours (2 days) | 1D10      | \+4                     |
-| 32 hours (4 days) | 1D12      | \+5                     |
-
-Table: Extra Time for a One-Day Task
-
-| Completion Time   | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
-| 2 days            | 1D0       | \+1                     |
-| 5 days (1 week)   | 1D6       | \+2                     |
-| 10 days (2 weeks) | 1D8       | \+3                     |
-| 20 days (4 weeks) | 1D10      | \+4                     |
-| 30 days (6 weeks) | 1D12      | \+5                     |
-
-
-##### Repairs
-
-If you can create something, you can repair it as well. A damaged object
-gains Malfunctions in the same way that a person gains Wounds. In terms
-of game rolls, the object has a certain Drop penalty applied whenever
-it's used -- Drop 1 for each Malfunction -- or one of its functions
-simply stops operating.
-
-The time to repair an object depends on the time it would take to create
-a new one of the same type, as shown on the following table.
-
-Table: Repair Time
-
-| Base Crafting Time | Repair Time |
-| ------------------ | ----------- |
-| 1 minute           | 1 minute    |
-| 1 hour             | 1 minute    |
-| 1 day              | 1 hour      |
-
-You can take extra time or rush the repair if you are able to do the
-same when creating the item.
-
-As with normal crafting rolls, you automatically succeed. Each success
-point gained reduces the Drop penalty by one, or restores one function
-to working order. For every complete set of three Malfunctions you
-repair, you have to spend 1 unit of any type of supplies that would be
-used to create such an item.
-
-
-##### Rushing
-
-You don't always have the luxury of time when crafting. Perhaps there's
-only 30 minutes until the brigands arrive and you still need to build
-that net-flinging mechanical trap you've been planning out in your head.
-In such a situation, you can rush your work to get it done in time.
-
-If the crafting Specialty has a "Rushing" entry, you can reduce the time
-to craft your creation by taking a Drop penalty on your die roll. You
-can't rush a job that you're taking extra time on. The size of the Drop
-penalty depends on how much you rush the crafting, as shown on the
-following table:
-
-Rushing also increases the opposition from an automatic success to Easy
-(3D6). If you fail on a rushed crafting roll, you expend one unit of
-resources as appropriate for your task
-
-Table: Rushing a One-Minute Task
-
-| Completion Time | Drop Penalty |
-| --------------- | ------------ |
-| 45 seconds      | Drop 1       |
-| 30 seconds      | Drop 2       |
-| 2 actions       | Drop 3       |
-| 1 action        | Drop 4       |
-
-Table: Rushing a One-Hour Task
-
-| Completion Time | Drop Penalty |
-| --------------- | ------------ |
-| 30 minutes      | Drop 1       |
-| 15 minutes      | Drop 2       |
-| 5 minutes       | Drop 3       |
-| 1 minute        | Drop 4       |
-
-Table: Rushing a One-Day Task
-
-| Completion Time | Drop Penalty |
-| --------------- | ------------ |
-| 6 Hours         | Drop 1       |
-| 4 Hours         | Drop 2       |
-| 2 Hours         | Drop 3       |
-| 1 Hour          | Drop 4       |
-
-
-##### Success Limits
-
-You must have at least one rank in a Specialty to be able to craft with that Specialty.
-However, a single specialty rank limits the quality of the item to a
-basic work. The more specialty ranks you have, the higher potential you
-can create.
-
-Each Specialty's crafting description details the success limits for
-crafted items. The maximum values for Item Dice, Charm Dice, Bonus Dice,
-and the Standard Opposition (for attempts to escape or undo your
-creation) are shown in the following table. The applicable columns of
-the table are repeated with each Specialty's crafting
-description.
-
-Table: Success Limits
-
-| Specialty Rank | Item Die | Charm Die | Bonus Die | Standard Opposition   |
-| -------------- | -------- | --------- | --------- | --------------------- |
-| \+1            | \+1D6    | \+1D6     | \+1D0     | Easy (3D6)            |
-| \+2            | \+1D8    | \+1D8     | \+1D6     | Moderate (3D8)        |
-| \+3            | \+1D10   | \+1D10    | \+1D8     | Difficult (3D10)      |
-| \+4            | \+1D12   | \+1D12    | \+1D10    | Very Difficult (3D12) |
-| \+5            | \+1D12   | \+1D12    | \+1D12    | Very Difficult (3D12) |
-
-
-##### Supplies
-
-The raw materials used in crafting are known as "supplies". Supplies are
-measured in terms of "units" -- each unit of supplies is an abstract
-amount of the materials for making the simplest item of a given type.
-
-Supplies can be purchased as shown in the following table. All supplies
-can be bought in bulk, as described in Chapter 7, "Wealth
-Rolls."
-
-Table: Supplies
-
-| Item                   | Cost | Use                                             |
-| ---------------------- | ---- | ----------------------------------------------- |
-| Alchemical ingredients | 1D6  | Draughts, salves, concoctions, poison, medicine |
-| Art media              | 1D6  | Works of art                                    |
-| Blackpowder charges    | 1D0  | Blackpowder weapons, phlogistone components     |
-| Clockwork gears        | 1D6  | Clockwork devices and components                |
-| Crucible steel         | 1D6  | Weapons, armor, clockwork gears, casings        |
-| Fabric                 | 1D0  | Charmweaving                                    |
-| Foodstuffs             | 1D0  | Cooking, eating                                 |
-| Medicine               | 1D6  | Surgery, treat                                  |
-| Writing materials      | 1D0  | Reports, written works of art, battle plans     |
-
-**Alchemical ingredients:** Chemicals, herbs, rare salts, parts of
-animals, and other materials used to create salves, draughts, poison,
-and medicine.
-
-**Art media:** Supplies for creating works of art, ranging from canvas and paints to sculpturing clay and marble blocks.
-
-**Blackpowder charges:** Units of blackpowder that can create explosive weapons or be purified to produce phlogistone.
-
-**Clockwork gears:** The parts needed to create clockwork components that are then assembled into clockwork devices.
-
-**Crucible steel:** Worked metal that can used to make weapons, armor, clockwork gears, and more.
-
-**Fabric:** Cloth, lace, thread, silk, dyes, leather, buttons, and other materials for making clothing.
-
-**Foodstuffs:** Grains, fruit, meat, cheeses, sugar, eggs, bread, and
-other materials for cooking. One unit of uncrafted foodstuffs is enough
-to feed one person for one day.
-
-**Medicine:** Medicine, medicinal herbs, and other medical supplies used
-to treat injuries, cure diseases, create antidotes, and perform surgery.
-
-**Writing materials:** Paper and ink, used in creating reports, plans, and written works of art.
-
-###### Scrounging
-
-If you have neither the necessary supplies on hand nor the ability to
-purchase more, you can spend your time scrounging -- looking in refuse
-bins for art supplies, junk piles for crucible steel, discarded
-trimmings for fabric, or roadkill and old fruit for foodstuffs. Every
-two hours spent scrounging produces one unit of supplies -- as long as
-your MJ agrees there are such supplies to be found. If you're lost in
-the middle of a frozen tundra, you probably can't find blackpowder
-charges just waiting for you to come along.
-
-
-##### Tag Dice
-
-As described in Chapter 4, "Skills & Specialties", Tag Dice are a type
-of Bonus Dice that are tied to a specific concept. This could be a
-single word, an emotion, a Passion, a phrase, or other abstract
-constructions. The crafting description for each Specialty describes how
-each Tag is created, what you can associate each Tag with, and how you
-can increase the Bonus Die size of the Tag.
-
-For example, if you create a painting of Bentheim Castle as seen from a
-grassy meadow, you could assign a Tag of "Peaceful." The Tag Die starts
-at +1D0, and for every 2 success points, you can increase the size of
-that die. You can also use success points to add a different Tag, such
-as "Loyalty." These additional dice also start at +1D0.
-
-The Tag Die can be added to a dice pool as a Bonus Die whenever it makes
-sense in the story -- so if you're trying to calm down a visiting
-dignitary, you might seat her under the painting and add the Peaceful
-tag to your Interaction (Negotiate) dice pool. Alternately, if you're
-trying to inspire the soldiers of Bentheim Castle to stand firm and not
-desert in the face of the enemy, you may want to make your Interaction
-(Inspire) roll when you stand in front of the painting of the castle.
-
-
-##### Weapon Qualities
-
-When you craft a weapon, it's assumed to be a "stock" version of that
-weapon as described in Chapter 8, "Equipment." If you want to add
-something extra to a crafted weapon, you can add a Weapon Quality to
-that weapon. Each specialty's crafting description lists which qualities
-can be given to each type of weapon. The maximum number of Weapon
-Qualities you can add to any given weapon equals your rank in the
-crafting Specialty.
-
-Rather than repeating the descriptions of Weapon Qualities in each
-crafting specialty, they're listed here for easy reference. You can't
-add the same Weapon Quality twice to a single weapon.
-
-  - **Cavalry:** A weapon with the Cavalry quality must be used with
-    your Main Hand. If you are using this weapon while riding a mount,
-    you can substitute the mount's Item Die for your Weapon Die against
-    an unmounted opponent.
-  - **Defending:** You can use this weapon to make a Defense (Parry)
-    roll and add the Weapon Die to your dice pool, even though this type
-    of weapon usually can't be used for parrying.
-  - **Double-Barreled:** You can fire twice, once per barrel, without
-    reloading. If you choose to fire both barrels in the same shot, the
-    Weapon Die increases by one step, but you take a Drop 1 penalty
-    because it's harder to aim. Reloading each barrel separately gives
-    the normal Drop penalty for the unaltered weapon, and reloading both
-    barrels is a Drop 4 combined action.
-  - **Extended Long Range:** The weapon gains a Drop 2 penalty at Long
-    range. This can only be applied to weapons which can't normally be
-    used at Long range, but which can be used at Medium range.
-  - **Extended Medium Range:** The weapon gains a Drop 2 penalty at
-    Medium range. This can only be applied to weapons which can't
-    normally be used at Medium range.
-  - **High-Caliber:** Increase the Weapon Die by one step. The Drop
-    penalty for reloading the weapon increases by 1, and the Drop
-    penalty at Long range increases by 2.
-  - **Lightened:** Decrease the Weapon Die by one step. If the unaltered
-    weapon could be used in your main hand, you can now use it in
-    either. If the weapon required two hands to use, it can now be used
-    with just the main hand. You can't lighten a weapon that's been
-    weighted.
-  - **Point Blank:** Decrease the Drop Penalty for Close range by 2.
-  - **Quickloading:** Decrease the Drop Penalty for reloading this
-    weapon by 1.
-  - **Reach:** The weapon can be used to attack into an adjacent area as
-    well as your own.
-  - **Responding:** The weapon can be used to make a Dueling (Riposte)
-    roll and add the Weapon Die to your dice pool, even though this type
-    of weapon usually can't be used for riposting.
-  - **Rifled:** Reduce the Drop Penalty at Medium range by 1 and at Long
-    range by 1.
-  - **Sparring:** You can use this weapon to make a Military (Brawl)
-    roll and add the Weapon Die to your dice pool, even though weapons
-    usually can't be used with Brawl.
-  - **Success Table: Specialty (Option)** You add an option
-    for spending success points to a specific Success Table. The details
-    for each option are described later in this section.
-  - **Throwable:** You can throw this weapon at a target using the
-    Military (Aim) skill and add the Weapon Die to your dice pool, even
-    though this type of weapon usually can't be thrown. The weapon has
-    no Drop penalty at Close range, Drop 1 at Short range, and Drop 3 at
-    Medium range.
-  - **Weighted:** Increase the Weapon Die by one step. If the weapon
-    could be used in either hand, it now is only usable in your main
-    hand. If the unaltered weapon required your main hand, it now
-    requires both hands. You can't weight a weapon that's been
-    lightened.
-
-###### Success Table Options
-
-The Success Table: *Specialty* quality adds additional options to the
-indicated success table.
-
-::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
-| Weapon Qualities                |                                   |
-| ------------------------------- | --------------------------------- |
-| \+                              |  Basket Hilt (Decrease Advantage) |
-| \+                              |  Retort (Execute a Riposte)       |
-| \+++                            |  Entangling                       |
-| \+++                            |  Tripping (Knockdown)             |
-| \+++                            |  Unhorse                          |
-| \+++                            |  Wounding (Inflict 1 Wound)       |
-| \+++                            |  Yielding (Inflict 4 Yield)       |
-| \++++                           |  Disarming                        |
-| \+++++                          |  Weapon-Breaking                  |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Basket Hilt:** If your opponent has Advantage, you can decrease her
-die size by one step, or remove her Advantage Die entirely if she has
-+1D6 Advantage. Weapons with this quality are designed for parrying.
-
-**Disarming:** You can disarm your opponent of the weapon she is using
-to attack you or the weapon she's using to Parry your attack. (This
-can't be used when defending against a Brawl attack.) You get to choose
-if the weapon ends up on the ground in your Area, in an adjacent Area,
-or in your hand if you have one free. Weapons with this quality are
-designed for disarming opponents.
-
-**Entangling:** You successfully catch your opponent with your weapon,
-holding them in place. A combatant who is held suffers a Drop 1 penalty
-on attack and defense rolls; for every two additional Success Points you
-spend, you can increase the Drop penalty by 1, to a maximum of Drop 4.
-Your opponent can escape by making a simple check against Standard
-Opposition, usually using Brawl or a weapon attack.
-
-**Retort:** You can make a Riposte attack. Weapons with this quality are
-designed for parrying and allow a Riposte to be made for a lower cost
-than usual.
-
-**Tripping:** Your target is knocked prone, either in your Area or in an
-adjacent Area. Knocking an opponent into an adjacent Area can result in
-them falling or otherwise taking environmental damage. Weapons with this
-quality are designed to pull an opponent off her feet.
-
-**Unhorse:** If your target is riding a mount, they fall off that mount
-and end up prone. Unhorsing an opponent can result in them falling or
-otherwise taking environmental damage. In addition, your mount can make
-a trample attack right now for free, if it has that quality. Standing up
-is a Drop 1 combined action, and remounting is an additional Drop 3
-penalty. Weapons with this quality are designed for dismounting
-opponents.
-
-**Weapon-Breaking:** You snap your target's blade or hilt. You can only
-do this if your target attempts to Parry your attack and fails, or if
-you are performing a Parry yourself. Weapons with this quality are
-designed for catching and destroying weapons.
-
-**Wounding:** Your opponent takes one Wound. If she takes more Wounds
-than her Wound Limit, she falls unconscious and is dying. Weapons with
-this quality allow you to inflict Wounds for a lower cost than usual.
-
-**Yielding:** Your opponent takes four Yield. If her Yield equals or
-exceeds her Yield Limit, she is Yielded Out. Weapons with this quality
-allow you to inflict Yield for a lower cost than usual.
-
-
-
-##### Workrooms
-
-Basic sets of handheld tools are described in Chapter 8, "Equipment,"
-and can be used as an Item Die on appropriate crafting rolls.
-
-However, most serious crafting work is done in some kind of dedicated
-room or outbuilding. Such workrooms have everything you'd find in a set
-of tools, plus additional equipment, furniture, and resources for each
-task. These workrooms can provide an Item Die, as shown on the following
-table. As you can only have one Item Die per dice pool, you can't
-combine the Item Die from a set of tools with the Item Die from a
-workroom.
-
-Table: Workrooms
-
-| Room            | Cost | Item Die |
-| --------------- | ---- | -------- |
-| Artist's Studio | 2D8  | \+1D8    |
-| Kitchen         | 2D8  | \+1D8    |
-| Laboratory      | 2D10 | \+1D10   |
-| Library         | 2D10 | \+1D10   |
-| Medical Theatre | 2D10 | \+1D10   |
-| Observatory     | 2D10 | \+1D10   |
-| Séance Room     | 2D8  | \+1D8    |
-| Smithy          | 2D8  | \+1D8    |
-| Workshop        | 2D10 | \+1D10   |
-
-Most workrooms are only available in cities, although some smaller towns
-might be able to provide an artist's studio, a kitchen, a séance room,
-or a smithy. Setting up a workroom takes 8 hours of work, although that
-can be done by either one person or divided among several.
-
-Superior workrooms can be purchased for twice the listed cost and an
-Item Die of one step higher. A superior kitchen costs 4D8 and gives a
-+1D10 Item Die on rolls for cooking. Superior workrooms take 20 hours to
-set up and can only be acquired in large cities.
-
-
-#### Crafting Rolls
-
-The following tables are sorted by Specialty name and describe what can be crafted with each Specialty.
-
-
-##### Aim
-
-You can craft bows, muskets, and pistols using the Military (Aim) specialty.
-
-**Prowess Required:** You can only create bows if you have Bow Prowess,
-muskets if you have Musket Prowess, and pistols if you have Pistol
-Prowess.
-
-**Base Time:** Crafting a weapon takes 1 hour.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
-
-**Supplies:** Supplies of crucible steel are required for creating weapons.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Military (Aim).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::: success ::::::::::::::::::::
-| Aim            | (Crafting)                 |
-| -------------- | -------------------------- |
-| Base Time      | 1 hour                     |
-| Opposition     | Automatic Success          |
-| Item Die       | Metalworking tools, smithy |
-| Supplies       | Crucible steel             |
-| Bonus Die      | Extra time                 |
-| +              | Craft Short Bow            |
-| ++             | Craft Pistol               |
-| +++            | Craft Heavy Bow            |
-| +++            | Craft Heavy Pistol         |
-| +++            | Craft Light Musket         |
-| +++            | Add Bow Quality            |
-| +++            | Add Pistol Quality         |
-| +++            | Add Musket Quality         |
-| ++++           | Craft Heavy Musket         |
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Short Bow:** You create any bow with a Weapon Die of +1D6.
-
-**Craft Heavy Bow (1 unit of crucible steel):** You create any bow a Weapon Die of +1D8 or higher.
-
-**Craft Pistol (1 unit of crucible steel):** You create any pistol with a Weapon Die of +1D6.
-
-**Craft Heavy Pistol (2 units of crucible steel):** You create any pistol with a Weapon die of +1D8 or higher.
-
-**Craft Light Musket (2 units of crucible steel):** You create any musket with a Weapon die of +1D8 or lower.
-
-**Craft Heavy Musket (4 units of crucible steel):** You create any musket with a Weapon Die of +1D10 or higher.
-
-**Add Bow Quality:** You can give the bow one of the following
-qualities: Cavalry, Defending, Extended Long Range, Point Blank,
-Quickloading, Success Table: Aim (Entangling, Wounded, Yielding). The
-bow can have a number of custom qualities equal to your Military (Aim)
-specialty ranks.
-
-**Add Pistol Quality (1 unit of crucible steel):** You can give the
-pistol one of the following qualities: Cavalry, Double-Barreled,
-Extended Medium Range, High-Caliber, Point Blank, Quickloading,
-Specialty Table: Aim (Wounding). The pistol can have a number of custom
-qualities equal to your Military (Aim) specialty ranks.
-
-**Add Musket Quality (1 unit of crucible steel):** You can give the
-musket one of the following qualities: Defending, Double-Barreled,
-Extended Long Range, High-Caliber, Point Blank, Quickloading, Rifled,
-Success Table: Aim (Tripping, Unhorse, Wounding). The musket can have a
-number of custom qualities equal to your Military (Aim) specialty ranks.
-
-
-##### Arts
-
-The Culture (Arts) specialty allows you to create works of art. The
-types of works include drawings, paintings, poetry, sculptures, plays,
-songs, opera, novellas, or even cake decorating.
-
-**Base Time:** The base time depends on the type of artistic endeavor.
-Most simple works of art will take a minimum of 1 hour, such as Writing
-materials a poem, composing a melody, or sketching a drawing.
-Sculptures, paintings, novellas, acts of plays, chapters of novels, and
-other longer forms have a base time of 1 day.
-
-**Item Die:** Add the Item Die of your artisan tools or artist's studio
-to your dice pool.
-
-**Supplies:** art media are usually required, although poetry, plays,
-novellas, and songs require Writing materials supplies, and cake
-decorating requires foodstuffs.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Culture (Arts).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
-| Arts            | (Crafting)                               |
-| --------------- |----------------------------------------- |
-| Base Time       |  1 hour or 1 day                         |
-| Opposition      |  Automatic Success                       |
-| Item Die        |  Artisan tools or artist's studio        |
-| Supplies        |  art media or Writing materials supplies |
-| Bonus Die       |  Extra Time                              |  
-| +               | Craft Artwork                            |
-| +               | Add a Tag                                |
-| ++              | Improve Artwork                          |
-| ++++            | Reduce Material Cost                     |
-| +++++           | Create Forgery                           |
-| ++++++          | Pièce de Résistance\!                    |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Artwork (1 unit of art media):** You create a basic item of art.
-Choose a one-word Tag, usually associated with an emotion, place, or
-concept. The Tag has a Bonus Die of +1D0, and can be used when
-displaying or performing the work of art.
-
-**Add a Tag:** You can add another Tag to your artwork. The new Tag has
-a Bonus Die of +1D0.
-
-**Improve Artwork (1 unit of art media):** The Bonus Die of one Tag
-improves by one die size. You are limited by the number of specialty
-ranks you have in Culture (Arts).
-
-**Reduce Material Cost:** You reduce the overall cost of this Crafting
-roll by one unit of art media.
-
-**Create Forgery (1 unit of art media):** You make a copy of someone
-else's artwork. It's indistinguishable from the original except on close
-examination. The forgery has no Tags attached, but you can use success
-points to add a Tag. The Standard Opposition to an Arts or Perception
-roll to detect the work as a forgery is Easy (3D6). For every 2
-additional success points you spend, the difficulty increases by one
-step, limited by your number of ranks in Culture (Arts).
-
-**Pièce de Résistance\!:** You create a work of art that will be spoken
-of for decades, if not centuries. Any Tag Die on the work of art is
-automatically maximized when used as a Bonus Die.
-
-
-##### Blackpowder
-
-You can craft blackpowder weapons such as grenades and cannons. You can
-also work with phlogistone to create phlogistone furnaces or other uses
-of phlogistone.
-
-**Base Time:** Working with blackpowder typical requires one hour, while working with phlogistone takes one day.
-
-**Item Die:** Add the Item Die of your metalworking tools, smithy, or workshop to your dice pool.
-
-**Supplies:** Blackpowder charges are required for all crafting with
-this specialty, and crucible steel for most uses. In addition, many
-types of explosives require additional materials as shown on the
-following
-table.
-
-Table: Crafting Blackpowder Items
-
-| Blackpowder Item         | Additional Materials                                                                        |
-| ------------------------ | ------------------------------------------------------------------------------------------- |
-| Bomb, alchemical         | 8 units of alchemical ingredients, 1 unit of crucible steel                                 |
-| Bomb, canister           | 4 units of blackpowder charges, 4 units of crucible steel                                   |
-| Bomb, heavy              | 8 units of blackpowder charges, 4 units of crucible steel                                   |
-| Bomb, mining             | 4 units of blackpowder charges                                                              |
-| Bomb, smoke              | 4 units of alchemical supplies                                                              |
-| Bomb, structure          | 6 units of blackpowder charges, 2 units of crucible steel                                   |
-| Bomb, thunder            | 4 units of blackpowder charges                                                              |
-| Bomb, wildfire           | 2 units of blackpowder charges, 4 units of alchemical ingredients, 1 unit of crucible steel |
-| Cannon shot, alchemical  | 1 unit of blackpowder charges, 2 units of alchemical ingredients                            |
-| Cannon shot, blackpowder | 4 units of blackpowder charges                                                              |
-| Cannon shot, canister    | 1 unit of blackpowder charges, 2 units of crucible steel                                    |
-| Cannon shot, chain       | 1 unit of blackpowder charges, 1 unit of crucible steel                                     |
-| Cannon shot, round       | 1 unit of crucible steel                                                                    |
-| Cannon shot, smoke       | 1 unit of blackpowder charges, 1 unit of alchemical ingredients                             |
-| Cannon shot, thunder     | 2 units of blackpowder charges                                                              |
-| Cannon shot, wildfire    | 1 unit of blackpowder charges, 2 units of alchemical ingredients                            |
-| Grenade                  | 1 unit of blackpowder charges                                                               |
-| Grenade, alchemical      | 1 unit of alchemical ingredients                                                            |
-| Grenade, canister        | 1 unit of crucible steel                                                                    |
-| Grenade, smoke           | 1 unit of alchemical ingredients                                                            |
-| Grenade, thunder         | 1 unit of blackpowder charges                                                               |
-| Grenade, wildfire        | 1 unit of alchemical ingredients                                                            |
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Science (Blackpowder).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
-| Blackpowder            | (Crafting)                               |
-| ---------------------- | ---------------------------------------- |
-| Base Time              |  1 hour, or 1 day (varies)               |
-| Opposition             |  Automatic Success                       |
-| Item Die               |  Metalworking tools, smithy, or workshop |
-| Supplies               |  Blackpowder charges and crucible steel  |
-| Bonus Die              |  Extra Time                              |
-| +                      |  Craft Fireworks                         |
-| +                      |  Craft Grenade                           |
-| ++                     |  Craft Bomb                              |
-| ++                     |  Craft Cannon Shot                       |
-| +++                    |  Craft Cannon                            |
-| +++++                  |  Craft Heavy Cannon                      |
-| ++++++                 |  Create Phlogistone Furnace              |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Fireworks (1 unit of blackpowder charges):** You create a number of fireworks equal to your ranks in Science (Blackpowder).
-
-**Craft Grenade (1 unit of crucible steel):** You create any grenade.
-You must also spend an additional amount of supplies as noted in the
-table above.
-
-**Craft Bomb (2 unit of blackpowder charges, 1 unit of crucible
-steel):** You create any bomb. You must also spend an additional amount
-of supplies as noted in the table above.
-
-**Craft Cannon Shot (1 unit of crucible steel):** You create any type of
-cannon shot. You must also spend an additional amount of supplies as
-noted in the table above.
-
-**Craft Cannon (2 units of blackpowder charges, 3 units of crucible
-steel):** You create any cannon up to furniture scale in size, or a hand
-mortar. If the cannon is furniture scale, spend an additional 3 units of
-crucible steel.
-
-**Craft Heavy Cannon (5 units of blackpowder charges, 20 units of crucible steel):** You create any cannon of room scale.
-
-**Craft Phlogistone Furnace (12 units of blackpowder charges, 10 units
-of crucible steel):** You create a phlogistone furnace with an Item Die
-of +1D10. You must have at least +4 ranks in Science (Blackpowder). If
-you have +5 ranks, you can spend an additional 2 success points, 3 units
-of blackpowder charges, and 5 units of crucible steel to create a
-furnace with a +1D12 Item Die.
-
-
-##### Block
-
-You can craft Rigid Armor using the Block specialty.
-
-**Prowess Required:** You can only create rigid armor if you have Rigid Armor Prowess.
-
-**Base Time:** Crafting armor takes 1 day.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool. 
-
-**Supplies:** Supplies of crucible steel are required for creating
-armor.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Defense (Block).
-
-**Rushing:** You can reduce the time to craft your armor by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::
-| Block            | (Crafting)                  |
-| ---------------- | --------------------------- |
-| Base Time        |  1 day                      |
-| Opposition       |  Automatic Success          |
-| Item Die         |  Metalworking tools, smithy |
-| Supplies         |  Crucible steel             | 
-| Bonus Die        |  Extra time                 |
-| +                |  Craft Metal Item           |
-| +                |  Craft Rigid Armor          |
-| +++              |  Improved Rigid Armor       |
-| +++++            |  Superior Rigid Armor       |
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Metal Item (1 or more units of crucible steel):** You create a metal item such as tailoring tools.
-
-**Craft Rigid Armor (2 units of crucible steel):** You create any rigid armor with an Armor Die of +1D8 or lower.
-
-**Improved Rigid Armor (4 units of crucible steel):** You create any rigid armor with an Armor Die of +1D10. 
-
-**Superior Rigid Armor (6 units of crucible steel):** You create any rigid armor with an Armor Die of +1D12.
-
-
-##### Brawl
-
-You can craft cudgels using the Military (Brawl) specialty.
-
-**Prowess Required:** You can only create cudgels if you have Cudgel Prowess.
-
-**Base Time:** Crafting a weapon takes 1 hour.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
-
-**Supplies:** Supplies of crucible steel are required for creating cudgels.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Military (Brawl).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::
-| Brawl            | (Crafting)                  |
-| ---------------- | --------------------------- |
-| Base Time        |  1 hour                     |
-| Opposition       |  Automatic Success          |
-| Item Die         |  Metalworking tools, smithy |
-| Supplies         |  Crucible steel             |
-| Bonus Die        |  Extra time                 |
-| +                |  Craft Light Cudgel         |
-| ++               |  Craft Heavy Cudgel         |
-| +++              |  Add Cudgel Quality         |
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Light Cudgel:** You create any cudgel with a Weapon Die of +1D6.
-
-**Craft Heavy Cudgel (2 units of crucible steel):** You create any cudgel with a Weapon Die of +1D8 or more
-
-**Add Cudgel Quality (1 unit of crucible steel):** You can give the
-cudgel one of the following qualities: Defending, Reach, Sparring,
-Success Table: Lunge (Wounding), Weighted. The cudgel can have a number
-of custom qualities equal to your Military (Brawl) specialty ranks.
-
-
-##### Brew
-
-You can craft draughts and salves using your skills at alchemy. You can also create medicine and poison antidotes.
-
-**Base Time:** Brewing takes 1 hour.
-
-**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
-
-**Supplies:** Crafting with Brew requires the expenditure of alchemical
-ingredients.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Magicks (Brew).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in Magicks (Brew).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::: success :::::::::::::::::::::::
-| Brew            | (Crafting)                    |
-| --------------- | ----------------------------- |
-| Base Time       |  1 hour                       |
-| Opposition      |  Automatic Success            |
-| Item Die        |  Alchemy tools or workshop    |
-| Supplies        |  Alchemical ingredients       |
-| Bonus Die       |  Extra time or extra supplies |
-| +               |  Brew Alchemical Substance    |
-| +               |  Create medicine              |
-| +               |  Increase Quantity            |
-| ++              |  Increase Potency             |
-| ++++            |  Reduce Material Cost         |
-| ++++++          |  Eureka\!                     |
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Brew Alchemical Substance (1 unit of alchemical ingredients):** You
-create one dose of a salve or draught listed in Chapter 9, "Specialized
-Gear". The substance has a Charm Die of +1D6.
-
-**Create medicine (1 unit of alchemical ingredients):** You create two
-units of medicine for every success point and unit of alchemical
-ingredients you spend.
-
-**Increase Quantity (1 unit of alchemical ingredients):** You make
-another salve or draught for each success point you spent. The Charm Die
-of the additional doses is the same as the original; you only need to
-increase the potency for one dose.
-
-**Increase Potency (1 unit of alchemical ingredients):** The Charm Die
-of the salve or draught improves by one die size. You are limited by the
-number of specialty ranks you have in Magicks (Brew).
-
-**Reduce Material Cost:** You reduce the overall cost of this Crafting
-roll by one unit of alchemical ingredients.
-
-**Eureka\! (2 units of alchemical ingredients):** You invent a new
-draught, salve, or concoction that hasn't been brewed before. Work with
-your MJ to determine the exact result of your new formulation. It has an
-initial Charm Die of +1D6.
-
-
-##### Calculus
-
-You can draw plans, create algorithms, or derive theorems using the Science (Calculus) specialty.
-
-**Base Time:** Creating something with Calculus takes 1 hour.
-
-**Item Die:** Add the Item Die of your abacus or other calculation tool when using Calculus.
-
-**Supplies:** The use of Science (Calculus) requires writing materials.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Science (Calculus).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in Science (Calculus).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically succeeds. The success points generated determine the quality of the creation.
-
-::::::::::::::::::::::: success ::::::::::::::::::::::::::
-| Calculus            | (Crafting)                       |
-| ------------------- | -------------------------------- |
-| Base Time           |  1 hour                          |
-| Opposition          |  Automatic Success               |
-| Item Die            |  Abacus or other calculation aid |
-| Supplies            |  Supplies (varies)               |
-| Bonus Die           |  Extra time, extra supplies      |
-| +                   |  Draw Plans                      |
-| ++                  |  Design Algorithm                |
-| ++++++              |  Eureka\! Eureka\!               |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Draw Plans (1 unit of writing materials):** You create plans for a
-clockwork component or a clockwork device. The plans have a Bonus Die of
-+0D6 for attempts to create that component, or assemble that device. For
-every 2 success points and 2 units of writing materials you spend, the
-Bonus Die of the plans improves by one die size, limited by your ranks
-in Science (Calculus).
-
-**Design Algorithm (2 units of writing materials):** You create and
-write down an algorithm with an Item Die of +1D6. The algorithm is a set
-of instructions for performing some task involving calculation, such as
-navigation, drawing plans, or preparing a meal. (An algorithm for making
-food is known as a recipe.) For every 2 success points and 2 units of
-writing materials you spend, the Item Die of the algorithm improves by
-one die size, limited by your ranks in Science (Calculus).
-
-**Eureka\! Eureka\! (6 units of writing materials):** You've derived a
-completely new theorem or solution to a problem, such as measuring the
-volume of an object by submerging it in water. (You're not required to
-run naked through the streets, though.) You need to have at least +4
-ranks in Science (Calculus) for this. If you share this with other
-mathematicians or scientists, they'll probably name the discovery after
-you.
-
-
-##### Carouse
-
-You can use Streetwise (Carouse) to craft alcoholic beverages.
-
-**Base Time:** Crafting alcohol takes 1 day.
-
-**Supplies:** Foodstuffs are required for creating alcohol.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks Streetwise (Carouse).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in Streetwise (Carouse).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::: success :::::::::::::::::::::
-| Carouse            | (Crafting)                  |
-| ------------------ | --------------------------- |
-| Base Time          |  1 day                      |
-| Opposition         |  Automatic Success          |
-| Supplies           |  Foodstuffs                 |
-| Bonus Die          |  Extra time, extra supplies |
-| +                  |  Craft Brewed Alcohol       |
-| ++                 |  Craft Wine                 |
-| ++                 |  Improved Alcohol           |
-| +++                |  Craft Spirits              |
-::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Brewed Alcohol (1 unit of foodstuffs):** You create a night's
-worth of cheap beer, ale, or cider for one person. For each additional
-success point you spend, you create another night's worth.
-
-**Craft Wine (1 unit of foodstuffs):** You create a bottle of wine of
-average quality. You can create another bottle of the same thing by
-spending another 1 success point and 1 unit of foodstuffs.
-
-**Improved Alcohol (1 unit of foodstuffs):** The quality of your alcohol
-increases to "good," and if you spend another 2 success points and 1
-unit of foodstuffs, to "really good".
-
-**Craft Spirits (1 unit of foodstuffs):** You create a bottle or flask
-of average quality spirits. For each additional success point and unit
-of foodstuffs you spend, you create another bottle.
-
-
-##### Clockworks
-
-You can clockwork devices, casings, and components with the Science (Clockworks) specialty.
-
-**Base Time:** Crafting clockwork items requires 1 hour.
-
-**Item Die:** Add the Item Die of your repair tools or workshop to your dice pool.
-
-**Supplies:** Clockwork gears are required for creating anything with Clockworks, except for clockwork gears -- which require crucible steel.
-
-**Plans:** If you have plans for the type of device or component you're
-trying to create, add the Bonus Die of the plans to your dice pool.
-Plans are created with the Science (Calculus) specialty.
-
-**Extra Time:** You can spend extra time on crafting a clockwork item to
-add a Bonus Die to your dice pool. The size of that die is limited by
-your number of ranks in Science (Clockworks).
-
-**Rushing:** You can reduce the time to craft your clockwork item by
-taking a Drop penalty on your die roll. You can't rush a job that you're
-taking extra time on. The size of the Drop penalty depends on how much
-you rush the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::::::::: success ::::::::::::::::::::::::::::
-| Clockworks            | (Crafting)                         |
-| --------------------- | ---------------------------------- |
-| Base Time             |  1 hour                            |
-| Opposition            |  Automatic Success                 |
-| Item Die              |  Clockwork tools,                  |
-| Supplies              |  Clockwork gears or crucible steel |
-| Bonus Die             |  Extra time, plans                 |
-| +                     |  Craft Component                   |
-| \+                    |  Craft Clockwork Gears             |
-| \+                    |  Craft Casing                      |
-| \++                   |  Assemble Device                   |
-| +++++                 |  Duplicate A Device                |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Component (1 or more units of clockwork gears):** You create a
-clockwork component. If it has an Item Die, it starts at +1D6. For each
-additional success point you spend, the Item Die increases one step,
-limited by your ranks in Science (Clockworks).
-
-**Craft Clockwork Gears (1 unit of crucible steel):** You create two
-units of clockwork gears. For each additional unit of crucible steel you
-spend, you create another two units of clockwork gears.
-
-**Craft Casing (1 or more units of crucible steel):** You create a
-casing for a clockwork device. The amount of steel you must spend
-depends on the size of the casing.
-
-**Assemble Device:** You complete a clockwork device. You must have all
-of the device's components in order to assemble it.
-
-**Craft Power Source (special):** You create a power source that can be
-installed in a device. The supplies cost varies depending on the type of
-power source you're using.
-
-**Duplicate A Device (special):** You create a duplicate of an existing
-clockwork device. You must spend the same amount and type of supplies to
-create the duplicate as was spent to create the original.
-
-
-##### Deceive
-
-You can create an alternate identity for yourself, including creating a disguise, by using the Interaction (Deceive) specialty.
-
-**Base Time:** Crafting an identity takes 1 day.
-
-**Supplies:** Fabric or alchemical components may be required for certain aspects of your new identity
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in the Specialty.
-
-**Rushing:** You can reduce the time to craft your identity by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::: success ::::::::::::::::::::::::
-| Deceive            | (Crafting)                     |
-| ------------------ | ------------------------------ |
-| Base Time          |  1 day                         |
-| Opposition         |  Automatic Success             |
-| Supplies           |  Fabric, alchemical components |
-| Bonus Die          |  Extra Time                    |
-| +                  |  Craft Identity                |
-| +                  |  Make a Connection             |
-| +                  |  Maintain Identity             |
-| ++                 |  Improve Identity              |
-| +++++              |  Assume Someone's Identity     |
-| ++++++             |  Persistent Identity           |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Identity (1 unit of fabric):** You create an alternate identity.
-That identity has a different name from you, although it otherwise has
-all the same qualities as you (general appearance, gender, etc). To
-casual observers, though, you're different people -- perhaps you put on
-a pair of spectacles in your new identity? You have a +1D0 Bonus Die
-when trying to pass yourself off as your new identity. Your identity
-lasts for up to 24 hours.
-
-You can spend additional success points to alter your appearance. Each
-alteration you make to your appearance costs 1 success point and one
-additional unit of supplies, as shown on the following table.
-
-Table: Identity Changes
-
-| Alteration           | Supplies Cost                    |
-| -------------------- | -------------------------------- |
-| Apparent age         | 1 unit of alchemical ingredients |
-| Apparent gender      | 1 unit of fabric                 |
-| Apparent height      | 1 unit of fabric                 |
-| Apparent nationality | 1 unit of alchemical ingredients |
-| Apparent weight      | 1 unit of fabric                 |
-| Hair color           | 1 unit of alchemical ingredients |
-| Hair style           | 1 unit of alchemical ingredients |
-
-**Improve Identity:** The Bonus Die afforded by your false identity
-improves by one die size. You are limited by the number of specialty
-ranks you have in Interaction (Deceive).
-
-**Make a Connection:** You go out in public and are seen are by one
-reputable person who will unwittingly vouch for your identity. Each
-additional success point gives you another person who thinks you're who
-you're pretending to be.
-
-**Maintain Identity:** Your identity lasts an additional 24 hours for
-every extra success point you spend. While your identity is active, you
-can make another Deceive roll to extend the duration; the cost to make
-this roll is equal to your original supplies cost for Craft Identity.
-You can only spend your success points on Make Connection, Maintain
-Identity, Improve Identity, or Persistent Identity if you make such a
-roll.
-
-**Assume Someone's Identity (3 units of fabric, 3 units of alchemical
-ingredients):** You disguise yourself as a specific person, adopting
-their appearance and identity.
-
-**Persistent Identity:** The identity you've crafted is so airtight that
-you can maintain it indefinitely without being discovered.
-
-
-##### Explore
-
-You can craft maps, globes, rations, shelters, rafts, and other survival gear with the Nature (Explore) specialty.
-
-**Base Time:** Crafting a quick map or rations takes 1 hour. Crafting survival gear creation takes 1 day.
-
-**Item Die:** Add the Item Die of your tools or workroom to your dice pool.
-
-**Supplies:** Supplies are required for crafting with this Specialty.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Nature (Explore).
-
-**Rushing:** You can reduce the time to craft by taking a Drop penalty
-on your die roll. You can't rush a job that you're taking extra time on.
-The size of the Drop penalty depends on how much you rush the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::: success :::::::::::::::
-| Explore            | (Crafting)            |
-| ------------------ | --------------------- |
-| Base Time          |  1 hour or 1 day      |
-| Opposition         |  Automatic Success    |
-| Item Die           |  Varies               |
-| Supplies           |  Varies               |
-| Bonus Die          |  Extra Time           |
-| +                  |  Craft Map            |
-| +                  |  Prepare Rations      |
-| ++                 |  Improve Map or Globe |
-| +++                |  Craft Globe          |
-| ++++               |  Build Shelter        |
-| +++++              |  Build Raft           |
-::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Map (1 unit of writing materials):** You create a map of either
-the local region or somewhere you've been. The map gives an Item Bonus
-of +1D6 on navigation, food gathering, and trailblazing in that area.
-You can also create a copy of any map you have access to.
-
-**Prepare Rations (1 unit of foodstuffs):** You create three days' worth
-of jerky and dried fruits that are easily portable and won't go bad. For
-each additional success point and unit of foodstuffs, you create another
-three days' worth.
-
-**Improve Map or Globe:** You increase the detail and information on
-your map or globe. The Item Bonus increases by one die size, limited by
-your ranks in Nature (Explore).
-
-**Craft Globe (3 units of art media):** You create a globe of the planet
-Arrete. This globe gives an Item Bonus of +1D6 on navigation between
-relatively large land masses and major settlements.
-
-**Build Shelter:** You create a shelter that can withstand the current
-weather for 24 hours. The duration increases by 24 hours for every
-additional success point you spend.
-
-**Build Raft:** You create a crude raft. It can stay together for 4
-hours, although each hour of inclement weather or rapids counts as two
-hours. The duration increases by 4 hours or every additional success
-point you spend.
-
-
-##### Feint
-
-You can craft whips and nets using the Feint specialty.
-
-**Prowess Required:** You can only create whips if you have Whip Prowess, and nets if you have Net Prowess.
-
-**Base Time:** Crafting a weapon takes 1 hour.
-
-**Supplies:** Supplies of fabric are required for creating whips or nets.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Dueling (Feint).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success ::::::::::::
-| Feint            | (Crafting)         |
-| ---------------- | ------------------ |
-| Base Time        |  1 hour            |
-| Opposition       |  Automatic Success |
-| Supplies         |  Fabric            |
-| Bonus Die        |  Extra time        |
-| +                |  Craft Net         |
-| +                |  Craft Whip        |
-| +++              |  Add Net Quality   |
-| +++              |  Add Whip Quality  |
-:::::::::::::::::::::::::::::::::::::::::
-
-**Craft Net (1 unit of fabric):** You create any net. 
-
-**Craft Whip (1 unit of fabric):** You create any whip.
-
-**Add Net Quality (1 unit of fabric or crucible steel):** You can give
-the net one of the following qualities: Reach, Specialty Table: Feint
-(Entangling, Tripping), Throwable, Weighted. The net can have a number
-of custom qualities equal to your Dueling (Feint) specialty ranks.
-
-**Add Whip Quality (1 unit of fabric or crucible steel):** You can give
-the whip one of the following qualities: Cavalry, Reach, Responding,
-Sparring, Success Table: Feint (Disarming, Entangling, Unhorse,
-Wounding), Weighted. The whip can have a number of custom qualities
-equal to your Dueling (Feint) specialty ranks.
-
-
-##### Husbandry
-
-You can use the Nature (Husbandry) specialty to harvest crops, slaughter
-animals, prepare meals, and create leather armor and other leather
-goods.
-
-**Base Time:** Each use of Nature (Husbandry) takes one hour.
-
-**Item Die:** You can add the Item Die of cooking utensils or a kitchen
-while preparing food; and you can add the Item Die of tailoring tools
-when making flexible armor.
-
-**Supplies:** Supplies of foodstuffs are needed only if you are preparing food. Creating armor requires fabric and possibly 
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Nature (Husbandry).
-
-**Rushing:** You can reduce the time to use Nature (Husbandry) by taking
-a Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::::: success ::::::::::::::::::
-| Husbandry            | (Crafting)               |
-| -------------------- | ------------------------ |
-| Base Time            |  1 hour                  |
-| Opposition           |  Automatic Success       |
-| Item Die             |  Tools (varies)          |
-| Supplies             |  Supplies (varies)       |
-| Bonus Die            |  Extra Time              |
-| +                    |  Craft Flexible Armor    |
-| +                    |  Craft Leather Item      |
-| +                    |  Prepare Food            |
-| +++                  |  Improved Flexible Armor |
-| +++++                |  Superior Flexible Armor |
-:::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Flexible Armor (1 unit of fabric):** You create any flexible armor with a +1D6 Armor Die.
-
-**Craft Leather Item (1 or more units of fabric):** You create a leather item such as a saddle, belt, or pouch.
-
-**Prepare Food (1 unit of foodstuffs):** You create a meal (or several
-smaller meals) that are enough to feed two people for 1 day. For each
-additional unit of foodstuffs you spend, you can feed another two
-people. The food becomes inedible after 24 hours, but you can extend
-this duration by 24 hours for every additional success point you spend.
-
-**Improved Flexible Armor (2 units of fabric, 1 unit of crucible steel):
-**You create any flexible armor with an Armor Die of +1D8.
-
-**Superior Flexible Armor (2 units of fabric, 2 units of crucible
-steel):** You create any flexible armor with an Armor Die of +1D10 or
-higher.
-
-
-##### Larceny
-
-You can create forged documents, imitation jewelry, locks, traps, and
-alarms with the Streetwise (Larceny) specialty.
-
-**Base Time:** Creating a forgery or an obstacle takes 1 hour.
-
-**Item Die:** Add the Item Die of your repair tools or workshop to your dice pool when working with locks or traps.
-
-**Supplies:** Clockwork gears are required for creating locks or traps,
-Writing materials materials are required for forging documents, and art
-media for duplicating jewelry.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Streetwise (Larceny).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::
-| Larceny            | (Crafting)                                        |
-| ------------------ | ------------------------------------------------- |
-| Base Time          |  1 hour                                           |
-| Opposition         |  Automatic Success                                |
-| Item Die           |  Repair tools or workshop for obstacles           |
-| Supplies           |  Clockwork gears, writing materials, or art media |
-| Bonus Die          |  Extra time                                       |
-| +                  |  Craft Obstacle                                   |
-| ++                 |  Improve Obstacle Quality                         |
-| +++++              |  Forge Document                                   |
-| +++++              |  Duplicate Jewelry                                |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Obstacle (1 unit of clockwork gears):** You create a simple
-lock, alarm, or trap. Attempts to install or bypass the obstacle are
-made against Standard Opposition of Easy (3D6).
-
-**Improve Obstacle Quality (1 unit of clockwork gears):** The quality of
-obstacle improves, increasing the Standard Opposition for attempts to
-disable or bypass the obstacle. You are limited by the number of
-specialty ranks you have in Streetwise (Larceny). 
-
-**Forge Document (1 unit of writing materials):** You create a forgery
-of a document. The standard opposition to detect the deception is Easy
-(3D6) and improves by one die size for every 2 additional success points
-you spend, limited by your Streetwise (Larceny).
-
-**Duplicate Jewelry (2 units of art media):** You create a piece of
-jewelry that appears to be expensive and valuable, but is actually
-worthless crystal, glass, or shiny metals. The standard opposition to
-detect that the jewelry isn't real starts at Easy (3D6) and improves by
-one die size for every 2 additional success points and 1 unit of art
-media you spend.
-
-
-##### Lunge
-
-You can craft polearms and swords with the Dueling (Lunge) specialty.
-
-**Prowess Required:** You can only create polearms if you have Polearm Prowess, and swords if you have Sword Prowess.
-
-**Base Time:** Crafting a weapon takes 1 hour.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
-
-**Supplies:** Supplies of crucible steel are required for creating weapons.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Defense (Parry).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::
-| Lunge            | (Crafting)                  |
-| ---------------- | --------------------------- |
-| Base Time        |  1 hour                     |
-| Opposition       |  Automatic Success          |
-| Item Die         |  Metalworking tools, smithy |
-| Supplies         |  Crucible steel             |
-| Bonus Die        |  Extra time                 |
-| +                |  Craft Light Sword          |
-| ++               |  Craft Long Sword           |
-| ++++             |  Craft Great Sword          |
-| +                |  Craft Short Polearm        |
-| +++              |  Craft Long Polearm         |
-| +++              |  Add Sword Quality          |
-| +++              |  Add Polearm Quality        |
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Light Sword (1 unit of crucible steel):** You create any sword that has the Either Hand quality.
-
-**Craft Long Sword (2 units of crucible steel):** You can create any sword that has the Main Hand quality.
-
-**Craft Great Sword (4 units of crucible steel):** You can create any sword that has the Both Hands quality.
-
-**Craft Short Polearm (1 unit of crucible steel):** You can create any polearm that doesn't have reach.
-
-**Craft Long Polearm (3 units of crucible steel):** You can create any polearm that has the Reach quality.
-
-**Add Sword Quality (1 unit of crucible steel):** You can give the sword
-one of the following qualities: Cavalry, Lightened, Success Table: Lunge
-(Wounding, Yielding, Unhorse), Success Table: Parry (Basket Hilt),
-Weighted. The weapon can have a number of custom qualities equal to your
-Dueling (Lunge) specialty ranks.
-
-**Add Polearm Quality (1 unit of crucible steel):** You can give the
-polearm one of the following qualities: Cavalry, Lightened, Parrying,
-Reach, Success Table: Lunge (Disarming, Knockdown, Unhorse), Throwable,
-Weighted. The weapon can have a number of custom qualities equal to your
-Dueling (Lunge) specialty ranks.
-
-
-##### Negotiate
-
-You can craft legal documents, including business contracts, treaties,
-bills of sale, identity papers, and more, by using the Interaction
-(Negotiate) specialty.
-
-**Base Time:** Crafting a contract, treaty, or identity papers takes one hour, and crafting a bill of sale takes one minute.
-
-**Supplies:** Crafting any sort of document requires writing materials.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Interaction (Negotiate).
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::::: success ::::::::::::::::::::::
-| Negotiate            | (Crafting)                   |
-| -------------------- | ---------------------------- |
-| Base Time            |  1 minute or 1 hour          |
-| Opposition           |  Automatic Success           |
-| Supplies             |  Writing materials materials |
-| Bonus Die            |  Extra time                  |
-| +                    |  Craft Basic Document        |
-| ++                   |  Improve Document            |
-| +++                  |  Craft Complex Document      |
-| +++++                |  Forge Document              |
-| ++++++               |  Include Loophole            |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Basic Document (1 unit of writing materials):** You create a
-basic legal document, such as a bill of sale. If signed by at least one
-party and used in later negotiations, it provides you with a +1D0 Bonus
-Die.
-
-**Improve Document (1 unit of writing materials):** The document's Bonus
-Die improves by one die size. You are limited by the number of specialty
-ranks you have in Interaction (Negotiate).
-
-**Craft Complex Document (5 units of writing materials):** You create a
-complex legal document, such as a treaty, a business contract, or
-identity papers. If signed by all parties involved and used in later
-negotiations, it provides you with a +1D0 Bonus Die.
-
-**Forge Document:** The document you create isn't actually legally
-binding, but it looks authentic to casual inspection -- including any
-signatures you have access to. You can only do this with a basic
-document, or with the signatures on a complex document. The standard
-opposition for attempts to detect the forgery starts at Easy (3D6) and
-increases by one die size for every 2 success points you spend.
-
-**Include Loophole (1 unit of writing materials):** You add a loophole
-into the document that renders the document null and void under a
-specific circumstance. You decide that circumstance when you create the
-document, but it's not obvious to any other parties to the agreement.
-You can choose to reveal the loophole whenever the circumstances are
-right. You can only do this with a complex document.
-
-
-##### Parry
-
-You can craft shields using the Parry specialty.
-
-**Prowess Required:** You can only create shields if you have Shield Prowess.
-
-**Base Time:** Crafting a shield takes 1 hour.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
-
-**Supplies:** Supplies of crucible steel are required for creating shields.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Defense (Parry).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::
-| Parry            | (Crafting)                  |
-| ---------------- | --------------------------- |
-| Base Time        |  1 hour                     |
-| Opposition       |  Automatic Success          |
-| Item Die         |  Metalworking tools, smithy |
-| Supplies         |  Crucible steel             |
-| Bonus Die        |  Extra time                 |
-| +                |  Craft Light Shield         |
-| ++               |  Shield Spike               |
-| +++              |  Craft Standard Shield      |
-| +++++            |  Craft Heavy Shield         |
-| ++++++           |  Perfectly Balanced         |
-::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Light Shield (1 unit of crucible steel):** You create any shield with an Item Die of +1D6.
-
-**Shield Spike (1 unit of crucible steel):** You affix a spike the
-shield you've created, letting its Shield Die be used as a Weapon Die
-for Lunge and Riposte. The wielder must have both Shield Prowess and
-Knife Prowess to include that Weapon die in any dice pool.
-
-**Craft Standard Shield (1 unit of crucible steel):** You create any
-shield with an item die of +1D8.
-
-**Craft Heavy Shield (2 unit of crucible steel):** You create any shield
-with an item die of +1D10.
-
-**Perfectly Balanced (1 unit of crucible steel):** The shield is
-perfectly balanced for throwing. If the wielder has Shield Prowess and
-Cudgel Prowess, its Shield Die can be used as a Weapon Die for Lunge,
-Riposte, and Aim (+++: Shield Rebounds to Thrower, Close Range Drop 0,
-Short Range Drop 0, Medium Range Drop 2).
-
-
-##### Poison
-
-You can craft poisons and antidotes with Medicine (Poison) specialty.
-
-**Base Time:** Crafting poison or antidote takes 1 hour.
-
-**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
-
-**Supplies:** Alchemical ingredients are required for crafting poisons and antidotes.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Medicine (Poison).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in Medicine (Poison).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::::: success ::::::::::::::::::::::
-| Poison            | (Crafting)                   |
-| ----------------- | ---------------------------- |
-| Base Time         |  1 hour                      |
-| Opposition        |  Automatic Success           |
-| Item Die          |  Alchemy tools or laboratory |
-| Supplies          |  Alchemical ingredients      |
-| Bonus Die         |  Extra time, extra supplies  |
-| +                 |  Craft Standard Poison       |
-| +                 |  Craft Antidote              |
-| +                 |  Increase Quantity           |
-| +                 |  Add Time Delay              |
-| \++               |  Add Stage                   |
-| ++                |  Improve Potency             |
-| +++               |  Craft Exotic Poison         |
-| +++               |  Craft Exotic Antidote       |
-| ++++              |  Reduce Material Cost        |
-| +++++             |  Develop Antidote            |
-| ++++++            |  Eureka\!                    |
-::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Standard Poison (1 unit of alchemical ingredients):** You create
-one dose of a standard type of poison with an Item Die of +1D6. Standard
-poisons are listed in Chapter 9, "Specialized Gear."
-
-**Craft Antidote (1 unit of alchemical ingredients):** You create two
-doses of poison antidote. The antidote gives a +1D6 Item Die on attempts
-to cure poisons.
-
-**Increase Quantity (1 unit of alchemical ingredients):** You make
-another dose of poison or two doses of antidote for each success point
-and unit of alchemical ingredients you spend. The Item Die of the
-additional doses is the same as the original; you only need to increase
-the potency, add a delay, or add a stage for one dose.
-
-**Add Time Delay (1 unit of alchemical ingredients):** The poison
-doesn't take effect until 1 hour after being introduced to the victim's
-system for each success point and unit of alchemical ingredients you
-spend. The maximum number of hours you can delay the effects is equal to
-your ranks in Poison (Medicine)
-
-**Add Stage (1 unit of alchemical ingredients):** You create a staged
-poison -- the individual components are harmless but when all are
-combined together the poison takes effect. Applications of the stages
-must take place within an hour of the first stage, or the poison loses
-all potency. The maximum number of stages you can create is equal to
-your ranks in Poison (Medicine); if you just have +1 rank, you can't
-create a staged poison.
-
-**Improve Potency (1 unit of alchemical ingredients):** You increase the
-Item Die of the poison or antidote by one die size. You are limited by
-the number of specialty ranks you have in Poison (Medicine).
-
-**Craft Exotic Poison (3 units of alchemical ingredients):** You create
-one dose of a rare poison. The poison has an Item Die of +1D6, and it
-can only be neutralized by a dose of exotic antidote created
-specifically for this toxin.
-
-**Craft Exotic Antidote (3 units of alchemical ingredients):** You
-create one dose of an antidote formulated against a specific exotic
-poison. The antidote has an Item Die of +1D6, and is only effective
-against that single toxin.
-
-**Develop Antidote (3 units of alchemical ingredients, 1 dose of the
-poison in question or a poisoned victim):** You create one dose of an
-antidote formulated against an unknown poison or unique poison. The
-antidote has an Item Die of +1D6, and is only effective against that
-single toxin. Now that you've created the cure, you can create it as an
-"exotic antidote", as can anyone who you instruct in the process.
-
-**Eureka\! (5 units of alchemical ingredients):** You've managed to mix
-up a unique poison that is resistant to the normal antidotes. The
-poison's Item Die is +1D6. Now that you have created it, you can create
-it as an "exotic poison", as can anyone who you instruct in the process.
-In addition, you can also create an antidote to your own creation.
-
-
-##### Portents
-
-You can craft divination cards, astrological charts, and bibelots with the Magicks (Portents) specialty.
-
-**Base Time:** Using Magicks (Portents) to draw astrological charts or
-encharm bibelots takes one hour. Crafting divination cards takes one
-day.
-
-**Item Die:** Add the Item Die of your tools or workroom to your dice pool.
-
-**Supplies:** Art media is required to produce items using Magicks (Portents).
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Magicks (Portents).
-
-**Rushing:** You can reduce your crafting time by taking a Drop penalty
-on your die roll. You can't rush a job that you're taking extra time on.
-The size of the Drop penalty depends on how much you rush the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::::::: success ::::::::::::::::::::::
-| Portents            | (Crafting)                   |
-| ------------------- | ---------------------------- |
-| Base Time           |  1 hour or 1 day             |
-| Opposition          |  Automatic Success           |
-| Item Die            |  Artisan tools, seance room  |
-| Supplies            |  Art media                   |
-| Bonus Die           |  Extra Time                  |
-| +                   |  Draw Astrological Charts    |
-| ++                  |  Improve Astrological Charts |
-| +++                 |  Encharm Bibelot             |
-| +++++               |  Create Divination Cards     |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Draw Astrological Charts (1 unit of art media):** You create a set of
-astrological charts for someone based on the place, date, and time of
-her birth. (Incorrect information will, of course, produce useless
-charts\!) The charts you create provide you with a +1D6 Item Die for
-Magicks (Portents) rolls on that person.
-
-**Improve Astrological Charts (1 unit of art media):** The Item Die of
-the astrological charts improves by one die size. The Item Die is
-limited by the number of specialty ranks you have in Magicks (Portents).
-
-**Encharm Bibelot (1 unit of art media):** You create a single bibelot
-encharmed with a skill of your choice. (See Chapter 9, "Specialty Gear",
-for details on bibelots.)
-
-**Create Divination Cards (5 units of art media):** You create a
-personalized deck of divination cards, either for yourself or for
-someone whom you have astrological charts. The deck has an Item Die of
-+1D6 which increases by one step for each additional success point you
-spend, limited by the number of specialty ranks you in Magicks
-(Portents). Your own deck also has a Bonus Die of +1D0, and you can
-increase that by one step for each additional success point, limited by
-your Portents ranks.
-
-
-##### Riposte
-
-You can craft knives with the Riposte specialty.
-
-**Prowess Required:** You can only create knives if you have Knife Prowess.
-
-**Base Time:** Crafting a weapon takes 1 hour.
-
-**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
-
-**Supplies:** Supplies of crucible steel are required for creating weapons.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Defense (Riposte).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::: success :::::::::::::::::::::
-| Riposte            | (Crafting)                  |
-| ------------------ | --------------------------- |
-| Base Time          |  1 hour                     |
-| Opposition         |  Automatic Success          |
-| Item Die           |  Metalworking tools, smithy |
-| Supplies           |  Crucible steel             |
-| Bonus Die          |  Extra time                 |
-| +                  |  Craft Light Knife          |
-| ++                 |  Craft Long Knife           |
-| +++                |  Add Knife Quality          |
-::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Light Knife (1 unit of crucible steel):** You create any knife with the Either Hand quality.
-
-**Craft Long Knife (2 unit of crucible steel):** You can create any knife with the Main Hand quality.
-
-**Add Knife Quality (1 unit of crucible steel):** You can give the knife
-one of the following qualities: Lightened, Medium Range, Sparring,
-Success Table: Riposte (Disarming, Wounding), Success Table: Success
-Table: Feint (Retort), Success Table: Parry (Basket Hilt, Disarming,
-Weapon-Catching), Throwable, Weighted. The weapon can have a number of
-custom qualities equal to your Dueling (Riposte) specialty ranks
-
-
-##### Scholarship
-
-You can craft reports and research summaries for your own use or the use
-of others. Each report has to be on a very specific topic, such as
-"The Effect of Piracy on French Commerce in the 15th Century."
-
-You can also craft one chapter of a non-fiction book, with a broader
-topic such as "Piracy in France" or "Economics of the 15th Century."
-
-**Base Time:** Crafting a report takes 1 hour. Crafting a book chapter takes 1 day.
-
-**Research Required:** You must either have first-hand knowledge of the
-topic or use Culture (Scholarship) to do research of at least 1 hour for
-a report and 1 day for a book chapter.
-
-**Item Die:** Add the Item Die of your applicable reference book or library to your dice pool.
-
-**Supplies:** Crafting a report or book chapter requires Writing materials supplies.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Culture (Scholarship).
-
-**Rushing:** You can reduce the time to craft your report by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::::::::: success ::::::::::::::::::::::
-| Scholarship            | (Crafting)                   |
-| ---------------------- | ---------------------------- |
-| Base Time              |  1 hour                      |
-| Opposition             |  Automatic Success           |
-| Item Die               |  Books, library              |
-| Supplies               |  Writing materials materials |
-| Bonus Die              |  Extra time                  |
-| +                      |  Craft Report                |
-| ++                     |  Improve Writing             |
-| +++                    |  Translate a Passage         |
-| +++                    |  Craft Book Chapter          |
-| ++++++                 |  Eureka\!                    |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Report (1 unit of writing materials):** You create a basic
-report on a narrow topic. The report has a +1D6 Item Die that can be
-used in Scholarship or Knowledge rolls related to the topic.
-
-**Improve Writing (1 unit of writing materials):** The Item Die of the
-report or book chapter improves by one die size. You are limited by the
-number of specialty ranks you have in Culture (Scholarship).
-
-**Translate a Passage (1 unit of writing materials):** You can translate
-one page of text from one language you know to another language you
-know. If you have a translating dictionary, you only have to know one of
-the languages. For each additional success point and unit of writing
-materials you spend, you can translate another page of text.
-
-**Craft Book Chapter (3 units of writing materials):** You create a book
-chapter about a general topic. The book has a +1D6 Item Die that can be
-used in Scholarship or Knowledge rolls related to the topic.
-
-**Eureka\!:** During the course of your research, you've reached a new
-conclusion that has eluded other scholars before you. The Item Die of
-the report or chapter is maximized when used in a dice pool.
-
-
-##### Strategy
-
-You can create written materials to be used in military operations with the Military (Strategy) specialty.
-
-**Base Time:** Drafting military materials takes 1 hour.
-
-**Supplies:** Writing materials are required for crafting with Strategy.
-
-**Extra Time:** You can spend extra time on writing to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Military (Strategy).
-
-**Rushing:** You can reduce the time to write your materials by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the writing.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-::::::::::::::::::::::: success :::::::::::::::
-| Strategy            | (Crafting)            |
-| ------------------- | --------------------- |
-| Base Time           |  1 hour               |
-| Opposition          |  Automatic Success    |
-| Supplies            |  writing materials    |
-| Bonus Die           |  Extra time           |
-| +                   |  Draft Battle Plans   |
-| ++                  |  Improve Battle Plans |
-| ++                  |  Issue Orders         |
-| +++++               |  Forge Orders         |
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-**Draft Battle Plans (1 unit of writing materials):** You create a basic
-plan of battle for a specific place and time. The plans give a +1D0
-Bonus Die on Military (Strategy) rolls for that location, and are valid
-for 1 week (6 days). The time can be extended by 1 week for each
-additional success point you spend.
-
-**Improve Battle Plans (1 unit of writing materials):** The Bonus Die of
-your battle plans increased by one die size. You are limited by the
-number of specialty ranks you have in Military (Strategy).
-
-**Issue Orders (1 unit of writing materials):** You issue orders to one
-person under your command based on your battle plans. (Orders given to
-officers apply to all troops under that officer's command). If your
-orders are followed, your subordinate gains a +1D6 Item Die on Military
-(Strategy), Nature (Explore) and Nature (Prowl) rolls related to those
-plans. For each additional success point and unit of writing materials,
-you can issue orders to another subordinate. For each additional 2
-success points you spend, the Item Die of your orders improves by one
-die size, limited by your specialty ranks in Military (Strategy).
-
-**Forge Orders (1 unit of writing materials):** You create a forgery of
-military orders that appear to come from a specific commander. This can
-include fake letters of promotion, forged military identification
-papers, and legitimate-looking orders that will actually end in
-disaster. When someone attempts to analyze these orders, the standard
-opposition is Easy (3D6). The difficulty increases by one step for every
-2 success points and 1 unit of writing materials you spend.
-
-
-##### Treat
-
-You can craft medicine and cures for diseases with the Medicine (Treat) specialty.
-
-**Base Time:** Crafting medicine takes 1 hour. Crafting a disease cure takes 1 day.
-
-**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
-
-**Supplies:** medicine require alchemical ingredients; disease cures require medicine.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Medicine (Treat).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in Medicine (Treat).
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::::::::::
-| Treat            | (Crafting)                          |
-| ---------------- | ----------------------------------- |
-| Base Time        | 1 hour or 1 day                     |
-| Opposition       | Automatic Success                   |
-| Item Die         |  Alchemy tools or laboratory        |
-| Supplies         |  medicine or alchemical ingredients |
-| Bonus Die        |  Extra Time                         |
-| +                |  Craft medicine                     |
-| ++               |  Craft Known Cure                   |
-| ++++             |  Reduce Material Cost               |
-| +++++            |  Duplicate Cure                     |
-| ++++++           |  Eureka\!                           |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft medicine (1 unit of alchemical ingredients):** You create two
-units of medicine for every 1 success point and 1 unit of alchemical
-ingredients you spend.
-
-**Craft Known Cure (2 units of medicine):** You create one dose of a
-cure for a known disease. The cure is effective for 24 hours, although
-the potency can be extended by another 24 hours for each success point
-you spend. Each extra success point and unit of medicine you spend
-creates another dose of the same cure.
-
-**Duplicate Cure (2 units of medicine):** You duplicate the curative
-properties of a cure without knowing the exact treatment for it, as long
-as you have a sample. You create one dose of the cure, and for every
-extra success point and unit of medicine you create another dose. The
-cure is effective for only 12 hours and cannot be extended.
-
-**Eureka\! (5 units of medicine):** You've invented a new cure for the
-disease you're treating. You craft one dose of the cure, and for every
-extra success point and unit of medicine you create another one. The
-cure is effective for 24 hours, although you can extend the potency by
-another 24 hours for each success point you spend. From now on, you can
-create this cure as a "known cure" as can anyone who you instruct.
-
-
-##### Weave
-
-You can craft articles of clothing, including charmwoven items.
-
-**Base Time:** Crafting an article of clothing takes 1 hour.
-
-**Item Die:** Add the Item Die of your tailoring tools or workshop to your dice pool.
-
-**Supplies:** Creating clothes requires fabric supplies.
-
-**Extra Time:** You can spend extra time on crafting to add a Bonus Die
-to your dice pool. The size of that die is limited by your number of
-ranks in Magicks (Weave).
-
-**Extra Supplies:** You can use extra supplies while crafting to add a
-Bonus Die to your dice pool. The size of that die is limited by your
-number of ranks in the Specialty.
-
-**Rushing:** You can reduce the time to craft your creation by taking a
-Drop penalty on your die roll. You can't rush a job that you're taking
-extra time on. The size of the Drop penalty depends on how much you rush
-the crafting.
-
-**Opposition:** Unless you are rushing, a crafting roll automatically
-succeeds. The success points generated determine the quality of the
-creation.
-
-:::::::::::::::::::: success :::::::::::::::::::::::
-| Weave            | (Crafting)                    |
-| ---------------- | ----------------------------- |
-| Base Time        |  1 hour                       |
-| Opposition       |  Automatic Success            |
-| Item Die         |  Tailoring tools or workshop  |
-| Supplies         |  Fabric                       |
-| Bonus Die        |  Extra time or extra supplies |
-| +                |  Craft Article of Clothing    |
-| ++               |  Add Charm to Clothing        |
-| ++               |  Increase Charm               |
-| ++++             |  Reduce Material Cost         |
-| ++++++           |  Masterpiece\!                |
-::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-**Craft Article of Clothing (1 unit of fabric):** You create a basic
-article of clothing that is social rank Commoner (D0) or Soldier (D6).
-If the social rank is Artisan (D8) or higher, you need to pay extra
-success points to create it. If you spend one additional success
-point, you can create an article of clothing that is social rank Artisan
-(D8) or Noble (D10). If you have at least 4 ranks in Magicks (Weave),
-you can spend one more success point to create an article of clothing
-that is social rank Royal (D12).
-
-**Add Charm to Clothing:** You add a charm to the article you created,
-with a Charm Die of +1D6. The item must be in accordance with the
-applicable Laws of Fashion (see Chapter 9, "Specialized Gear").
-
-**Increase Charm (1 unit of fabric):** The Charm Die of the article of
-clothing improves by one die size. You are limited by the number of
-specialty ranks you have in Magicks (Weave).
-
-**Reduce Material Cost:** You reduce the overall cost of this Crafting
-roll by one unit of fabric.
-
-**Masterpiece\!:** You've created an amazing article of apparel that
-draws everyone's eyes. The article's Charm Die is automatically
-maximized when used in a dice pool.
 
 ## Style Maneuvers
 
@@ -7287,7 +5376,6 @@ This list summarizes the available style maneuvers.
   - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
   - **Relentless Pathfinding:** Spend 2 Style Points to set the value of one Explore die to its maximum value before rolling
   - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
-  - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
   - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
   - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
   - **Saw That Coming:** When unarmed and facing an armed opponent, spend 1 Style Point to add Portents dice to a Dodge roll
@@ -7355,7 +5443,7 @@ other dice rolls.
 Finally, you need to decide which classes, nationalities, or other
 groups have access to the new maneuver. Perhaps it's a lost sword
 technique only taught to students of a retired blademaster, or it's
-commonly practiced by adult members of a house of the Ifran desert. It's
+commonly practiced by adult members of a distant tribe. It's
 possible you might decide that no groups can freely choose your new
 maneuver, in which case players will need to pay the additional XP cost
 when choosing it.
@@ -7370,157 +5458,6 @@ she'll like the idea\!
 In this chapter, we'll look at the mundane clothes, weapons, tools, and
 other items that a cavalier might use during the course of her day.
 
-#### Item Scale
-
-Every item has a scale that describes the general size of the item:
-pocket scale, handheld scale, portable scale, human scale, furniture
-scale, room scale, and building scale. In general, it's easy enough to
-determine the scale of most items, but for some items a scale is
-explicitly listed in the lists that follow.
-
-The scale concept is used in the optional rules for Encumbrance, later
-in this chapter, as well as for clockwork devices in Chapter 9,
-"Specialty Equipment," and animals in Chapter 20, "Opponents."
-
-##### Pocket Scale
-
-A pocket-scale device is light, easily concealed, requires only one hand
-to operate, and can be carried within a pocket or beneath clothing
-without attracting undue notice. Examples include small pistols or
-knives, flasks of alchemical brews, and a pet mouse. 
-
-Weapons of this size are classified as Either Hand weapons.
-
-##### Handheld Scale
-
-A handheld item usually requires one hand to operate and can be carried
-on a belt, in a holster, or in a scabbard. Most can't be easily
-concealed unless you're willing to forego easy access. Examples include
-most swords, tool kits, bucklers, and large hats.
-
-When describing animals, such as cats or small dogs, handheld scale is
-known as pet scale. Weapons of this size are classified as Main Hand
-weapons.
-
-##### Portable Scale
-
-A portable-scale item is one which requires two hands to carry and
-operate, or perhaps can be carried as a backpack. Examples include
-two-handed swords, muskets, and bar stools.
-
-The equivalent scale for animals is companion scale. A portable-scale
-weapon is classified a Both Hands weapon.
-
-##### Human Scale
-
-An object roughly the size of a person – such as a statue or a suit of
-rigid armor – can't be easily carried by a single person without
-requiring her full attention. Other examples include work carts, heavy
-chairs, and velocipedes.
-
-##### Furniture Scale
-
-Larger than a human but smaller than a room, a carriage-scale item is
-around the size of a bed, a wardrobe dresser, or a small carriage. At
-best, an adult human can drag a furniture-scale item around but can't
-pick it up. Other furniture-scale items are horses, rowboats, and
-thrones.
-
-In descriptions of animals, furniture scale is known as mount scale.
-
-##### Room Scale
-
-Room-scale items can be rooms themselves, the amount of furnishings it
-takes to fill up a room, or an object of comparable size. In combat,
-each room-scale item is usually its own Area.
-
-Mammoth scale is the equivalent of room scale when describing animals.
-
-##### Building Scale
-
-Building-scale items include buildings, of course, but also large
-vehicles such as sailing ships or airships. In combat situations, a
-building-scale object is usually divided into multiple Areas.
-
-When talking about animals this large, such as giant squids or great
-whales, the term behemoth scale is used.
-
-::::::::::::::::::::::::: option ::::::::::::::::::::::::::::::::::::::::::;
-#### Optional Rule: Encumbrance
-
-This is an optional rule that the MJ can use if it will enhance her
-game. In most cases, the calculations are more effort than they're worth
-and rarely provide any actual change in the game. However, if the
-players start carrying around dozens of heavy items, the MJ might decide
-that this use can help bring her players' gear into line with her
-expectations for the game. *The Queen's Cavaliers* is a swashbuckling
-action game, and not about lugging around heavy weights\!
-
-##### Carrying Limit
-
-A human carrying a Person-sized object takes a Drop 2 penalty on attack
-rolls (Dueling, Brawl, and Aim), and cannot move more than one area in a
-given turn. Humans cannot usually move items of Carriage size or higher,
-unless it's got wheels or something similar.
-
-*Example:* You pick up an unconscious colleague and carry her over your
-shoulders. That's obviously a Person-sized object, so you get a Drop 2
-penalty and can't run.
-
-##### Combining Encumbrance
-
-Three items of a smaller size are equivalent to one item of larger size.
-So three Portable items are as bulky and heavy as one Person-sized
-object -- meaning if you're carrying a musket, a zweihander, and a pike
-(all Portable-sized objects), you've got the equivalent of a
-Person-sized object and take the Drop 2 penalty, plus you can't run.
-
-Three Pocket-sized items equal a Handheld object; three Handheld-sized
-items equal a Portable object; and three Portable-sized items equal a
-Person-sized object. You could carry eight Handheld objects -- say, a
-cutlass, a buckler, and a brace of six pistols tied together by rope --
-and not be slowed down, because that only equals two Portable items,
-which is less than a Person-sized object.
-
-##### Worn Items
-
-Items that are specifically designed to be worn -- and which can't be
-removed easily during the middle of a fight (and sometimes, even after a
-fight) -- count as one size lower for purposes of encumbrance when worn.
-A suit of armor is normally Person-sized, but if you're wearing it, it
-counts as Portable-sized. (If you're trying to carry an empty suit of
-armor, though, it counts as Person-sized.) A worn breastplate (Portable)
-counts as a Handheld item. 
-
-Pocket-sized items which are worn don't count at all for encumbrance
-purposes, unless you're wearing three of the same kind -- for example, a
-worn wrist holster (Pocket) or two doesn't weigh you down at all. Three
-worn wrist holsters, however, would equal a Pocket-sized objects -- base
-size of Pocket, stepped up to Handheld for three of them, then stepped
-down again to Pocket size for being worn.
-
-Clothing of any type never counts for calculating encumbrance -- it's
-all considered Pocket size (regardless of actual size) and thus is not
-included when worn unless you're doing something silly like wearing
-three different capes at the same time.
-
-##### Other Things That Don't Weigh Very Much
-
-Medicine, alchemy supplies, draughts and unguents, poisons, and other
-small consumables don't count for encumbrance unless you've got 9 of
-them, in which case they count as a Pocket-sized object. Ammunition and
-powder for your guns, arrows for your crossbows and bows, and other
-types of ammo don't ever count; they're included with the weapon itself
-(especially as they're not tracked in *The Queen's Cavaliers*).
-
-Other supplies (art supplies, blackpowder supplies, clockwork gears,
-fabric, foodstuffs) count as one Pocket-size object for every three
-units you carry. So if you're carrying, say, 10 units of clockwork
-gears, that counts as three Pocket-size objects, or 1 Handheld object.
-Two or fewer units of these supplies don't count for encumbrance
-purposes.
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Wealth
 
@@ -7653,7 +5590,7 @@ and D8 for finding an Expert charmweaver, for a total of 2D8+1D6 as the
 opposition to your Wealth roll.
 
 By comparison, an uncharmed cavalier hat would cost D6 plus D0
-availability in Lutetia (they're all the rage these days), for a total
+availability in Paris (they're all the rage these days), for a total
 of 1D6.
 
 ###### Cost D0
@@ -7695,6 +5632,308 @@ New characters begin the game with three Rewards, equal in value to the
 dice in their Wealth pool. Additional Rewards should be granted by the
 Gamemaster. A typical good deed may net a Reward equal to the player characters'
 Competency die, while capturing a fugitive could earn a Reward equaling the criminal's Competency die.
+
+### Item Scale
+
+Every item has a scale that describes the general size of the item:
+pocket scale, handheld scale, portable scale, human scale, furniture
+scale, room scale, and building scale. In general, it's easy enough to
+determine the scale of most items, but for some items a scale is
+explicitly listed in the lists that follow.
+
+The scale concept is used in the optional rules for Encumbrance, later
+in this chapter, as well as for clockwork devices <a href="#clockworks-2" class="xref-inchapter-under"></a> 
+and animals <a href="#animals" class="xref-inchapter"></a>.
+
+#### Pocket Scale
+
+A pocket-scale device is light, easily concealed, requires only one hand
+to operate, and can be carried within a pocket or beneath clothing
+without attracting undue notice. Examples include small pistols or
+knives, flasks of alchemical brews, and a pet mouse. 
+
+Weapons of this size are classified as Either Hand weapons.
+
+#### Handheld Scale
+
+A handheld item usually requires one hand to operate and can be carried
+on a belt, in a holster, or in a scabbard. Most can't be easily
+concealed unless you're willing to forego easy access. Examples include
+most swords, tool kits, bucklers, and large hats.
+
+When describing animals, such as cats or small dogs, handheld scale is
+known as pet scale. Weapons of this size are classified as Main Hand
+weapons.
+
+#### Portable Scale
+
+A portable-scale item is one which requires two hands to carry and
+operate, or perhaps can be carried as a backpack. Examples include
+two-handed swords, muskets, and bar stools.
+
+The equivalent scale for animals is companion scale. A portable-scale
+weapon is classified a Both Hands weapon.
+
+#### Human Scale
+
+An object roughly the size of a person – such as a statue or a suit of
+rigid armor – can't be easily carried by a single person without
+requiring her full attention. Other examples include work carts, heavy
+chairs, and velocipedes.
+
+#### Furniture Scale
+
+Larger than a human but smaller than a room, a carriage-scale item is
+around the size of a bed, a wardrobe dresser, or a small carriage. At
+best, an adult human can drag a furniture-scale item around but can't
+pick it up. Other furniture-scale items are horses, rowboats, and
+thrones.
+
+In descriptions of animals, furniture scale is known as mount scale.
+
+#### Room Scale
+
+Room-scale items can be rooms themselves, the amount of furnishings it
+takes to fill up a room, or an object of comparable size. In combat,
+each room-scale item is usually its own Area.
+
+Mammoth scale is the equivalent of room scale when describing animals.
+
+#### Building Scale
+
+Building-scale items include buildings, of course, but also large
+vehicles such as sailing ships or airships. In combat situations, a
+building-scale object is usually divided into multiple Areas.
+
+When talking about animals this large, such as giant squids or great
+whales, the term behemoth scale is used.
+
+
+::::::::::::::::::::::::: option ::::::::::::::::::::::::::::::::::::::::::
+Optional Rule: Encumbrance
+
+This is an optional rule that the MJ can use if it will enhance her
+game. In most cases, the calculations are more effort than they're worth
+and rarely provide any actual change in the game. However, if the
+players start carrying around dozens of heavy items, the MJ might decide
+that this use can help bring her players' gear into line with her
+expectations for the game. *The Queen's Cavaliers* is a swashbuckling
+action game, and not about lugging around heavy weights\!
+
+### Carrying Limit
+
+A human carrying a Person-sized object takes a Drop 2 penalty on attack
+rolls (Dueling, Brawl, and Aim), and cannot move more than one area in a
+given turn. Humans cannot usually move items of Carriage size or higher,
+unless it's got wheels or something similar.
+
+*Example:* You pick up an unconscious colleague and carry her over your
+shoulders. That's obviously a Person-sized object, so you get a Drop 2
+penalty and can't run.
+
+### Combining Encumbrance
+
+Three items of a smaller size are equivalent to one item of larger size.
+So three Portable items are as bulky and heavy as one Person-sized
+object -- meaning if you're carrying a musket, a zweihander, and a pike
+(all Portable-sized objects), you've got the equivalent of a
+Person-sized object and take the Drop 2 penalty, plus you can't run.
+
+Three Pocket-sized items equal a Handheld object; three Handheld-sized
+items equal a Portable object; and three Portable-sized items equal a
+Person-sized object. You could carry eight Handheld objects -- say, a
+cutlass, a buckler, and a brace of six pistols tied together by rope --
+and not be slowed down, because that only equals two Portable items,
+which is less than a Person-sized object.
+
+### Worn Items
+
+Items that are specifically designed to be worn -- and which can't be
+removed easily during the middle of a fight (and sometimes, even after a
+fight) -- count as one size lower for purposes of encumbrance when worn.
+A suit of armor is normally Person-sized, but if you're wearing it, it
+counts as Portable-sized. (If you're trying to carry an empty suit of
+armor, though, it counts as Person-sized.) A worn breastplate (Portable)
+counts as a Handheld item. 
+
+Pocket-sized items which are worn don't count at all for encumbrance
+purposes, unless you're wearing three of the same kind -- for example, a
+worn wrist holster (Pocket) or two doesn't weigh you down at all. Three
+worn wrist holsters, however, would equal a Pocket-sized objects -- base
+size of Pocket, stepped up to Handheld for three of them, then stepped
+down again to Pocket size for being worn.
+
+Clothing of any type never counts for calculating encumbrance -- it's
+all considered Pocket size (regardless of actual size) and thus is not
+included when worn unless you're doing something silly like wearing
+three different capes at the same time.
+
+### Other Things That Don't Weigh Very Much
+
+Medicine, alchemy supplies, draughts and unguents, poisons, and other
+small consumables don't count for encumbrance unless you've got 9 of
+them, in which case they count as a Pocket-sized object. Ammunition and
+powder for your guns, arrows for your crossbows and bows, and other
+types of ammo don't ever count; they're included with the weapon itself
+(especially as they're not tracked in *The Queen's Cavaliers*).
+
+Other supplies (art supplies, blackpowder supplies, clockwork gears,
+fabric, foodstuffs) count as one Pocket-size object for every three
+units you carry. So if you're carrying, say, 10 units of clockwork
+gears, that counts as three Pocket-size objects, or 1 Handheld object.
+Two or fewer units of these supplies don't count for encumbrance
+purposes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+### Clothing
+
+#### Clothing Qualities
+
+Articles of clothing have the following qualities:
+
+**Worn On:** Each article of clothing is designed to be worn on a
+specific part of your body -- head, shoulders, torso, hands, legs, or
+feet. In general, you can wear only one item per location, although you
+may be able to stack multiple cloaks on your shoulders under certain
+circumstances -- check with your Gamemaster to be sure.
+
+Items worn on the legs can't have charms woven into them. 
+
+**Social Rank:** Some items are associated with certain social ranks.
+This doesn't restrict what you can wear, regardless of your own social
+rank, but it may affect how you and your outfit are seen by others. The
+social rank of an article of clothing can be used as an availability die
+in a purchase roll.
+
+**Scale:** Articles of clothing are usually handheld scale when carried,
+and don't contribute to encumbrance when worn if the optional system for
+encumbrance is used. Items wrapped up in a box for gifting or transport
+are one scale category higher, including the packaging.
+
+The following table lists the most common types of clothes that are
+found in Gallinea. 
+
+Table: Articles of Clothing
+
+| Item                | Cost | Worn On   | Social Rank    |
+| :------------------ | :--: | :-------- | :------------- |
+| Beret, artisan's    | 1D0  | Head      | Artisan (1D8)  |
+| Bodice, fine        | 1D6  | Torso     | Noble (1D10)   |
+| Bodice, common      | 1D0  | Torso     | Commoner (1D0) |
+| Boots, military     | 1D6  | Feet      | Soldier (1D6)  |
+| Boots, work         | 1D6  | Feet      | Commoner (1D0) |
+| Breeches            | 1D6  | Legs      | Commoner (1D0) |
+| Cape, cloth         | 1D0  | Shoulders | Soldier (1D6)  |
+| Cape, fur           | 1D8  | Shoulders | Artisan (1D8)  |
+| Capotain            | 1D0  | Head      | Military (1D6) |
+| Casaque             | 1D6  | Torso     | Soldier (1D6)  |
+| Cavalier hat        | 1D6  | Head      | Military (1D6) |
+| Chopines            | 1D6  | Feet      | Noble (1D10)   |
+| Cloak               | 1D0  | Shoulders | Commoner (1D0) |
+| Doublet, common     | 1D6  | Torso     | Commoner (1D0) |
+| Doublet, fine       | 1D0  | Torso     | Noble (1D10)   |
+| Gloves, courtier's  | 1D6  | Hands     | Noble (1D10)   |
+| Gloves, craftsman's | 1D0  | Hands     | Artisan (1D8)  |
+| Gloves, farmer's    | 1D0  | Hands     | Commoner (1D0) |
+| Gloves, soldier's   | 1D0  | Hands     | Soldier (1D6)  |
+| Goggles, gearspring | 1D6  | Head      | Artisan (1D8)  |
+| Gown, courtly       | 1D10 | Torso     | Noble (1D10)   |
+| Gown, surgeon's     | 1D6  | Torso     | Artisan (1D8)  |
+| Hair ribbons        | 1D0  | Head      | Noble (1D10)   |
+| Hose                | 1D0  | Legs      | Noble (1D10)   |
+| Masque              | 1D0  | Head      | Noble (1D10)   |
+| Pantaloons          | 1D6  | Legs      | Military (1D6) |
+| Pantofles           | 1D0  | Feet      | Artisan (1D8)  |
+| Petticoat           | 1D6  | Legs      | Noble (1D10)   |
+| Plague mask         | 1D6  | Head      | Artisan (1D8)  |
+| Poulaines           | 1D0  | Feet      | Military (1D6) |
+| Robes               | 1D0  | Torso     | Commoner (1D0) |
+| Sandals             | 1D0  | Feet      | Commoner (1D0) |
+| Shift               | 1D0  | Torso     | Commoner (1D0) |
+| Shoes, buckled      | 1D0  | Feet      | Commoner (1D0) |
+| Skirt               | 1D6  | Legs      | Common (1D0)   |
+| Skullcap, clerical  | 1D0  | Head      | Artisan (1D8)  |
+| Smock               | 1D0  | Torso     | Commoner (1D0) |
+| Stockings           | 1D0  | Legs      | Commoner (1D0) |
+| Stole, liturgical   | 1D0  | Shoulders | Artisan (1D8)  |
+| Stole, ornate       | 1D8  | Shoulders | Noble (1D10)   |
+| Tabard              | 1D6  | Shoulders | Soldier (1D6)  |
+| Tricorne            | 1D6  | Head      | Military (1D6) |
+| Vestments           | 1D6  | Torso     | Artisan (1D8)  |
+
+#### Standard outfits
+
+Many outfits just naturally go together. Every new character starts with
+one or two standard outfits depending on her class and backstory. In
+addition to sharing a common cost, outfits are all considered part of
+the same social rank, regardless of the actual social rank of each
+item.
+
+Table: Standard Outfits
+
+| Item                | Cost    | Includes                                                             |
+| :------------------ | :-----: | :------------------------------------------------------------------- |
+| Clockworker outfit  | 2D6     | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
+| Corsair outfit      | 4D6     | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
+| Courtly outfit      | 3D6     | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
+| Crafter outfit      | 2D6     | Artisan's beret, smock, breeches, craftsman's gloves, buckled shoes  |
+| Military outfit     | 2D6     | Capotain, soldier's gloves, breeches, boots, tabard                  |
+| Peasant outfit      | 1D6     | Shift, breeches, buckled shoes                                       |
+| Physician outfit    | 3D6     | Plague mask, surgeon's gown, breeches, pantofles                     |
+| Priest outfit       | 2D6     | Clerical skullcap, vestments, courtier's gloves, breeches, pantofles |
+| Scholar's outfit    | 1D6+1D8 | Ornate stole, robes, breeches, poulaines                             |
+| Swashbuckler outfit | 4D6     | Cavalier hat, doublet, soldier's gloves, breeches, boots, cloth cape |
+
+**Clockworker outfit (Artisan 1D8):** This is worn while doing
+mechanician work, and usually has a lot of extraneous pockets and loops
+for tools and gears. The most notable feature is the set of gearspring
+goggles, which give an item die bonus of Perceive +1D6 on visual checks.
+
+**Corsair outfit (Soldier 1D6):** Worn by sailors and pirates around the
+world, and by many would-be buccaneers, this outfit certainly captures
+the look of the chic privateer.
+
+**Courtly outfit (Noble 1D10):** Nobles, and those who must interact
+with them, are known for their outlandishly ornate couture and finely
+arranged coiffure.
+
+**Crafter outfit (Artisan 1D8):** Similar to a clockworker outfit, a
+crafter outfit is for doing productive work, be it artistic, magickal,
+or smithing in content.
+
+**Military outfit (Soldier 1D6):** Military outfits come with an
+appropriate tabard from the correct military unit, noble house,
+mercenary group, or city guard. For example, a veteran/constable may
+have one tabard from the French army, and another from the Parisian
+watch. Military outfits don't come with a torso item, to facilitate the
+wearing of armor.
+
+**Peasant outfit (Commoner 1D0):** Plain and practical, peasant outfits
+can be found throughout Europe, and in nearly every social rank. As
+they're easily patched, many peasant outfits are simply stitched
+together from different types and colors of fabric. 
+
+**Physician outfit (Artisan 1D8):** The notable feature of this outfit
+is the large, vaguely bird-shaped mask used during surgery; the beak of
+this mask contains herbs and cloth meant to filter out diseases. Most
+physician outfits start out white in color, but quickly become stained
+with crimson.
+
+**Priest outfit (Artisan 1D8):** The traditional dress of clergy
+varies by their rank within the church. 
+
+**Scholar's outfit (Artisan 1D8):** Students and instructors at
+universities, seminaries, officer schools, and other institutions of
+higher learning are expected to dress in traditional scholarly robes
+while teaching or attending classes. Outside of class, of course,
+they're free to wear whatever they want.
+
+**Swashbuckler outfit (Soldier 1D6):** The cavalier hat, the billowing
+cape, the high boots -- anyone wearing this outfit cuts a dashing figure
+indeed. While some such outfits are more sedate and refined, many look
+are flamboyant to an excessive degree.
+
 
 ### Weapons
 
@@ -8214,7 +6453,7 @@ armor or torso attire, but not both.
 Block and Parry rolls. You can't include more than one Armor Die in any
 dice pool, so you can't combine the Armor Dice of a shield and armor.
 
-The following table lists the types of armor commonly found in Gallinea;
+The following table lists the types of armor commonly found;
 each of these would have a +1D0 Availability Die in major cities, and
 +1D6 elsewhere.
 
@@ -8247,14 +6486,21 @@ Table: Uncommon Armor
 | Plate armor    | 1D10 | Rigid    | Block +1D12        |
 | Almain-rivet   | 1D6  | Rigid    | Block +1D8         |
 
-  - **Buff coat:** Essentially a longer, reinforced gambeson, buff coats are favored by military officers. As with gambesons, they have charmwoven enchants; they are Soldier (1D6) social rank, can take Military (Brawl, Aim, or Strategy) charms, and are available in the full range of colors used in charmweaving. (See Chapter 9, "Specialty Equipment," for further details on charmweaving.)
-  - **Gambeson: **Thick cloth padding makes these jerkins equal to leather in protective value, but the slightly longer construction time means they see less use. However, they can have charmwoven enchants added.  Gambesons are considered to be Soldier (1D6) social rank, can have Defense (Block, Parry, or Dodge) charms added, and are only available in neutral colors. (See Chapter 9, "Specialty Equipment," for further details on charmweaving.)
+  - **Buff coat:** Essentially a longer, reinforced gambeson, buff coats are favored by military officers. As with gambesons, 
+    they have charmwoven enchants; they are Soldier (1D6) social rank, can take Military (Brawl, Aim, or Strategy) charms, 
+    and are available in the full range of colors used in charmweaving.
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
+
+  - **Gambeson: **Thick cloth padding makes these jerkins equal to leather in protective value, but the slightly longer construction time means they see less use. However, they can have charmwoven enchants added.  Gambesons are considered to be Soldier (1D6) social rank, can have Defense (Block, Parry, or Dodge) charms added, and are only available in neutral colors. 
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
+  
   - **Kite shield:** Also known as a heater shield, this is larger than a buckler. The size prevents you from effectively using any Main Hand weapon at the same time as the shield.
-  - **Maille hauberk: **This is a jacket or vest made of chainmail. The protective benefits in modern Gallinea are outweighed by the time -- and thus the cost -- necessary to produce it.
+  - **Maille hauberk: **This is a jacket or vest made of chainmail. The protective benefits in modern France are outweighed by the time -- and thus the cost -- necessary to produce it.
   - **Morion:** This is an open-faced, steel helmet shaped somewhat like a hat with a ridge down the middle. Morions are favored by guards and infantry. While it gives minimal protection when used alone, it grants a +1D6 Bonus Die to Block rolls if you're wearing a steel breastplate. You can't wear an article of head attire while wearing a morion.
   - **Parade armor: **These are highly decorative suits of plate armor, each one individually made for its wearer. (They're only available in major cities, and even then usually have a +1D12 Availability Die.) Like other suits of plate armor, the wearer takes a Drop 2 penalty on Defense (Dodge), Dueling (Feint), and Nature (Prowl) rolls when parade armor is worn. 
 
-    While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. See Chapter 9, "Specialty Equipment," for more information on charmweaving.
+    While the actual protective value of parade armor is less than a suit of plate armor, they are the only type of rigid armor that can take charms.  Parade armor is Noble (1D10) social rank and can be made in any color.  The helmet, breastplate, gauntlets, and boots can each have individual charms. 
+  <a href="#charmweaving" class="xref-see-charmweaving"></a>
 
     Parade armor helmet charms can be Culture (Arts, Etiquette, Scholarship) or Observation (Perceive, Intuition, Deduce); breastplate charms can be Defense (Block, Parry, Dodge) or Interaction (Inspire, Negotiate, Deceive); gauntlet charms can be Military (Brawl, Aim, Strategy) or Streetwise (Banter, Carouse, Larceny); and boot charms can be Nature (Explore, Husbandry, Prowl) or Dueling (Lunge, Parry, Riposte). The entire suit of parade armor must be worn or none of the charms are active.
 
@@ -8262,9 +6508,2366 @@ Table: Uncommon Armor
   - **Almain-rivet:** Originally created in Germany ("Almain" references an Early Modern English term meaning "German"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing almain-rivet.
 
 
+### Tools of the Trade
+
+Tools are sets of objects that grant you an Item Die on one or more dice rolls. You only get this
+Item Die if you are using the tools in way they were intended to be used (as listed below).
+
+Table: Tools
+
+| Item                | Cost | Item Die                                                        |
+| :------------------ | :--: | :-------------------------------------------------------------- |
+| Abacus              | 1D6  | Calculus +1D6                                                   |
+| Alchemy Tools       | 1D6  | Brew +1D6, Poison +1D6                                          |
+| Artistic Tools      | 1D6  | Arts +1D6 creation only                                         |
+| Book                | 1D6  | Knowledge +1D6 on one topic                                     |
+| Chirurgeon's Knives | 1D6  | Surgery +1D6, Treat +1D6, Knife +1D6                            |
+| Divination Tools    | 1D6  | Portents +1D6                                                   |
+| Farmworking Tools   | 1D6  | Husbandry +1D6, Cudgel +1D0                                     |
+| Kitchen Cutlery     | 1D6  | Arts +1D6 cooking only, Husbandry +1D6 cooking only, Knife +1D6 |
+| Lockpicks           | 1D6  | Larceny +1D6 lockpicking only                                   |
+| Magnifying Glass    | 1D6  | Perceive +1D6 on small items only, Deduce +1D6                  |
+| Mariner's Astrolabe | 1D6  | Explore +1D6 navigation only, Calculus +1D6 navigation only     |
+| Metalworking Tools  | 1D6  | Crafting +1D6 metal items only                                  |
+| Mining Tools        | 1D6  | Explore +1D6 prospecting only, Blackpower +1D6 mining only      |
+| Musical Instrument  | 1D6  | Arts +1D6 performance only, Inspire +1D6                        |
+| Repair Tools        | 1D6  | Clockworks +1D6                                                 |
+| Rolling Pin         | 1D0  | Arts +1D0 cooking only, Cudgel +1D0                             |
+| Spyglass            | 1D6  | Observation +1D6 more than 2 areas away                         |
+| Tailoring Tools     | 1D6  | Weave +1D6                                                      |
+
+  - **Abacus:** *description needed*
+  - **Alchemy Tools:** *description needed*
+  - **Artistic Tools:** *description needed*
+  - **Book:** *description needed*
+  - **Chirurgeon's Knives:** *description needed*
+  - **Divination Tools:** *description needed*
+  - **Farmworking Tools:** *description needed*
+  - **Kitchen Cutlery:** *description needed*
+  - **Lockpicks:** *description needed*
+  - **Magnifying Glass:** *description needed*
+  - **Mariner's Astrolabe:** *description needed*
+  - **Metalworking Tools:** *description needed*
+  - **Mining Tools:** *description needed*
+  - **Musical Instrument:** *description needed*
+  - **Repair Tools:** *description needed*
+  - **Rolling Pin:** *description needed*
+  - **Spyglass:** *description needed*
+  - **Tailoring Tools:** *description needed*
+
+### Alchemy Items
+
+The most items created using the Magicks (Brew) specialty are shown below.
+For a more complete list and rules on using Brew to create your own draughts,
+salves, and other alchemy items, see <a href="#alchemical-items" class="xref-inchapter-under"></a>.
+
+Table: Alchemy Items
+
+| Item                     | Cost     | Bonus Die      |
+| :----------------------- | :------: | :------------- |
+| Antidote                 | D6, bulk |                |
+| Courage Draught          | D6, bulk |                | 
+| Detective's Vice         | D6, bulk | Deduce    +1D6 | 
+| Firefly Lamp             | D6       |                |
+| Healing Unguent          | D6, bulk |                |
+| Memory Draught           | D6, bulk | Knowledge +1D6 |
+| Nimblefingers Unction    | D6, bulk | Larceny   +1D6 |
+| Serpent's Tongue Draught | D6, bulk | Deceive   +1D6 |
+| Teetotaler's Tea         | D6, bulk | Carouse   +1D6 |
+  
+  - **Antidote:** One unit is expended each time you use the Poison specialty to neutralize toxins.
+  - **Courage Draught:** This removes 1D6 Yield from whoever drinks it.
+  - **Detective's Vice:** *description needed* drink
+  - **Firefly Lamp:** *description needed* carried
+  - **Healing Unguent:** This gives a Treat +1D6 bonus die on Surgery or Treat rolls to heal the person it's applied to.
+  - **Memory Draught:** *description needed* drink
+  - **Nimblefingers Unction:** *description* applied to hands
+  - **Serpent's Tongue Draught:** *description needed* drink
+  - **Teetotaler's Tea:** *description needed* drink
+
+### Clockworks
+
+The following items can usually be easily found in a large city such as Lutetia.
+
+See <a href="#clockworks-2" class="xref-inchapter-under"></a> for rules on how to
+create your own devices using the Science (Clockworks) Specialty.
+
+Table: Common Clockwork Items
+
+| Item                   | Cost  |
+| :--------------------- | :---: | 
+| Autoloader (Musket)    | D8    |
+| Autoloader (Pistol)    | D6    |
+| Climbing Gears         | D8    |
+| Clockwork Limb (Arm)   | D10   |
+| Pocketwatch            | D6    |
+| Wing-glider, Folding   | D10   |
+| Wrist Holster (Pistol) | D6    |
+
+  - **Autoloader (Musket):** Reduce Drop penalty by 1 when reloading weapon
+  - **Autoloader (Pistol):** Reduce Drop penalty by 1 when reloading weapon
+  - **Climbing Gears:** Spend 1 turn to connect two non-adjacent Areas.
+  - **Clockwork Limb (Arm):** Replaces arm; D6 Armor Die but Drop 1 with Dueling and Aim rolls using arm
+  - **Pocketwatch:** Reliably tells time
+  - **Wing-glider, Folding:** Fits in a backpack; slows descent
+  - **Wrist Holster (Pistol):** Reduce Drop penalty by 1 when drawing pistol
+
+#### Clockwork Weapons
+
+*introduction needed*
+
+Table: Clockwork Weapons
+
+| Weapon           | Cost  | Hands   | Weapon Die    | Specialties                  | 
+| :--------------- | :---- | :------ | :------------ | :--------------------------- | 
+| Clockbow         | D10   | Both    | Bow +1D8      | Aim                          |
+| Clockwork Pistol | D8    | Main    | Pistol +1D6   | Aim                          |
+| Gearsword        | D10   | Main    | Sword +1D8    | Parry, Lunge, Riposte, Feint |
+
+Table: Details for Aimed Clockwork Weapons
+
+| Weapon           | Reload | Close  | Short  | Medium | Long   |
+| :--------------- | :----- | :----- | :----- | :----- | :----- |
+| Clockbow         | Drop 4 | Drop 0 | Drop 0 | Drop 0 | Drop 2 |
+| Clockwork Pistol | Drop 2 | Drop 0 | Drop 1 | --     | --     |
+
+  - **Clockbow:** can fire 4 times before reloading; Drop 4 to reload.
+  - **Clockwork Pistol:** No gunpowder; quieter than a normal pistol
+  - **Gearsword:** Spend 1 Turn to add D6 Weapon die until the end of the scene.
+
+### Living Expenses
+
+Characters are assumed to have their housing
+and daily nutritional needs met by their Social Rank scores without
+having to make Wealth rolls or spend Rewards for normal daily living.
+Only unusual expenses, such as a night on the town or an inn stay in a
+distant city, need to be paid for separately.
+
+The costs below are fairly standardized across France, although it's
+only the larger towns and cities that have the best food, inns, and
+alcohol. As a package, one night's stay for a character and her horse in
+an inn with an attached tavern will cost 4D0 for the cheapest room and
+food, 3D6+1D0 for good quality, and 3D8+1D0 for the most exquisite food,
+drink, and suite.
+
+Characters who go carousing and buy rounds on the house can use the
+price of the most expensive alcohol bought as an Item die on their
+Streetwise (Carouse) rolls.
+
+Table: Living Expenses
+
+| Service Requested                     | Cost |
+| :------------------------------------ | :--: |
+| Drinks for one night, good            | 1D6  |
+| Drinks for one night, private reserve | 1D8  |
+| Drinks for one night, watered down    | 1D0  |
+| Lodging for one night, cheap          | 1D0  |
+| Lodging for one night, good           | 1D6  |
+| Lodging for one night, sumptuous      | 1D8  |
+| Lodging for one week, cheap           | 1D6  |
+| Lodging for one week, good            | 1D8  |
+| Lodging for one week, sumptuous       | 1D10 |
+| Meals for one day, bland              | 1D0  |
+| Meals for one day, good               | 1D6  |
+| Meals for one day, gourmet            | 1D8  |
+| Round on the house, good              | 1D8  |
+| Round on the house, private reserve   | 1D10 |
+| Round on the house, watered down      | 1D6  |
+| Stabling for one night                | 1D0  |
+| Stabling for one week                 | 1D6  |
+
+ - **Drinks, good:** *description needed* 
+ - **Drinks, private reserve:** *description needed* 
+ - **Drinks, watered down:** *description needed* 
+ - **Lodging, cheap:** *description needed* 
+ - **Lodging, good:** *description needed* 
+ - **Lodging, sumptuous:** *description needed* 
+ - **Meals, bland:** *description needed* 
+ - **Meals, good:** *description needed* 
+ - **Meals, gourmet:** *description needed* 
+ - **Round on the house:** *description needed* 
+ - **Stabling:** *description needed* 
+
+### Miscellaneous Gear
+
+*introduction needed*
+
+### Transportation and Animals
+
+*introduction needed*
+
+#### Vehicles
+
+*introduction needed*
+
+Table: Vehicles
+
+| Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed    |
+| :----------: | :--: | :--------: | :-------: | :---------------- |
+| Airship      | 4D12 | --         | 3 Areas   | 20 miles per hour |
+| Carriage     | 1D8  | 1 Area     | 2 Areas   | 6 miles per hour  |
+| Cart         | 1D0  | 1 Area     | 2 Areas   | 6 miles per hour  |
+| Gondola      | 2D6  | 1 Area     | 2 Areas   | 4 miles per hour  |
+| Narrowboat   | 2D8  | --         | 1 Area    | 2 miles per hour  | 
+| River Barge  | 1D8  | --         | 1 Area    | 2 miles per hour  | 
+| Rowboat      | 1D6  | 1 Area     | 2 Areas   | 4 miles per hour  | 
+| Sailing Ship | 2D12 | --         | 2 Areas   | 12 miles per hour | 
+| Velocipede   | 1D8  | 1 Area     | 3 Areas   | 6 miles per hour  | 
+| Wagon        | 1D6  | 1 Area     | 2 Areas   | 6 miles per hour  | 
+
+ - **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
+ - **Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+ - **Cart**: *description needed* 
+ - **Gondola:** *description needed*  river
+ - **Narrowboat:** *description needed* river
+ - **River Barge:** *description needed* river
+ - **Rowboat:** *description needed* river
+ - **Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
+ - **Velocipede:** *description needed*
+ - **Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+  
+#### Mounts
+
+*introduction needed*
+
+Table: Mounts
+
+| Mount        | Cost | Walk Speed | Run Speed | Overland Speed     | Item Die       |
+| :----------- | :--: | :--------: | :-------: | :----------------- | :------------- |
+| Draft Horse  | 1D6  | 1 Area     | 2 Areas   | 2 leagues per hour | Husbandry +1D6 |
+| Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
+| Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
+
+ - **Draft Horse:** *description needed*
+ - **Riding Horse:** *description needed* 
+ - **Warhorse:** *description needed*
+  
+##### Horse Accessories
+
+*introduction needed*
+
+### Pets and Farm Animals
+
+*introduction needed*
+
+**Domesticated:** *description needed*
+
+Table: Pets and Farm Animals
+
+| Animal            | Cost | Example(s)                         |
+| :---------------- | :--: | :--------------------------------- |
+| Beast of burden   | 1D6  | Ox, mule                           |
+| Bird, messenger   | 1D6  | Homing pidgeon                     |
+| Bird, song        | 1D0  | Canary, dove                       |
+| Cat, common       | 1D0  | Housecat, alley cat                |
+| Cat, purebred     | 1D6  |                                    |
+| Dog, companion    | 1D6  |                                    |
+| Dog, guard        | 1D6  |                                    |
+| Dog, herding      | 1D6  |                                    |
+| Dog, hunting      | 1D6  |                                    |
+| Dog, mongrel      | 1D0  | Small, ordinary mutt               |
+| Fowl, barnyard    | 1D0  | Chicken, goose                     |
+| Livestock, dairy  | 1D6  | Cow, goat                          |
+| Livestock, meat   | 1D6  | Pig, sheep                         |
+| Livestock, wool   | 1D6  | Sheep, goat                        |
+| Raptor, trained   | 1D8  | Falcon                             |
+| Raptor, untrained | 1D6  | Owl, crow                          |
+| Reptile, small    | 1D0  | Snake, box turtle                  |
+| Rodent            | 1D0  | Mouse, rat                         |
+| Rabbit            | 1D0  | Bunny, hare                        |
+
+ - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
+ - **Bird, Messenger (domesticated):** *description needed* 
+ - **Bird, Song:** *description needed*
+ - **Cat, Common:** *description needed*
+ - **Cat, Purebred:** *description needed*
+ - **Dog, Companion (Domesticated):** *description needed*
+ - **Dog, Guard (Domesticated):** *description needed*
+ - **Dog, Herding (Domesticated):** *description needed*
+ - **Dog, Mongrel (Domesticated):** *description needed*
+ - **Fowl, Barnyard:** *description needed*
+ - **Livestock, Dairy:** *description needed*
+ - **Livestock, Meat:** *description needed*
+ - **Livestock, Wool:** *description needed*
+ - **Raptor, Trained (Domesticated):** *description needed*
+ - **Raptor, Untrained:** *description needed*
+ - **Reptile:** *description needed*
+ - **Rodents and Rabbits:** *description needed*
+  
+
+
+
+## Crafting # {.breakbefore}
+
+As described earlier, characters can use most specialties in order to craft items
+related to that specialty. The requirements for crafting are:
+
+  - **You need to spend time.** The time varies -- minutes, hours, days,
+    weeks. You can't craft more than 8 hours in a day.
+    You may be able to increase or decrease the time
+    to craft an item, to affect your success at crafting.
+
+  - **You need tools to work.** If you don't have the right tools, you
+    at least need something that can function as the right tools, even
+    if you don't get an Item Die from the makeshift tool.
+
+  - **You need at least one specialty rank.** You can't make a crafting
+    roll based on the skill alone. Each further specialty rank adds new
+    items you can craft.
+
+  - **You need to expend supplies.** Supplies are counted in "units", an
+    abstracted measure of the raw material you have on hand. In most
+    cases, you can't substitute something else, but check with your MJ.
+
+  - **You need to make a specialty roll.** If you've met all the other
+    requirements listed above, you automatically succeed on the roll and
+    craft something. The purpose of the roll is to determine how well of
+    a job you did on the crafting. The more success points you spend,
+    the better the final product. You can't gain style points on
+    crafting rolls.
+
+### Supplies
+
+The raw materials used in crafting are known as "supplies". Supplies are
+measured in terms of "units" -- each unit of supplies is an abstract
+amount of the materials for making the simplest item of a given type.
+
+Supplies can be purchased as shown in the following table. All supplies
+can be bought in bulk<a href="#making-a-wealth-roll" class="xref-asdesc-insection"></a>.
+
+Table: Supplies
+
+| Item                   | Cost | Use                                             |
+| ---------------------- | ---- | ----------------------------------------------- |
+| Alchemical ingredients | 1D6  | Draughts, salves, concoctions, poison, medicine |
+| Art media              | 1D6  | Works of art                                    |
+| Blackpowder charges    | 1D0  | Blackpowder weapons, phlogistone components     |
+| Clockwork gears        | 1D6  | Clockwork devices and components                |
+| Crucible steel         | 1D6  | Weapons, armor, clockwork gears, casings        |
+| Fabric                 | 1D0  | Charmweaving                                    |
+| Foodstuffs             | 1D0  | Cooking, eating                                 |
+| Medicine               | 1D6  | Surgery, treat                                  |
+| Writing materials      | 1D0  | Reports, written works of art, battle plans     |
+
+**Alchemical ingredients:** Chemicals, herbs, rare salts, parts of
+animals, and other materials used to create salves, draughts, poison,
+and medicine.
+
+**Art media:** Supplies for creating works of art, ranging from canvas and paints to sculpturing clay and marble blocks.
+
+**Blackpowder charges:** Units of blackpowder that can create explosive weapons or be purified to produce phlogistone.
+
+**Clockwork gears:** The parts needed to create clockwork components that are then assembled into clockwork devices.
+
+**Crucible steel:** Worked metal that can used to make weapons, armor, clockwork gears, and more.
+
+**Fabric:** Cloth, lace, thread, silk, dyes, leather, buttons, and other materials for making clothing.
+
+**Foodstuffs:** Grains, fruit, meat, cheeses, sugar, eggs, bread, and
+other materials for cooking. One unit of uncrafted foodstuffs is enough
+to feed one person for one day.
+
+**Medicine:** Medicine, medicinal herbs, and other medical supplies used
+to treat injuries, cure diseases, create antidotes, and perform surgery.
+
+**Writing materials:** Paper and ink, used in creating reports, plans, and written works of art.
+
+#### Scrounging
+
+If you have neither the necessary supplies on hand nor the ability to
+purchase more, you can spend your time scrounging -- looking in refuse
+bins for art supplies, junk piles for crucible steel, discarded
+trimmings for fabric, or roadkill and old fruit for foodstuffs. Every
+two hours spent scrounging produces one unit of supplies -- as long as
+your MJ agrees there are such supplies to be found. If you're lost in
+the middle of a frozen tundra, you probably can't find blackpowder
+charges just waiting for you to come along.
+
+### Workrooms
+
+Basic sets of handheld tools are described <a href="#tools-of-the-trade" class="xref-insection"></a>,
+and can be used as an Item Die on appropriate crafting rolls.
+
+However, most serious crafting work is done in some kind of dedicated
+room or outbuilding. Such workrooms have everything you'd find in a set
+of tools, plus additional equipment, furniture, and resources for each
+task. These workrooms can provide an Item Die, as shown on the following
+table. As you can only have one Item Die per dice pool, you can't
+combine the Item Die from a set of tools with the Item Die from a
+workroom.
+
+Table: Workrooms
+
+| Room            | Cost | Item Die |
+| --------------- | ---- | -------- |
+| Artist's Studio | 2D8  | \+1D8    |
+| Kitchen         | 2D8  | \+1D8    |
+| Laboratory      | 2D10 | \+1D10   |
+| Library         | 2D10 | \+1D10   |
+| Medical Theatre | 2D10 | \+1D10   |
+| Observatory     | 2D10 | \+1D10   |
+| Séance Room     | 2D8  | \+1D8    |
+| Smithy          | 2D8  | \+1D8    |
+| Workshop        | 2D10 | \+1D10   |
+
+Most workrooms are only available in cities, although some smaller towns
+might be able to provide an artist's studio, a kitchen, a séance room,
+or a smithy. Setting up a workroom takes 8 hours of work, although that
+can be done by either one person or divided among several.
+
+Superior workrooms can be purchased for twice the listed cost and an
+Item Die of one step higher. A superior kitchen costs 4D8 and gives a
++1D10 Item Die on rolls for cooking. Superior workrooms take 20 hours to
+set up and can only be acquired in large cities.
+
+### Success Limits
+
+You must have at least one rank in a Specialty to be able to craft with that Specialty.
+However, a single specialty rank limits the quality of the item to a
+basic work. The more specialty ranks you have, the higher potential you
+can create.
+
+Each Specialty's crafting description details the success limits for
+crafted items. The maximum values for Item Dice, Charm Dice, Bonus Dice,
+and the Standard Opposition (for attempts to escape or undo your
+creation) are shown in the following table. The applicable columns of
+the table are repeated with each Specialty's crafting
+description.
+
+Table: Success Limits
+
+| Specialty Rank | Item Die | Charm Die | Bonus Die | Standard Opposition   |
+| -------------- | -------- | --------- | --------- | --------------------- |
+| \+1            | \+1D6    | \+1D6     | \+1D0     | Easy (3D6)            |
+| \+2            | \+1D8    | \+1D8     | \+1D6     | Moderate (3D8)        |
+| \+3            | \+1D10   | \+1D10    | \+1D8     | Difficult (3D10)      |
+| \+4            | \+1D12   | \+1D12    | \+1D10    | Very Difficult (3D12) |
+| \+5            | \+1D12   | \+1D12    | \+1D12    | Very Difficult (3D12) |
+
+#### Tag Dice
+
+<a href="#using-skills" class="xref-capital-asdesc-insection"></a> Tag Dice are a type
+of Bonus Dice that are tied to a specific concept. This could be a
+single word, an emotion, a Passion, a phrase, or other abstract
+constructions. The crafting description for each Specialty describes how
+each Tag is created, what you can associate each Tag with, and how you
+can increase the Bonus Die size of the Tag.
+
+For example, if you create a painting of Bentheim Castle as seen from a
+grassy meadow, you could assign a Tag of "Peaceful." The Tag Die starts
+at +1D0, and for every 2 success points, you can increase the size of
+that die. You can also use success points to add a different Tag, such
+as "Loyalty." These additional dice also start at +1D0.
+
+The Tag Die can be added to a dice pool as a Bonus Die whenever it makes
+sense in the story -- so if you're trying to calm down a visiting
+dignitary, you might seat her under the painting and add the Peaceful
+tag to your Interaction (Negotiate) dice pool. Alternately, if you're
+trying to inspire the soldiers of Bentheim Castle to stand firm and not
+desert in the face of the enemy, you may want to make your Interaction
+(Inspire) roll when you stand in front of the painting of the castle.
+
+### Extra Supplies
+
+Sometimes you can spend more supplies than you need in order to craft a
+superior item. You could create a larger or more ornate version of an
+item, or perhaps simply make several prototypes before eventually
+getting it right.
+
+If the crafting Specialty has an "Extra Supplies" entry, you can use
+more materials than needed while crafting to add a Bonus Die to your
+dice pool. The size of that die is limited by your number of ranks in
+the Specialty, as shown on the following tables:
+
+Table: Extra Supplies
+
+| Units of Supplies | Bonus Die | Specialty Rank Required |
+| ----------------- | --------- | ----------------------- |
+| 2                 | 1D0       | \+1                     |
+| 3                 | 1D6       | \+2                     |
+| 4                 | 1D8       | \+3                     |
+| 6                 | 1D10      | \+4                     |
+| 8                 | 1D12      | \+5                     |
+
+### Extra Time
+
+Taking your time to craft an item means you can check and re-check your
+work at every step of the way, and the extra crafting time allows for
+more careful work.
+
+If the description of the crafting specialty has an "Extra Time" entry,
+you can spend extra time on crafting to add a Bonus Die to your dice
+pool. The size of that die is limited by your number of ranks in the
+Specialty, as shown on the following tables:
+
+Table: Extra Time for a One-Minute Task
+
+| Completion Time | Bonus Die | Specialty Rank Required |
+| --------------- | --------- | ----------------------- |
+| 2 minutes       | 1D0       | \+1                     |
+| 5 minutes       | 1D6       | \+2                     |
+| 15 minutes      | 1D8       | \+3                     |
+| 1 hour          | 1D10      | \+4                     |
+| 4 hours         | 1D12      | \+5                     |
+
+Table: Extra Time for a One-Hour Task
+
+| Completion Time   | Bonus Die | Specialty Rank Required |
+| ----------------- | --------- | ----------------------- |
+| 2 hours           | 1D0       | \+1                     |
+| 4 hours           | 1D6       | \+2                     |
+| 8 hours (1 day)   | 1D8       | \+3                     |
+| 16 hours (2 days) | 1D10      | \+4                     |
+| 32 hours (4 days) | 1D12      | \+5                     |
+
+Table: Extra Time for a One-Day Task
+
+| Completion Time   | Bonus Die | Specialty Rank Required |
+| ----------------- | --------- | ----------------------- |
+| 2 days            | 1D0       | \+1                     |
+| 5 days (1 week)   | 1D6       | \+2                     |
+| 10 days (2 weeks) | 1D8       | \+3                     |
+| 20 days (4 weeks) | 1D10      | \+4                     |
+| 30 days (6 weeks) | 1D12      | \+5                     |
+
+### Rushing
+
+You don't always have the luxury of time when crafting. Perhaps there's
+only 30 minutes until the brigands arrive and you still need to build
+that net-flinging mechanical trap you've been planning out in your head.
+In such a situation, you can rush your work to get it done in time.
+
+If the crafting Specialty has a "Rushing" entry, you can reduce the time
+to craft your creation by taking a Drop penalty on your die roll. You
+can't rush a job that you're taking extra time on. The size of the Drop
+penalty depends on how much you rush the crafting, as shown on the
+following table:
+
+Rushing also increases the opposition from an automatic success to Easy
+(3D6). If you fail on a rushed crafting roll, you expend one unit of
+resources as appropriate for your task
+
+Table: Rushing a One-Minute Task
+
+| Completion Time | Drop Penalty |
+| --------------- | ------------ |
+| 45 seconds      | Drop 1       |
+| 30 seconds      | Drop 2       |
+| 2 actions       | Drop 3       |
+| 1 action        | Drop 4       |
+
+Table: Rushing a One-Hour Task
+
+| Completion Time | Drop Penalty |
+| --------------- | ------------ |
+| 30 minutes      | Drop 1       |
+| 15 minutes      | Drop 2       |
+| 5 minutes       | Drop 3       |
+| 1 minute        | Drop 4       |
+
+Table: Rushing a One-Day Task
+
+| Completion Time | Drop Penalty |
+| --------------- | ------------ |
+| 6 Hours         | Drop 1       |
+| 4 Hours         | Drop 2       |
+| 2 Hours         | Drop 3       |
+| 1 Hour          | Drop 4       |
+
+### Weapon Qualities
+
+When you craft a weapon, it's assumed to be a "stock" version of that
+weapon<a href="#weapons" class="xref-inchapter-under"></a>.  If you want to add
+something extra to a crafted weapon, you can add a Weapon Quality to
+that weapon. Each specialty's crafting description lists which qualities
+can be given to each type of weapon. The maximum number of Weapon
+Qualities you can add to any given weapon equals your rank in the
+crafting Specialty.
+
+Rather than repeating the descriptions of Weapon Qualities in each
+crafting specialty, they're listed here for easy reference. You can't
+add the same Weapon Quality twice to a single weapon.
+
+  - **Cavalry:** A weapon with the Cavalry quality must be used with
+    your Main Hand. If you are using this weapon while riding a mount,
+    you can substitute the mount's Item Die for your Weapon Die against
+    an unmounted opponent.
+  - **Defending:** You can use this weapon to make a Defense (Parry)
+    roll and add the Weapon Die to your dice pool, even though this type
+    of weapon usually can't be used for parrying.
+  - **Double-Barreled:** You can fire twice, once per barrel, without
+    reloading. If you choose to fire both barrels in the same shot, the
+    Weapon Die increases by one step, but you take a Drop 1 penalty
+    because it's harder to aim. Reloading each barrel separately gives
+    the normal Drop penalty for the unaltered weapon, and reloading both
+    barrels is a Drop 4 combined action.
+  - **Extended Long Range:** The weapon gains a Drop 2 penalty at Long
+    range. This can only be applied to weapons which can't normally be
+    used at Long range, but which can be used at Medium range.
+  - **Extended Medium Range:** The weapon gains a Drop 2 penalty at
+    Medium range. This can only be applied to weapons which can't
+    normally be used at Medium range.
+  - **High-Caliber:** Increase the Weapon Die by one step. The Drop
+    penalty for reloading the weapon increases by 1, and the Drop
+    penalty at Long range increases by 2.
+  - **Lightened:** Decrease the Weapon Die by one step. If the unaltered
+    weapon could be used in your main hand, you can now use it in
+    either. If the weapon required two hands to use, it can now be used
+    with just the main hand. You can't lighten a weapon that's been
+    weighted.
+  - **Point Blank:** Decrease the Drop Penalty for Close range by 2.
+  - **Quickloading:** Decrease the Drop Penalty for reloading this
+    weapon by 1.
+  - **Reach:** The weapon can be used to attack into an adjacent area as
+    well as your own.
+  - **Responding:** The weapon can be used to make a Dueling (Riposte)
+    roll and add the Weapon Die to your dice pool, even though this type
+    of weapon usually can't be used for riposting.
+  - **Rifled:** Reduce the Drop Penalty at Medium range by 1 and at Long
+    range by 1.
+  - **Sparring:** You can use this weapon to make a Military (Brawl)
+    roll and add the Weapon Die to your dice pool, even though weapons
+    usually can't be used with Brawl.
+  - **Success Table: Specialty (Option)** You add an option
+    for spending success points to a specific Success Table. The details
+    for each option are described later in this section.
+  - **Throwable:** You can throw this weapon at a target using the
+    Military (Aim) skill and add the Weapon Die to your dice pool, even
+    though this type of weapon usually can't be thrown. The weapon has
+    no Drop penalty at Close range, Drop 1 at Short range, and Drop 3 at
+    Medium range.
+  - **Weighted:** Increase the Weapon Die by one step. If the weapon
+    could be used in either hand, it now is only usable in your main
+    hand. If the unaltered weapon required your main hand, it now
+    requires both hands. You can't weight a weapon that's been
+    lightened.
+
+#### Success Table Options
+
+The Success Table: *Specialty* quality adds additional options to the
+indicated success table.
+
+::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
+| Weapon Qualities                |                                   |
+| ------------------------------- | --------------------------------- |
+| \+                              |  Basket Hilt (Decrease Advantage) |
+| \+                              |  Retort (Execute a Riposte)       |
+| \+++                            |  Entangling                       |
+| \+++                            |  Tripping (Knockdown)             |
+| \+++                            |  Unhorse                          |
+| \+++                            |  Wounding (Inflict 1 Wound)       |
+| \+++                            |  Yielding (Inflict 4 Yield)       |
+| \++++                           |  Disarming                        |
+| \+++++                          |  Weapon-Breaking                  |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Basket Hilt:** If your opponent has Advantage, you can decrease her
+die size by one step, or remove her Advantage Die entirely if she has
++1D6 Advantage. Weapons with this quality are designed for parrying.
+
+**Disarming:** You can disarm your opponent of the weapon she is using
+to attack you or the weapon she's using to Parry your attack. (This
+can't be used when defending against a Brawl attack.) You get to choose
+if the weapon ends up on the ground in your Area, in an adjacent Area,
+or in your hand if you have one free. Weapons with this quality are
+designed for disarming opponents.
+
+**Entangling:** You successfully catch your opponent with your weapon,
+holding them in place. A combatant who is held suffers a Drop 1 penalty
+on attack and defense rolls; for every two additional Success Points you
+spend, you can increase the Drop penalty by 1, to a maximum of Drop 4.
+Your opponent can escape by making a simple check against Standard
+Opposition, usually using Brawl or a weapon attack.
+
+**Retort:** You can make a Riposte attack. Weapons with this quality are
+designed for parrying and allow a Riposte to be made for a lower cost
+than usual.
+
+**Tripping:** Your target is knocked prone, either in your Area or in an
+adjacent Area. Knocking an opponent into an adjacent Area can result in
+them falling or otherwise taking environmental damage. Weapons with this
+quality are designed to pull an opponent off her feet.
+
+**Unhorse:** If your target is riding a mount, they fall off that mount
+and end up prone. Unhorsing an opponent can result in them falling or
+otherwise taking environmental damage. In addition, your mount can make
+a trample attack right now for free, if it has that quality. Standing up
+is a Drop 1 combined action, and remounting is an additional Drop 3
+penalty. Weapons with this quality are designed for dismounting
+opponents.
+
+**Weapon-Breaking:** You snap your target's blade or hilt. You can only
+do this if your target attempts to Parry your attack and fails, or if
+you are performing a Parry yourself. Weapons with this quality are
+designed for catching and destroying weapons.
+
+**Wounding:** Your opponent takes one Wound. If she takes more Wounds
+than her Wound Limit, she falls unconscious and is dying. Weapons with
+this quality allow you to inflict Wounds for a lower cost than usual.
+
+**Yielding:** Your opponent takes four Yield. If her Yield equals or
+exceeds her Yield Limit, she is Yielded Out. Weapons with this quality
+allow you to inflict Yield for a lower cost than usual.
+
+
+### Repairs
+
+If you can create something, you can repair it as well. A damaged object
+gains Malfunctions in the same way that a person gains Wounds. In terms
+of game rolls, the object has a certain Drop penalty applied whenever
+it's used -- Drop 1 for each Malfunction -- or one of its functions
+simply stops operating.
+
+The time to repair an object depends on the time it would take to create
+a new one of the same type, as shown on the following table.
+
+Table: Repair Time
+
+| Base Crafting Time | Repair Time |
+| ------------------ | ----------- |
+| 1 minute           | 1 minute    |
+| 1 hour             | 1 minute    |
+| 1 day              | 1 hour      |
+
+You can take extra time or rush the repair if you are able to do the
+same when creating the item.
+
+As with normal crafting rolls, you automatically succeed. Each success
+point gained reduces the Drop penalty by one, or restores one function
+to working order. For every complete set of three Malfunctions you
+repair, you have to spend 1 unit of any type of supplies that would be
+used to create such an item.
+
+### Crafting Rolls
+
+The following tables are sorted by Specialty name and describe what can be crafted with each Specialty.
+
+
+### Aim
+
+You can craft bows, muskets, and pistols using the Military (Aim) specialty.
+
+**Prowess Required:** You can only create bows if you have Bow Prowess,
+muskets if you have Musket Prowess, and pistols if you have Pistol
+Prowess.
+
+**Base Time:** Crafting a weapon takes 1 hour.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
+
+**Supplies:** Supplies of crucible steel are required for creating weapons.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Military (Aim).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::: success ::::::::::::::::::::
+| Aim            | (Crafting)                 |
+| -------------- | -------------------------- |
+| Base Time      | 1 hour                     |
+| Opposition     | Automatic Success          |
+| Item Die       | Metalworking tools, smithy |
+| Supplies       | Crucible steel             |
+| Bonus Die      | Extra time                 |
+| +              | Craft Short Bow            |
+| ++             | Craft Pistol               |
+| +++            | Craft Heavy Bow            |
+| +++            | Craft Heavy Pistol         |
+| +++            | Craft Light Musket         |
+| +++            | Add Bow Quality            |
+| +++            | Add Pistol Quality         |
+| +++            | Add Musket Quality         |
+| ++++           | Craft Heavy Musket         |
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Short Bow:** You create any bow with a Weapon Die of +1D6.
+
+**Craft Heavy Bow (1 unit of crucible steel):** You create any bow a Weapon Die of +1D8 or higher.
+
+**Craft Pistol (1 unit of crucible steel):** You create any pistol with a Weapon Die of +1D6.
+
+**Craft Heavy Pistol (2 units of crucible steel):** You create any pistol with a Weapon die of +1D8 or higher.
+
+**Craft Light Musket (2 units of crucible steel):** You create any musket with a Weapon die of +1D8 or lower.
+
+**Craft Heavy Musket (4 units of crucible steel):** You create any musket with a Weapon Die of +1D10 or higher.
+
+**Add Bow Quality:** You can give the bow one of the following
+qualities: Cavalry, Defending, Extended Long Range, Point Blank,
+Quickloading, Success Table: Aim (Entangling, Wounded, Yielding). The
+bow can have a number of custom qualities equal to your Military (Aim)
+specialty ranks.
+
+**Add Pistol Quality (1 unit of crucible steel):** You can give the
+pistol one of the following qualities: Cavalry, Double-Barreled,
+Extended Medium Range, High-Caliber, Point Blank, Quickloading,
+Specialty Table: Aim (Wounding). The pistol can have a number of custom
+qualities equal to your Military (Aim) specialty ranks.
+
+**Add Musket Quality (1 unit of crucible steel):** You can give the
+musket one of the following qualities: Defending, Double-Barreled,
+Extended Long Range, High-Caliber, Point Blank, Quickloading, Rifled,
+Success Table: Aim (Tripping, Unhorse, Wounding). The musket can have a
+number of custom qualities equal to your Military (Aim) specialty ranks.
+
+
+### Arts
+
+The Culture (Arts) specialty allows you to create works of art. The
+types of works include drawings, paintings, poetry, sculptures, plays,
+songs, opera, novellas, or even cake decorating.
+
+**Base Time:** The base time depends on the type of artistic endeavor.
+Most simple works of art will take a minimum of 1 hour, such as Writing
+materials a poem, composing a melody, or sketching a drawing.
+Sculptures, paintings, novellas, acts of plays, chapters of novels, and
+other longer forms have a base time of 1 day.
+
+**Item Die:** Add the Item Die of your artisan tools or artist's studio
+to your dice pool.
+
+**Supplies:** art media are usually required, although poetry, plays,
+novellas, and songs require Writing materials supplies, and cake
+decorating requires foodstuffs.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Culture (Arts).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
+| Arts            | (Crafting)                               |
+| --------------- |----------------------------------------- |
+| Base Time       |  1 hour or 1 day                         |
+| Opposition      |  Automatic Success                       |
+| Item Die        |  Artisan tools or artist's studio        |
+| Supplies        |  art media or Writing materials supplies |
+| Bonus Die       |  Extra Time                              |  
+| +               | Craft Artwork                            |
+| +               | Add a Tag                                |
+| ++              | Improve Artwork                          |
+| ++++            | Reduce Material Cost                     |
+| +++++           | Create Forgery                           |
+| ++++++          | Pièce de Résistance\!                    |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Artwork (1 unit of art media):** You create a basic item of art.
+Choose a one-word Tag, usually associated with an emotion, place, or
+concept. The Tag has a Bonus Die of +1D0, and can be used when
+displaying or performing the work of art.
+
+**Add a Tag:** You can add another Tag to your artwork. The new Tag has
+a Bonus Die of +1D0.
+
+**Improve Artwork (1 unit of art media):** The Bonus Die of one Tag
+improves by one die size. You are limited by the number of specialty
+ranks you have in Culture (Arts).
+
+**Reduce Material Cost:** You reduce the overall cost of this Crafting
+roll by one unit of art media.
+
+**Create Forgery (1 unit of art media):** You make a copy of someone
+else's artwork. It's indistinguishable from the original except on close
+examination. The forgery has no Tags attached, but you can use success
+points to add a Tag. The Standard Opposition to an Arts or Perception
+roll to detect the work as a forgery is Easy (3D6). For every 2
+additional success points you spend, the difficulty increases by one
+step, limited by your number of ranks in Culture (Arts).
+
+**Pièce de Résistance\!:** You create a work of art that will be spoken
+of for decades, if not centuries. Any Tag Die on the work of art is
+automatically maximized when used as a Bonus Die.
+
+
+### Blackpowder
+
+You can craft blackpowder weapons such as grenades and cannons. You can
+also work with phlogistone to create phlogistone furnaces or other uses
+of phlogistone.
+
+**Base Time:** Working with blackpowder typical requires one hour, while working with phlogistone takes one day.
+
+**Item Die:** Add the Item Die of your metalworking tools, smithy, or workshop to your dice pool.
+
+**Supplies:** Blackpowder charges are required for all crafting with
+this specialty, and crucible steel for most uses. In addition, many
+types of explosives require additional materials as shown on the
+following
+table.
+
+Table: Crafting Blackpowder Items
+
+| Blackpowder Item         | Additional Materials                                                                        |
+| ------------------------ | ------------------------------------------------------------------------------------------- |
+| Bomb, alchemical         | 8 units of alchemical ingredients, 1 unit of crucible steel                                 |
+| Bomb, canister           | 4 units of blackpowder charges, 4 units of crucible steel                                   |
+| Bomb, heavy              | 8 units of blackpowder charges, 4 units of crucible steel                                   |
+| Bomb, mining             | 4 units of blackpowder charges                                                              |
+| Bomb, smoke              | 4 units of alchemical supplies                                                              |
+| Bomb, structure          | 6 units of blackpowder charges, 2 units of crucible steel                                   |
+| Bomb, thunder            | 4 units of blackpowder charges                                                              |
+| Bomb, wildfire           | 2 units of blackpowder charges, 4 units of alchemical ingredients, 1 unit of crucible steel |
+| Cannon shot, alchemical  | 1 unit of blackpowder charges, 2 units of alchemical ingredients                            |
+| Cannon shot, blackpowder | 4 units of blackpowder charges                                                              |
+| Cannon shot, canister    | 1 unit of blackpowder charges, 2 units of crucible steel                                    |
+| Cannon shot, chain       | 1 unit of blackpowder charges, 1 unit of crucible steel                                     |
+| Cannon shot, round       | 1 unit of crucible steel                                                                    |
+| Cannon shot, smoke       | 1 unit of blackpowder charges, 1 unit of alchemical ingredients                             |
+| Cannon shot, thunder     | 2 units of blackpowder charges                                                              |
+| Cannon shot, wildfire    | 1 unit of blackpowder charges, 2 units of alchemical ingredients                            |
+| Grenade                  | 1 unit of blackpowder charges                                                               |
+| Grenade, alchemical      | 1 unit of alchemical ingredients                                                            |
+| Grenade, canister        | 1 unit of crucible steel                                                                    |
+| Grenade, smoke           | 1 unit of alchemical ingredients                                                            |
+| Grenade, thunder         | 1 unit of blackpowder charges                                                               |
+| Grenade, wildfire        | 1 unit of alchemical ingredients                                                            |
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Science (Blackpowder).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
+| Blackpowder            | (Crafting)                               |
+| ---------------------- | ---------------------------------------- |
+| Base Time              |  1 hour, or 1 day (varies)               |
+| Opposition             |  Automatic Success                       |
+| Item Die               |  Metalworking tools, smithy, or workshop |
+| Supplies               |  Blackpowder charges and crucible steel  |
+| Bonus Die              |  Extra Time                              |
+| +                      |  Craft Fireworks                         |
+| +                      |  Craft Grenade                           |
+| ++                     |  Craft Bomb                              |
+| ++                     |  Craft Cannon Shot                       |
+| +++                    |  Craft Cannon                            |
+| +++++                  |  Craft Heavy Cannon                      |
+| ++++++                 |  Create Phlogistone Furnace              |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Fireworks (1 unit of blackpowder charges):** You create a number of fireworks equal to your ranks in Science (Blackpowder).
+
+**Craft Grenade (1 unit of crucible steel):** You create any grenade.
+You must also spend an additional amount of supplies as noted in the
+table above.
+
+**Craft Bomb (2 unit of blackpowder charges, 1 unit of crucible
+steel):** You create any bomb. You must also spend an additional amount
+of supplies as noted in the table above.
+
+**Craft Cannon Shot (1 unit of crucible steel):** You create any type of
+cannon shot. You must also spend an additional amount of supplies as
+noted in the table above.
+
+**Craft Cannon (2 units of blackpowder charges, 3 units of crucible
+steel):** You create any cannon up to furniture scale in size, or a hand
+mortar. If the cannon is furniture scale, spend an additional 3 units of
+crucible steel.
+
+**Craft Heavy Cannon (5 units of blackpowder charges, 20 units of crucible steel):** You create any cannon of room scale.
+
+**Craft Phlogistone Furnace (12 units of blackpowder charges, 10 units
+of crucible steel):** You create a phlogistone furnace with an Item Die
+of +1D10. You must have at least +4 ranks in Science (Blackpowder). If
+you have +5 ranks, you can spend an additional 2 success points, 3 units
+of blackpowder charges, and 5 units of crucible steel to create a
+furnace with a +1D12 Item Die.
+
+
+### Block
+
+You can craft Rigid Armor using the Block specialty.
+
+**Prowess Required:** You can only create rigid armor if you have Rigid Armor Prowess.
+
+**Base Time:** Crafting armor takes 1 day.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool. 
+
+**Supplies:** Supplies of crucible steel are required for creating
+armor.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Defense (Block).
+
+**Rushing:** You can reduce the time to craft your armor by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::
+| Block            | (Crafting)                  |
+| ---------------- | --------------------------- |
+| Base Time        |  1 day                      |
+| Opposition       |  Automatic Success          |
+| Item Die         |  Metalworking tools, smithy |
+| Supplies         |  Crucible steel             | 
+| Bonus Die        |  Extra time                 |
+| +                |  Craft Metal Item           |
+| +                |  Craft Rigid Armor          |
+| +++              |  Improved Rigid Armor       |
+| +++++            |  Superior Rigid Armor       |
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Metal Item (1 or more units of crucible steel):** You create a metal item such as tailoring tools.
+
+**Craft Rigid Armor (2 units of crucible steel):** You create any rigid armor with an Armor Die of +1D8 or lower.
+
+**Improved Rigid Armor (4 units of crucible steel):** You create any rigid armor with an Armor Die of +1D10. 
+
+**Superior Rigid Armor (6 units of crucible steel):** You create any rigid armor with an Armor Die of +1D12.
+
+
+### Brawl
+
+You can craft cudgels using the Military (Brawl) specialty.
+
+**Prowess Required:** You can only create cudgels if you have Cudgel Prowess.
+
+**Base Time:** Crafting a weapon takes 1 hour.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
+
+**Supplies:** Supplies of crucible steel are required for creating cudgels.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Military (Brawl).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::
+| Brawl            | (Crafting)                  |
+| ---------------- | --------------------------- |
+| Base Time        |  1 hour                     |
+| Opposition       |  Automatic Success          |
+| Item Die         |  Metalworking tools, smithy |
+| Supplies         |  Crucible steel             |
+| Bonus Die        |  Extra time                 |
+| +                |  Craft Light Cudgel         |
+| ++               |  Craft Heavy Cudgel         |
+| +++              |  Add Cudgel Quality         |
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Light Cudgel:** You create any cudgel with a Weapon Die of +1D6.
+
+**Craft Heavy Cudgel (2 units of crucible steel):** You create any cudgel with a Weapon Die of +1D8 or more
+
+**Add Cudgel Quality (1 unit of crucible steel):** You can give the
+cudgel one of the following qualities: Defending, Reach, Sparring,
+Success Table: Lunge (Wounding), Weighted. The cudgel can have a number
+of custom qualities equal to your Military (Brawl) specialty ranks.
+
+
+### Brew
+
+You can craft draughts and salves using your skills at alchemy. You can also create medicine and poison antidotes.
+
+**Base Time:** Brewing takes 1 hour.
+
+**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
+
+**Supplies:** Crafting with Brew requires the expenditure of alchemical
+ingredients.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Magicks (Brew).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in Magicks (Brew).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::: success :::::::::::::::::::::::
+| Brew            | (Crafting)                    |
+| --------------- | ----------------------------- |
+| Base Time       |  1 hour                       |
+| Opposition      |  Automatic Success            |
+| Item Die        |  Alchemy tools or workshop    |
+| Supplies        |  Alchemical ingredients       |
+| Bonus Die       |  Extra time or extra supplies |
+| +               |  Brew Alchemical Substance    |
+| +               |  Create medicine              |
+| +               |  Increase Quantity            |
+| ++              |  Increase Potency             |
+| ++++            |  Reduce Material Cost         |
+| ++++++          |  Eureka\!                     |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Brew Alchemical Substance (1 unit of alchemical ingredients):** You
+create one dose of a salve or draught listed <a href="#alchemical-items" class="xref-inchapter-under"></a>.
+The substance has a Charm Die of +1D6.
+
+**Create medicine (1 unit of alchemical ingredients):** You create two
+units of medicine for every success point and unit of alchemical
+ingredients you spend.
+
+**Increase Quantity (1 unit of alchemical ingredients):** You make
+another salve or draught for each success point you spent. The Charm Die
+of the additional doses is the same as the original; you only need to
+increase the potency for one dose.
+
+**Increase Potency (1 unit of alchemical ingredients):** The Charm Die
+of the salve or draught improves by one die size. You are limited by the
+number of specialty ranks you have in Magicks (Brew).
+
+**Reduce Material Cost:** You reduce the overall cost of this Crafting
+roll by one unit of alchemical ingredients.
+
+**Eureka\! (2 units of alchemical ingredients):** You invent a new
+draught, salve, or concoction that hasn't been brewed before. Work with
+your MJ to determine the exact result of your new formulation. It has an
+initial Charm Die of +1D6.
+
+
+### Calculus
+
+You can draw plans, create algorithms, or derive theorems using the Science (Calculus) specialty.
+
+**Base Time:** Creating something with Calculus takes 1 hour.
+
+**Item Die:** Add the Item Die of your abacus or other calculation tool when using Calculus.
+
+**Supplies:** The use of Science (Calculus) requires writing materials.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Science (Calculus).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in Science (Calculus).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically succeeds. The success points generated determine the quality of the creation.
+
+::::::::::::::::::::::: success ::::::::::::::::::::::::::
+| Calculus            | (Crafting)                       |
+| ------------------- | -------------------------------- |
+| Base Time           |  1 hour                          |
+| Opposition          |  Automatic Success               |
+| Item Die            |  Abacus or other calculation aid |
+| Supplies            |  Supplies (varies)               |
+| Bonus Die           |  Extra time, extra supplies      |
+| +                   |  Draw Plans                      |
+| ++                  |  Design Algorithm                |
+| ++++++              |  Eureka\! Eureka\!               |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Draw Plans (1 unit of writing materials):** You create plans for a
+clockwork component or a clockwork device. The plans have a Bonus Die of
++0D6 for attempts to create that component, or assemble that device. For
+every 2 success points and 2 units of writing materials you spend, the
+Bonus Die of the plans improves by one die size, limited by your ranks
+in Science (Calculus).
+
+**Design Algorithm (2 units of writing materials):** You create and
+write down an algorithm with an Item Die of +1D6. The algorithm is a set
+of instructions for performing some task involving calculation, such as
+navigation, drawing plans, or preparing a meal. (An algorithm for making
+food is known as a recipe.) For every 2 success points and 2 units of
+writing materials you spend, the Item Die of the algorithm improves by
+one die size, limited by your ranks in Science (Calculus).
+
+**Eureka\! Eureka\! (6 units of writing materials):** You've derived a
+completely new theorem or solution to a problem, such as measuring the
+volume of an object by submerging it in water. (You're not required to
+run naked through the streets, though.) You need to have at least +4
+ranks in Science (Calculus) for this. If you share this with other
+mathematicians or scientists, they'll probably name the discovery after
+you.
+
+
+### Carouse
+
+You can use Streetwise (Carouse) to craft alcoholic beverages.
+
+**Base Time:** Crafting alcohol takes 1 day.
+
+**Supplies:** Foodstuffs are required for creating alcohol.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks Streetwise (Carouse).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in Streetwise (Carouse).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::: success :::::::::::::::::::::
+| Carouse            | (Crafting)                  |
+| ------------------ | --------------------------- |
+| Base Time          |  1 day                      |
+| Opposition         |  Automatic Success          |
+| Supplies           |  Foodstuffs                 |
+| Bonus Die          |  Extra time, extra supplies |
+| +                  |  Craft Brewed Alcohol       |
+| ++                 |  Craft Wine                 |
+| ++                 |  Improved Alcohol           |
+| +++                |  Craft Spirits              |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Brewed Alcohol (1 unit of foodstuffs):** You create a night's
+worth of cheap beer, ale, or cider for one person. For each additional
+success point you spend, you create another night's worth.
+
+**Craft Wine (1 unit of foodstuffs):** You create a bottle of wine of
+average quality. You can create another bottle of the same thing by
+spending another 1 success point and 1 unit of foodstuffs.
+
+**Improved Alcohol (1 unit of foodstuffs):** The quality of your alcohol
+increases to "good," and if you spend another 2 success points and 1
+unit of foodstuffs, to "really good".
+
+**Craft Spirits (1 unit of foodstuffs):** You create a bottle or flask
+of average quality spirits. For each additional success point and unit
+of foodstuffs you spend, you create another bottle.
+
+
+### Clockworks
+
+You can clockwork devices, casings, and components with the Science (Clockworks) specialty.
+
+**Base Time:** Crafting clockwork items requires 1 hour.
+
+**Item Die:** Add the Item Die of your repair tools or workshop to your dice pool.
+
+**Supplies:** Clockwork gears are required for creating anything with Clockworks, except for clockwork gears -- which require crucible steel.
+
+**Plans:** If you have plans for the type of device or component you're
+trying to create, add the Bonus Die of the plans to your dice pool.
+Plans are created with the Science (Calculus) specialty.
+
+**Extra Time:** You can spend extra time on crafting a clockwork item to
+add a Bonus Die to your dice pool. The size of that die is limited by
+your number of ranks in Science (Clockworks).
+
+**Rushing:** You can reduce the time to craft your clockwork item by
+taking a Drop penalty on your die roll. You can't rush a job that you're
+taking extra time on. The size of the Drop penalty depends on how much
+you rush the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::::::::: success ::::::::::::::::::::::::::::
+| Clockworks            | (Crafting)                         |
+| --------------------- | ---------------------------------- |
+| Base Time             |  1 hour                            |
+| Opposition            |  Automatic Success                 |
+| Item Die              |  Repair tools or workshop          |
+| Supplies              |  Clockwork gears or crucible steel |
+| Bonus Die             |  Extra time, plans                 |
+| +                     |  Craft Component                   |
+| \+                    |  Craft Clockwork Gears             |
+| \+                    |  Craft Casing                      |
+| \++                   |  Assemble Device                   |
+| +++++                 |  Duplicate A Device                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Component (1 or more units of clockwork gears):** You create a
+clockwork component. If it has an Item Die, it starts at +1D6. For each
+additional success point you spend, the Item Die increases one step,
+limited by your ranks in Science (Clockworks).
+
+**Craft Clockwork Gears (1 unit of crucible steel):** You create two
+units of clockwork gears. For each additional unit of crucible steel you
+spend, you create another two units of clockwork gears.
+
+**Craft Casing (1 or more units of crucible steel):** You create a
+casing for a clockwork device. The amount of steel you must spend
+depends on the size of the casing.
+
+**Assemble Device:** You complete a clockwork device. You must have all
+of the device's components in order to assemble it.
+
+**Craft Power Source (special):** You create a power source that can be
+installed in a device. The supplies cost varies depending on the type of
+power source you're using.
+
+**Duplicate A Device (special):** You create a duplicate of an existing
+clockwork device. You must spend the same amount and type of supplies to
+create the duplicate as was spent to create the original.
+
+
+### Deceive
+
+You can create an alternate identity for yourself, including creating a disguise, by using the Interaction (Deceive) specialty.
+
+**Base Time:** Crafting an identity takes 1 day.
+
+**Supplies:** Fabric or alchemical components may be required for certain aspects of your new identity
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in the Specialty.
+
+**Rushing:** You can reduce the time to craft your identity by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::: success ::::::::::::::::::::::::
+| Deceive            | (Crafting)                     |
+| ------------------ | ------------------------------ |
+| Base Time          |  1 day                         |
+| Opposition         |  Automatic Success             |
+| Supplies           |  Fabric, alchemical components |
+| Bonus Die          |  Extra Time                    |
+| +                  |  Craft Identity                |
+| +                  |  Make a Connection             |
+| +                  |  Maintain Identity             |
+| ++                 |  Improve Identity              |
+| +++++              |  Assume Someone's Identity     |
+| ++++++             |  Persistent Identity           |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Identity (1 unit of fabric):** You create an alternate identity.
+That identity has a different name from you, although it otherwise has
+all the same qualities as you (general appearance, gender, etc). To
+casual observers, though, you're different people -- perhaps you put on
+a pair of spectacles in your new identity? You have a +1D0 Bonus Die
+when trying to pass yourself off as your new identity. Your identity
+lasts for up to 24 hours.
+
+You can spend additional success points to alter your appearance. Each
+alteration you make to your appearance costs 1 success point and one
+additional unit of supplies, as shown on the following table.
+
+Table: Identity Changes
+
+| Alteration           | Supplies Cost                    |
+| -------------------- | -------------------------------- |
+| Apparent age         | 1 unit of alchemical ingredients |
+| Apparent gender      | 1 unit of fabric                 |
+| Apparent height      | 1 unit of fabric                 |
+| Apparent nationality | 1 unit of alchemical ingredients |
+| Apparent weight      | 1 unit of fabric                 |
+| Hair color           | 1 unit of alchemical ingredients |
+| Hair style           | 1 unit of alchemical ingredients |
+
+**Improve Identity:** The Bonus Die afforded by your false identity
+improves by one die size. You are limited by the number of specialty
+ranks you have in Interaction (Deceive).
+
+**Make a Connection:** You go out in public and are seen are by one
+reputable person who will unwittingly vouch for your identity. Each
+additional success point gives you another person who thinks you're who
+you're pretending to be.
+
+**Maintain Identity:** Your identity lasts an additional 24 hours for
+every extra success point you spend. While your identity is active, you
+can make another Deceive roll to extend the duration; the cost to make
+this roll is equal to your original supplies cost for Craft Identity.
+You can only spend your success points on Make Connection, Maintain
+Identity, Improve Identity, or Persistent Identity if you make such a
+roll.
+
+**Assume Someone's Identity (3 units of fabric, 3 units of alchemical
+ingredients):** You disguise yourself as a specific person, adopting
+their appearance and identity.
+
+**Persistent Identity:** The identity you've crafted is so airtight that
+you can maintain it indefinitely without being discovered.
+
+
+### Explore
+
+You can craft maps, globes, rations, shelters, rafts, and other survival gear with the Nature (Explore) specialty.
+
+**Base Time:** Crafting a quick map or rations takes 1 hour. Crafting survival gear creation takes 1 day.
+
+**Item Die:** Add the Item Die of your tools or workroom to your dice pool.
+
+**Supplies:** Supplies are required for crafting with this Specialty.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Nature (Explore).
+
+**Rushing:** You can reduce the time to craft by taking a Drop penalty
+on your die roll. You can't rush a job that you're taking extra time on.
+The size of the Drop penalty depends on how much you rush the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::: success :::::::::::::::
+| Explore            | (Crafting)            |
+| ------------------ | --------------------- |
+| Base Time          |  1 hour or 1 day      |
+| Opposition         |  Automatic Success    |
+| Item Die           |  Varies               |
+| Supplies           |  Varies               |
+| Bonus Die          |  Extra Time           |
+| +                  |  Craft Map            |
+| +                  |  Prepare Rations      |
+| ++                 |  Improve Map or Globe |
+| +++                |  Craft Globe          |
+| ++++               |  Build Shelter        |
+| +++++              |  Build Raft           |
+::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Map (1 unit of writing materials):** You create a map of either
+the local region or somewhere you've been. The map gives an Item Bonus
+of +1D6 on navigation, food gathering, and trailblazing in that area.
+You can also create a copy of any map you have access to.
+
+**Prepare Rations (1 unit of foodstuffs):** You create three days' worth
+of jerky and dried fruits that are easily portable and won't go bad. For
+each additional success point and unit of foodstuffs, you create another
+three days' worth.
+
+**Improve Map or Globe:** You increase the detail and information on
+your map or globe. The Item Bonus increases by one die size, limited by
+your ranks in Nature (Explore).
+
+**Craft Globe (3 units of art media):** You create a globe of the planet
+Arrete. This globe gives an Item Bonus of +1D6 on navigation between
+relatively large land masses and major settlements.
+
+**Build Shelter:** You create a shelter that can withstand the current
+weather for 24 hours. The duration increases by 24 hours for every
+additional success point you spend.
+
+**Build Raft:** You create a crude raft. It can stay together for 4
+hours, although each hour of inclement weather or rapids counts as two
+hours. The duration increases by 4 hours or every additional success
+point you spend.
+
+
+### Feint
+
+You can craft whips and nets using the Feint specialty.
+
+**Prowess Required:** You can only create whips if you have Whip Prowess, and nets if you have Net Prowess.
+
+**Base Time:** Crafting a weapon takes 1 hour.
+
+**Supplies:** Supplies of fabric are required for creating whips or nets.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Dueling (Feint).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success ::::::::::::
+| Feint            | (Crafting)         |
+| ---------------- | ------------------ |
+| Base Time        |  1 hour            |
+| Opposition       |  Automatic Success |
+| Supplies         |  Fabric            |
+| Bonus Die        |  Extra time        |
+| +                |  Craft Net         |
+| +                |  Craft Whip        |
+| +++              |  Add Net Quality   |
+| +++              |  Add Whip Quality  |
+:::::::::::::::::::::::::::::::::::::::::
+
+**Craft Net (1 unit of fabric):** You create any net. 
+
+**Craft Whip (1 unit of fabric):** You create any whip.
+
+**Add Net Quality (1 unit of fabric or crucible steel):** You can give
+the net one of the following qualities: Reach, Specialty Table: Feint
+(Entangling, Tripping), Throwable, Weighted. The net can have a number
+of custom qualities equal to your Dueling (Feint) specialty ranks.
+
+**Add Whip Quality (1 unit of fabric or crucible steel):** You can give
+the whip one of the following qualities: Cavalry, Reach, Responding,
+Sparring, Success Table: Feint (Disarming, Entangling, Unhorse,
+Wounding), Weighted. The whip can have a number of custom qualities
+equal to your Dueling (Feint) specialty ranks.
+
+
+### Husbandry
+
+You can use the Nature (Husbandry) specialty to harvest crops, slaughter
+animals, prepare meals, and create leather armor and other leather
+goods.
+
+**Base Time:** Each use of Nature (Husbandry) takes one hour.
+
+**Item Die:** You can add the Item Die of cooking utensils or a kitchen
+while preparing food; and you can add the Item Die of tailoring tools
+when making flexible armor.
+
+**Supplies:** Supplies of foodstuffs are needed only if you are preparing food. Creating armor requires fabric and possibly 
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Nature (Husbandry).
+
+**Rushing:** You can reduce the time to use Nature (Husbandry) by taking
+a Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::::: success ::::::::::::::::::
+| Husbandry            | (Crafting)               |
+| -------------------- | ------------------------ |
+| Base Time            |  1 hour                  |
+| Opposition           |  Automatic Success       |
+| Item Die             |  Tools (varies)          |
+| Supplies             |  Supplies (varies)       |
+| Bonus Die            |  Extra Time              |
+| +                    |  Craft Flexible Armor    |
+| +                    |  Craft Leather Item      |
+| +                    |  Prepare Food            |
+| +++                  |  Improved Flexible Armor |
+| +++++                |  Superior Flexible Armor |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Flexible Armor (1 unit of fabric):** You create any flexible armor with a +1D6 Armor Die.
+
+**Craft Leather Item (1 or more units of fabric):** You create a leather item such as a saddle, belt, or pouch.
+
+**Prepare Food (1 unit of foodstuffs):** You create a meal (or several
+smaller meals) that are enough to feed two people for 1 day. For each
+additional unit of foodstuffs you spend, you can feed another two
+people. The food becomes inedible after 24 hours, but you can extend
+this duration by 24 hours for every additional success point you spend.
+
+**Improved Flexible Armor (2 units of fabric, 1 unit of crucible steel):
+**You create any flexible armor with an Armor Die of +1D8.
+
+**Superior Flexible Armor (2 units of fabric, 2 units of crucible
+steel):** You create any flexible armor with an Armor Die of +1D10 or
+higher.
+
+
+### Larceny
+
+You can create forged documents, imitation jewelry, locks, traps, and
+alarms with the Streetwise (Larceny) specialty.
+
+**Base Time:** Creating a forgery or an obstacle takes 1 hour.
+
+**Item Die:** Add the Item Die of your repair tools or workshop to your dice pool when working with locks or traps.
+
+**Supplies:** Clockwork gears are required for creating locks or traps,
+Writing materials materials are required for forging documents, and art
+media for duplicating jewelry.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Streetwise (Larceny).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::
+| Larceny            | (Crafting)                                        |
+| ------------------ | ------------------------------------------------- |
+| Base Time          |  1 hour                                           |
+| Opposition         |  Automatic Success                                |
+| Item Die           |  Repair tools or workshop for obstacles           |
+| Supplies           |  Clockwork gears, writing materials, or art media |
+| Bonus Die          |  Extra time                                       |
+| +                  |  Craft Obstacle                                   |
+| ++                 |  Improve Obstacle Quality                         |
+| +++++              |  Forge Document                                   |
+| +++++              |  Duplicate Jewelry                                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Obstacle (1 unit of clockwork gears):** You create a simple
+lock, alarm, or trap. Attempts to install or bypass the obstacle are
+made against Standard Opposition of Easy (3D6).
+
+**Improve Obstacle Quality (1 unit of clockwork gears):** The quality of
+obstacle improves, increasing the Standard Opposition for attempts to
+disable or bypass the obstacle. You are limited by the number of
+specialty ranks you have in Streetwise (Larceny). 
+
+**Forge Document (1 unit of writing materials):** You create a forgery
+of a document. The standard opposition to detect the deception is Easy
+(3D6) and improves by one die size for every 2 additional success points
+you spend, limited by your Streetwise (Larceny).
+
+**Duplicate Jewelry (2 units of art media):** You create a piece of
+jewelry that appears to be expensive and valuable, but is actually
+worthless crystal, glass, or shiny metals. The standard opposition to
+detect that the jewelry isn't real starts at Easy (3D6) and improves by
+one die size for every 2 additional success points and 1 unit of art
+media you spend.
+
+
+### Lunge
+
+You can craft polearms and swords with the Dueling (Lunge) specialty.
+
+**Prowess Required:** You can only create polearms if you have Polearm Prowess, and swords if you have Sword Prowess.
+
+**Base Time:** Crafting a weapon takes 1 hour.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
+
+**Supplies:** Supplies of crucible steel are required for creating weapons.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Defense (Parry).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::
+| Lunge            | (Crafting)                  |
+| ---------------- | --------------------------- |
+| Base Time        |  1 hour                     |
+| Opposition       |  Automatic Success          |
+| Item Die         |  Metalworking tools, smithy |
+| Supplies         |  Crucible steel             |
+| Bonus Die        |  Extra time                 |
+| +                |  Craft Light Sword          |
+| ++               |  Craft Long Sword           |
+| ++++             |  Craft Great Sword          |
+| +                |  Craft Short Polearm        |
+| +++              |  Craft Long Polearm         |
+| +++              |  Add Sword Quality          |
+| +++              |  Add Polearm Quality        |
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Light Sword (1 unit of crucible steel):** You create any sword that has the Either Hand quality.
+
+**Craft Long Sword (2 units of crucible steel):** You can create any sword that has the Main Hand quality.
+
+**Craft Great Sword (4 units of crucible steel):** You can create any sword that has the Both Hands quality.
+
+**Craft Short Polearm (1 unit of crucible steel):** You can create any polearm that doesn't have reach.
+
+**Craft Long Polearm (3 units of crucible steel):** You can create any polearm that has the Reach quality.
+
+**Add Sword Quality (1 unit of crucible steel):** You can give the sword
+one of the following qualities: Cavalry, Lightened, Success Table: Lunge
+(Wounding, Yielding, Unhorse), Success Table: Parry (Basket Hilt),
+Weighted. The weapon can have a number of custom qualities equal to your
+Dueling (Lunge) specialty ranks.
+
+**Add Polearm Quality (1 unit of crucible steel):** You can give the
+polearm one of the following qualities: Cavalry, Lightened, Parrying,
+Reach, Success Table: Lunge (Disarming, Knockdown, Unhorse), Throwable,
+Weighted. The weapon can have a number of custom qualities equal to your
+Dueling (Lunge) specialty ranks.
+
+
+### Negotiate
+
+You can craft legal documents, including business contracts, treaties,
+bills of sale, identity papers, and more, by using the Interaction
+(Negotiate) specialty.
+
+**Base Time:** Crafting a contract, treaty, or identity papers takes one hour, and crafting a bill of sale takes one minute.
+
+**Supplies:** Crafting any sort of document requires writing materials.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Interaction (Negotiate).
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::::: success ::::::::::::::::::::::
+| Negotiate            | (Crafting)                   |
+| -------------------- | ---------------------------- |
+| Base Time            |  1 minute or 1 hour          |
+| Opposition           |  Automatic Success           |
+| Supplies             |  Writing materials materials |
+| Bonus Die            |  Extra time                  |
+| +                    |  Craft Basic Document        |
+| ++                   |  Improve Document            |
+| +++                  |  Craft Complex Document      |
+| +++++                |  Forge Document              |
+| ++++++               |  Include Loophole            |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Basic Document (1 unit of writing materials):** You create a
+basic legal document, such as a bill of sale. If signed by at least one
+party and used in later negotiations, it provides you with a +1D0 Bonus
+Die.
+
+**Improve Document (1 unit of writing materials):** The document's Bonus
+Die improves by one die size. You are limited by the number of specialty
+ranks you have in Interaction (Negotiate).
+
+**Craft Complex Document (5 units of writing materials):** You create a
+complex legal document, such as a treaty, a business contract, or
+identity papers. If signed by all parties involved and used in later
+negotiations, it provides you with a +1D0 Bonus Die.
+
+**Forge Document:** The document you create isn't actually legally
+binding, but it looks authentic to casual inspection -- including any
+signatures you have access to. You can only do this with a basic
+document, or with the signatures on a complex document. The standard
+opposition for attempts to detect the forgery starts at Easy (3D6) and
+increases by one die size for every 2 success points you spend.
+
+**Include Loophole (1 unit of writing materials):** You add a loophole
+into the document that renders the document null and void under a
+specific circumstance. You decide that circumstance when you create the
+document, but it's not obvious to any other parties to the agreement.
+You can choose to reveal the loophole whenever the circumstances are
+right. You can only do this with a complex document.
+
+
+### Parry
+
+You can craft shields using the Parry specialty.
+
+**Prowess Required:** You can only create shields if you have Shield Prowess.
+
+**Base Time:** Crafting a shield takes 1 hour.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
+
+**Supplies:** Supplies of crucible steel are required for creating shields.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Defense (Parry).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::
+| Parry            | (Crafting)                  |
+| ---------------- | --------------------------- |
+| Base Time        |  1 hour                     |
+| Opposition       |  Automatic Success          |
+| Item Die         |  Metalworking tools, smithy |
+| Supplies         |  Crucible steel             |
+| Bonus Die        |  Extra time                 |
+| +                |  Craft Light Shield         |
+| ++               |  Shield Spike               |
+| +++              |  Craft Standard Shield      |
+| +++++            |  Craft Heavy Shield         |
+| ++++++           |  Perfectly Balanced         |
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Light Shield (1 unit of crucible steel):** You create any shield with an Item Die of +1D6.
+
+**Shield Spike (1 unit of crucible steel):** You affix a spike the
+shield you've created, letting its Shield Die be used as a Weapon Die
+for Lunge and Riposte. The wielder must have both Shield Prowess and
+Knife Prowess to include that Weapon die in any dice pool.
+
+**Craft Standard Shield (1 unit of crucible steel):** You create any
+shield with an item die of +1D8.
+
+**Craft Heavy Shield (2 unit of crucible steel):** You create any shield
+with an item die of +1D10.
+
+**Perfectly Balanced (1 unit of crucible steel):** The shield is
+perfectly balanced for throwing. If the wielder has Shield Prowess and
+Cudgel Prowess, its Shield Die can be used as a Weapon Die for Lunge,
+Riposte, and Aim (+++: Shield Rebounds to Thrower, Close Range Drop 0,
+Short Range Drop 0, Medium Range Drop 2).
+
+
+### Poison
+
+You can craft poisons and antidotes with Medicine (Poison) specialty.
+
+**Base Time:** Crafting poison or antidote takes 1 hour.
+
+**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
+
+**Supplies:** Alchemical ingredients are required for crafting poisons and antidotes.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Medicine (Poison).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in Medicine (Poison).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::::: success ::::::::::::::::::::::
+| Poison            | (Crafting)                   |
+| ----------------- | ---------------------------- |
+| Base Time         |  1 hour                      |
+| Opposition        |  Automatic Success           |
+| Item Die          |  Alchemy tools or laboratory |
+| Supplies          |  Alchemical ingredients      |
+| Bonus Die         |  Extra time, extra supplies  |
+| +                 |  Craft Standard Poison       |
+| +                 |  Craft Antidote              |
+| +                 |  Increase Quantity           |
+| +                 |  Add Time Delay              |
+| \++               |  Add Stage                   |
+| ++                |  Improve Potency             |
+| +++               |  Craft Exotic Poison         |
+| +++               |  Craft Exotic Antidote       |
+| ++++              |  Reduce Material Cost        |
+| +++++             |  Develop Antidote            |
+| ++++++            |  Eureka\!                    |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Standard Poison (1 unit of alchemical ingredients):** You create
+one dose of a standard type of poison with an Item Die of +1D6. Standard
+poisons are listed <a href="#poisons" class="xref-inchapter-under"></a>.
+
+**Craft Antidote (1 unit of alchemical ingredients):** You create two
+doses of poison antidote. The antidote gives a +1D6 Item Die on attempts
+to cure poisons.
+
+**Increase Quantity (1 unit of alchemical ingredients):** You make
+another dose of poison or two doses of antidote for each success point
+and unit of alchemical ingredients you spend. The Item Die of the
+additional doses is the same as the original; you only need to increase
+the potency, add a delay, or add a stage for one dose.
+
+**Add Time Delay (1 unit of alchemical ingredients):** The poison
+doesn't take effect until 1 hour after being introduced to the victim's
+system for each success point and unit of alchemical ingredients you
+spend. The maximum number of hours you can delay the effects is equal to
+your ranks in Poison (Medicine)
+
+**Add Stage (1 unit of alchemical ingredients):** You create a staged
+poison -- the individual components are harmless but when all are
+combined together the poison takes effect. Applications of the stages
+must take place within an hour of the first stage, or the poison loses
+all potency. The maximum number of stages you can create is equal to
+your ranks in Poison (Medicine); if you just have +1 rank, you can't
+create a staged poison.
+
+**Improve Potency (1 unit of alchemical ingredients):** You increase the
+Item Die of the poison or antidote by one die size. You are limited by
+the number of specialty ranks you have in Poison (Medicine).
+
+**Craft Exotic Poison (3 units of alchemical ingredients):** You create
+one dose of a rare poison. The poison has an Item Die of +1D6, and it
+can only be neutralized by a dose of exotic antidote created
+specifically for this toxin.
+
+**Craft Exotic Antidote (3 units of alchemical ingredients):** You
+create one dose of an antidote formulated against a specific exotic
+poison. The antidote has an Item Die of +1D6, and is only effective
+against that single toxin.
+
+**Develop Antidote (3 units of alchemical ingredients, 1 dose of the
+poison in question or a poisoned victim):** You create one dose of an
+antidote formulated against an unknown poison or unique poison. The
+antidote has an Item Die of +1D6, and is only effective against that
+single toxin. Now that you've created the cure, you can create it as an
+"exotic antidote", as can anyone who you instruct in the process.
+
+**Eureka\! (5 units of alchemical ingredients):** You've managed to mix
+up a unique poison that is resistant to the normal antidotes. The
+poison's Item Die is +1D6. Now that you have created it, you can create
+it as an "exotic poison", as can anyone who you instruct in the process.
+In addition, you can also create an antidote to your own creation.
+
+
+### Portents
+
+You can craft divination cards, astrological charts, and bibelots with the Magicks (Portents) specialty.
+
+**Base Time:** Using Magicks (Portents) to draw astrological charts or
+encharm bibelots takes one hour. Crafting divination cards takes one
+day.
+
+**Item Die:** Add the Item Die of your tools or workroom to your dice pool.
+
+**Supplies:** Art media is required to produce items using Magicks (Portents).
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Magicks (Portents).
+
+**Rushing:** You can reduce your crafting time by taking a Drop penalty
+on your die roll. You can't rush a job that you're taking extra time on.
+The size of the Drop penalty depends on how much you rush the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::::::: success ::::::::::::::::::::::
+| Portents            | (Crafting)                   |
+| ------------------- | ---------------------------- |
+| Base Time           |  1 hour or 1 day             |
+| Opposition          |  Automatic Success           |
+| Item Die            |  Artisan tools, seance room  |
+| Supplies            |  Art media                   |
+| Bonus Die           |  Extra Time                  |
+| +                   |  Draw Astrological Charts    |
+| ++                  |  Improve Astrological Charts |
+| +++                 |  Encharm Bibelot             |
+| +++++               |  Create Divination Cards     |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Draw Astrological Charts (1 unit of art media):** You create a set of
+astrological charts for someone based on the place, date, and time of
+her birth. (Incorrect information will, of course, produce useless
+charts\!) The charts you create provide you with a +1D6 Item Die for
+Magicks (Portents) rolls on that person.
+
+**Improve Astrological Charts (1 unit of art media):** The Item Die of
+the astrological charts improves by one die size. The Item Die is
+limited by the number of specialty ranks you have in Magicks (Portents).
+
+**Encharm Bibelot (1 unit of art media):** You create a single bibelot
+  encharmed with a skill of your choice. More details on bibelots can
+  be found <a href="#bibelots" class="xref-inchapter-under"></a>.
+
+**Create Divination Cards (5 units of art media):** You create a
+personalized deck of divination cards, either for yourself or for
+someone whom you have astrological charts. The deck has an Item Die of
++1D6 which increases by one step for each additional success point you
+spend, limited by the number of specialty ranks you in Magicks
+(Portents). Your own deck also has a Bonus Die of +1D0, and you can
+increase that by one step for each additional success point, limited by
+your Portents ranks.
+
+
+### Riposte
+
+You can craft knives with the Riposte specialty.
+
+**Prowess Required:** You can only create knives if you have Knife Prowess.
+
+**Base Time:** Crafting a weapon takes 1 hour.
+
+**Item Die:** Add the Item Die of your metalworking tools or smithy to your dice pool.
+
+**Supplies:** Supplies of crucible steel are required for creating weapons.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Defense (Riposte).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::: success :::::::::::::::::::::
+| Riposte            | (Crafting)                  |
+| ------------------ | --------------------------- |
+| Base Time          |  1 hour                     |
+| Opposition         |  Automatic Success          |
+| Item Die           |  Metalworking tools, smithy |
+| Supplies           |  Crucible steel             |
+| Bonus Die          |  Extra time                 |
+| +                  |  Craft Light Knife          |
+| ++                 |  Craft Long Knife           |
+| +++                |  Add Knife Quality          |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Light Knife (1 unit of crucible steel):** You create any knife with the Either Hand quality.
+
+**Craft Long Knife (2 unit of crucible steel):** You can create any knife with the Main Hand quality.
+
+**Add Knife Quality (1 unit of crucible steel):** You can give the knife
+one of the following qualities: Lightened, Medium Range, Sparring,
+Success Table: Riposte (Disarming, Wounding), Success Table: Success
+Table: Feint (Retort), Success Table: Parry (Basket Hilt, Disarming,
+Weapon-Catching), Throwable, Weighted. The weapon can have a number of
+custom qualities equal to your Dueling (Riposte) specialty ranks
+
+
+### Scholarship
+
+You can craft reports and research summaries for your own use or the use
+of others. Each report has to be on a very specific topic, such as
+"The Effect of Piracy on French Commerce in the 15th Century."
+
+You can also craft one chapter of a non-fiction book, with a broader
+topic such as "Piracy in France" or "Economics of the 15th Century."
+
+**Base Time:** Crafting a report takes 1 hour. Crafting a book chapter takes 1 day.
+
+**Research Required:** You must either have first-hand knowledge of the
+topic or use Culture (Scholarship) to do research of at least 1 hour for
+a report and 1 day for a book chapter.
+
+**Item Die:** Add the Item Die of your applicable reference book or library to your dice pool.
+
+**Supplies:** Crafting a report or book chapter requires Writing materials supplies.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Culture (Scholarship).
+
+**Rushing:** You can reduce the time to craft your report by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::::::::: success ::::::::::::::::::::::
+| Scholarship            | (Crafting)                   |
+| ---------------------- | ---------------------------- |
+| Base Time              |  1 hour                      |
+| Opposition             |  Automatic Success           |
+| Item Die               |  Books, library              |
+| Supplies               |  Writing materials materials |
+| Bonus Die              |  Extra time                  |
+| +                      |  Craft Report                |
+| ++                     |  Improve Writing             |
+| +++                    |  Translate a Passage         |
+| +++                    |  Craft Book Chapter          |
+| ++++++                 |  Eureka\!                    |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Report (1 unit of writing materials):** You create a basic
+report on a narrow topic. The report has a +1D6 Item Die that can be
+used in Scholarship or Knowledge rolls related to the topic.
+
+**Improve Writing (1 unit of writing materials):** The Item Die of the
+report or book chapter improves by one die size. You are limited by the
+number of specialty ranks you have in Culture (Scholarship).
+
+**Translate a Passage (1 unit of writing materials):** You can translate
+one page of text from one language you know to another language you
+know. If you have a translating dictionary, you only have to know one of
+the languages. For each additional success point and unit of writing
+materials you spend, you can translate another page of text.
+
+**Craft Book Chapter (3 units of writing materials):** You create a book
+chapter about a general topic. The book has a +1D6 Item Die that can be
+used in Scholarship or Knowledge rolls related to the topic.
+
+**Eureka\!:** During the course of your research, you've reached a new
+conclusion that has eluded other scholars before you. The Item Die of
+the report or chapter is maximized when used in a dice pool.
+
+
+### Strategy
+
+You can create written materials to be used in military operations with the Military (Strategy) specialty.
+
+**Base Time:** Drafting military materials takes 1 hour.
+
+**Supplies:** Writing materials are required for crafting with Strategy.
+
+**Extra Time:** You can spend extra time on writing to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Military (Strategy).
+
+**Rushing:** You can reduce the time to write your materials by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the writing.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+::::::::::::::::::::::: success :::::::::::::::
+| Strategy            | (Crafting)            |
+| ------------------- | --------------------- |
+| Base Time           |  1 hour               |
+| Opposition          |  Automatic Success    |
+| Supplies            |  writing materials    |
+| Bonus Die           |  Extra time           |
+| +                   |  Draft Battle Plans   |
+| ++                  |  Improve Battle Plans |
+| ++                  |  Issue Orders         |
+| +++++               |  Forge Orders         |
+:::::::::::::::::::::::::::::::::::::::::::::::
+
+**Draft Battle Plans (1 unit of writing materials):** You create a basic
+plan of battle for a specific place and time. The plans give a +1D0
+Bonus Die on Military (Strategy) rolls for that location, and are valid
+for 1 week (6 days). The time can be extended by 1 week for each
+additional success point you spend.
+
+**Improve Battle Plans (1 unit of writing materials):** The Bonus Die of
+your battle plans increased by one die size. You are limited by the
+number of specialty ranks you have in Military (Strategy).
+
+**Issue Orders (1 unit of writing materials):** You issue orders to one
+person under your command based on your battle plans. (Orders given to
+officers apply to all troops under that officer's command). If your
+orders are followed, your subordinate gains a +1D6 Item Die on Military
+(Strategy), Nature (Explore) and Nature (Prowl) rolls related to those
+plans. For each additional success point and unit of writing materials,
+you can issue orders to another subordinate. For each additional 2
+success points you spend, the Item Die of your orders improves by one
+die size, limited by your specialty ranks in Military (Strategy).
+
+**Forge Orders (1 unit of writing materials):** You create a forgery of
+military orders that appear to come from a specific commander. This can
+include fake letters of promotion, forged military identification
+papers, and legitimate-looking orders that will actually end in
+disaster. When someone attempts to analyze these orders, the standard
+opposition is Easy (3D6). The difficulty increases by one step for every
+2 success points and 1 unit of writing materials you spend.
+
+
+### Treat
+
+You can craft medicine and cures for diseases with the Medicine (Treat) specialty.
+
+**Base Time:** Crafting medicine takes 1 hour. Crafting a disease cure takes 1 day.
+
+**Item Die:** Add the Item Die of your alchemy tools or laboratory to your dice pool.
+
+**Supplies:** medicine require alchemical ingredients; disease cures require medicine.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Medicine (Treat).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in Medicine (Treat).
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::::::::::
+| Treat            | (Crafting)                          |
+| ---------------- | ----------------------------------- |
+| Base Time        | 1 hour or 1 day                     |
+| Opposition       | Automatic Success                   |
+| Item Die         |  Alchemy tools or laboratory        |
+| Supplies         |  medicine or alchemical ingredients |
+| Bonus Die        |  Extra Time                         |
+| +                |  Craft medicine                     |
+| ++               |  Craft Known Cure                   |
+| ++++             |  Reduce Material Cost               |
+| +++++            |  Duplicate Cure                     |
+| ++++++           |  Eureka\!                           |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft medicine (1 unit of alchemical ingredients):** You create two
+units of medicine for every 1 success point and 1 unit of alchemical
+ingredients you spend.
+
+**Craft Known Cure (2 units of medicine):** You create one dose of a
+cure for a known disease. The cure is effective for 24 hours, although
+the potency can be extended by another 24 hours for each success point
+you spend. Each extra success point and unit of medicine you spend
+creates another dose of the same cure.
+
+**Duplicate Cure (2 units of medicine):** You duplicate the curative
+properties of a cure without knowing the exact treatment for it, as long
+as you have a sample. You create one dose of the cure, and for every
+extra success point and unit of medicine you create another dose. The
+cure is effective for only 12 hours and cannot be extended.
+
+**Eureka\! (5 units of medicine):** You've invented a new cure for the
+disease you're treating. You craft one dose of the cure, and for every
+extra success point and unit of medicine you create another one. The
+cure is effective for 24 hours, although you can extend the potency by
+another 24 hours for each success point you spend. From now on, you can
+create this cure as a "known cure" as can anyone who you instruct.
+
+
+### Weave
+
+You can craft articles of clothing, including charmwoven items.
+
+**Base Time:** Crafting an article of clothing takes 1 hour.
+
+**Item Die:** Add the Item Die of your tailoring tools or workshop to your dice pool.
+
+**Supplies:** Creating clothes requires fabric supplies.
+
+**Extra Time:** You can spend extra time on crafting to add a Bonus Die
+to your dice pool. The size of that die is limited by your number of
+ranks in Magicks (Weave).
+
+**Extra Supplies:** You can use extra supplies while crafting to add a
+Bonus Die to your dice pool. The size of that die is limited by your
+number of ranks in the Specialty.
+
+**Rushing:** You can reduce the time to craft your creation by taking a
+Drop penalty on your die roll. You can't rush a job that you're taking
+extra time on. The size of the Drop penalty depends on how much you rush
+the crafting.
+
+**Opposition:** Unless you are rushing, a crafting roll automatically
+succeeds. The success points generated determine the quality of the
+creation.
+
+:::::::::::::::::::: success :::::::::::::::::::::::
+| Weave            | (Crafting)                    |
+| ---------------- | ----------------------------- |
+| Base Time        |  1 hour                       |
+| Opposition       |  Automatic Success            |
+| Item Die         |  Tailoring tools or workshop  |
+| Supplies         |  Fabric                       |
+| Bonus Die        |  Extra time or extra supplies |
+| +                |  Craft Article of Clothing    |
+| ++               |  Add Charm to Clothing        |
+| ++               |  Increase Charm               |
+| ++++             |  Reduce Material Cost         |
+| ++++++           |  Masterpiece\!                |
+::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Craft Article of Clothing (1 unit of fabric):** You create a basic
+article of clothing that is social rank Commoner (D0) or Soldier (D6).
+If the social rank is Artisan (D8) or higher, you need to pay extra
+success points to create it. If you spend one additional success
+point, you can create an article of clothing that is social rank Artisan
+(D8) or Noble (D10). If you have at least 4 ranks in Magicks (Weave),
+you can spend one more success point to create an article of clothing
+that is social rank Royal (D12).
+
+**Add Charm to Clothing:** You add a charm to the article you created,
+with a Charm Die of +1D6. The item must be in accordance with the
+applicable Laws of Fashion, described <a href="#the-nine-laws-of-fashion" class="xref-inchapter-under"></a>.
+
+**Increase Charm (1 unit of fabric):** The Charm Die of the article of
+clothing improves by one die size. You are limited by the number of
+specialty ranks you have in Magicks (Weave).
+
+**Reduce Material Cost:** You reduce the overall cost of this Crafting
+roll by one unit of fabric.
+
+**Masterpiece\!:** You've created an amazing article of apparel that
+draws everyone's eyes. The article's Charm Die is automatically
+maximized when used in a dice pool.
+
+## Specialty Equipment
+
+*introduction needed*
+
+
 ### Alchemical Items
 
 Characters with the Magicks (Brew) specialty can produce draughts, salves, and concoctions.
+
+#### Concoctions
+
+Concoctions are mixtures that can be prepared beforehand or activated on
+the spot by an alchemist orother character with skill in Magicks (Brew).
+Making a Brew roll to produce a concoction takes one turn, with Moderate
+(3D8) standard opposition; successes are spent as shown on the table
+below. Each concoction created requires the expenditure of one unit of Alchemical Supplies.
+
+Table: Concoctions
+
+| Concoction          | Effect Produced                                                                                                                |
+| :------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
+| Firefly Glow        | Phosphorescent chemicals that glow for one hour per + spent. Can be applied to one item of pocket, handheld, or portable size. |
+| Nauseating Smell    | A horrible odor fills one Area per + spent.                                                                                    |
+| Neutralizing Agent  | Negate one persistent effect caused by any concoction per + spent.                                                             |
+| Oil Slick           | Dodge rolls in an adjacent Area take a Drop penalty equal to the number of + spent.                                            |
+| Photoreactive Flash | A flash of light that can be seen up to one league away for every + spent.                                                     |
+| Smoke Cloud         | A cloud of harmless smoke that fills one Area per + spent.                                                                     |
 
 #### Draughts
 
@@ -8313,26 +8916,8 @@ Table: Salves
 | Silence Oil           | D6, bulk | Nature (Prowl)                                         |
 | Weaver's Lotion       | D6, bulk | Magicks (Weave)                                        |
 
-#### Concoctions
 
-Concoctions are mixtures that can be prepared beforehand or activated on
-the spot by an alchemist orother character with skill in Magicks (Brew).
-Making a Brew roll to produce a concoction takes one turn, with Moderate
-(3D8) standard opposition; successes are spent as shown on the table
-below. Each concoction created requires the expenditure of one unit of Alchemical Supplies.
-
-Table: Concoctions
-
-| Concoction          | Effect Produced                                                                                                                |
-| :------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
-| Firefly Glow        | Phosphorescent chemicals that glow for one hour per + spent. Can be applied to one item of pocket, handheld, or portable size. |
-| Nauseating Smell    | A horrible odor fills one Area per + spent.                                                                                    |
-| Neutralizing Agent  | Negate one persistent effect caused by any concoction per + spent.                                                             |
-| Oil Slick           | Dodge rolls in an adjacent Area take a Drop penalty equal to the number of + spent.                                            |
-| Photoreactive Flash | A flash of light that can be seen up to one league away for every + spent.                                                     |
-| Smoke Cloud         | A cloud of harmless smoke that fills one Area per + spent.                                                                     |
-
-#### Poisons
+### Poisons
 
 There are three types of standard poisons in general use: lethal poison,
 impairing poison, and sleep poison. For general rules on how to use and
@@ -8356,7 +8941,7 @@ Table: Poisons
 | Poison, impairing | D6, bulk | Expend 1 per use of Poison  |
 | Poison, sleep     | D6, bulk | Expend 1 per use of Poison  |
 
-###### Deadly Poison 
+#### Deadly Poison 
 
 ::::: success ::::::::::::
 |      |                 |
@@ -8369,7 +8954,7 @@ equalling her Wound Limit (which is four for player characters, and from
 one to four for non-player characters), she falls unconscious and is
 dying.
 
-###### Impairing Poison
+#### Impairing Poison
 
 :::::::::::::: success ::::::::
 |      |                      |
@@ -8381,7 +8966,7 @@ dying.
 equal to one die for every three Success Points you spend, up to a
 maximum of Drop 4. This impairment lasts for 1 hour.
 
-###### Sleep Poison
+#### Sleep Poison
 
 :::::::: success :::::::::
 |      |                 |
@@ -8393,7 +8978,819 @@ maximum of Drop 4. This impairment lasts for 1 hour.
 you spend on Yield. If her Yield equals or exceeds her Yield Limit, she
 is Yielded Out.
 
+### Charmweaving
+
+Charmweaving is the practice of adding
+specific dyes, trinkets, threads, and other magickal enhancements to
+articles of clothing. These enhancements provide bonuses to specific
+tasks.
+
+
+#### The Nine Laws of Fashion
+
+Charmwoven clothes are useful, stylish, and expensive, but they are also
+made according to exacting standards known as the Nine Laws of
+Fashion. Flouting these laws could lead to your Charms simply failing to
+work at all\!
+
+The First is the simplest Law:
+
+##### The First Law: The Law of Couture
+
+*"One's clothes must fit properly."*
+
+It seems obvious at first -- clothing is meant to be worn and to fit
+properly\! But it's also the most important. If your clothes aren't
+sized correctly for you, none of the charms will function. In addition,
+each off-size article of clothing you wear adds a Drop 1 penalty to
+combat actions if it's too large or too small.
+
+To ensure your clothes are properly sized, you can't just buy your
+clothes off the rack; the people of France are a diverse group when it
+comes to body size, and there are no "standard sizes". Your clothes will
+need to be either be created specifically for you, or altered by a
+tailor. Only then can charms be effectively added to such apparel.
+
+##### The Second Law: The Law of Attunement
+
+*"Charms are unique to the wearer."*
+
+You can't just pick up any random charmwoven item and put it on, even if
+it fits you. The patterns, glyphs, and trinkets sewn into charmwoven
+clothing have to be calibrated for each wearers. This is a pretty simple
+process -- as long as the charmweaver knows your birth date, birth time,
+and place of birth. It usually takes about an hour to attune or reattune
+charms to any given person.
+
+What if you don't know some or any of that information to tell your
+charmweaver? There are two options.
+
+First, your charmweaver can attempt to adjust the charms to you anyway,
+through trial and error. This takes one hour per piece of information
+about your birth that you're missing. At the end of that process, the
+charmweaver makes a simple Magicks (Weave) roll with the opposition pool
+based on how much they don't know, as shown on the following
+table.
+
+Table: Opposition Pool for Charm Attunement Rolls
+
+| Die | Birth Date           | Birth Time          | Place of Birth           |
+| --- | -------------------- | ------------------- | ------------------------ |
+| D0  | Exact date           | Time, to the minute | City or village of birth |
+| D6  | Year and month known | Time, to the hour   | Province of birth        |
+| D8  | Month known          | Morning or Night    | Country of birth         |
+| D10 | Year known           | \--                 | Continent of birth       |
+| D12 | Nothing known        | Nothing known       | Nothing known            |
+
+The dice pool is based on all of these factors -- so if you know the
+exact date of your birth, that you know you were born in the morning,
+and that you were born somewhere in Russia, that's an opposition pool
+of 1D0+1D8+1D8, or 2D8. As it's a simple check, the charmweaver needs
+just one success point to correctly attune the item. On a failed check,
+the charmweaver needs to start over again to attune the item.
+
+The second option involves the use of Magicks (Portents), and for this
+reason many charmweavers either work with those who can read omens, or
+can do so themselves. 
+
+The opposition pool for the Portents roll is the same as the pool
+calculated above for the trial-and-error method using the Magicks
+(Weave) specialty, but this is a standard roll not a simple roll. It
+takes one minute to perform this type of reading, the portent-reader
+must see you the entire time, and you must be willing to have it done.
+Each success point spent reveals either your birth date, your birth time
+to the minute, or your city or village of birth.
+
+##### The Third Law: The Law of Pertinence
+
+*"The charm must correspond to the article."*
+
+Simply stated, this means that a charm can only be applied to an item
+that has some relationship to the type of enchantment desired.
+
+For example, gloves for soldiers can be given charms that assist with
+Dueling or Military (Aim), while gloves for craftsmen can be charmed for
+Magicks, Medicine, or Science.
+
+Pertinent skills for any given type of clothing are found later in this chapter
+<a href="#creating-charmwoven-clothing" class="xref-insection"></a>,
+which also summarizes which types of charms can be applied to which pieces of attire.
+
+##### The Fourth Law: The Law of Dissonance
+
+*"Dissonance limits the effectiveness of charms."*
+
+*description of dissonance needed*
+
+Table: Dissonance
+
+| Dissonance Level | Maximum Charm Die |
+| ---------------- | ----------------- |
+| 0                | No limits         |
+| 1                | 1D12              |
+| 2                | 1D10              |
+| 3                | 1D8               |
+| 4                | 1D6               |
+| 5                | 1D0               |
+| 6 or more        | None              |
+
+##### The Fifth Law: The Law of Cacophony
+
+*"Unrestrained use of color creates dissonance."*
+
+*explanation needed*
+
+Table: Dissonance Generated by Cacophony
+
+| Additional Colors | Dissonance |
+| ----------------- | ---------- |
+| 1                 | \+0        |
+| 2                 | \+2        |
+| 3                 | \+3        |
+| 4                 | \+4        |
+| 5                 | \+5        |
+| 6 or more         | \+6        |
+
+##### The Sixth Law: The Law of Neutrality
+
+*"Neutral colors do not generate dissonance."*
+
+*explanation needed*
+
+##### The Seventh Law: The Law of Darning
+
+*"Rips, tears, and holes produce dissonance."*
+
+*explanation needed*
+
+Table: Dissonance Generated by Damage
+
+| Unrepaired Rips | Dissonance |
+| --------------- | ---------- |
+| 0               | \+0        |
+| 1               | \+0        |
+| 2               | \+2        |
+| 3               | \+3        |
+| 4               | \+4        |
+| 5               | \+5        |
+| 6 or more       | \+6        |
+
+##### The Eighth Law: The Law of Station
+
+*"Outfits of mismatched attire produce dissonance."*
+
+*explanation needed*
+
+Mismatched refers to the social rank associated with each item.
+Predefined outfits automatically count as a single rank.
+
+Table: Dissonance Generated by Social Rank Mismatch
+
+| Step of Mismatch | Dissonance |
+| ---------------- | ---------- |
+| 0                | \+0        |
+| 1                | \+0        |
+| 2                | \+2        |
+| 3                | \+3        |
+| 4                | \+4        |
+| 5                | \+5        |
+| 6 or more        | \+6        |
+
+
+##### The Ninth Law: The Law of *Dernier Cri*
+
+*"Dated fashions generate dissonance."*
+
+*explanation needed*
+
+This only applies to items or outfits of social rank 1D10.
+
+Table: Dissonance Generated by Dated Fashions
+
+| Years      | Dissonance |
+| ---------- | ---------- |
+| 0          | \+0        |
+| 1          | \+0        |
+| 2          | \+2        |
+| 3          | \+3        |
+| 4          | \+4        |
+| 5          | \+5        |
+| 6 or older | \+6        |
+
+##### Wearing Charmwoven Clothing
+
+*explanation needed*
+
+##### Wearing Mundane Clothing
+
+*explanation needed*
+
+#### Articles of Clothing
+
+*introduction needed*
+
+##### Arm Apparel
+
+*introduction needed*
+
+Table: Arm Apparel
+
+| Item                | Cost | Social Rank | Pertinent Skills                 |
+| ------------------- | ---- | ----------- | -------------------------------- |
+| Gloves, Courtier's  | 1D6  | D10         | Culture, Interaction, Streetwise |
+| Gloves, Craftsman's | 1D0  | D8          | Magicks, Medicine, Science       |
+| Gloves, Soldier's   | 1D0  | D6          | Defense, Dueling, Military       |
+| Gloves, Farmer's    | 1D0  | D0          | Nature, Streetwise               |
+
+*descriptions needed*
+
+##### Torso Apparel
+
+*introduction needed*
+
+Table: Torso Apparel
+
+| Item            | Cost | Social Rank | Pertinent Skills                           |
+| --------------- | ---- | ----------- | ------------------------------------------ |
+| Bodice, Common  | 1D0  | D0          | Interaction, Nature, Streetwise            |
+| Bodice, Fine    | 1D6  | D10         | Defense, Dueling, Interaction              |
+| Casaque         | 1D6  | D6          | Culture, Defense, Dueling, Military        |
+| Doublet, Fine   | 1D6  | D10         | Defense, Dueling, Interaction              |
+| Doublet, Common | 1D0  | D0          | Defense, Interaction, Streetwise           |
+| Gown, Courtly   | 1D10 | D10         | Culture, Interaction, Observation          |
+| Gown, Surgeon's | 1D6  | D8          | Interaction, Medicine, Observation         |
+| Robes           | 1D0  | D0          | Culture, Interaction, Magicks, Observation |
+| Shift           | 1D0  | D0          | Magicks, Nature, Streetwise                |
+| Smock           | 1D0  | D8          | Culture, Magicks, Science                  |
+| Vestments       | 1D6  | D8          | Culture, Interaction, Magicks, Observation |
+
+*descriptions needed*
+
+##### Foot Apparel
+
+*introduction needed*
+
+Table: Foot Apparel
+
+| Item            | Cost | Social Rank | Pertinent Skills               |
+| --------------- | ---- | ----------- | ------------------------------ |
+| Boots, Military | 1D6  | D6          | Defense, Military, Nature      |
+| Boots, Work     | 1D6  | D0          | Military, Nature, Streetwise   |
+| Chopines        | 1D6  | D10         | Culture, Interaction           |
+| Pantofles       | 1D0  | D8          | Culture, Defense               |
+| Poulaines       | 1D0  | D6          | Culture, Interaction, Military |
+| Sandals         | 1D0  | D0          | Nature, Streetwise             |
+| Shoes, Buckled  | 1D0  | D0          | Culture, Nature, Streetwise    |
+
+##### Head Apparel
+
+The people of France wear many different kinds of hats, with a type of headwear
+available to every type of charm -- all the skills, with the exception
+of Initiative. The types of hats available are shown in the following
+table.
+
+Table: Head Apparel
+
+| Item                | Cost | Social Rank | Pertinent Skills                  |
+| ------------------- | ---- | ----------- | --------------------------------- |
+| Beret, Artisan's    | 1D0  | D8          | Culture, Magicks, Science         |
+| Capotain            | 1D0  | D6          | Military, Nature, Streetwise      |
+| Cavalier Hat        | 1D6  | D6          | Defense, Dueling, Streetwise      |
+| Goggles, Gearspring | 1D6  | D8          | Military, Observation, Science    |
+| Hair Ribbons        | 1D0  | D10         | Culture, Interaction, Magicks     |
+| Masque              | 1D0  | D10         | Dueling, Interaction, Streetwise  |
+| Plague Mask         | 1D6  | D8          | Medicine, Observation, Science    |
+| Skullcap, Clerical  | 1D0  | D8          | Culture, Interaction, Observation |
+| Tricorne            | 1D6  | D6          | Military, Nature, Streetwise      |
+
+**Beret, Artisan's:** The simple woolen beret is common among crafters,
+and you can get a beret in many different colors.
+
+**Capotain:** A capotain is a tall hat, usually flat on the top, with a
+narrow brim.  Most capotains are black in color, and many sport buckles in front.
+
+**Cavalier Hat:** Cavalier hats have a wide brim and are usually worn
+with one side pinned up. A dyed ostrich feather is often added, both for
+appearance's sake and to allow all-black hats to take a charm. 
+
+**Goggles, Gearspring:** These goggles are created and used by
+mechanicians as well as other crafters. Each set of goggles has two or
+more pairs of lenses that can be swapped in as necessary -- functions
+include magnification of small objects, telescopic sighting of distant
+objects, filters for specific colors, or simple eye protection.
+Gearspring goggles offer a +1D6 Item Die on Observation (Perception) rolls.
+
+**Hair Ribbons:** Magickally charmed hair ribbons are popular with the
+upper classes and are woven into the hairstyles -- or wigs -- of any
+gender of noble. Unless affixed to a wig (which must be one of the
+neutral colors of argent, brunâtre, cendree, or sable), the ribbons
+require anywhere from ten minutes to several hours to weave into hair,
+or double that time if forced to don them without the help of a capable
+household servant.
+
+**Masque:** Not a bandanna clumsily worn by a common brigand to disguise
+her identity, a masque actually does little to hide one's appearance.
+Used by the nobility at their lavish parties, each is custom created to
+reflect the wearer's persona and opinions of herself. Many masques only
+encircle the eyes and the space between them, while others cover the
+entire face. 
+
+**Plague Mask:** Part of a chirurgeon's standard surgical wear, a plague
+mask is usually styled like a bird's long beak, although other examples
+exist, such as long tusks or simply a cylinder. Goggles built into the
+mask provide covering for the chirurgeon's eyes, while medicinal herbs
+and complex filters in the "nose" cavity prevent infection of
+air-carried diseases.
+
+**Skullcap, Clerical:** Sometimes called calottes, these skullcaps are
+associated with clergy.
+
+**Tricorne:** These felt hats have wide brims like cavalier hats, but
+are pinned up on the sides and backs, forming them into triangular
+shapes.  Tricornes are most popular among sailors and members of
+the military, with officers using them to display medals and other
+symbols of rank.
+
+##### Shoulder Apparel
+
+Shoulder charms tend to be about skills that are flashy and
+attention-getting, although a few have use in disguising or hiding the
+wearer.
+
+Table: Shoulder Apparel
+
+| Item              | Cost | Social Rank | Pertinent Skills                              |
+| ----------------- | ---- | ----------- | --------------------------------------------- |
+| Cape, Cloth       | 1D0  | D6          | Defense, Dueling, Interaction, Streetwise     |
+| Cape, Fur         | 1D8  | D8          | Culture, Dueling, Interaction, Magicks        |
+| Cloak             | 1D0  | D0          | Defense, Dueling, Magicks, Nature, Streetwise |
+| Stole, Liturgical | 1D0  | D8          | Culture, Interaction, Magicks                 |
+| Stole, Ornate     | 1D8  | D10         | Culture, Interaction, Streetwise              |
+| Tabard            | 1D6  | D6          | Defense, Dueling, Interaction, Military       |
+
+*descriptions needed*
+
+#### Standard Outfits
+
+*introduction needed*
+
+Table: standard Outfits
+
+| Item                | Cost | Social Rank | Includes                                                             |
+| ------------------- | ---- | ----------- | -------------------------------------------------------------------- |
+| Clockworker Outfit  | 2D6  | D8          | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
+| Corsair Outfit      | 4D6  | D6          | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
+| Courtly Outfit      | 3D6  | D10         | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
+| Crafter Outfit      | 2D6  | D8          | Artisan's beret, smock, breeches, craftsman's gloves, buckled shoes  |
+| Military Outfit     | 2D6  | D6          | Capotain, soldier's gloves, breeches, boots, tabard                  |
+| Peasant Outfit      | 1D6  | D0          | Shift, breeches, buckled shoes                                       |
+| Physician Outfit    | 3D6  | D8          | Plague mask, surgeon's gown, breeches, pantofles                     |
+| Priest Outfit       | 2D6  | D8          | Clerical skullcap, vestments, courtier's gloves, breeches, pantofles |
+| Swashbuckler Outfit | 4D6  | D6          | Cav alier hat, doublet, soldier's gloves, breeches, boots, cape      |
+
+*descriptions needed*
+
+#### Creating Charmwoven Clothing
+
+*introduction needed*
+
+##### Pertinence
+
+*introduction needed*
+
+###### Culture
+
+*introduction needed*
+
+Table: Culture Pertinence
+
+| Category | Pertinent Articles of Clothing                   |
+| -------- | ------------------------------------------------ |
+| Arm      | Courtier's gloves                                |
+| Torso    | Casaque, courtly gown, robes, smock, vestments   |
+| Foot     | Chopines, pantofles, poulaines, buckled shoes    |
+| Head     | Artisan's beret, hair ribbons, clerical skullcap |
+| Shoulder | Fur cape, liturgical stole, ornate stole         |
+
+###### Defense
+
+*introduction needed*
+
+Table: Defense Pertinence
+
+| Category | Pertinent Articles of Clothing |
+| -------- | ------------------------------ |
+| Arm      | Soldier's gloves               |
+| Torso    | Bodice, casaque, doublet       |
+| Foot     | Military boots, pantofles      |
+| Head     | Cavalier hat                   |
+| Shoulder | Cloth cape, cloak, tabard      |
+
+###### Dueling
+
+*introduction needed*
+
+Table: Dueling Pertinence
+
+| Category | Pertinent Articles of Clothing      |
+| -------- | ----------------------------------- |
+| Arm      | Soldier's gloves                    |
+| Torso    | Bodice, casaque, doublet            |
+| Foot     | \--                                 |
+| Head     | Cavalier hat, masque                |
+| Shoulder | Cloth cape, fur cape, cloak, tabard |
+
+###### Initiative
+
+*introduction needed*
+
+Table: Initiative Pertinence
+
+| Category | Pertinent Articles of Clothing |
+| -------- | ------------------------------ |
+| Arm      | \--                            |
+| Torso    | \--                            |
+| Foot     | \--                            |
+| Head     | \--                            |
+| Shoulder | \--                            |
+
+###### Interaction
+
+*introduction needed*
+
+Table: Interaction Pertinence
+
+| Category | Pertinent Articles of Clothing                                  |
+| -------- | --------------------------------------------------------------- |
+| Arm      | Courtier's gloves                                               |
+| Torso    | Bodice, doublet, courtly gown, surgeon's gown, robes, vestments |
+| Foot     | Chopines, poulaines                                             |
+| Head     | Hair ribbons, masque, clerical skullcap                         |
+| Shoulder | Cloth cape, fur cape, liturgical stole, ornate stole, tabard    |
+
+###### Magicks
+
+*introduction needed*
+
+Table: Magicks Pertinence
+
+| Category | Pertinent Articles of Clothing |
+| -------- | ------------------------------ |
+| Arm      | Craftsman's gloves             |
+| Torso    | Robes, smock, vestments        |
+| Foot     | \--                            |
+| Head     | Artisan's beret, hair ribbons  |
+| Shoulder | Fur cape, liturgical stole     |
+
+###### Medicine
+
+*introduction needed*
+
+Table: Medicine Pertinence
+
+| Category | Pertinent Articles of Clothing |
+| -------- | ------------------------------ |
+| Arm      | Craftsman's gloves             |
+| Torso    | Surgeon's gown                 |
+| Foot     | \--                            |
+| Head     | Plague mask                    |
+| Shoulder | \--                            |
+
+###### Military
+
+*introduction needed*
+
+Table: Military Pertinence
+
+| Category | Pertinent Articles of Clothing         |
+| -------- | -------------------------------------- |
+| Arm      | Soldier's gloves                       |
+| Torso    | Casaque                                |
+| Foot     | Military boots, poutaines              |
+| Head     | Capotain, gearspring goggles, tricorne |
+| Shoulder | Tabard                                 |
+
+###### Nature
+
+*introduction needed*
+
+Table: Nature Pertinence
+
+| Category | Pertinent Articles of Clothing         |
+| -------- | -------------------------------------- |
+| Arm      | Farmer's gloves                        |
+| Torso    | Shift                                  |
+| Foot     | Military boots, sandals, buckled shoes |
+| Head     | Capotain, tricorne                     |
+| Shoulder | Cloak                                  |
+
+###### Observation
+
+*introduction needed*
+
+Table: Observation Pertinence
+
+| Category | Pertinent Articles of Clothing                     |
+| -------- | -------------------------------------------------- |
+| Arm      | \--                                                |
+| Torso    | Courtly gown, surgeon's gown, robes, vestments     |
+| Foot     | \--                                                |
+| Head     | Gearspring goggles, plague mask, clerical skullcap |
+| Shoulder | \--                                                |
+
+###### Science
+
+*introduction needed*
+
+Table: Science Pertinence
+
+| Category | Pertinent Articles of Clothing                   |
+| -------- | ------------------------------------------------ |
+| Arm      | Craftsman's gloves                               |
+| Torso    | Smock                                            |
+| Foot     | \--                                              |
+| Head     | Artisan's beret, gearspring goggles, plague mask |
+| Shoulder | \--                                              |
+
+###### Streetwise
+
+Articles that can take streetwise charms are a varied set, ranging from
+the peasant's cloth cape to the noble's ornate stole.
+
+Table: Streetwise Pertinence
+
+| Category | Pertinent Articles of Clothing           |
+| -------- | ---------------------------------------- |
+| Arm      | Courtier's gloves                        |
+| Torso    | Bodice, doublet, shift                   |
+| Foot     | Sandals, buckled shoes                   |
+| Head     | Capotain, cavalier hat, masque, tricorne |
+| Shoulder | Cloth cape, cloak, ornate stole          |
+
+##### Colors
+
+*introduction needed*
+
+Table: Neutral Colors
+
+*introduction needed*
+Neutral Colors
+
+| Color    | Description     |
+| -------- | --------------- |
+| Argent   | Silver or white |
+| Brunâtre | Brown           |
+| Cendrée  | Grey            |
+| Sable    | Black           |
+
+Table: Verve Colors
+
+*introduction needed*
+Verve Colors
+
+|               |                 |
+| Color         | Description     |
+| ------------- | --------------- |
+| Argent (only) | Silver or white |
+| Azure         | Blue            |
+| Gules         | Red             |
+| Or            | Yellow          |
+
+Table: Affinity Colors
+
+*introduction needed*
+
+Affinity Colors
+
+| Color           | Description  |
+| --------------- | ------------ |
+| Amaranth        | Magenta      |
+| Bleu-Céleste    | Sky blue     |
+| Brunâtre (only) | Brown        |
+| Carnation       | Pink         |
+| Cendrée (only)  | Grey         |
+| Vert            | Green        |
+
+Table: Guile Colors
+
+*introduction needed*
+
+Guile Colors
+
+| Purpure      | Purple   |
+| ------------ | -------- |
+| Sable (only) | Black    |
+| Sanguine     | Dark red |
+| Tenné        | Orange   |
+
+*introduction needed*
+
+ - **Amaranth:** This is a violet-red color, close to a magenta. It is an Affinity color.
+ - **Argent:** Argent is both the color white and the color silver. When used in combination, it's considered a neutral color; used by itself, it's a Verve color.
+ - **Azure:** A medium shade of blue, azure is a Verve color.
+ - **Bleu-Céleste:** The light blue shade of a clear sky, bleu-céleste is not as dark as azure.
+ - **Brunâtre:** Brown, or brunâtre, is an Affinity color. If used in combination with another color, it's considered a neutral color.
+ - **Carnation:** An Affinity color, carnation is a softer pink color, often a lighter shade of Amaranth.
+ - **Cendrée:** Named for the dark grey of cinders, cendrée is an Affinity color when used by itself, or a neutral color when used in combination with another color.
+ - **Gules:** Gules, a medium shade of red, is a Verve color.  
+ - **Or:** *Or* represents yellow or gold. It is a Verve color.
+ - **Purpure:** This is a dark purple color and is a Guile color.
+ - **Sable:** Items that are entirely black are considered sable, a Guile color. If combined with another color, then the black becomes a neutral color.
+ - **Sanguine:** Dark red, the color of blood, is a Guile color.
+ - **Tenné:** This is a dark shade of orange, and is a Guile color.
+ - **Vert:** The color of forest vegetation, vert is an Affinity color.
+  
+Table: Charmweaving Colors
+
+| Color Name | Description     | Attribute          |
+| ---------- | --------------- | ------------------ |
+| Amaranth   | Violet red      | Affinity           |
+| Argent     | White or silver | Verve (or Neutral) |
+| Azure      | Blue            | Verve              |
+| Brunâtre   | Dark brown      | Guile (or Neutral) |
+| Carnation  | Pink            | Affinity           |
+| Celeste    | Light blue      | Affinity           |
+| Cendree    | Gray            | Guile (or Neutral) |
+| Gules      | Red             | Verve              |
+| Murrey     | Burgundy        | Affinity           |
+| Or         | Gold or yellow  | Verve              |
+| Purpure    | Purple          | Guile              |
+| Sable      | Black           | Guile (or Neutral) |
+| Sanguine   | Dark red        | Guile              |
+| Tenné      | Orange or tan   | Affinity           |
+| Vert       | Green           | Affinity           |
+
 ### Clockworks
+
+*introduction needed*
+
+
+#### Sample Devices
+
+**Design Note:** I haven't yet rechecked all of these yet, so some of them might be added up incorrectly or may be using earlier versions of some of the components. 
+
+###### Autoloader (pistol, musket)
+ 
+- **Casing Size:** Pocket (gear space 1)
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
+- **Components:** Efficiency (space 1, power 1, reduce Drop by 1),
+  Miniaturization (gear space +1)
+- **Construction Cost:** D6 (1)
+- **List Cost:** D6 (1)
+- **Complexity:** 3
+
+An autoloader can be attached to a pistol or a musket to speed up the reloading of the gun.
+
+###### Autoloader (cannon)
+
+- **Casing Size:** Portable (gear space 4)
+- **Power Source:** Gear Train (space 0, power supply 1, Drop 1)
+- **Components:** Efficiency (space 4, power 1, reduce reload time by 50%)
+- **Construction Cost:**
+- **List Cost:**
+- **Complexity:** 2
+
+An autoloader attached to a cannon reduces the reload time from 4 rounds to 2 rounds.
+
+###### Climbing Gears
+
+- **Casing Size:** Portable (space 4)
+- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration
+  one use per success point)
+- **Components:** Movement (space 2, power 1, walk, climb), Carry (space 2,
+  power 1, person), Miniaturization (space +2)
+- **Construction Cost:** D8 (2)
+- **List Cost:** 
+- **Complexity:** 4
+
+Climbing gears are worn as a harness and operated with two hands, allowing you to move between areas which are normally not passable.
+
+###### Clockbow
+
+- **Casing Size:** Portable (space 4)
+- **Power Source:** Gear Train (space 1, power supply 1, drop 0)
+- **Components:** Projectile Weapon (space 3, power 1, weapon die d8, close
+  Drop 0, short Drop 0, medium Drop 0, long Drop 2), Magazine (space 1, 4
+  shots, power 0, reload Drop 4), Miniaturization (space +1)
+- **Construction Cost:** 4D6 (3)
+- **List Cost:** D10 (3)
+- **Complexity:** 4
+
+A clockbow is a clockwork crossbow, fitted with a magazine that holds four quarrels that can be fired before reloading.
+
+###### Clockwork Carriage
+
+- **Casing Size:** Carriage (space 16)
+- **Power Source:** Mainspring (space 4, power supply 4, wind 10 minutes,
+  duration 1 hour)
+- **Components:** Movement (space 2, power 2, gallop, roll), Carry (space 4,
+  power 2, carriage)
+- **Construction Cost:** 3D10 (9)
+- **Complexity:** 3
+
+###### Clockwork Limb (arm)
+
+- **Casing Size:** Handheld (space 2)
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
+- **Components:** Carry (space 0, power 1, hand), Articulation (space 0, power
+  0, Drop 1), Armor (space 1, power 0, Armor Die d6)
+- **Construction Cost:** D12 (4)
+- **List Cost:** 
+- **Complexity:** 4
+
+###### Clockwork Limb (leg)
+
+- **Casing Size:** Portable (space 4)
+- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
+- **Components:** Carry (space 2 power 1, person), Articulation (space 0,
+  power 0, Drop 1), Armor (space 1, power 0, Armor Die d6) 
+- **Construction Cost:** 
+- **List Cost:** 
+- **Complexity:** 4
+
+###### Clockwork Pistol
+
+- **Casing Size:** Handheld (space 2)
+- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
+- **Components:** Projectile Weapon (space 1, power 1, range 2 areas, damage
+  D6, reload Drop 1)
+- **Construction Cost:** 
+- **List Cost:** 
+- **Complexity:** 2
+
+###### Clockwork Musket
+
+- **Casing Size:** Handheld (space 2)
+- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
+- **Components:** Projectile (space 1, power 1, range 2 areas, damage D6,
+  reload Drop 1)
+- **Construction Cost:** D8 (2 or 4)
+- **List Cost:** 
+- **Complexity:** 2
+
+###### Gearsword
+
+- **Casing Size:** Handheld (space 2)
+- **Power Source:** Mainspring (space 1, power supply 1, wind 1 turn, duration
+  + uses)
+- **Components:** Hand-to-Hand Weapon (space 2, power 0, weapon die D8),
+  Powered Melee Attack (space 1, power 1, bonus weapon die D6),
+  Miniaturization (space +2)
+- **Construction Cost:** D10 (3)
+- **List Cost:** 
+- **Complexity:** 
+
+###### Great Gearsword
+
+- **Casing Size:** Portable (space 2)
+- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration + uses)
+- **Components:** Melee Attack (space 4, power 0, weapon die D10), Powered
+  Melee Attack (space 2, power 2, bonus weapon die D10), Miniaturization
+  (space +4)
+- **Construction Cost:** (7)
+- **List Cost:** 
+- **Complexity:** 
+
+###### Pocketwatch
+
+- **Casing Size:** Pocket (space 1)
+- **Power Source:** Mainspring (space 1, power supply 1, wind 10 minutes, duration 24 hours)
+- **Components:** Calculation (space 0, power 1, timekeeping)
+- **Construction Cost:** D8 (2)
+- **List Cost:** 
+- **Complexity:** 2
+
+###### Wing-Glider
+
+- **Casing Size:** Portable (space 4)
+- **Power Source:** Gear Train (space 1, power 2, usage Drop 1, duration 1 Action)
+- **Components:** Carry (space 2, power 1, person), Movement (space 3, power 1, speed run, gliding)
+- **Construction Cost:** D12 (4)
+- **List Cost:** 
+- **Complexity:** 3
+
+###### Wrist Holster
+
+- **Casing Size:** Pocket (space 1)
+- **Power Source:** Tension Trigger (space 0, power supply 1, reset Drop 2,
+duration 1 use)
+- **Components:** Efficiency (space 1, power 1, reduce Drop by 1)
+- **Construction Cost:** D6 (1)
+- **List Cost:** 
+- **Complexity:** 2
+
+###### Airship
+
+- **Casing Size:** Building (space 64)
+- **Power Sources:** Mainspring (space 8, power supply 6, wind 10 minutes, duration 24 hours), Phlogistone Furnace (space 8, power supply 10,
+  movement and carry only), Gear Train x4 (space 1, power 5, Drop 4)
+- **Components:** Movement (space 16, power 7, cruise, fly), Carry (space 16,
+  power 8, building), Armor (space 8, power 0, Armor Die D12), Calculation
+  (space 2, power 1, navigation)
+- **Construction Cost:** 
+- **List Cost:** 4d12
+- **Complexity:** 10
+- **Design Note:** This airship definitely needs to be recalculated. 
 
 #### Clockwork Devices
 
@@ -9362,6 +10759,7 @@ Table: Projectile Weapon Component Range Options
 | +0    | D0   | 0 gears  | +0    | Drop 2    |             |              |           |
 
 Table: Projectile Weapon Component Use Options
+
 | Space | Cost | Supplies | Power | Casing Size | Max Weapon Die | Skill Prowess  |
 | :---: | :--: | :------: | :---: | :---------- | :------------- | :------------- |
 | +0    | D0   | 0 gears  | +0    | Pocket      | Pistol +1D6    | Pistol         |
@@ -9376,1207 +10774,17 @@ Table: Projectile Weapon Component Use Options
 | +0    | D0   | 0 gears  | +0    | Carriage    | Cannon +1D12   | Cannon         |
 | +0    | D6   | 1 gear   | +0    | Carriage    | Crossbow +1D12 | Crossbow       |
 
-#### Sample Devices
-
-**Design Note:** I haven't yet rechecked all of these yet, so some of them might be added up incorrectly or may be using earlier versions of some of the components. 
-
-###### Autoloader (pistol, musket)
- 
-- **Casing Size:** Pocket (gear space 1)
-
-- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
-
-- **Components:** Efficiency (space 1, power 1, reduce Drop by 1),
-Miniaturization (gear space +1)
-
-- **Construction Cost:** D6 (1)
-
-- **List Cost:** D6 (1)
-
-- **Complexity:** 3
-
-An autoloader can be attached to a pistol or a musket to speed up the
-reloading of the gun.
-
-###### Autoloader (cannon)
-
-- **Casing Size:** Portable (gear space 4)
-
-- **Power Source:** Gear Train (space 0, power supply 1, Drop 1)
-
-- **Components:** Efficiency (space 4, power 1, reduce reload time by 50%)
-
-- **Construction Cost:**
-
-- **List Cost:**
-
-- **Complexity:** 2
-
-An autoloader attached to a cannon reduces the reload time from 4 rounds
-to 2 rounds.
-
-###### Climbing Gears
-
-- **Casing Size:** Portable (space 4)
-
-- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration
-one use per success point)
-
-- **Components:** Movement (space 2, power 1, walk, climb), Carry (space 2,
-power 1, person), Miniaturization (space +2)
-
-- **Construction Cost:** D8 (2)
-
-- **List Cost:** 
-
-- **Complexity:** 4
-
-Climbing gears are worn as a harness and operated with two hands,
-allowing you to move between areas which are normally not passable.
-
-###### Clockbow
-
-- **Casing Size:** Portable (space 4)
-
-- **Power Source:** Gear Train (space 1, power supply 1, drop 0)
-
-- **Components:** Projectile Weapon (space 3, power 1, weapon die d8, close
-Drop 0, short Drop 0, medium Drop 0, long Drop 2), Magazine (space 1, 4
-shots, power 0, reload Drop 4), Miniaturization (space +1)
-
-- **Construction Cost:** 4D6 (3)
-
-- **List Cost:** D10 (3)
-
-- **Complexity:** 4
-
-A clockbow is a clockwork crossbow, fitted with a magazine that holds
-four quarrels that can be fired before reloading.
-
-###### Clockwork Carriage
-
-- **Casing Size:** Carriage (space 16)
-
-- **Power Source:** Mainspring (space 4, power supply 4, wind 10 minutes,
-duration 1 hour)
-
-- **Components:** Movement (space 2, power 2, gallop, roll), Carry (space 4,
-power 2, carriage)
-
-- **Construction Cost:** 3D10 (9)
-
-- **Complexity:** 3
-
-###### Clockwork Limb (arm)
-
-- **Casing Size:** Handheld (space 2)
-
-- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
-
-- **Components:** Carry (space 0, power 1, hand), Articulation (space 0, power
-0, Drop 1), Armor (space 1, power 0, Armor Die d6)
-
-- **Construction Cost:** D12 (4)
-
-- **List Cost:** 
-
-- **Complexity:** 4
-
-###### Clockwork Limb (leg)
-
-- **Casing Size:** Portable (space 4)
-
-- **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
-
-- **Components:** Carry (space 2 power 1, person), Articulation (space 0,
-power 0, Drop 1), Armor (space 1, power 0, Armor Die d6) 
-
-- **Construction Cost:** 
-
-- **List Cost:** 
-
-- **Complexity:** 4
-
-###### Clockwork Pistol
-
-- **Casing Size:** Handheld (space 2)
-
-- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
-
-- **Components:** Projectile Weapon (space 1, power 1, range 2 areas, damage
-D6, reload Drop 1)
-
-- **Construction Cost:** 
-
-- **List Cost:** 
-
-- **Complexity:** 2
-
-###### Clockwork Musket
-
-- **Casing Size:** Handheld (space 2)
-
-- **Power Source:** Tension Trigger (space 1, power supply 1, reset Drop 1)
-
-- **Components:** Projectile (space 1, power 1, range 2 areas, damage D6,
-reload Drop 1)
-
-- **Construction Cost:** D8 (2 or 4)
-
-- **List Cost:** 
-
-- **Complexity:** 2
-
-###### Gearsword
-
-- **Casing Size:** Handheld (space 2)
-
-- **Power Source:** Mainspring (space 1, power supply 1, wind 1 turn, duration
-+ uses)
-
-- **Components:** Hand-to-Hand Weapon (space 2, power 0, weapon die D8),
-Powered Melee Attack (space 1, power 1, bonus weapon die D6),
-Miniaturization (space +2)
-
-- **Construction Cost:** D10 (3)
-
-- **List Cost:** 
-
-- **Complexity:** 
-
-###### Great Gearsword
-
-- **Casing Size:** Portable (space 2)
-
-- **Power Source:** Mainspring (space 2, power supply 2, wind 1 turn, duration
-+ uses)
-
-- **Components:** Melee Attack (space 4, power 0, weapon die D10), Powered
-Melee Attack (space 2, power 2, bonus weapon die D10), Miniaturization
-(space +4)
-
-- **Construction Cost:** (7)
-
-- **List Cost:** 
-
-- **Complexity:** 
-
-###### Pocketwatch
-
-- **Casing Size:** Pocket (space 1)
-
-- **Power Source:** Mainspring (space 1, power supply 1, wind 10 minutes, duration 24 hours)
-
-- **Components:** Calculation (space 0, power 1, timekeeping)
-
-- **Construction Cost:** D8 (2)
-
-- **List Cost:** 
-
-- **Complexity:** 2
-
-###### Wing-Glider
-
-- **Casing Size:** Portable (space 4)
-
-- **Power Source:** Gear Train (space 1, power 2, usage Drop 1, duration 1 Action)
-
-- **Components:** Carry (space 2, power 1, person), Movement (space 3, power 1, speed run, gliding)
-
-- **Construction Cost:** D12 (4)
-
-- **List Cost:** 
-
-- **Complexity:** 3
-
-###### Wrist Holster
-
-- **Casing Size:** Pocket (space 1)
-
-- **Power Source:** Tension Trigger (space 0, power supply 1, reset Drop 2,
-duration 1 use)
-
-- **Components:** Efficiency (space 1, power 1, reduce Drop by 1)
-
-- **Construction Cost:** D6 (1)
-
-- **List Cost:** 
-
-- **Complexity:** 2
-
-###### Airship
-
-- **Casing Size:** Building (space 64)
-- **Power Sources:** Mainspring (space 8, power supply 6, wind 10 minutes, duration 24 hours), Phlogistone Furnace (space 8, power supply 10,
-movement and carry only), Gear Train x4 (space 1, power 5, Drop 4)
-
-- **Components:** Movement (space 16, power 7, cruise, fly), Carry (space 16,
-power 8, building), Armor (space 8, power 0, Armor Die D12), Calculation
-(space 2, power 1, navigation)
-
-- **Construction Cost:** 
-
-- **List Cost:** 4d12
-
-- **Complexity:** 10
-
-- **Design Note:** This airship definitely needs to be recalculated. 
-
 #### Repairing and Salvaging Clockwork Devices
 
 *explanation needed* 
 
-### Clothing
 
-Charmweaving, is the practice of adding
-specific dyes, trinkets, threads, and other magickal enhancements to
-articles of clothing. These enhancements provide bonuses to specific
-tasks. 
 
-#### Clothing Qualities
 
-Articles of clothing have the following qualities:
+#### Bibelots
 
-**Worn On:** Each article of clothing is designed to be worn on a
-specific part of your body -- head, shoulders, torso, hands, legs, or
-feet. In general, you can wear only one item per location, although you
-may be able to stack multiple cloaks on your shoulders under certain
-circumstances -- check with your Gamemaster to be sure.
+*description needed*
 
-Items worn on the legs can't have charms woven into them. 
-
-**Social Rank:** Some items are associated with certain social ranks.
-This doesn't restrict what you can wear, regardless of your own social
-rank, but it may affect how you and your outfit are seen by others. The
-social rank of an article of clothing can be used as an availability die
-in a purchase roll.
-
-**Scale:** Articles of clothing are usually handheld scale when carried,
-and don't contribute to encumbrance when worn if the optional system for
-encumbrance is used. Items wrapped up in a box for gifting or transport
-are one scale category higher, including the packaging.
-
-The following table lists the most common types of clothes that are
-found in Gallinea. 
-
-Table: Articles of Clothing
-
-| Item                | Cost | Worn On   | Social Rank    |
-| :------------------ | :--: | :-------- | :------------- |
-| Beret, artisan's    | 1D0  | Head      | Artisan (1D8)  |
-| Bodice, fine        | 1D6  | Torso     | Noble (1D10)   |
-| Bodice, common      | 1D0  | Torso     | Commoner (1D0) |
-| Boots, military     | 1D6  | Feet      | Soldier (1D6)  |
-| Boots, work         | 1D6  | Feet      | Commoner (1D0) |
-| Breeches            | 1D6  | Legs      | Commoner (1D0) |
-| Cape, cloth         | 1D0  | Shoulders | Soldier (1D6)  |
-| Cape, fur           | 1D8  | Shoulders | Artisan (1D8)  |
-| Capotain            | 1D0  | Head      | Military (1D6) |
-| Casaque             | 1D6  | Torso     | Soldier (1D6)  |
-| Cavalier hat        | 1D6  | Head      | Military (1D6) |
-| Chopines            | 1D6  | Feet      | Noble (1D10)   |
-| Cloak               | 1D0  | Shoulders | Commoner (1D0) |
-| Doublet, common     | 1D6  | Torso     | Commoner (1D0) |
-| Doublet, fine       | 1D0  | Torso     | Noble (1D10)   |
-| Gloves, courtier's  | 1D6  | Hands     | Noble (1D10)   |
-| Gloves, craftsman's | 1D0  | Hands     | Artisan (1D8)  |
-| Gloves, farmer's    | 1D0  | Hands     | Commoner (1D0) |
-| Gloves, soldier's   | 1D0  | Hands     | Soldier (1D6)  |
-| Goggles, gearspring | 1D6  | Head      | Artisan (1D8)  |
-| Gown, courtly       | 1D10 | Torso     | Noble (1D10)   |
-| Gown, surgeon's     | 1D6  | Torso     | Artisan (1D8)  |
-| Hair ribbons        | 1D0  | Head      | Noble (1D10)   |
-| Hose                | 1D0  | Legs      | Noble (1D10)   |
-| Masque              | 1D0  | Head      | Noble (1D10)   |
-| Pantaloons          | 1D6  | Legs      | Military (1D6) |
-| Pantofles           | 1D0  | Feet      | Artisan (1D8)  |
-| Petticoat           | 1D6  | Legs      | Noble (1D10)   |
-| Plague mask         | 1D6  | Head      | Artisan (1D8)  |
-| Poulaines           | 1D0  | Feet      | Military (1D6) |
-| Robes               | 1D0  | Torso     | Commoner (1D0) |
-| Sandals             | 1D0  | Feet      | Commoner (1D0) |
-| Shift               | 1D0  | Torso     | Commoner (1D0) |
-| Shoes, buckled      | 1D0  | Feet      | Commoner (1D0) |
-| Skirt               | 1D6  | Legs      | Common (1D0)   |
-| Skullcap, clerical  | 1D0  | Head      | Artisan (1D8)  |
-| Smock               | 1D0  | Torso     | Commoner (1D0) |
-| Stockings           | 1D0  | Legs      | Commoner (1D0) |
-| Stole, liturgical   | 1D0  | Shoulders | Artisan (1D8)  |
-| Stole, ornate       | 1D8  | Shoulders | Noble (1D10)   |
-| Tabard              | 1D6  | Shoulders | Soldier (1D6)  |
-| Tricorne            | 1D6  | Head      | Military (1D6) |
-| Vestments           | 1D6  | Torso     | Artisan (1D8)  |
-
-#### Standard outfits
-
-Many outfits just naturally go together. Every new character starts with
-one or two standard outfits depending on her class and backstory. In
-addition to sharing a common cost, outfits are all considered part of
-the same social rank, regardless of the actual social rank of each
-item.
-
-Table: Standard Outfits
-
-| Item                | Cost    | Includes                                                             |
-| :------------------ | :-----: | :------------------------------------------------------------------- |
-| Clockworker outfit  | 2D6     | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
-| Corsair outfit      | 4D6     | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
-| Courtly outfit      | 3D6     | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
-| Crafter outfit      | 2D6     | Artisan's beret, smock, breeches, craftsman's gloves, buckled shoes  |
-| Military outfit     | 2D6     | Capotain, soldier's gloves, breeches, boots, tabard                  |
-| Peasant outfit      | 1D6     | Shift, breeches, buckled shoes                                       |
-| Physician outfit    | 3D6     | Plague mask, surgeon's gown, breeches, pantofles                     |
-| Priest outfit       | 2D6     | Clerical skullcap, vestments, courtier's gloves, breeches, pantofles |
-| Scholar's outfit    | 1D6+1D8 | Ornate stole, robes, breeches, poulaines                             |
-| Swashbuckler outfit | 4D6     | Cavalier hat, doublet, soldier's gloves, breeches, boots, cloth cape |
-
-**Clockworker outfit (Artisan 1D8):** This is worn while doing
-mechanician work, and usually has a lot of extraneous pockets and loops
-for tools and gears. The most notable feature is the set of gearspring
-goggles, which give an item die bonus of Perceive +1D6 on visual checks.
-
-**Corsair outfit (Soldier 1D6):** Worn by sailors and pirates around the
-world, and by many would-be buccaneers, this outfit certainly captures
-the look of the chic privateer.
-
-**Courtly outfit (Noble 1D10):** Nobles, and those who must interact
-with them, are known for their outlandishly ornate couture and finely
-arranged coiffure.
-
-**Crafter outfit (Artisan 1D8):** Similar to a clockworker outfit, a
-crafter outfit is for doing productive work, be it artistic, magickal,
-or smithing in content.
-
-**Military outfit (Soldier 1D6):** Military outfits come with an
-appropriate tabard from the correct military unit, noble house,
-mercenary group, or city guard. For example, a veteran/constable may
-have one tabard from the French army, and another from the Parisian
-watch. Military outfits don't come with a torso item, to facilitate the
-wearing of armor.
-
-**Peasant outfit (Commoner 1D0):** Plain and practical, peasant outfits
-can be found throughout Europe, and in nearly every social rank. As
-they're easily patched, many peasant outfits are simply stitched
-together from different types and colors of fabric. 
-
-**Physician outfit (Artisan 1D8):** The notable feature of this outfit
-is the large, vaguely bird-shaped mask used during surgery; the beak of
-this mask contains herbs and cloth meant to filter out diseases. Most
-physician outfits start out white in color, but quickly become stained
-with crimson.
-
-**Priest outfit (Artisan 1D8):** The traditional dress of clergy
-varies by their rank within the church. 
-
-**Scholar's outfit (Artisan 1D8):** Students and instructors at
-universities, seminaries, officer schools, and other institutions of
-higher learning are expected to dress in traditional scholarly robes
-while teaching or attending classes. Outside of class, of course,
-they're free to wear whatever they want.
-
-**Swashbuckler outfit (Soldier 1D6):** The cavalier hat, the billowing
-cape, the high boots -- anyone wearing this outfit cuts a dashing figure
-indeed. While some such outfits are more sedate and refined, many look
-are flamboyant to an excessive degree.
-
-### (subchapter) Charmwoven Attire
-
-*introduction needed*
-
-#### The Nine Laws of Fashion
-
-Charmwoven clothes are useful, stylish, and expensive, but they are also
-made according to exacting standards known as the Nine Laws of
-Fashion. Flouting these laws could lead to your Charms simply failing to
-work at all\!
-
-The First is the simplest Law:
-
-##### The First Law: The Law of Couture
-
-*"One's clothes must fit properly."*
-
-It seems obvious at first -- clothing is meant to be worn and to fit
-properly\! But it's also the most important. If your clothes aren't
-sized correctly for you, none of the charms will function. In addition,
-each off-size article of clothing you wear adds a Drop 1 penalty to
-combat actions if it's too large or too small.
-
-To ensure your clothes are properly sized, you can't just buy your
-clothes off the rack; the people of France are a diverse group when it
-comes to body size, and there are no "standard sizes". Your clothes will
-need to be either be created specifically for you, or altered by a
-tailor. Only then can charms be effectively added to such apparel.
-
-##### The Second Law: The Law of Attunement
-
-*"Charms are unique to the wearer."*
-
-You can't just pick up any random charmwoven item and put it on, even if
-it fits you. The patterns, glyphs, and trinkets sewn into charmwoven
-clothing have to be calibrated for each wearers. This is a pretty simple
-process -- as long as the charmweaver knows your birth date, birth time,
-and place of birth. It usually takes about an hour to attune or reattune
-charms to any given person.
-
-What if you don't know some or any of that information to tell your
-charmweaver? There are two options.
-
-First, your charmweaver can attempt to adjust the charms to you anyway,
-through trial and error. This takes one hour per piece of information
-about your birth that you're missing. At the end of that process, the
-charmweaver makes a simple Magicks (Weave) roll with the opposition pool
-based on how much they don't know, as shown on the following
-table.
-
-Table: Opposition Pool for Charm Attunement Rolls
-
-| Die | Birth Date           | Birth Time          | Place of Birth           |
-| --- | -------------------- | ------------------- | ------------------------ |
-| D0  | Exact date           | Time, to the minute | City or village of birth |
-| D6  | Year and month known | Time, to the hour   | Province of birth        |
-| D8  | Month known          | Morning or Night    | Country of birth         |
-| D10 | Year known           | \--                 | Continent of birth       |
-| D12 | Nothing known        | Nothing known       | Nothing known            |
-
-The dice pool is based on all of these factors -- so if you know the
-exact date of your birth, that you know you were born in the morning,
-and that you were born somewhere in Russia, that's an opposition pool
-of 1D0+1D8+1D8, or 2D8. As it's a simple check, the charmweaver needs
-just one success point to correctly attune the item. On a failed check,
-the charmweaver needs to start over again to attune the item.
-
-The second option involves the use of Magicks (Portents), and for this
-reason many charmweavers either work with those who can read omens, or
-can do so themselves. 
-
-The opposition pool for the Portents roll is the same as the pool
-calculated above for the trial-and-error method using the Magicks
-(Weave) specialty, but this is a standard roll not a simple roll. It
-takes one minute to perform this type of reading, the portent-reader
-must see you the entire time, and you must be willing to have it done.
-Each success point spent reveals either your birth date, your birth time
-to the minute, or your city or village of birth.
-
-##### The Third Law: The Law of Pertinence
-
-*"The charm must correspond to the article."*
-
-Simply stated, this means that a charm can only be applied to an item
-that has some relationship to the type of enchantment desired.
-
-For example, gloves for soldiers can be given charms that assist with
-Dueling or Military (Aim), while gloves for craftsmen can be charmed for
-Magicks, Medicine, or Science.
-
-Pertinent skills for any given type of clothing are found later in this
-chapter, in the "Articles of Clothing" section. The "Creating Charmwoven
-Clothing" section, also found in this chapter, summarizes which types of
-charms can be applied to which pieces of attire.
-
-##### The Fourth Law: The Law of Dissonance
-
-*"Dissonance limits the effectiveness of charms."*
-
-*description of dissonance needed*
-
-Table: Dissonance
-
-| Dissonance Level | Maximum Charm Die |
-| ---------------- | ----------------- |
-| 0                | No limits         |
-| 1                | 1D12              |
-| 2                | 1D10              |
-| 3                | 1D8               |
-| 4                | 1D6               |
-| 5                | 1D0               |
-| 6 or more        | None              |
-
-##### The Fifth Law: The Law of Cacophony
-
-*"Unrestrained use of color creates dissonance."*
-
-*explanation needed*
-
-Table: Dissonance Generated by Cacophony
-
-| Additional Colors | Dissonance |
-| ----------------- | ---------- |
-| 1                 | \+0        |
-| 2                 | \+2        |
-| 3                 | \+3        |
-| 4                 | \+4        |
-| 5                 | \+5        |
-| 6 or more         | \+6        |
-
-##### The Sixth Law: The Law of Neutrality
-
-*"Neutral colors do not generate dissonance."*
-
-*explanation needed*
-
-##### The Seventh Law: The Law of Darning
-
-*"Rips, tears, and holes produce dissonance."*
-
-*explanation needed*
-
-Table: Dissonance Generated by Damage
-
-| Unrepaired Rips | Dissonance |
-| --------------- | ---------- |
-| 0               | \+0        |
-| 1               | \+0        |
-| 2               | \+2        |
-| 3               | \+3        |
-| 4               | \+4        |
-| 5               | \+5        |
-| 6 or more       | \+6        |
-
-##### The Eighth Law: The Law of Station
-
-*"Outfits of mismatched attire produce dissonance."*
-
-*explanation needed*
-
-Mismatched refers to the social rank associated with each item.
-Predefined outfits automatically count as a single rank.
-
-Table: Dissonance Generated by Social Rank Mismatch
-
-| Step of Mismatch | Dissonance |
-| ---------------- | ---------- |
-| 0                | \+0        |
-| 1                | \+0        |
-| 2                | \+2        |
-| 3                | \+3        |
-| 4                | \+4        |
-| 5                | \+5        |
-| 6 or more        | \+6        |
-
-
-##### The Ninth Law: The Law of *Dernier Cri*
-
-*"Dated fashions generate dissonance."*
-
-*explanation needed*
-
-This only applies to items or outfits of social rank 1D10.
-
-Table: Dissonance Generated by Dated Fashions
-
-| Years      | Dissonance |
-| ---------- | ---------- |
-| 0          | \+0        |
-| 1          | \+0        |
-| 2          | \+2        |
-| 3          | \+3        |
-| 4          | \+4        |
-| 5          | \+5        |
-| 6 or older | \+6        |
-
-##### Wearing Charmwoven Clothing
-
-*explanation needed*
-
-##### Wearing Mundane Clothing
-
-*explanation needed*
-
-#### Articles of Clothing
-
-*introduction needed*
-
-##### Arm Apparel
-
-*introduction needed*
-
-Table: Arm Apparel
-
-| Item                | Cost | Social Rank | Pertinent Skills                 |
-| ------------------- | ---- | ----------- | -------------------------------- |
-| Gloves, Courtier's  | 1D6  | D10         | Culture, Interaction, Streetwise |
-| Gloves, Craftsman's | 1D0  | D8          | Magicks, Medicine, Science       |
-| Gloves, Soldier's   | 1D0  | D6          | Defense, Dueling, Military       |
-| Gloves, Farmer's    | 1D0  | D0          | Nature, Streetwise               |
-
-*descriptions needed*
-
-##### Torso Apparel
-
-*introduction needed*
-
-Table: Torso Apparel
-
-| Item            | Cost | Social Rank | Pertinent Skills                           |
-| --------------- | ---- | ----------- | ------------------------------------------ |
-| Bodice, Common  | 1D0  | D0          | Interaction, Nature, Streetwise            |
-| Bodice, Fine    | 1D6  | D10         | Defense, Dueling, Interaction              |
-| Casaque         | 1D6  | D6          | Culture, Defense, Dueling, Military        |
-| Doublet, Fine   | 1D6  | D10         | Defense, Dueling, Interaction              |
-| Doublet, Common | 1D0  | D0          | Defense, Interaction, Streetwise           |
-| Gown, Courtly   | 1D10 | D10         | Culture, Interaction, Observation          |
-| Gown, Surgeon's | 1D6  | D8          | Interaction, Medicine, Observation         |
-| Robes           | 1D0  | D0          | Culture, Interaction, Magicks, Observation |
-| Shift           | 1D0  | D0          | Magicks, Nature, Streetwise                |
-| Smock           | 1D0  | D8          | Culture, Magicks, Science                  |
-| Vestments       | 1D6  | D8          | Culture, Interaction, Magicks, Observation |
-
-*descriptions needed*
-
-##### Foot Apparel
-
-*introduction needed*
-
-Table: Foot Apparel
-
-| Item            | Cost | Social Rank | Pertinent Skills               |
-| --------------- | ---- | ----------- | ------------------------------ |
-| Boots, Military | 1D6  | D6          | Defense, Military, Nature      |
-| Boots, Work     | 1D6  | D0          | Military, Nature, Streetwise   |
-| Chopines        | 1D6  | D10         | Culture, Interaction           |
-| Pantofles       | 1D0  | D8          | Culture, Defense               |
-| Poulaines       | 1D0  | D6          | Culture, Interaction, Military |
-| Sandals         | 1D0  | D0          | Nature, Streetwise             |
-| Shoes, Buckled  | 1D0  | D0          | Culture, Nature, Streetwise    |
-
-##### Head Apparel
-
-The people of France wear many different kinds of hats, with a type of headwear
-available to every type of charm -- all the skills, with the exception
-of Initiative. The types of hats available are shown in the following
-table.
-
-Table: Head Apparel
-
-| Item                | Cost | Social Rank | Pertinent Skills                  |
-| ------------------- | ---- | ----------- | --------------------------------- |
-| Beret, Artisan's    | 1D0  | D8          | Culture, Magicks, Science         |
-| Capotain            | 1D0  | D6          | Military, Nature, Streetwise      |
-| Cavalier Hat        | 1D6  | D6          | Defense, Dueling, Streetwise      |
-| Goggles, Gearspring | 1D6  | D8          | Military, Observation, Science    |
-| Hair Ribbons        | 1D0  | D10         | Culture, Interaction, Magicks     |
-| Masque              | 1D0  | D10         | Dueling, Interaction, Streetwise  |
-| Plague Mask         | 1D6  | D8          | Medicine, Observation, Science    |
-| Skullcap, Clerical  | 1D0  | D8          | Culture, Interaction, Observation |
-| Tricorne            | 1D6  | D6          | Military, Nature, Streetwise      |
-
-**Beret, Artisan's:** The simple woolen beret is common among crafters,
-and you can get a beret in many different colors.
-
-**Capotain:** A capotain is a tall hat, usually flat on the top, with a
-narrow brim.  Most capotains are black in color, and many sport buckles in front.
-
-**Cavalier Hat:** Cavalier hats have a wide brim and are usually worn
-with one side pinned up. A dyed ostrich feather is often added, both for
-appearance's sake and to allow all-black hats to take a charm. 
-
-**Goggles, Gearspring:** These goggles are created and used by
-mechanicians as well as other crafters. Each set of goggles has two or
-more pairs of lenses that can be swapped in as necessary -- functions
-include magnification of small objects, telescopic sighting of distant
-objects, filters for specific colors, or simple eye protection.
-Gearspring goggles offer a +1D6 Item Die on Observation (Perception) rolls.
-
-**Hair Ribbons:** Magickally charmed hair ribbons are popular with the
-upper classes and are woven into the hairstyles -- or wigs -- of any
-gender of noble. Unless affixed to a wig (which must be one of the
-neutral colors of argent, brunâtre, cendree, or sable), the ribbons
-require anywhere from ten minutes to several hours to weave into hair,
-or double that time if forced to don them without the help of a capable
-household servant.
-
-**Masque:** Not a bandanna clumsily worn by a common brigand to disguise
-her identity, a masque actually does little to hide one's appearance.
-Used by the nobility at their lavish parties, each is custom created to
-reflect the wearer's persona and opinions of herself. Many masques only
-encircle the eyes and the space between them, while others cover the
-entire face. 
-
-**Plague Mask:** Part of a chirurgeon's standard surgical wear, a plague
-mask is usually styled like a bird's long beak, although other examples
-exist, such as long tusks or simply a cylinder. Goggles built into the
-mask provide covering for the chirurgeon's eyes, while medicinal herbs
-and complex filters in the "nose" cavity prevent infection of
-air-carried diseases.
-
-**Skullcap, Clerical:** Sometimes called calottes, these skullcaps are
-associated with clergy.
-
-**Tricorne:** These felt hats have wide brims like cavalier hats, but
-are pinned up on the sides and backs, forming them into triangular
-shapes.  Tricornes are most popular among sailors and members of
-the military, with officers using them to display medals and other
-symbols of rank.
-
-##### Shoulder Apparel
-
-Shoulder charms tend to be about skills that are flashy and
-attention-getting, although a few have use in disguising or hiding the
-wearer.
-
-Table: Shoulder Apparel
-
-| Item              | Cost | Social Rank | Pertinent Skills                              |
-| ----------------- | ---- | ----------- | --------------------------------------------- |
-| Cape, Cloth       | 1D0  | D6          | Defense, Dueling, Interaction, Streetwise     |
-| Cape, Fur         | 1D8  | D8          | Culture, Dueling, Interaction, Magicks        |
-| Cloak             | 1D0  | D0          | Defense, Dueling, Magicks, Nature, Streetwise |
-| Stole, Liturgical | 1D0  | D8          | Culture, Interaction, Magicks                 |
-| Stole, Ornate     | 1D8  | D10         | Culture, Interaction, Streetwise              |
-| Tabard            | 1D6  | D6          | Defense, Dueling, Interaction, Military       |
-
-*descriptions needed*
-
-#### Standard Outfits
-
-*introduction needed*
-
-Table: standard Outfits
-
-| Item                | Cost | Social Rank | Includes                                                             |
-| ------------------- | ---- | ----------- | -------------------------------------------------------------------- |
-| Clockworker Outfit  | 2D6  | D8          | Gearspring goggles, smock, breeches, craftsman's gloves, pantofles   |
-| Corsair Outfit      | 4D6  | D6          | Tricorne, doublet, soldier's gloves, pantaloons, boots               |
-| Courtly Outfit      | 3D6  | D10         | Hair ribbons, bodice, courtier's gloves, skirt, chopines             |
-| Crafter Outfit      | 2D6  | D8          | Artisan's beret, smock, breeches, craftsman's gloves, buckled shoes  |
-| Military Outfit     | 2D6  | D6          | Capotain, soldier's gloves, breeches, boots, tabard                  |
-| Peasant Outfit      | 1D6  | D0          | Shift, breeches, buckled shoes                                       |
-| Physician Outfit    | 3D6  | D8          | Plague mask, surgeon's gown, breeches, pantofles                     |
-| Priest Outfit       | 2D6  | D8          | Clerical skullcap, vestments, courtier's gloves, breeches, pantofles |
-| Swashbuckler Outfit | 4D6  | D6          | Cav alier hat, doublet, soldier's gloves, breeches, boots, cape      |
-
-*descriptions needed*
-
-#### Creating Charmwoven Clothing
-
-*introduction needed*
-
-##### Pertinence
-
-*introduction needed*
-
-###### Culture
-
-*introduction needed*
-
-Table: Culture Pertinence
-
-| Category | Pertinent Articles of Clothing                   |
-| -------- | ------------------------------------------------ |
-| Arm      | Courtier's gloves                                |
-| Torso    | Casaque, courtly gown, robes, smock, vestments   |
-| Foot     | Chopines, pantofles, poulaines, buckled shoes    |
-| Head     | Artisan's beret, hair ribbons, clerical skullcap |
-| Shoulder | Fur cape, liturgical stole, ornate stole         |
-
-###### Defense
-
-*introduction needed*
-
-Table: Defense Pertinence
-
-| Category | Pertinent Articles of Clothing |
-| -------- | ------------------------------ |
-| Arm      | Soldier's gloves               |
-| Torso    | Bodice, casaque, doublet       |
-| Foot     | Military boots, pantofles      |
-| Head     | Cavalier hat                   |
-| Shoulder | Cloth cape, cloak, tabard      |
-
-###### Dueling
-
-*introduction needed*
-
-Table: Dueling Pertinence
-
-| Category | Pertinent Articles of Clothing      |
-| -------- | ----------------------------------- |
-| Arm      | Soldier's gloves                    |
-| Torso    | Bodice, casaque, doublet            |
-| Foot     | \--                                 |
-| Head     | Cavalier hat, masque                |
-| Shoulder | Cloth cape, fur cape, cloak, tabard |
-
-###### Initiative
-
-*introduction needed*
-
-Table: Initiative Pertinence
-
-| Category | Pertinent Articles of Clothing |
-| -------- | ------------------------------ |
-| Arm      | \--                            |
-| Torso    | \--                            |
-| Foot     | \--                            |
-| Head     | \--                            |
-| Shoulder | \--                            |
-
-###### Interaction
-
-*introduction needed*
-
-Table: Interaction Pertinence
-
-| Category | Pertinent Articles of Clothing                                  |
-| -------- | --------------------------------------------------------------- |
-| Arm      | Courtier's gloves                                               |
-| Torso    | Bodice, doublet, courtly gown, surgeon's gown, robes, vestments |
-| Foot     | Chopines, poulaines                                             |
-| Head     | Hair ribbons, masque, clerical skullcap                         |
-| Shoulder | Cloth cape, fur cape, liturgical stole, ornate stole, tabard    |
-
-###### Magicks
-
-*introduction needed*
-
-Table: Magicks Pertinence
-
-| Category | Pertinent Articles of Clothing |
-| -------- | ------------------------------ |
-| Arm      | Craftsman's gloves             |
-| Torso    | Robes, smock, vestments        |
-| Foot     | \--                            |
-| Head     | Artisan's beret, hair ribbons  |
-| Shoulder | Fur cape, liturgical stole     |
-
-###### Medicine
-
-*introduction needed*
-
-Table: Medicine Pertinence
-
-| Category | Pertinent Articles of Clothing |
-| -------- | ------------------------------ |
-| Arm      | Craftsman's gloves             |
-| Torso    | Surgeon's gown                 |
-| Foot     | \--                            |
-| Head     | Plague mask                    |
-| Shoulder | \--                            |
-
-###### Military
-
-*introduction needed*
-
-Table: Military Pertinence
-
-| Category | Pertinent Articles of Clothing         |
-| -------- | -------------------------------------- |
-| Arm      | Soldier's gloves                       |
-| Torso    | Casaque                                |
-| Foot     | Military boots, poutaines              |
-| Head     | Capotain, gearspring goggles, tricorne |
-| Shoulder | Tabard                                 |
-
-###### Nature
-
-*introduction needed*
-
-Table: Nature Pertinence
-
-| Category | Pertinent Articles of Clothing         |
-| -------- | -------------------------------------- |
-| Arm      | Farmer's gloves                        |
-| Torso    | Shift                                  |
-| Foot     | Military boots, sandals, buckled shoes |
-| Head     | Capotain, tricorne                     |
-| Shoulder | Cloak                                  |
-
-###### Observation
-
-*introduction needed*
-
-Table: Observation Pertinence
-
-| Category | Pertinent Articles of Clothing                     |
-| -------- | -------------------------------------------------- |
-| Arm      | \--                                                |
-| Torso    | Courtly gown, surgeon's gown, robes, vestments     |
-| Foot     | \--                                                |
-| Head     | Gearspring goggles, plague mask, clerical skullcap |
-| Shoulder | \--                                                |
-
-###### Science
-
-*introduction needed*
-
-Table: Science Pertinence
-
-| Category | Pertinent Articles of Clothing                   |
-| -------- | ------------------------------------------------ |
-| Arm      | Craftsman's gloves                               |
-| Torso    | Smock                                            |
-| Foot     | \--                                              |
-| Head     | Artisan's beret, gearspring goggles, plague mask |
-| Shoulder | \--                                              |
-
-###### Streetwise
-
-Articles that can take streetwise charms are a varied set, ranging from
-the peasant's cloth cape to the noble's ornate stole.
-
-Table: Streetwise Pertinence
-
-| Category | Pertinent Articles of Clothing           |
-| -------- | ---------------------------------------- |
-| Arm      | Courtier's gloves                        |
-| Torso    | Bodice, doublet, shift                   |
-| Foot     | Sandals, buckled shoes                   |
-| Head     | Capotain, cavalier hat, masque, tricorne |
-| Shoulder | Cloth cape, cloak, ornate stole          |
-
-##### Colors
-
-*introduction needed*
-
-Table: Neutral Colors
-
-*introduction needed*
-Neutral Colors
-
-| Color    | Description     |
-| -------- | --------------- |
-| Argent   | Silver or white |
-| Brunâtre | Brown           |
-| Cendrée  | Grey            |
-| Sable    | Black           |
-
-Table: Verve Colors
-
-*introduction needed*
-Verve Colors
-
-|               |                 |
-| Color         | Description     |
-| ------------- | --------------- |
-| Argent (only) | Silver or white |
-| Azure         | Blue            |
-| Gules         | Red             |
-| Or            | Yellow          |
-
-Table: Affinity Colors
-
-*introduction needed*
-
-Affinity Colors
-
-| Color           | Description  |
-| --------------- | ------------ |
-| Amaranth        | Magenta      |
-| Bleu-Céleste    | Sky blue     |
-| Brunâtre (only) | Brown        |
-| Carnation       | Pink         |
-| Cendrée (only)  | Grey         |
-| Vert            | Green        |
-
-Table: Guile Colors
-
-*introduction needed*
-
-Guile Colors
-
-| Purpure      | Purple   |
-| ------------ | -------- |
-| Sable (only) | Black    |
-| Sanguine     | Dark red |
-| Tenné        | Orange   |
-
-*introduction needed*
-
- - **Amaranth:** This is a violet-red color, close to a magenta. It is an Affinity color.
- - **Argent:** Argent is both the color white and the color silver. When used in combination, it's considered a neutral color; used by itself, it's a Verve color.
- - **Azure:** A medium shade of blue, azure is a Verve color.
- - **Bleu-Céleste:** The light blue shade of a clear sky, bleu-céleste is not as dark as azure.
- - **Brunâtre:** Brown, or brunâtre, is an Affinity color. If used in combination with another color, it's considered a neutral color.
- - **Carnation:** An Affinity color, carnation is a softer pink color, often a lighter shade of Amaranth.
- - **Cendrée:** Named for the dark grey of cinders, cendrée is an Affinity color when used by itself, or a neutral color when used in combination with another color.
- - **Gules:** Gules, a medium shade of red, is a Verve color.  
- - **Or:** *Or* represents yellow or gold. It is a Verve color.
- - **Purpure:** This is a dark purple color and is a Guile color.
- - **Sable:** Items that are entirely black are considered sable, a Guile color. If combined with another color, then the black becomes a neutral color.
- - **Sanguine:** Dark red, the color of blood, is a Guile color.
- - **Tenné:** This is a dark shade of orange, and is a Guile color.
- - **Vert:** The color of forest vegetation, vert is an Affinity color.
-  
-Table: Charmweaving Colors
-
-| Color Name | Description     | Attribute          |
-| ---------- | --------------- | ------------------ |
-| Amaranth   | Violet red      | Affinity           |
-| Argent     | White or silver | Verve (or Neutral) |
-| Azure      | Blue            | Verve              |
-| Brunâtre   | Dark brown      | Guile (or Neutral) |
-| Carnation  | Pink            | Affinity           |
-| Celeste    | Light blue      | Affinity           |
-| Cendree    | Gray            | Guile (or Neutral) |
-| Gules      | Red             | Verve              |
-| Murrey     | Burgundy        | Affinity           |
-| Or         | Gold or yellow  | Verve              |
-| Purpure    | Purple          | Guile              |
-| Sable      | Black           | Guile (or Neutral) |
-| Sanguine   | Dark red        | Guile              |
-| Tenné      | Orange or tan   | Affinity           |
-| Vert       | Green           | Affinity           |
-
-### Living Expenses
-
-Characters are assumed to have their housing
-and daily nutritional needs met by their Social Rank scores without
-having to make Wealth rolls or spend Rewards for normal daily living.
-Only unusual expenses, such as a night on the town or an inn stay in a
-distant city, need to be paid for separately.
-
-The costs below are fairly standardized across France, although it's
-only the larger towns and cities that have the best food, inns, and
-alcohol. As a package, one night's stay for a character and her horse in
-an inn with an attached tavern will cost 4D0 for the cheapest room and
-food, 3D6+1D0 for good quality, and 3D8+1D0 for the most exquisite food,
-drink, and suite.
-
-Characters who go carousing and buy rounds on the house can use the
-price of the most expensive alcohol bought as an Item die on their
-Streetwise (Carouse) rolls.
-
-Table: Living Expenses
-
-| Service Requested                     | Cost |
-| :------------------------------------ | :--: |
-| Drinks for one night, good            | 1D6  |
-| Drinks for one night, private reserve | 1D8  |
-| Drinks for one night, watered down    | 1D0  |
-| Lodging for one night, cheap          | 1D0  |
-| Lodging for one night, good           | 1D6  |
-| Lodging for one night, sumptuous      | 1D8  |
-| Lodging for one week, cheap           | 1D6  |
-| Lodging for one week, good            | 1D8  |
-| Lodging for one week, sumptuous       | 1D10 |
-| Meals for one day, bland              | 1D0  |
-| Meals for one day, good               | 1D6  |
-| Meals for one day, gourmet            | 1D8  |
-| Round on the house, good              | 1D8  |
-| Round on the house, private reserve   | 1D10 |
-| Round on the house, watered down      | 1D6  |
-| Stabling for one night                | 1D0  |
-| Stabling for one week                 | 1D6  |
-
- - **Drinks, good:** *description needed* 
- - **Drinks, private reserve:** *description needed* 
- - **Drinks, watered down:** *description needed* 
- - **Lodging, cheap:** *description needed* 
- - **Lodging, good:** *description needed* 
- - **Lodging, sumptuous:** *description needed* 
- - **Meals, bland:** *description needed* 
- - **Meals, good:** *description needed* 
- - **Meals, gourmet:** *description needed* 
- - **Round on the house:** *description needed* 
- - **Stabling:** *description needed* 
-
-### Miscellaneous Gear
-
-*introduction needed*
-
-### Transportation and Animals
-
-*introduction needed*
-
-#### Vehicles
-
-*introduction needed*
-
-Table: Vehicles
-
-| Vehicle      | Cost | Walk Speed | Run Speed | Overland Speed    |
-| :----------: | :--: | :--------: | :-------: | :---------------- |
-| Airship      | 4D12 | --         | 3 Areas   | 20 miles per hour |
-| Carriage     | 1D8  | 1 Area     | 2 Areas   | 6 miles per hour  |
-| Cart         | 1D0  | 1 Area     | 2 Areas   | 6 miles per hour  |
-| Gondola      | 2D6  | 1 Area     | 2 Areas   | 4 miles per hour  |
-| Narrowboat   | 2D8  | --         | 1 Area    | 2 miles per hour  | 
-| River Barge  | 1D8  | --         | 1 Area    | 2 miles per hour  | 
-| Rowboat      | 1D6  | 1 Area     | 2 Areas   | 4 miles per hour  | 
-| Sailing Ship | 2D12 | --         | 2 Areas   | 12 miles per hour | 
-| Velocipede   | 1D8  | 1 Area     | 3 Areas   | 6 miles per hour  | 
-| Wagon        | 1D6  | 1 Area     | 2 Areas   | 6 miles per hour  | 
-
- - **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
- - **Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
- - **Cart**: *description needed* 
- - **Gondola:** *description needed*  river
- - **Narrowboat:** *description needed* river
- - **River Barge:** *description needed* river
- - **Rowboat:** *description needed* river
- - **Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
- - **Velocipede:** *description needed*
- - **Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
-  
-#### Mounts
-
-*introduction needed*
-
-Table: Mounts
-
-| Mount        | Cost | Walk Speed | Run Speed | Overland Speed     | Item Die       |
-| :----------- | :--: | :--------: | :-------: | :----------------- | :------------- |
-| Draft Horse  | 1D6  | 1 Area     | 2 Areas   | 2 leagues per hour | Husbandry +1D6 |
-| Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
-| Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
-
- - **Draft Horse:** *description needed*
- - **Riding Horse:** *description needed* 
- - **Warhorse:** *description needed*
-  
-##### Horse Accessories
-
-*introduction needed*
-
-### Pets and Farm Animals
-
-*introduction needed*
-
-**Domesticated:** *description needed*
-
-Table: Pets and Farm Animals
-
-| Animal            | Cost | Example(s)                         |
-| :---------------- | :--: | :--------------------------------- |
-| Beast of burden   | 1D6  | Ox, mule                           |
-| Bird, messenger   | 1D6  | Homing pidgeon                     |
-| Bird, song        | 1D0  | Canary, dove                       |
-| Cat, common       | 1D0  | Housecat, alley cat                |
-| Cat, purebred     | 1D6  |                                    |
-| Dog, companion    | 1D6  |                                    |
-| Dog, guard        | 1D6  |                                    |
-| Dog, herding      | 1D6  |                                    |
-| Dog, hunting      | 1D6  |                                    |
-| Dog, mongrel      | 1D0  | Small, ordinary mutt               |
-| Fowl, barnyard    | 1D0  | Chicken, goose                     |
-| Livestock, dairy  | 1D6  | Cow, goat                          |
-| Livestock, meat   | 1D6  | Pig, sheep                         |
-| Livestock, wool   | 1D6  | Sheep, goat                        |
-| Raptor, trained   | 1D8  | Falcon                             |
-| Raptor, untrained | 1D6  | Owl, crow                          |
-| Reptile, small    | 1D0  | Snake, box turtle                  |
-| Rodent            | 1D0  | Mouse, rat                         |
-| Rabbit            | 1D0  | Bunny, hare                        |
-
- - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
- - **Bird, Messenger (domesticated):** *description needed* 
- - **Bird, Song:** *description needed*
- - **Cat, Common:** *description needed*
- - **Cat, Purebred:** *description needed*
- - **Dog, Companion (Domesticated):** *description needed*
- - **Dog, Guard (Domesticated):** *description needed*
- - **Dog, Herding (Domesticated):** *description needed*
- - **Dog, Mongrel (Domesticated):** *description needed*
- - **Fowl, Barnyard:** *description needed*
- - **Livestock, Dairy:** *description needed*
- - **Livestock, Meat:** *description needed*
- - **Livestock, Wool:** *description needed*
- - **Raptor, Trained (Domesticated):** *description needed*
- - **Raptor, Untrained:** *description needed*
- - **Reptile:** *description needed*
- - **Rodents and Rabbits:** *description needed*
-  
 
 ## Additional Rules # {.breakbefore}
 
@@ -10598,8 +10806,9 @@ The only dice actions a character can take are those which will give the
 character Advantage in the combat – such as a Prowl roll or a Strategy
 roll. All Success Points from such rolls can only be spent on Advantage,
 and only one roll of a given type can be made. Success Points from these
-rolls cannot be spent on gaining Style Points. (See later in this
-chapter for more about Advantage.)
+rolls cannot be spent on gaining Style Points. 
+<a href="#advantage" class="xref-capital-seesection"></a> for more about
+Advantage.
 
 ##### Surprise
 
@@ -11920,7 +12129,7 @@ country.
 Smugglers and other criminals can be found at the edges of civilized
 society, trading in information as much as they do their
 contraband goods. This is a typical smuggler who might be encountered in
-Gallinea or abroad.
+France or abroad.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D8, Guile D10
@@ -12052,7 +12261,7 @@ practical as most. A few can train someone in the basics of swordplay.
 This merchant has dealt with shoplifters before – as well as arrogant
 player characters who think they can come into her shop and boss her around –
 and isn't in the mood for any funny business. Her business could be any
-of the kind found in Lutetia and surrounding areas.
+of the kind found in Paris and surrounding areas.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D10, Guile D8
@@ -12156,7 +12365,7 @@ mathematical matters.
 Her practical experience on the battlefield, however, may be very
 limited.
 
-She can make a great foil for cavaliers in a city-based adventure, or
+She can make a great foil for player characters in a city-based adventure, or
 could be leading any military unit in the field.
 
 - **Competency Die:** D6
@@ -12319,6 +12528,8 @@ affects an air of mystery and tries to appear older than she really is.
 - **Style Maneuvers:** Cunning Premonition (spend 2 to maximize Portents), Saw That Coming (when unarmed, spend 1 to add Portents to Dodge)
 - **Style Points:** 1 (maximum 3)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
 
 #### Creating Major Characters   ### {.breakbefore}
 
@@ -12938,6 +13149,8 @@ Bonus Die once to a Dodge pool or other defensive roll. A Predatory
 Impetus could be used for tracking or spotting something, an Obedience
 Impetus for staying alert, or a Curiosity Impetus for staying hidden
 while investigating some shiny new thing.
+
+
 
 
 #### Common Animals

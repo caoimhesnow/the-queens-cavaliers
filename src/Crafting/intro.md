@@ -147,7 +147,7 @@ Table: Success Limits
 
 ## Tag Dice
 
-<a href="using-skills" class="xref-capital-adesc-insection"></a> Tag Dice are a type
+<a href="#using-skills" class="xref-capital-asdesc-insection"></a> Tag Dice are a type
 of Bonus Dice that are tied to a specific concept. This could be a
 single word, an emotion, a Passion, a phrase, or other abstract
 constructions. The crafting description for each Specialty describes how
@@ -439,4 +439,8 @@ point gained reduces the Drop penalty by one, or restores one function
 to working order. For every complete set of three Malfunctions you
 repair, you have to spend 1 unit of any type of supplies that would be
 used to create such an item.
+
+## Crafting Rolls
+
+The following tables are sorted by Specialty name and describe what can be crafted with each Specialty.
 
