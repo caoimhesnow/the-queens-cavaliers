@@ -1,4 +1,4 @@
-# The Nations of Elara
+# The Countries of Elara
 
 Elara is the northern continent that borders the Middle Sea.
 Technically it is part of the same continent upon which much of 

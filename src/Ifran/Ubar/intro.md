@@ -5,8 +5,8 @@
 ::::::::::::::::::: country :::::::::::::::::::::::::
 ## The Caliphate of Ubar
 
-| Government      | Theocratic Matrilineal Monarchy |
 | --------------- | ------------------------------- |
+| Government      | Theocratic Matrilineal Monarchy |
 | Ruler           | Calipha Aswani bint Nura        |
 | Capital         | Ubar                            |
 | Languages       | Ifrani                          |
