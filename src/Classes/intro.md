@@ -5,6 +5,7 @@ Each class provides you with half of your starting skill competencies,
 specialties, weapon and armor prowess, social rank, starting gear, and
 style Maneuvers.
 
+
 The various classes can be divided up into three basic categories:
 skilled classes, social classes, and fighting classes. These are shown
 on the following tables.
@@ -26,7 +27,7 @@ at much else, choose two fighting classes.
 
 You don't have to choose your classes if you don't feel inspired;
 instead you can roll 1D8 for each one. Feel free to reroll if you don't
-like your original results\!
+like your original results!
 
 Table: Fighting Classes
 
@@ -66,30 +67,4 @@ Table: Social Classes
 | 6   | Envoy       | Ambassador for a national or regional government |
 | 7   | Provocateur | Mysterious spy with hidden motives               |
 | 8   | Speaker     | Zealous demagogue of the Desert Mother           |
-
-::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
-Additional Classes
-
-<a href="#the-countries-of-elara" class="xref-capital-inchapter"></a>, additional classes for each of Gallinea's
-neighbors are described. Those are:
-
-Table: Additional Classes
-
-| Country        | Classes                 |
-| -------------- | ----------------------- |
-| Albia          | Huntsman, Pilgrim       |
-| Dragosa        | Hanaster, Lexicographer |
-| Ekalia         | Parroteer, Sybil        |
-| Ondala         | Cocinera, Theologian    |
-| Talania        | Skomorokh, Toymaker     |
-| Varendia       | Engineer, Mountaineer   |
-| Northern Ifran | Faris, Stargazer        |
-| Western Ifran  | Collier, Moon-Curser    |
-
-Each of these classes adds a specific cultural flavor. If your character
-is not from the listed country, talk to the MJ to see if you can still
-choose one of these classes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Class Descriptions
 

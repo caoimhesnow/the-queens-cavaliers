@@ -1,7 +1,8 @@
-##### Street Tough
 
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Street Tough
+
+[Rabble]{.opptype}
 
 Even in Lutetia, criminal elements can be found lurking in the back
 alleys and side streets. These toughs aren't usually murderous, only

@@ -1,7 +1,8 @@
-##### Bedraggled Urchin
 
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::
-*Rabble*
+Bedraggled Urchin
+
+[Rabble]{.opptype}
 
 Charity food, housing, and education are all available to the poor in
 Gallinea, but not all choose to partake of such hospitality for reasons

@@ -1,7 +1,8 @@
-##### Unemployed Thespian
 
 ::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Unemployed Thespian
+
+[Rabble]{.opptype}
 
 Although the best actors of the age are well-known to most Lutetians,
 there are vast numbers of less successful thespians who eke out a meager

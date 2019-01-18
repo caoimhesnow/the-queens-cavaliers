@@ -1,7 +1,8 @@
-##### Laconic Farmer
 
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Laconic Farmer
+
+[Rabble]{.opptype}
 
 This is a farmer. That'll do.
 

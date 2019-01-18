@@ -1,7 +1,8 @@
-##### Drunken Brawler
 
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Drunken Brawler
+
+[Rabble]{.opptype}
 
 When a bar fight breaks out, these besotted fools are often in the thick
 of it, usually fighting for no particular reason than just because

@@ -1,4 +1,4 @@
-# Licenses
+# Licenses {.breakbefore}
 
 This describes the licenses that apply to *The Queen's Cavaliers*.
 

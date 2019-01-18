@@ -1,7 +1,8 @@
-##### Bedraggled Urchin
 
 :::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Bedraggled Urchin
+
+[Rabble]{.opptype}
 
 Peasant children found on the street may be legitimately
 hungry, or they might just be looking to score a handout from

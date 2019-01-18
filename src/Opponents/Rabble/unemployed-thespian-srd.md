@@ -1,7 +1,8 @@
-##### Unemployed Thespian
 
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::
-*Rabble*
+Unemployed Thespian
+
+[Rabble]{.opptype}
 
 There are vast numbers of less-than-successful thespians who eke out a meager
 living at menial jobs in-between auditions. Most of them carry around a

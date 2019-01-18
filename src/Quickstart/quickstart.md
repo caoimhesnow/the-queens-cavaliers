@@ -44,8 +44,6 @@ game – so you should also make sure your character can defend herself in
 a fight.
 
 :::::::::::::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::
-For the MJ:
-
 Tell your players a little about the type of stories that you'd like to
 tell, and if there are any particularly appropriate concepts or
 personality types that will work best in the scenarios you have planned,
@@ -129,7 +127,7 @@ of the same type as the Attribute die – that you can add to a dice pool
 when attempting that skill or specialty.
 
 :::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::
-*Example:* Your character has D10 for Guile, competency with Nature, and
+Your character has D10 for Guile, competency with Nature, and
 +2 ranks of the Prowl specialty. That means that you get to include your
 Competency die in your Nature (Prowl) roll, and you get to add 2
 additional D10 dice (same size as your Guile die) to the pool.
@@ -151,7 +149,7 @@ A charmwoven cloak may give a Dodge D6 bonus, while a cavalier hat could
 provide Carouse D10.
 
 ::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::
-*Example:* Because you envision your character sneaking around quite
+Because you envision your character sneaking around quite
 often, you buy yourself a piece of charmwoven apparel: boots that
 provide a Prowl D8 bonus.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -170,7 +168,7 @@ Your dice pool will consist of the following:
 - One Bonus Die, if appropriate
 
 ::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* You decide to use Prowl to get past a guard, so you start
+You decide to use Prowl to get past a guard, so you start
 building your dice pool. Prowl is a Specialty of the Nature skill, and
 is associated with Guile.
 
@@ -197,22 +195,23 @@ Points you rolled. If you succeed in your action, you can spend those
 Success Points to accomplish results.
 
 ::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::
-*Example:* You have a dice pool of 3D10+1D8+1D6.  You roll the dice and get the following results:
+:::: half ::::::::::
+| Die     | Result |
+| :--:    | :----: |
+| D10     | 2      |
+| D10     | 5      | 
+| D10     | 7      |
+| D8      | 6      |
+| D6      | 3      |
+::::::::::::::::::::
 
-:::::: dice :::::
-| Die  | Result |
-| :--: | :----: |
-| D10  | 2      |
-| D10  | 5      | 
-| D10  | 7      |
-| D8   | 6      |
-| D6   | 3      |
-:::::::::::::::::
+You have a dice pool of 3D10+1D8+1D6.  You roll the dice and get the following results:
 
 The first thing you do is discard everything except the two highest rolling dice, leaving you with 7 and 6.
 
-- Adding those together, you get a total of 13.
-- The low die, a 6,  determines the number of Success Points.
+Adding those together, you get a total of 13.
+
+The low die, a 6,  determines the number of Success Points.
 
 So in this case, if you succeed, you would have six Success Points to spend.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -237,19 +236,18 @@ every situation you're going to be dropping your dice with the smallest
 size first, so D6 before D8, D10 before D12.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
-*Example:* You have a dice pool to roll for Prowl: 3D10+1D8+1D6.
-However, you are suffering two Wounds, giving you a Drop 2 penalty. You
-drop the D8 and the D6, leaving 3D10.
-
-You roll those dice, getting the following results:
-
-::::: dice ::::::
+::::: half ::::::
 | Die  | Result |
 | :--: | :----: |
 | D10  | 2      |
 | D10  | 3      | 
 | D10  | 7      |
 :::::::::::::::::
+You have a dice pool to roll for Prowl: 3D10+1D8+1D6.
+However, you are suffering two Wounds, giving you a Drop 2 penalty. You
+drop the D8 and the D6, leaving 3D10.
+
+You roll those dice, getting the following results:
 
 These total to 10, with three potential Success Points.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -266,7 +264,7 @@ Negotiate roll, the appropriate opposition is likely another Negotiate
 roll, while a Lunge can be opposed by a Parry, Block, or Dodge.
 
 ::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
-*Example:* While Prowling around, you fail a roll and are spotted by a
+While Prowling around, you fail a roll and are spotted by a
 guard. She demands to know what you're doing and if you're supposed to be 
 there. You aren't actually supposed to be there, so you need to make up a
 story to convince her. This requires the use of the Deceive specialty.
@@ -299,14 +297,12 @@ The number of Standard Opposition dice is always three, but the type of
 dice vary depending on the difficulty level set by the MJ.
 
 ::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::
-For the MJ: 
-
 Select the size of dice to roll by consulting this table:
 
-Table: Difficulty Level
+Table: Standard Opposition
 
 | Difficulty Level | Standard Opposition |
-| :--------------- | :------------------ |
+| :--------------- | :-----------------: |
 | Very Easy        | Automatic success   |
 | Easy             | 3D6                 |
 | Moderate         | 3D8                 |
@@ -314,7 +310,7 @@ Table: Difficulty Level
 | Very Difficult   | 3D12                |
 
 A Very Easy task should automatically succeed; they just happen,
-especially if they fit the genre of the game.
+especially if they fit the genre of the game. 
 
 You can use Standard Opposition dice in a number of situations in which
 you don't have a specific NPC opposing an action. If a PC is trying to
@@ -359,7 +355,7 @@ It's possible that you may run out of things to spend Success Points on.
 In such a case, the extra points you don't spend are simply unused and go away.
 
 :::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
-*Example:* You have three Success Points and succeeded on your Deceive roll.
+You have three Success Points and succeeded on your Deceive roll.
 You decide to spend your Success Points as follows:
 
 - +: Think on Your Feet -- you quickly come up with a good lie.  "I'm the ... inspector!  I'm here to inspect ... all the things!"
@@ -375,7 +371,7 @@ Success Points will earn you one Style Point. However, you can only have
 a maximum of three Style Points at any time.
 
 :::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::
-*Example:* You score six Success Points on a Deceive roll, and spend your Success
+You score six Success Points on a Deceive roll, and spend your Success
 Points like this:
 
 - +: Think on Your Feet
@@ -391,7 +387,7 @@ character perform an impressive act that is unique to her personality
 and style.
 
 :::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
-*Example:* You choose to Think on Your Feet, Appear Sincere, and Gain 1 Style Point. The MJ
+You choose to Think on Your Feet, Appear Sincere, and Gain 1 Style Point. The MJ
 asks you, “what do you do that's so stylish while you're tricking the guard?" You answer:
 
 "I give a dashing and reassuring smile as I tell this outlandish lie, a sparkle
@@ -399,12 +395,10 @@ of moonlight reflecting off my teeth with a 'glint!' sound. With confident
 assurance, I tell her that I'm here to perform an inspection, and I even hint
 that if she doesn't comply, she may be in trouble with her superiors."
 
-“Awesome\! That happens,” says the MJ. And you earn your Style Point.
+“Awesome ! That happens,” says the MJ. And you earn your Style Point.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::
-For the MJ:
-
 It's perfectly within your rights to veto any stylish description if you
 think it's too absurd, but most of the time you should let players get
 away with whatever they want to describe. It's their Style Point and
@@ -422,7 +416,7 @@ Each player character starts with two Style Maneuvers and can purchase
 more with Experience Points. Style Maneuvers each cost one or two Style Points to use.
 
 Unlike *gaining* Style Points, you are not required to narrate something
-stylish when you *use* a Style Maneuver (but you can if you want to\!).
+stylish when you *use* a Style Maneuver (but you can if you want to !).
 
 There are three types of Style Maneuvers: Maximize, Reroll, and Add.
 
@@ -437,7 +431,7 @@ You can only have one maximized die in any given skill roll. (You can't
 spend two Style Points and maximize two dice.) 
 
 ::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* You have the Style Maneuver “Maximize Deceive.” You can spend two
+You have the Style Maneuver “Maximize Deceive.” You can spend two
 Style Points to set one of your D10 dice to its maximum value before
 rolling. That gives you an automatic 10 on that die. You then roll the other
 dice -- 1D10 + 2D6 -- getting a 2, a 3, and a 2. 
@@ -455,11 +449,11 @@ You can reroll the same skill roll as many times as you like, until you
 run out of Style Points.
 
 ::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::
-*Example:* You make your Deceive roll and get 4, 2, 3, and 2. That's really
+You make your Deceive roll and get 4, 2, 3, and 2. That's really
 low -- a total of 7 with 3 success points. 
 
 You have a Style Maneuver “Reroll Interaction.” You spend a Style Point and
-reroll the dice, and get a much better roll: 7, 9, 2, 6.  Hooray\! 
+reroll the dice, and get a much better roll: 7, 9, 2, 6.  Hooray ! 
 This is a total of 16 and seven Success Points.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -474,14 +468,14 @@ could use additional, different Style Maneuvers together on the same
 roll if they all apply.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
-*Example:* You have a Style Maneuver that lets you add your Banter dice
+You have a Style Maneuver that lets you add your Banter dice
 to your Deceive roll. Normally your Deceive roll is 2D10 + 2D6.
 You have +2 ranks in Banter (a Verve specialty), and your Verve is D8,
 so you get to add 2D8 (not your entire Perceive dice pool) to your Deceive
 roll. 
 
 Your Deceive dice pool is now 2D10 + 2D8 + 2D6. You roll the dice and get
-4, 9, 8, 2, 4, and 3.  Hooray\! This is a total of 17 and eight Success Points.
+4, 9, 8, 2, 4, and 3.  Hooray ! This is a total of 17 and eight Success Points.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Experience
@@ -496,18 +490,18 @@ Table: Character Improvements
 | :------------------------  | :-------------------: | :--------------------- |
 | New Skill Competency       | 3 XP                  |                        |
 | Specialty Rank, per rank:  | Equal to the new rank |                        |
-| \+0 to +1                  | 1 XP                  |                        |
-| \+1 to +2                  | 2 XP                  | (3 XP from +0 to +2)   |
-| \+2 to +3                  | 3 XP                  | (6 XP from +0 to +3)   |
-| \+3 to +4                  | 4 XP                  | (10 XP from +0 to +4)  |
-| \+4 to +5                  | 5 XP                  | (15 XP from +0 to +5)  |
+|  +0 to +1                  | 1 XP                  |                        |
+|  +1 to +2                  | 2 XP                  | (3 XP from +0 to +2)   |
+|  +2 to +3                  | 3 XP                  | (6 XP from +0 to +3)   |
+|  +3 to +4                  | 4 XP                  | (10 XP from +0 to +4)  |
+|  +4 to +5                  | 5 XP                  | (15 XP from +0 to +5)  |
 | New Language               | 1 XP                  |                        |
 | Weapon Prowess             | 1 XP                  |                        |
 | Armor Prowess              | 1 XP                  |                        |
 | Add a Style Maneuver       | 5 XP                  |                        |
 
 Note that there is no cost listed for improving your character's
-Attributes\! Your Attributes are fixed for the life of your character as
+Attributes ! Your Attributes are fixed for the life of your character as
 they represent innate qualities unique to her. If you have a D6 Verve at
 the start of your career with the Queen's Cavaliers, you'll have a D6
 Verve at the end.
@@ -521,18 +515,16 @@ Table: XP and Competency Die
 
 | XP Spent | Competency Die | Maximum Specialty Rank |
 | :------: | :------------: | :--------------------: |
-| 0        | D6             | \+2                    |
-| 20       | D8             | \+3                    |
-| 50       | D10            | \+4                    |
-| 100      | D12            | \+5                    |
+| 0        | D6             |  +2                    |
+| 20       | D8             |  +3                    |
+| 50       | D10            |  +4                    |
+| 100      | D12            |  +5                    |
 
 Experience points can be spent between game sessions, at the beginning
 of a session, at the end of a session, or between scenes. You can't
 spend your experience points during a scene, however.
 
 ::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::::::::::::::::
-For the MJ:
-
 The XP system is flexible and relies on your judgment as to how many
 points to award per session, although the default is three XP to five XP
 for a typical session of four hours of game play.

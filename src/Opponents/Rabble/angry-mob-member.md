@@ -1,7 +1,7 @@
-##### Angry Mob Member
-
 ::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Angry Mob Member
+
+[Rabble]{.opptype}
 
 From time to time, even the tolerant and accepting people of Gallinea
 can get roused into an angry horde looking for blood, especially if the

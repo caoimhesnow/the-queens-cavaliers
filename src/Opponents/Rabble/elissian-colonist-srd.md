@@ -1,7 +1,8 @@
-#####  Acadian Colonist
 
 ::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Acadian Colonist
+
+[Rabble]{.opptype}
 
 Settlers in the fur-trading colony of Acadian are rough-and-tumble, 
 fiercely indepenent sorts who tend to be suspicous of outsiders.

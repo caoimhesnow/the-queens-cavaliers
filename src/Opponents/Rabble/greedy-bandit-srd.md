@@ -1,7 +1,8 @@
-##### Greedy Bandit
 
 ::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Greedy Bandit
+
+[Rabble]{.opptype}
 
 Bandits have a tendency to plague the countryside, especially during times of strife or poverty.
 

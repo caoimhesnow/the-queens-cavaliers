@@ -100,7 +100,7 @@ beauty, be they works of art, music, science, or nature. Such characters
 are often either artists themselves, or patrons of the arts.
 
 :::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
-*Example:* Countess Lusienne Castenia, the Lady-Mayor of Gallinea,
+Countess Lusienne Castenia, the Lady-Mayor of Gallinea,
 loves nothing more than a grand party to welcome the start of a new
 play, the opening of a new gallery, or the arrival of an artiste from
 far-away lands. She has a strong Passion for Artistry, even though she
@@ -116,11 +116,8 @@ A character with a Passion for the Church is devoted to the hierarchy of
 a religious institution, most commonly the Asrian church under the
 direction of the Matriarch.
 
-:::::::::::::::::::::::::::::::: example-illustrated :::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
-![Guardian Farrazin, by Eleanor Ferron](assets/Portraits/guardian-farrazin.jpg "Guardian Farrazin, by Eleanor Ferron")
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* High Chaplain Farrazin, Guardian of the Faith of Gallinea,
+:::::::::::::::::::::::::::::::: example :::::::::::::::::::::::
+High Chaplain Farrazin, Guardian of the Faith of Gallinea,
 is a very devout man, yes. But ultimately his loyalty is less to the
 teachings of the goddess Essere than to her church. Raised in an Asrian
 orphanage, Farrazin rose through the ranks to become the most powerful
@@ -139,7 +136,7 @@ has Loyalty toward one group or cause who opposes the current
 government.
 
 :::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
-*Example:* Baudouin de Longpre, the duke of Rhodope, is one of the
+Baudouin de Longpre, the duke of Rhodope, is one of the
 rare male heads of a province. As the oldest child of his parents, who
 had no daughter to inherent the throne, he became duke upon his mother's
 death. The Rhodope family have supported the Throne for generations;
@@ -164,7 +161,7 @@ because worship of the Desert Mother isn't based around a complex church
 hierarchy as with the Asrians.
 
 :::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
-*Example:* Matriarch Isabene de la Justicia, Bride of the Sun, is the
+Matriarch Isabene de la Justicia, Bride of the Sun, is the
 head of the Asrian church -- some say she practically *is* the church.
 However, her strongest commitment is to her deity and (ceremonial) wife,
 Essere, goddess of the Sun.
@@ -181,7 +178,7 @@ include one's extended family and household, or may just be one's
 immediate family – such as parents or children.
 
 ::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
-*Example:* Prince Jean-Remy is not merely Queen Mariana's favorite
+Prince Jean-Remy is not merely Queen Mariana's favorite
 uncle, but is also Gallinea's spymaster and head of Her Majesty's Secret
 Service. Haunted by his failure to detect and thwart the assassination
 of his sister Queen Elisse and niece Jehanne, Jean-Remy would do
@@ -199,11 +196,8 @@ Some people are very faithful to their Friends and would do anything for
 them – even die for them in some cases. You can decide if this applies
 to all your character's friends or just her closest friends.
 
-::::::::::::::::::::: example-illustrated ::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-right ::::::::::::::::::::::::::::::::::::::::::::::::
-![Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/gabriana-secouriste.jpg "Gabriana Secouriste, by Eleanor Ferron")
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* Gabriana Secouriste is a young member of the Queen's
+::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
+Gabriana Secouriste is a young member of the Queen's
 Cavaliers. Personable and easy-going, she makes friends easily and is
 slow to lose them.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -222,7 +216,7 @@ that has been perpetrated against the character or the ones she holds
 dear.
 
 ::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::
-*Example:* Andreos Grimani, the High Elector of Ekalia, began his
+Andreos Grimani, the High Elector of Ekalia, began his
 public service as a member of the Vigiles Urbani in his home polis of
 Imera. He went on to become a judge, before retiring to enter politics.
 First elected to the Plenum 15 years ago, he became the ranking Elector
@@ -243,11 +237,8 @@ Dedication to the pursuit of Knowledge can be expressed through a desire
 to learn the truth behind mysteries, to explore the world, or to learn
 all that can be learned.
 
-::::::::::::::::::::::::::::::: example-illustrated ::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
-![Queen Mariana III of Gallinea, by Eleanor Ferron](assets/Portraits/queen-mariana.jpg "Queen Mariana III of Gallinea, by Eleanor Ferron")
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* As a princess, Mariana of Gallinea was much more interested
+::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::
+As a princess, Mariana of Gallinea was much more interested
 in scientific pursuits and clockwork engineering than she was in courtly
 rituals and noble intrigues. She was a top student at the Royal
 Gallinean Academy of Sciences when her mother and older sister were
@@ -267,7 +258,7 @@ there are other types of Love that qualify. Love may be for a single
 person, or someone's heart may be divided among many loves.
 
 :::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
-*Example:* Prince-Father Michel Aubene, the widower of late Queen
+Prince-Father Michel Aubene, the widower of late Queen
 Elisse III and father of current Queen Mariana II, was very much in love
 with his wife, and she with him. When they first met, she was not
 impressed with the rich southern boy who came to "play cavalier" in
@@ -288,11 +279,8 @@ group. You must specify who is the subject of your character's Loyalty
 if you choose this Passion. You might not actually like the people
 you're loyal to, but this isn't about friendship but honor.
 
-:::::::::::::::::::::::::::: example-illustrated :::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::: thumbnail-left :::::::::::::::::::::::::::::::::::::::::::::::::
-![Martine Deveaux, by Eleanor Ferron](assets/Portraits/martine-deveaux.jpg "Martine Deveaux, by Eleanor Ferron")
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Example:* Martine Deveaux was once a faithful and loyal member of the
+:::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::
+Martine Deveaux was once a faithful and loyal member of the
 Queen's Cavaliers, willing to die for the organization and those within
 it. After a disastrous mission with the Cavaliers where she was made the
 scapegoat, she turned on her former companians. Now a mercenary
@@ -311,7 +299,7 @@ expressed through sexual pleasure. Characters who are Passionate about
 Lust can be flirty, teasing, or promiscuous.
 
 ::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::
-*Example:* Genevieve de Longpre, eldest daughter of the Duke of
+Genevieve de Longpre, eldest daughter of the Duke of
 Rhodope, is renowned for her string of love affairs -- most of which
 ended poorly. It's said she has at least one girl in every port, and
 perhaps even more\! Hopefully they won't all meet at the same time.
@@ -329,7 +317,7 @@ dignity and reputation. Affronts to such Pride are met with strong
 challenges, as such things are not to be tolerated.
 
 :::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::
-*Example:* Although only 13 years old, Prince Philippe of Gallinea has
+Although only 13 years old, Prince Philippe of Gallinea has
 more pride than an entire village of Scanbrians. The youngest grandchild
 of late Queen Elisse III and nephew of the current Queen, he firmly
 knows he is the most important person in Lutetia, save his aunt Mariana.
@@ -349,7 +337,7 @@ backgrounds and wish to move beyond their humble beginnings, while
 others are rich misers who count every penny.
 
 :::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::
-*Example:* Jennevive d'Angelet is the Duchess of Scanbria and head of
+Jennevive d'Angelet is the Duchess of Scanbria and head of
 the richest family in the north of Gallinea. She and her husband, Lord
 Gerhardt, are well-known throughout the City of Scanbreille for their
 parsimonious ways, although rumors circulate that she is saving up for a
@@ -378,7 +366,7 @@ Personification could be living or dead, an existing NPC or a completely
 new one created by the player.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
-*Example:* Dani has the following Passions: Loyalty D12, Pride D10, Country D8, Love D6.
+Dani has the following Passions: Loyalty D12, Pride D10, Country D8, Love D6.
 
 Her Personification of Loyalty is Sir Pierre du Prowe, an older member
 of the Queen's Cavaliers who taught her how to swordfight. Dani's Pride
@@ -403,7 +391,7 @@ To make a Passion Roll, a player rolls all of the dice for her Passions
 indicates which Passion is in play for that session.
 
 :::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
-*Example:* Dani has the following Passions: Loyalty D12, Pride D10,
+Dani has the following Passions: Loyalty D12, Pride D10,
 Country D8, Love D6. She rolls her Passion dice, getting these results:
 
 :::::::::::: dice :::::::::::

@@ -375,7 +375,7 @@ Table: Shoulder Apparel
 
 *introduction needed*
 
-Table: standard Outfits
+Table: Standard Outfits
 
 | Item                | Cost | Social Rank | Includes                                                             |
 | ------------------- | ---- | ----------- | -------------------------------------------------------------------- |
@@ -403,7 +403,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Culture Pertinence
+Table: Culture Pertinence
 
 | Category | Pertinent Articles of Clothing                   |
 | -------- | ------------------------------------------------ |
@@ -417,7 +417,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Defense Pertinence
+Table: Defense Pertinence
 
 | Category | Pertinent Articles of Clothing |
 | -------- | ------------------------------ |
@@ -431,7 +431,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Dueling Pertinence
+Table: Dueling Pertinence
 
 | Category | Pertinent Articles of Clothing      |
 | -------- | ----------------------------------- |
@@ -445,7 +445,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Initiative Pertinence
+Table: Initiative Pertinence
 
 | Category | Pertinent Articles of Clothing |
 | -------- | ------------------------------ |
@@ -459,7 +459,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Interaction Pertinence
+Table: Interaction Pertinence
 
 | Category | Pertinent Articles of Clothing                                  |
 | -------- | --------------------------------------------------------------- |
@@ -473,7 +473,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Magicks Pertinence
+Table: Magicks Pertinence
 
 | Category | Pertinent Articles of Clothing |
 | -------- | ------------------------------ |
@@ -487,7 +487,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Medicine Pertinence
+Table: Medicine Pertinence
 
 | Category | Pertinent Articles of Clothing |
 | -------- | ------------------------------ |
@@ -501,7 +501,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Military Pertinence
+Table: Military Pertinence
 
 | Category | Pertinent Articles of Clothing         |
 | -------- | -------------------------------------- |
@@ -515,7 +515,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Nature Pertinence
+Table: Nature Pertinence
 
 | Category | Pertinent Articles of Clothing         |
 | -------- | -------------------------------------- |
@@ -529,7 +529,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Observation Pertinence
+Table: Observation Pertinence
 
 | Category | Pertinent Articles of Clothing                     |
 | -------- | -------------------------------------------------- |
@@ -543,7 +543,7 @@ Table: standard Outfits
 
 *introduction needed*
 
-#### Science Pertinence
+Table: Science Pertinence
 
 | Category | Pertinent Articles of Clothing                   |
 | -------- | ------------------------------------------------ |
@@ -574,9 +574,6 @@ Table: Streetwise Pertinence
 
 Table: Neutral Colors
 
-*introduction needed*
-Neutral Colors
-
 | Color    | Description     |
 | -------- | --------------- |
 | Argent   | Silver or white |
@@ -584,10 +581,10 @@ Neutral Colors
 | Cendrée  | Grey            |
 | Sable    | Black           |
 
-Table: Verve Colors
 
 *introduction needed*
-Verve Colors
+
+Table: Verve Colors
 
 |               |                 |
 | Color         | Description     |
@@ -597,11 +594,10 @@ Verve Colors
 | Gules         | Red             |
 | Or            | Yellow          |
 
-Table: Affinity Colors
 
 *introduction needed*
 
-Affinity Colors
+Table: Affinity Colors
 
 | Color           | Description  |
 | --------------- | ------------ |
@@ -612,11 +608,10 @@ Affinity Colors
 | Cendrée (only)  | Grey         |
 | Vert            | Green        |
 
-Table: Guile Colors
 
 *introduction needed*
 
-Guile Colors
+Table: Guile Colors
 
 | Purpure      | Purple   |
 | ------------ | -------- |

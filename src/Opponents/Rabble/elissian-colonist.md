@@ -1,7 +1,8 @@
-##### Elissian Colonist
 
 ::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Elissian Colonist
+
+[Rabble]{.opptype}
 
 The far southern land of Elissia is home to colonists from Gallinea who
 have sought a new start in a new land. They are often unfairly

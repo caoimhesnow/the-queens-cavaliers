@@ -1,7 +1,8 @@
-##### Desperate Convict
 
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Desperate Convict
+
+[Rabble]{.opptype}
 
 Women or men who commit crimes in Gallinea and surrounding countries are
 sentenced to prison stays that only grow longer as the criminals

@@ -1,7 +1,8 @@
-##### Infantry Recruit
 
 :::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Infantry Recruit
+
+[Rabble]{.opptype}
 
 The armies of Gallinea and neighboring countries are filled with
 soldiers from all walks of life who join for promise of a steady

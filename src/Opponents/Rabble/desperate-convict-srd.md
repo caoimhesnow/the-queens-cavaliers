@@ -1,7 +1,8 @@
-##### Desperate Convict
 
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Desperate Convict
+
+[Rabble]{.opptype}
 
 Many criminals face long sentences or even death, and are thus desperate to find any way to escape such a fate.
 

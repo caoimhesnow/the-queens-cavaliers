@@ -1,7 +1,8 @@
-##### Street Tough
 
 :::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Street Tough
+
+[Rabble]{.opptype}
 
 Criminal elements can be found lurking in the back alleys and 
 side streets of any large city. These toughs aren't usually murderous, only

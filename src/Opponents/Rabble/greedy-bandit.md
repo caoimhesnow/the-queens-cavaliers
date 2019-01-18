@@ -1,7 +1,8 @@
-##### Greedy Bandit
 
 :::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Greedy Bandit
+
+[Rabble]{.opptype}
 
 While the roads of Gallinea are regularly patrolled, bandit enclaves
 still exist especially further out in the Provinces. This bandit was

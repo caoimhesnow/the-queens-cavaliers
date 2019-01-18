@@ -1,7 +1,8 @@
-##### City Watch Grunt
 
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-*Rabble*
+City Watch Grunt
+
+[Rabble]{.opptype}
 
 The lowest ranks of the city watch are assigned to patrol the
 streets, usually at night. They're competent enough to keep random

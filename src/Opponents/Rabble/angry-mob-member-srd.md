@@ -1,7 +1,8 @@
-##### Angry Mob Member
 
 ::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Angry Mob Member
+
+[Rabble]{.opptype}
 
 These rabble can represent any mob that gathers for some specific purpose.
 

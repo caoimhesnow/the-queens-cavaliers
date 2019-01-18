@@ -1,7 +1,8 @@
-##### Infantry Recruit
 
 :::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Infantry Recruit
+
+[Rabble]{.opptype}
 
 The armies of France and neighboring countries are filled with soldiers from all walks of life.
 

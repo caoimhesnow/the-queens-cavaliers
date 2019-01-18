@@ -47,7 +47,8 @@ Table: Region or National Origin
 | 11       | Talania                     |
 | 12       | Varendia                    |
 
-#### Lutetia
+::::::::::::::::::::::::::: origin :::::::::::::::::::::::::::::::::::::::::::
+[Lutetia]{.boxh2}
 
 You were born in or near the capital of Gallinea. You know your way
 around the city streets, and you also received a decent education.
@@ -55,7 +56,7 @@ around the city streets, and you also received a decent education.
 - **Language: **Gallinean
 - **Skills: **Culture, Streetwise
 
-#### The Jeweled Coast
+[The Jeweled Coast]{.boxh2}
 
 The Jeweled Cities along the coast of the Middle Sea are famous for
 their clockwork skills.
@@ -63,7 +64,7 @@ their clockwork skills.
 - **Language:** Gallinean
 - **Skills:** Culture, Science
 
-#### The Lowlands
+[The Lowlands]{.boxh2}
 
 You come from the farming provinces of western Gallinea, a region also
 known for its folk magic.
@@ -71,7 +72,7 @@ known for its folk magic.
 - **Language: **Gallinean
 - **Skills: **Magicks, Nature
 
-#### Scanbria
+[Scanbria]{.boxh2}
 
 You were born in Scanbria, near the border with Varendia. Scanbria is
 renowned for its skill at charmweaving.
@@ -79,7 +80,7 @@ renowned for its skill at charmweaving.
 - **Languages:** Gallinean, Varendish
 - **Skills:** Magicks
 
-#### Elissia
+[Elissia]{.boxh2}
 
 Not everyone in the West Ifran colony of Elissia is a convicted criminal
 or descendant of such. You might be, though.
@@ -87,7 +88,7 @@ or descendant of such. You might be, though.
 - **Language:** Gallinean
 - **Skills:** Nature, Streetwise
 
-#### Albia
+[Albia]{.boxh2}
 
 You were born in Albia, one of Gallinea's closest rivals and now closest
 ally. 
@@ -95,13 +96,13 @@ ally.
 - **Language:** Albian
 - **Skills:** Culture, Military
 
-#### Dragosa
+[Dragosa]{.boxh2}
 
 You hail from the multilingual, multicultural land of Dragosa.
 
 - **Languages:** Ekalian, Talanian, Varendish
 
-#### Ekalia
+[Ekalia]{.boxh2}
 
 You come from the country of Ekalia, famous for its swashbuckling
 corsairs.
@@ -109,7 +110,7 @@ corsairs.
 - **Language:** Ekalian
 - **Skills:** Dueling, Nature 
 
-#### Northern Ifran
+[Northern Ifran]{.boxh2}
 
 You come from the deserts of Ifran, most probably from the cities of
 Pitdah or Ubar.
@@ -117,14 +118,14 @@ Pitdah or Ubar.
 - **Language:** Ifrani
 - **Skills:** Nature, Streetwise
 
-#### Ondala
+[Ondala]{.boxh2}
 
 You hail from Ondala, the spiritual center of the Asrian religion.
 
 - **Language:** Ondalan
 - **Skills:** Dueling, Culture
 
-#### Talania
+[Talania]{.boxh2}
 
 You were born in Talania, but probably don't live there now thanks to
 the encroachment of the Shattering Frost.
@@ -132,13 +133,14 @@ the encroachment of the Shattering Frost.
 - **Language:** Talanian
 - **Skills:** Nature, Science
 
-#### Varendia
+[Varendia]{.boxh2}
 
 The forests of Varendia, your homeland, are divided between rival feudal
 ladies and lords who sometimes engage in open warfare with each other.
 
 - **Language:** Varendish
 - **Skills:** Military, Nature
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Parentage
 
@@ -165,7 +167,8 @@ Table: Parentage
 |       11 | Unknown Parentage |
 |       12 | Veteran           |
 
-#### Artist
+::::::::::::::::::::::::::: origin :::::::::::::::::::::::::::::::::::::::::::
+[Artist]{.boxh2}
 
 Your parent had an artistic streak a league wide; you may or may not
 have inherited that same artistic talent.
@@ -177,7 +180,7 @@ have inherited that same artistic talent.
 - **Passion:** Love (D6)
 - **Style Maneuver:** Social Reliability (spend 1 Style Point to reroll an Interaction roll)
 
-#### Clergy
+[Clergy]{.boxh2}
 
 One of your parents is a priest in the Asrian church, and you were
 brought up in strict accordance with its religious teachings.
@@ -190,7 +193,7 @@ brought up in strict accordance with its religious teachings.
 - **Passion:** Church (D6)
 - **Style Maneuver:** Refined Reliability (spend 1 Style Point to reroll a Culture roll)
 
-#### Criminal
+[Criminal]{.boxh2}
 
 Your parents worked outside the law, perhaps as smugglers, thieves, or
 bandits.
@@ -203,7 +206,7 @@ shoes)
 - **Passion:** Justice (D6)
 - **Style Maneuver:** Social Reliability (spend 1 Style Point to reroll an Interaction roll)
 
-#### Explorer
+[Explorer]{.boxh2}
 
 You didn't see one of your parents all that often because they were out
 exploring the world. From their stories you gained a desire to see the
@@ -216,7 +219,7 @@ rest of the world as well.
 - **Passion:** Knowledge (D6)
 - **Style Maneuver:** Rural Reliability (spend 1 Style Point to reroll a Nature roll)
 
-#### Merchant
+[Merchant]{.boxh2}
 
 Your family sold trade goods or specialty goods, and made a decent
 living doing so.
@@ -228,7 +231,7 @@ living doing so.
 - **Passion:** Wealth (D6)
 - **Style Maneuver:** Social Reliability (spend 1 Style Point to reroll an Interaction roll)
 
-#### Midwife
+[Midwife]{.boxh2}
 
 Your parent was a midwife, providing medical care for the poor,
 especially those who are pregnant.
@@ -240,7 +243,7 @@ especially those who are pregnant.
 - **Passion:** Family (D6)
 - **Style Maneuver:** Second Opinion (spend 1 Style Point to reroll a Medicine roll)
 
-#### Nobility
+[Nobility]{.boxh2}
 
 You are a scion of a noble family. It's good to be rich.
 
@@ -251,7 +254,7 @@ You are a scion of a noble family. It's good to be rich.
 - **Passion:** Pride (D6)
 - **Style Maneuver:** Refined Reliability (spend 1 Style Point to reroll a Culture roll)
 
-#### Retired Cavalier
+[Retired Cavalier]{.boxh2}
 
 Your parent was a member in good standing of the Queen's Cavaliers.
 They're retired now, possibly due to an injury (or just old age), but
@@ -266,7 +269,7 @@ they still were able to teach you how to use a sword.
 - **Passion:** Loyalty (D6)
 - **Style Maneuver:** Confident Fencing (spend 1 Style Point to reroll a Dueling roll)
 
-#### Scholar
+[Scholar]{.boxh2}
 
 One of your parents was an academician, or possibly a teacher. From that
 parent you inherited a lifelong love of reading.
@@ -278,7 +281,7 @@ parent you inherited a lifelong love of reading.
 - **Passion:** Knowledge (D6)
 - **Style Maneuver:** Refined Reliability (spend 1 Style Point to reroll a Culture roll)
 
-#### Tenant Farmer
+[Tenant Farmer]{.boxh2}
 
 Your parents were poor farmers, earning a living from the soil.
 
@@ -290,7 +293,7 @@ Your parents were poor farmers, earning a living from the soil.
 - **Passion:** Family (D6)
 - **Style Maneuver:** Rural Reliability (spend 1 Style Point to reroll a Nature roll)
 
-#### Unknown Parentage
+[Unknown Parentage]{.boxh2}
 
 You don't know who your parents were; you are an orphanage or foundling,
 raised by the church of Asria.
@@ -302,7 +305,7 @@ raised by the church of Asria.
 - **Passion:** Friends (D6)
 - **Style Maneuver:** Urban Reliability (spend 1 Style Point to reroll a Streetwise roll)
 
-#### Veteran
+[Veteran]{.boxh2}
 
 One or both of your parents are retired soldiers who saw battle during a
 war – and taught you the basics of how to shoot.
@@ -314,6 +317,7 @@ war – and taught you the basics of how to shoot.
 - **Gear:** Arquebus (musket +1D8), peasant outfit (shift, breeches, buckled shoes)
 - **Passion:** Country (D6) 
 - **Style Maneuver:** Martial Reliability (spend 1 Style Point to reroll a Military roll)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Pivotal Event of Childhood
 
@@ -333,7 +337,8 @@ Table: Pivotal Event of Childhood
 | 7        | Teller of Tall Tales             |
 | 8        | You Never Forget Your First Love |
 
-#### A Death in the Family
+::::::::::::::::::::::::::: origin :::::::::::::::::::::::::::::::::::::::::::
+[A Death in the Family]{.boxh2}
 
 One of your close relatives died unexpectedly, and you had to grow up in
 a hurry.
@@ -342,7 +347,7 @@ a hurry.
 - **Skills:** Observation (Intuition +1)
 - **Passion:** Family (D8)
 
-#### Accidental Discovery
+[Accidental Discovery]{.boxh2}
 
 You found something valuable while out exploring by yourself, and this
 brought you fame and wealth.
@@ -351,7 +356,7 @@ brought you fame and wealth.
 - **Skills:** Observation (Perceive +1)
 - **Passion:** Knowledge (D8)
 
-#### Bullied by Other Children
+[Bullied by Other Children]{.boxh2}
 
 You were picked on by your peers, and you had to learn to survive their
 cruelty.
@@ -360,7 +365,7 @@ cruelty.
 - **Skills:** Defense (Block +1)
 - **Passion:** Pride (D8)
 
-#### Child Prodigy
+[Child Prodigy]{.boxh2}
 
 As a child you were recognized as a genius. You had far from a normal
 childhood as a result.
@@ -369,7 +374,7 @@ childhood as a result.
 - **Skills:** Observation (Deduce +1)
 - **Passion:** Pride (D8)
 
-#### Kidnapped
+[Kidnapped]{.boxh2}
 
 Someone stole you away from your home when you were quite small.
 
@@ -377,7 +382,7 @@ Someone stole you away from your home when you were quite small.
 - **Skills:** Interaction (Negotiate +1)
 - **Passion:** Justice (D8)
 
-#### Leader Among Your Peers
+[Leader Among Your Peers]{.boxh2}
 
 The other children looked to you as their guide, even if you weren't the
 oldest, the strongest, or the smartest.
@@ -386,7 +391,7 @@ oldest, the strongest, or the smartest.
 - **Skills:** Interaction (Inspire +1)
 - **Passion:** Loyalty (D8)
 
-#### Teller of Tall Tales
+[Teller of Tall Tales]{.boxh2}
 
 Even as a child you were known to stretch the truth in order to tell the
 right story that others wanted to hear.
@@ -395,7 +400,7 @@ right story that others wanted to hear.
 - **Skills:** Interaction (Deceive +1)
 - **Passion:** Artistry (D8)
 
-#### You Never Forget Your First Love
+[You Never Forget Your First Love]{.boxh2}
 
 Young love can be beautiful, and you'll never get that perfect person
 out of your thoughts – even if they maybe weren't so perfect after all.
@@ -403,6 +408,7 @@ out of your thoughts – even if they maybe weren't so perfect after all.
 - **Question:** Why can you never be with your childhood sweetheart?
 - **Skills:** Interaction (Inspire +1)
 - **Passion:** Love (D8)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Education
 
@@ -432,7 +438,8 @@ Table: Education
 | 11       | Military Recruit         |
 | 12       | No Formal Training       |
 
-#### Alchemist's Apprentice
+::::::::::::::::::::::::::: origin :::::::::::::::::::::::::::::::::::::::::::
+[Alchemist's Apprentice]{.boxh2}
 
 You developed draughts and other alchemical formulations under the
 watchful eye of a master alchemist.
@@ -447,7 +454,7 @@ of alchemical ingredients
 - **Style Maneuver:** Practiced Alchemy (spend 2 Style Points to set the
 value of one Brew die to its maximum value before rolling)
 
-#### Asrian Seminary
+[Asrian Seminary]{.boxh2}
 
 You attended the Holy College in Ondala, training to be a member of the
 clergy.
@@ -461,7 +468,7 @@ clergy.
 - **Style Maneuver:** Commanding Presence (spend 2 Style Points to set the
 value of one Inspire die to its maximum value before rolling)
 
-#### Cabingirl
+[Cabingirl]{.boxh2}
 
 (...or cabinboy) You came of age at sea, as a junior part of the crew of
 a sailing ship. 
@@ -476,7 +483,7 @@ breeches, boots), cutlass (Sword +1D8), flintlock pistol (Pistol +1D6)
 - **Style Maneuver:** Cunning Evasion (spend 2 Style Points to set the
 value of one Dodge die to its maximum value before rolling)
 
-#### Charmweaver's Apprentice
+[Charmweaver's Apprentice]{.boxh2}
 
 The draw of cloth and magick led you to study under a master
 charmweaver.
@@ -491,7 +498,7 @@ fabric
 - **Style Maneuver:** Flamboyant Couture (spend 2 Style Points to set the
 value of one Weave die to its maximum value before rolling)
 
-#### Chirurgeon's Apprentice
+[Chirurgeon's Apprentice]{.boxh2}
 
 You served as a physician's assistant to a prominent chirurgeon.
 
@@ -505,7 +512,7 @@ medicine
 - **Style Maneuver:** First Aid (spend 2 Style Points to set the value of
 one Treat die to its maximum value before rolling)
 
-#### Coven Initiate
+[Coven Initiate]{.boxh2}
 
 You were trained in the ancient mysteries of witchcraft that predate
 even the Qartan Empire.
@@ -520,7 +527,7 @@ even the Qartan Empire.
 - **Style Maneuver:** Uncanny Prediction (spend 2 Style Points to set the
   value of one Portents die to its maximum value before rolling)
 
-#### Fencing School
+[Fencing School]{.boxh2}
 
 Swordplay comes second-nature to you now, thanks to your training in a
 fencing school.
@@ -535,7 +542,7 @@ fencing school.
 - **Style Maneuver:** Precise Swordplay (spend 2 Style Points to set the
   value of one Sword weapon die to its maximum value before rolling)
 
-#### Mechanician's Apprentice
+[Mechanician's Apprentice]{.boxh2}
 
 You were apprenticed to a master mechanician, creating complex clockwork
 devices.
@@ -550,7 +557,7 @@ devices.
 - **Style Maneuver:** Practiced Crafting (spend 2 Style Points to set the
   value of one Clockworks die to its maximum value before rolling)
 
-#### Military Recruit
+[Military Recruit]{.boxh2}
 
 You may have joined voluntarily, or perhaps you were drafted during a
 war. In either case, you were taught how to fight and send out on the
@@ -566,7 +573,7 @@ front lines.
 - **Style Maneuver:** Trained Endurance (spend 2 Style Points to set the
   value of one Block die to its maximum value before rolling)
 
-#### No Formal Training
+[No Formal Training]{.boxh2}
 
 You learned your lessons in the school of hard knocks. Nobody ever sat
 you down and trained you; you had to learn everything yourself.
@@ -580,7 +587,7 @@ you down and trained you; you had to learn everything yourself.
 - **Style Maneuver:** Honed Instincts (spend 2 Style Points to set the
   value of one Intuition die to its maximum value before rolling)
 
-#### Officer's Academy
+[Officer's Academy]{.boxh2}
 
 You were trained as an officer the military, learning to give orders and
 fight in a war.
@@ -594,7 +601,7 @@ fight in a war.
 - **Style Maneuver:** Unorthodox Tactics (spend 2 Style Points to set the
   value of one Strategy die to its maximum value before rolling)
 
-#### Royal Universities
+[Royal Universities]{.boxh2}
 
 You attended the royal universities in Lutetia, and received the finest
 formal education in the world.
@@ -606,6 +613,7 @@ formal education in the world.
 - **Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves, skirt, chopines), 4 books (each on a different subject, Knowledge +1D6)
 - **Passion:** Knowledge (D10)
 - **Style Maneuver:** Cunning Erudition (spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Pivotal Event of Adulthood
 
@@ -630,7 +638,8 @@ Table: Pivotal Event of Adulthood
 | 11        | Sudden but Inevitable Betrayal           |
 | 12        | War is Hell                              |
 
-#### Clandestinely Recruited
+::::::::::::::::::::::::::: origin :::::::::::::::::::::::::::::::::::::::::::
+[Clandestinely Recruited]{.boxh2}
 
 You were approached to join a secretive organization that doesn't
 officially exist, to engage in officially unsanctioned missions.
@@ -640,7 +649,7 @@ officially exist, to engage in officially unsanctioned missions.
 - **Passion:** Country (D12)
 - **Style Maneuver:** Do You Expect Me To Talk? (when conversing with other spies, spend 1 Style Point to add Banter dice to a Deceive roll)
 
-#### Crisis of Faith
+[Crisis of Faith]{.boxh2}
 
 Your faith was tested and was found wanting, leading to a change in your
 moral outlook.
@@ -652,7 +661,7 @@ moral outlook.
   someone who doesn't share your religious beliefs, spend 1 Style Point to
   add Deduce dice to an Inspire roll)
 
-#### Exiled
+[Exiled]{.boxh2}
 
 You aren't welcome where you came from, be it a province or an entire
 country.
@@ -664,7 +673,7 @@ country.
   from your home country, spend 1 Style Point to add Explore dice to a
   Deceive roll)
 
-#### Falsely Accused of a Crime
+[Falsely Accused of a Crime]{.boxh2}
 
 You know you are innocent, but proving it is somewhat difficult.
 
@@ -675,7 +684,7 @@ You know you are innocent, but proving it is somewhat difficult.
   someone of your innocence, spend 1 Style Point to add Intuition dice to
   an Inspire roll)
 
-#### Honor Besmirched
+[Honor Besmirched]{.boxh2}
 
 An affront to your honor will not stand, and you will prove yourself by
 your exemplary attitude – and hairtrigger temper when insulted.
@@ -687,7 +696,7 @@ your exemplary attitude – and hairtrigger temper when insulted.
   damaged you in the current combat, spend 1 Style Point to add Inspire
   dice to a Riposte roll)
 
-#### Looking for Love In All the Wrong Places
+[Looking for Love In All the Wrong Places]{.boxh2}
 
 You're great at finding new lovers, but not so great at keeping them.
 
@@ -698,7 +707,7 @@ You're great at finding new lovers, but not so great at keeping them.
   someone whom you find attractive, spend 1 Style Point to add Carouse
   dice to a Dodge roll)
 
-#### Lost Love
+[Lost Love]{.boxh2}
 
 Poets say that your one true love comes along once in a lifetime. You've
 found that joy – and had it taken away from you. Now you drown your
@@ -710,7 +719,7 @@ sorrows in cheap wine.
 - **Style Maneuver:** Drowning My Sorrows (when fighting in a tavern or
   while drunk, spend 1 Style Point to add Carouse dice to a Brawl roll)
 
-#### Murder Most Foul
+[Murder Most Foul]{.boxh2}
 
 Someone close to you was brutally murdered and the killer was never
 caught. You're haunted by the thought that you could have prevented it.
@@ -722,7 +731,7 @@ caught. You're haunted by the thought that you could have prevented it.
   damaged one of your allies in the current combat, spend 1 Style Point to
   add Inspire dice to a Lunge roll)
 
-#### Revolutionary Invention
+[Revolutionary Invention]{.boxh2}
 
 You've invented something amazing that will revolutionize the world. In
 theory. Mostly it blows up but that can be fixed.
@@ -733,7 +742,7 @@ theory. Mostly it blows up but that can be fixed.
 - **Style Maneuver:** It's My Creation (when repairing or using a device
   that you invented, spend 1 Style Point to add Arts dice to a Clockworks roll)
 
-#### Shipwrecked
+[Shipwrecked]{.boxh2}
 
 Travel by ship is not without its perils, and you found yourself washed
 up on a deserted island. You had to learn how to hunt with a crude bow
@@ -746,7 +755,7 @@ that you fashioned.
 - **Style Maneuver:** Longbow Hunter (when using a bow outdoors, spend 1
   Style Point to add Explore dice to an Aim roll)
 
-#### Sudden but Inevitable Betrayal
+[Sudden but Inevitable Betrayal]{.boxh2}
 
 Someone you trusted stabbed you in the back the moment you turned your
 back on them. You can still feel the metaphorical (or literal) dagger
@@ -758,7 +767,7 @@ between your shoulderblades.
 - **Style Maneuver:** Curse Your Betrayal (when defending against a feint,
   spend 1 Style Point to add Intuition dice to a Parry roll)
 
-#### War is Hell
+[War is Hell]{.boxh2}
 
 You are the survivor of a bloody war and countless battles.
 
@@ -768,20 +777,21 @@ You are the survivor of a bloody war and countless battles.
 - **Passion:** Loyalty (D12)
 - **Style Maneuver:** The Horrors of War (when talking about war or
   battle, spend 1 Style Point to add Block dice to an Inspire roll)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
-Example of Backstory-Based Character Creation
+[Backstory-Based Character Creation]{.boxh2}
 
 Dani decides to roll up a character using the optional random backstory
 system instead of choosing two classes.
 
-#### Regional or National Origin
+[Regional or National Origin]{.boxh2}
 
 Dani rolls a 12 on the table, meaning she's from Varendia. She adds the
 Varendish language and the skills Military and Nature to her character
 sheet.
 
-#### Parentage
+[Parentage]{.boxh2}
 
 With a roll of 8, one of Dani's parents was a retired Cavalier. She adds
 the Gallinean langague, skill competency in Dueling, one rank in Lunge,
@@ -792,7 +802,7 @@ Dani also has to answer the question, “What notable deed did your parent
 perform in the name of the Queen?” Dani decides that her mother stopped
 an Albian airship from bombing Castenia during the Twenty Years' War.
 
-#### Pivotal Event of Childhood
+[Pivotal Event of Childhood]{.boxh2}
 
 Rolling a d8, Dani gets a 1, and finds that someone in her family died.
 She decides this was her father, and that his unexpected death caused
@@ -803,7 +813,7 @@ In answer to the question “What did your relative tell you before they
 died?” Dani decides that her dying father told her to never turn her
 back on someone in need.
 
-#### Education
+[Education]{.boxh2}
 
 Dani rolls a result of 11 on the education table, meaning that she
 attended the royal universities in Lutetia. This gives her the Gallinean
@@ -816,7 +826,7 @@ To answer the question “Why did a stranger pay for your expensive
 education?” she decides that the Duchess of Castenia paid for her
 education in recognition of her mother's bravery during the last war.
 
-#### Pivotal Event of Adulthood
+[Pivotal Event of Adulthood]{.boxh2}
 
 Dani rolls a 1 on the final table, getting “Clandestinely Recruited.”
 This gives her competency in Medicine and Streetwise, and one rank each
@@ -827,7 +837,7 @@ passion and Do You Expect Me To Talk? as a style maneuver.
 distrusts her superior because she has been asked to spy on her fellow
 members of the Queen's Cavaliers.
 
-#### Backstory Summary
+[Backstory Summary]{.boxh2}
 
 Dani was born in Varendia to a Gallinean mother and a Varendish father.
 Her mother had distinguished herself during the war between Albia and
@@ -842,6 +852,7 @@ into the Queen's Cavaliers as a new recruit, and was also contacted by
 Prince Jean-Remy, the Queen's uncle and spymaster, and asked to report
 back to him on the actions of her fellow cavaliers.
 
+
 - **Languages:** Varendish, Gallinean
 - **Social Rank:** Soldier (D6), Artisan (D8)
 - **Weapon Prowess:** Knife, Sword
@@ -855,7 +866,7 @@ back to him on the actions of her fellow cavaliers.
   +1D6 about history of Gallinea, notable cavaliers, Varendish nobles, and
   types of poisons)
 
-#### Further Customization
+[Further Customization]{.boxh2}
 
 Dani is now free to spend her customizations to further shape her
 character to fit the concept she'd like to play. Dani can also spend her

@@ -14,6 +14,7 @@ thrilling combat.
 
 Read or summarize the following information:
 
+:::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::::::
 Piers de Montambre, the youngest son of Marquise Deina de Montambre, is
 engaged to Hans von Stimmt, the youngest son of Landgraf Heinrich von
 Stimmt. Both families approve of the marriage, which will further cement
@@ -32,7 +33,8 @@ Before you leave, a covert messenger sent by Prince Jean-Remy, the
 Queen's spymaster, tells you that rumors are swirling that someone in
 Varendia may be hiring mercenaries to disrupt the ceremony. The Landgraf
 has dismissed those rumors as baseless, but you'd best be on your guard
-anyway\!
+anyway!
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 #### Additional Background Details
 
@@ -55,34 +57,27 @@ becomes necessary.
 
 ### Dramatis Personae
 
-  - Deina de Montambre (Gallinean; female; 49 years old; Loyalty (D10),
-    Family (D8), Country (D6)): Marquise of Montambre, mother of groom
+  - **Deina de Montambre (Gallinean; female; 49 years old; Loyalty D10, Family D8, Country D6):** Marquise of Montambre, mother of groom
     Piers, and loyal supporter of Queen Mariana of Gallinea.
-  - Esdeline Bissette (Gallinean; female; 31 years old; Wealth (D8),
-    Lust (D6)): Consort of Marquise Deina for the last 9 months; not of
+  - **Esdeline Bissette (Gallinean; female; 31 years old; Wealth D8, Lust D6):** Consort of Marquise Deina for the last 9 months; not of
     noble birth.
-  - Greta Valliken (Varendish; female; 21 years old; Pride (D10),
-    Loyalty (D8), Wealth (D6)): Airship captain, mercenary, and pirate.
-  - Hans von Stimmt (Varendish; male; 21 years old; Love (D8), Knowledge
-    (D6)): Youngest son of Landgraf Heinrich von Stimmt and groom of
+  - **Greta Valliken (Varendish; female; 21 years old; Pride D10, Loyalty D8, Wealth D6):** Airship captain, mercenary, and pirate.
+  - **Hans von Stimmt (Varendish; male; 21 years old; Love D8, Knowledge D6):** Youngest son of Landgraf Heinrich von Stimmt and groom of
     Piers de Montambre.
-  - Heinrich von Stimmt (Varendish; male; 52 years old; Family (D10),
-    Wealth (D8), Pride (D6)): Landgraf (duke) of Stimmtburg, father of
+  - **Heinrich von Stimmt (Varendish; male; 52 years old; Family D10, Wealth D8, Pride D6):** Landgraf (duke) of Stimmtburg, father of
     groom Hans, and one of several Varendish nobles with claims on the
     Nebelwald forest.
-  - Othilia von Stimmt (Varendish; female; 54 years old; Family (D10),
-    Pride (D8), Love (D6)): Wife of Heinrich and mother of groom Hans.
-  - Piers de Montambre (Gallinean; male; 22 years old; Love (D8),
-    Justice (D6)): Youngest son of Marquise Deina de Montambre and groom
+  - **Othilia von Stimmt (Varendish; female; 54 years old; Family D10, Pride D8, Love D6):** Wife of Heinrich and mother of groom Hans.
+  - **Piers de Montambre (Gallinean; male; 22 years old; Love D8, Justice D6):** Youngest son of Marquise Deina de Montambre and groom
     of Hans von Stimmt.
 
 #### Not Appearing In This Adventure
 
-  - Bridlin von Wolkenburg (Varendish; female; 69 years old): Altgräfin
+  - **Bridlin von Wolkenburg (Varendish; female; 69 years old):** Altgräfin
     (arch-duchess) of Wolkenburg and a rival of Heinrich von Stimmt.
-  - Jean-Remy de Gallinea (Gallinean; male; 49 years old): Prince of
+  - **Jean-Remy de Gallinea (Gallinean; male; 49 years old):** Prince of
     Gallinea, Queen Mariana's favorite uncle, and spymaster.
-  - Josette de Canard-Noir (Gallinean; female; 29 years old): Comtesse
+  - **Josette de Canard-Noir (Gallinean; female; 29 years old):** Comtesse
     of Canard-Noir and an economic competitor of Marquise Deina.
   - Rein Bärenlied (Varendish; male; 34 years old): Herzog (duke) of
     Bärenlied castle and city, and a rival of Heinrich von Stimmt.
@@ -97,7 +92,7 @@ the reception.
 
 ### The Reception
 
-Now, this is where things begin to happen\!
+Now, this is where things begin to happen!
 
 Lay out index cards as Areas to represent the sections of the ballroom
 in the chateau where the reception is being held. The dancing floor
@@ -196,7 +191,7 @@ something they're good at. Encourage the purchase of style points, and
 make sure each character gets a close-up scene whenever they gain a new
 style point.
 
-### The Action Begins\!
+### The Action Begins!
 
 At an appropriate time, start the action part of the scene. It may
 happen because a cavalier spots something while investigating, or you
@@ -234,16 +229,6 @@ actually an Unemployed Thespian passing herself off as a visitor from
 Gallinea. Nobody's actually heard of her before
 this.
 
-Table: Opponent Summary
-
-| Players     | Opponents                                                            |
-| ----------- | -------------------------------------------------------------------- |
-| 2 cavaliers | Cellist (Brash Fencer), Server (Street Thug)                         |
-| 3 cavaliers | Cellist, 2 Servers                                                   |
-| 4 cavaliers | Cellist, 3 Servers                                                   |
-| 5 cavaliers | Cellist, Oboe Player (Brash Fencer), 3 Servers                       |
-| 6 cavaliers | Cellist, Oboe Player, 3 Servers, "Minor Noble" (Unemployed Thespian) |
-
 The nobles and guests present, including the grooms, won't join the
 fight -- they're non-combatants and mostly drunk, so it's up to the
 cavaliers to be heroic. If you need stats for any of them, you can use
@@ -255,7 +240,7 @@ two guards aren't the only ones present, and a group of infiltrators has
 been dropped off to engage them and draw the other guards off. The plan
 was made assuming that only the two drugged guards would be present --
 the infiltrators weren't planning on the Queen's Cavaliers attending the
-reception\!
+reception!
 
 The infiltrators won't directly engage with the cavaliers unless
 attacked first; instead they are trying to move Hans out to the balcony.
@@ -263,7 +248,17 @@ A brawl roll against Hans' Military (Brawl) of 1D8 should be easy
 enough, or you can move him around via fiat. Don't make it too hard, but
 try to get him at least onto the balcony.
 
-### The Airship Arrives\!
+Table: Opponent Summary
+
+| Players     | Opponents                                                            |
+| :---------- | :------------------------------------------------------------------- |
+| 2 cavaliers | Cellist (Brash Fencer), Server (Street Thug)                         |
+| 3 cavaliers | Cellist, 2 Servers                                                   |
+| 4 cavaliers | Cellist, 3 Servers                                                   |
+| 5 cavaliers | Cellist, Oboe Player (Brash Fencer), 3 Servers                       |
+| 6 cavaliers | Cellist, Oboe Player, 3 Servers, "Minor Noble" (Unemployed Thespian) |
+
+### The Airship Arrives!
 
 At the end of the first or second round of the fight, an airship comes
 down from the clouds above the chateau. It'd been waiting around, high
@@ -298,7 +293,7 @@ Greta's motivation can be any of the following:
     a form of revenge against the Landgraf and the Marquise for a
     canceled order of armor that instead went to Montambre
   - She is Hans' childhood "girlfriend" who he hasn't thought about in
-    fifteen years, but is crazy enough to believe that he "promised" to
+    fifteen years, but is confused enough to believe that he "promised" to
     marry her when they were both five years old
   - She is a rogue airship captain who just hopes to make some money if
     she steals away Hans, and she heard about this wedding while she was
@@ -315,7 +310,7 @@ motivation clear as she tries to get Hans onto the airship.
 Table: Opponent Summary
 
 | Players     | Opponents                                                                  |
-| ----------- | -------------------------------------------------------------------------- |
+| :---------- | :------------------------------------------------------------------------- |
 | 2 cavaliers | Greta Valliken (Devious Smuggler), 2 Crewmembers (Bloodthirsty Buccaneers) |
 | 3 cavaliers | Greta Valliken, 3 Crewmembers                                              |
 | 4 cavaliers | Greta Valliken (Privateer Captain), 3 Crewmembers                          |
@@ -333,7 +328,7 @@ join the fray, rescuing Hans but not defeating Greta -- leave that to
 the cavaliers, or have her escape (although that's less
 satisfying).
 
-##### Rewards
+Table: Rewards
 
 |                   |                                                                                              |
 | ----------------- | -------------------------------------------------------------------------------------------- |

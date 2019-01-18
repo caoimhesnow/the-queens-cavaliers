@@ -1,7 +1,8 @@
-##### Gossiping Courtier
 
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Rabble*
+Gossiping Courtier
+
+[Rabble]{.opptype}
 
 The various hangers-on of the French court – and other noble estates –
 love nothing better than a good rumor, especially a scandalous one. If

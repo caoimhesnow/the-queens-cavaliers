@@ -1,7 +1,8 @@
-##### Bloodthirsty Buccaneer
 
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::
-*Rabble*
+Bloodthirsty Buccaneer
+
+[Rabble]{.opptype}
 
 While these can be used to represent nearly any adequately trained
 sailor, they are most commonly encountered as part of a pirate ship's
