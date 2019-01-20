@@ -1,7 +1,7 @@
-##### Cavalry Officer
-
 :::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Cavalry Officer
+
+[Stock Character]{.opptype}
 
 Officers in the cavalry are usually chosen from among the lower
 nobility, and are often groomed to be the next generals of the armies.

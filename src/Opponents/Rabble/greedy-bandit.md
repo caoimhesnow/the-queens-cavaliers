@@ -1,6 +1,5 @@
-
 :::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::::::
-Greedy Bandit
+:# Greedy Bandit
 
 [Rabble]{.opptype}
 

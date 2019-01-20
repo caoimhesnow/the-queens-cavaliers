@@ -1,7 +1,7 @@
-##### Devious Smuggler
-
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Devious Smuggler
+
+[Stock Characte]{.opptype}
 
 Smugglers and other criminals can be found at the edges of civilized
 Gallinean society, trading in information as much as they do their

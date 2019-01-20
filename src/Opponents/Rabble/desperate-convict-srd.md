@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-Desperate Convict
+:# Desperate Convict
 
 [Rabble]{.opptype}
 

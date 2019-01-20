@@ -1,7 +1,7 @@
-##### Petty Noble
-
 ::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Petty Noble
+
+[Minor Character]{.opptype}
 
 This is a minor noblewoman (or nobleman) from somewhere in Gallinea;
 there are hundreds of such people in the nation. They all think they're

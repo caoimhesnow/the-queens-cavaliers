@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-Acadian Colonist
+:# Acadian Colonist
 
 [Rabble]{.opptype}
 

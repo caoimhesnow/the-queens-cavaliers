@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-Elissian Colonist
+:# Elissian Colonist
 
 [Rabble]{.opptype}
 

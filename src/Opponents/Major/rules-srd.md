@@ -1,4 +1,4 @@
-### Creating Major Characters   ### {.breakbefore}
+# Creating Major Characters   # {.breakbefore}
 
 As key opponents, major characters
 should be created to serve specific roles in your game, such as a master

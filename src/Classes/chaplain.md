@@ -1,4 +1,4 @@
-### The Chaplain 
+# The Chaplain 
 
 A Chaplain is a clergy member of an organized religion, usually Asrian.
 The duties can vary but many times a Chaplain is found serving among
@@ -15,7 +15,7 @@ however.
 - **Suggested Classes:** Barrister, Chirurgeon, Courtier, Envoy, Explorer, Provincial, Veteran, Virtuoso, Visionary
 - **Suggested Passions:** Church, Faith, Justice, Knowledge
 
-#### Chaplain Qualities
+## Chaplain Qualities
 
 - **Skill Competency:** Culture, Magicks, Medicine, Streetwise
 - **Specialties:** Culture (Arts +1, Scholarship +1), Interaction (Inspire +1, Negotiate +1), Observation (Perceive +1, Intuition +1)
@@ -26,7 +26,7 @@ however.
   gloves, breeches, pantofles), 3 religious books (Knowledge +1D6,
   religious topics), quarterstaff (Cudgel +1D8)
 
-#### Chaplain Maneuvers
+## Chaplain Maneuvers
 
 - **Apologetics:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
 - **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll

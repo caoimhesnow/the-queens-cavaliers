@@ -1,4 +1,4 @@
-### The Brigand 
+# The Brigand 
 
 The typical Brigand is a peasant or even a minor noble whose fortunes
 fell and they resorted to force of arms to make their living.
@@ -10,7 +10,7 @@ poor.
 - **Suggested Classes:** Chaplain, Dogsbody, Dragoon, Explorer, Fusilier, Privateer, Provincial, Veteran
 - **Suggested Passions:** Friends, Justice, Loyalty, Wealth
 
-#### Brigand Qualities
+## Brigand Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
 - **Specialties:** Defense (Dodge +1), Dueling (Lunge +1, Feint +1), Military (Aim +1), Nature (Prowl +1), Streetwise (Larceny +1)
@@ -20,7 +20,7 @@ poor.
 - **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), leather
 jerkin (Flexible +1D6), hunting bow (Bow +1D6)
 
-#### Brigand Maneuvers
+## Brigand Maneuvers
 
 - **Cunning Camouflage:** Spend 2 Style Points to set the value of one Prowl die to its maximum value before rolling
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll

@@ -1,7 +1,7 @@
-##### Devout Asrian Priestess
-
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Devout Asrian Priestess
+
+[Minor Character]{.opptype}
 
 The goddess-empress Eserre, worshiped as “Ashra” in some parts of the
 world, is the deity of the sun – she who gives light and warmth to the

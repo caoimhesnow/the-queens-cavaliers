@@ -1,7 +1,7 @@
-##### Riding horse
-
 :::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Mount-scale animal*
+:# Riding horse
+
+[Mount-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D6, Training D8
 - **Yield Limit:** 9

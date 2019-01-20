@@ -1,4 +1,4 @@
-##### City Watch Patrol
+:# City Watch Patrol
 
 This can be any city watch or group of guards. Double their numbers if
 you want them to be more than an inconvenience for your players.

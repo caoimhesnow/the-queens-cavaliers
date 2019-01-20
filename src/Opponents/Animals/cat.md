@@ -1,7 +1,7 @@
-##### Cat
-
 ::::::::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-*Pet-scale animal*
+:# Cat
+
+[Pet-scale animal]{.opptype}
 
 - **Attributes:** Instinct D8, Ferocity D6, Training D0
 - **Yield Limit:** 3

@@ -1,7 +1,7 @@
-##### Dangerous Revolutionary
-
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Dangerous Revolutionary
+
+[Stock Character]{.opptype}
 
 Not everyone in Gallinea owes allegiance to Queen Mariana. This
 revolutionary can represent any conspirator who is plotting against the

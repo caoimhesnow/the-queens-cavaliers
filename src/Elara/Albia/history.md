@@ -115,4 +115,3 @@ Bosevell. As Fitzwilliam and Edgar were particularly close, the formerly
 Warrington sisters remained close as well. Lillian had six children
 herself -- Fitzwilliam, John, Morgan, Matthew, Margaret, and Walter.
 
-

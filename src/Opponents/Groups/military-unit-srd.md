@@ -1,4 +1,4 @@
-##### Military Unit
+:# Military Unit
 
 These will most commonly be soldiers in the local army.
 Sometimes they're encountered in a bar.

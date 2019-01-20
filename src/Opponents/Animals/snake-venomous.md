@@ -1,7 +1,7 @@
-##### Snake, venomous
-
 :::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Companion-scale animal*
+:# Snake, venomous
+
+[Companion-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D8, Training D0
 - **Yield Limit:** 4

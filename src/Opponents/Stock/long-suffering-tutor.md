@@ -1,7 +1,7 @@
-##### Long-Suffering Tutor
-
 :::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Long-Suffering Tutor
+
+[Stock Character]{.opptype}
 
 Often found in the employ of nobles or rich merchants to teach their
 children, the tutor is an educated person whose skills aren't as

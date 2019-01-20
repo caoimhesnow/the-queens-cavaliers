@@ -1,7 +1,7 @@
-##### Dog, common
-
 :::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Companion-scale animal*
+:# Dog, common
+
+[Companion-scale animal]{.opptyp}
 
 - **Attributes:** Instinct D6, Ferocity D6, Training D0
 - **Yield Limit:** 3

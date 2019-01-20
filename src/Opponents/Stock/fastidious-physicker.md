@@ -1,7 +1,7 @@
-##### Fastidious Physicker
-
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Fastidious Physicker
+
+[Stock Character]{.opptype}
 
 This doctor may not have much when it comes to bedside manner, but she's
 a brilliant surgeon and diagnostician, despite her addiction issues and

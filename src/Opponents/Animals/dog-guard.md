@@ -1,7 +1,7 @@
-##### Dog, guard
-
 ::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Companion-scale animal*
+:# Dog, guard
+
+[Companion-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D8, Training D10
 - **Yield Limit:** 4

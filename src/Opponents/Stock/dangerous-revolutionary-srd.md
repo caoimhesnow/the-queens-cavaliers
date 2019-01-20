@@ -1,7 +1,7 @@
-##### Dangerous Revolutionary
-
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Dangerous Revolutionary
+
+[Stock Character]{.opptype}
 
 Not everyone in France owes allegiance to the crown. This
 revolutionary can represent any conspirator who is plotting against the

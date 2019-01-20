@@ -1,7 +1,7 @@
-##### Falcon, trained
+:::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::::::
+:# Falcon, trained
 
-::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Pet-scale animal*
+[Pet-scale animal]{.opptype}
 
 - **Attributes:** Instinct D8, Ferocity D6, Training D8
 - **Yield Limit:** 3
@@ -17,6 +17,6 @@
 - **Impetus:** Obedience (D8), Predatory (D6)
 
 Falconers train these birds to hunt, and it's become quite the hobby of
-the well-to-do.
+the well-to-do in Gallinea.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

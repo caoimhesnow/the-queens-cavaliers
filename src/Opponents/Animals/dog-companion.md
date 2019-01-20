@@ -1,7 +1,7 @@
-##### Dog, companion
-
 :::::::::::::::::::::: stablock ::::::::::::::::::::::::::::::::::::::::::::::::::::::
-*Pet-scale animal*
+:# Dog, companion
+
+[Pet-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D0, Training D8
 - **Yield Limit:** 2

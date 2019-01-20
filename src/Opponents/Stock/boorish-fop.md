@@ -1,7 +1,7 @@
-##### Boorish Fop
-
 ::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Boorish Fop
+
+[Stock Character]{.opptype}
 
 All bluster and fashion sense with little else to offer, fops can be
 found anywhere from the courts of the royal palace to the bars down by

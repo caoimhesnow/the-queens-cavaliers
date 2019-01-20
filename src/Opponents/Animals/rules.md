@@ -1,4 +1,4 @@
-### Animal Attributes and Specialties
+# Animal Attributes and Specialties
 
 While humans have Verve, Affinity, and Guile as attributes, animals are
 defined by the attributes Instinct, Ferocity, and Training. These can
@@ -10,7 +10,7 @@ appropriate attribute. There is one specialty, Perceive, that is
 classified as any attribute, and the Initiative skill has three new
 Specialties that don't apply to humans.
 
-#### Instinct
+## Instinct
 
 Instinctive specialties are those related to the survival of the animal,
 such as self-preservation or locating food.
@@ -35,7 +35,7 @@ as an Item Die.
 **Prowl:** Animals that sneak up on targets, or hide from predators, are
 using the Prowl specialty.
 
-#### Ferocity Specialties
+## Ferocity Specialties
 
 The Ferocity attribute is a measure of an animal's aggression,
 determination, and fortitude. They're primarily used offensively.
@@ -63,7 +63,7 @@ as an Item Die.
 **Riposte:** Animals don't Parry attacks, but they might be able to
 Riposte on a good Dodge roll or by using Initiative Points.
 
-#### Training Specialties
+## Training Specialties
 
 Training specialties are things that animals must be taught or trained
 to do. This usually means being taught by humans, but sometimes wild
@@ -95,7 +95,7 @@ market.
 skill just as humans do, but they often have senses that can be added on
 as an Item Die.
 
-### Scale
+## Scale
 
 Instead of a Competency Die, animals have a Scale Die that relates to
 how large they are. Scale also determines the yield limit and wound
@@ -107,7 +107,7 @@ Table: Scale of Animals
 
 | Scale     | Scale Die | Yield Limit        | Wound Limit                                       |
 | --------- | --------- | ------------------ | ------------------------------------------------- |
-| Pocket    | \--       | 1                  | 1 (Dead)                                          |
+| Pocket    |  --       | 1                  | 1 (Dead)                                          |
 | Pet       | 1D0       | 2 + half Ferocity  | 1 (Dying)                                         |
 | Companion | 1D6       | 3 + half Ferocity  | 2 (Drop 1, Dying)                                 |
 | Human     | 1D8       | 4 + half Ferocity  | 3 (Drop 1, Drop 2, Dying)                         |
@@ -146,7 +146,7 @@ quite sure which it is). The most notable examples of behemoth-scale
 animals are found in the oceans -- such as a great whale or a giant
 squid.
 
-#### Hordes
+## Hordes
 
 A horde is a swarm or pack of similar animals that work as one unit for
 game purposes. If 300 rats flood out into the sewers, you don't really
@@ -166,12 +166,12 @@ Most hordes are mammoth scale, although hordes of larger animals (such
 as sharks) might be behemoth scale, and smaller hordes such as a swarm
 of honeybees could be merely mount scale.
 
-### Other Animal Qualities
+# Other Animal Qualities
 
 Many of the game qualities of animals are similar to those of human
 characters. These are some of the ways they differ.
 
-#### Movement
+## Movement
 
 A human can Walk 1 area, or Run 2 areas. Some animals are faster than
 this, and some are slower. The Walk and Run qualities tell you how many
@@ -181,7 +181,7 @@ Some animals have special types of movement that humans can't do, such
 as flying, swimming, or climbing. These allow an animal to move between
 Areas in ways that most humans can't.
 
-#### Senses
+## Senses
 
 Many animals have superior senses to humans; these are shown by the
 Senses quality. When using the specific type of sense, the animal can
@@ -191,14 +191,14 @@ In addition, animals can use their best Attribute for calculating their
 Perceive pools, as Perceive is associated with Instinct, Ferocity, and
 Training.
 
-#### Weapons and Armor
+## Weapons and Armor
 
 Whether an animal has built-in weapons or armor -- such as sharp teeth
 or a hard carapace -- or is wearing an actual weapon or armor --
 barding, a spiked collar, and so on -- it works the same way: the Item
 Die can be added to whatever skills are specified.
 
-#### Maneuvers
+## Maneuvers
 
 Animals don't gain style points. They don't need them, so don't spend
 any of their success points to buy style points. They don't even know
@@ -213,7 +213,7 @@ to Lunge). This happens whenever it attacks a wounded target. No style
 points, no limited uses -- just whenever the condition applies, it comes
 into play.
 
-#### Impetus
+## Impetus
 
 Animals don't have passions. They're just animals, and concepts like
 Justice or Faith don't really mean much to them. Instead, they have an

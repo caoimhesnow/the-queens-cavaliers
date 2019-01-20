@@ -1,7 +1,7 @@
-##### Warhorse
-
 :::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Mount-scale animal*
+:# Warhorse
+
+[Mount-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D8, Training D10
 - **Yield Limit:** 10

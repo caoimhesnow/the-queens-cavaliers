@@ -1,7 +1,7 @@
-##### Rat
+::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::
+:# Rat
 
-:::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Pocket-scale animal*
+[Pocket-scale animal]{.opptype}
 
 - **Attributes:** Instinct D8, Ferocity D6, Training D0
 - **Yield Limit:** 1
@@ -15,6 +15,6 @@
 - **Impetus:** Hunger (D8), Survival (D6)
 
 Here's that single rat by itself. You probably won't get hurt by it.
-Just pray it's not carrying some dreadful plague...
+Just pray to Essere it's not carrying some dreadful plague...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

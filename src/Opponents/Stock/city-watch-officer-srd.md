@@ -1,7 +1,7 @@
-##### City Watch Officer
-
 :::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# City Watch Officer
+
+[Stock Character]{.opptype}
 
 The more experienced members of the watch are promoted to officer ranks
 and have more training. An officer could be found as the head of a group

@@ -1,7 +1,7 @@
-##### Secretive Soothsayer
-
 ::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Secretive Soothsayer
+
+[Minor Character]{.opptype}
 
 A witch and fortune reader, the soothsayer makes her living by
 dispensing sage advice mixed with magickal readings of the portents. She

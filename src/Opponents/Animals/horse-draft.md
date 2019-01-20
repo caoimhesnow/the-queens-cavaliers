@@ -1,7 +1,7 @@
-##### Draft horse
-
 :::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Mount-scale animal*
+:# Draft horse
+
+[Mount-scale anima]{.opptype}
 
 - **Attributes:** Instinct D0, Ferocity D0, Training D6
 - **Yield Limit:** 6

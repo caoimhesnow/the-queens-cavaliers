@@ -143,6 +143,9 @@ Sun, and thus all subsequent leaders of the Asrian church have been
 considered liturgically female.
 
 ### Marriage in Gallinea
+In Gallinea, marriage equality has long been the standard -- as long as marriage 
+itself has been practiced. Same-gender marriage is also universally accepted 
+among Gallinea's neighbors in Elara.
 
 Marriage or partnership within Gallinean culture can be between a woman
 and a man, a woman and a woman, a man and a man, and recently, between
@@ -152,6 +155,10 @@ matter left up to the people in the relationship. Thus, you can only be
 married to one person, but it a mutual decision between the two of you
 whether it is an open relationship or a closed one.
 
+The most recent royal same-gender marriage, in 1126, was between Queen Elisse II, 
+great-grandmother of Mariana II, and her Princess-Consort, Clarisse -- 
+who would later go on to serve as Princess-Regent for their young daughter, future Queen Delphine.
+
 The term "marriage" is reserved for those couples united in a religious
 ceremony; otherwise it is called a "partnership". Terms such as "wife",
 "husband", "spouse", or "partner", are not restricted to one type of
@@ -159,6 +166,8 @@ union; as with many other decisions this is made by each couple as they
 choose. Gallineans consider all terms to refer to the same concept,
 although classical Gallinean traditionally calls male spouses "husbands"
 and female spouses "wives."
+
+### Asexuality
 
 In recent years, greater acceptance has been made of those who are not
 sexually attracted at all. Previously, asexual people were thought of as

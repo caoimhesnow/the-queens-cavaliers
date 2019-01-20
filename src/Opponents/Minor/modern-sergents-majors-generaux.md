@@ -1,7 +1,6 @@
-##### Modern Sergents-Majors Généraux
-
 :::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Modern Sergents-Majors Généraux
+[Minor Character]{.opptype}
 
 She is the very model of a sergeant-major general: she has
 information on vegetables, animals and minerals. She knows the kings of

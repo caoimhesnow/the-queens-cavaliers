@@ -1,4 +1,4 @@
-##### Bandit Gang
+:# Bandit Gang
 
 Encountered primarily on the open road, these bandits are often, but not
 always, mounted on horses.

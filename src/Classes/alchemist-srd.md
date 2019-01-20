@@ -1,4 +1,4 @@
-### The Alchemist 
+# The Alchemist 
 
 Alchemists brew potions, poisons, and antidotes based on scientific principles. They can
 produce a variety of effects, ranging from healing to magical abilities.
@@ -9,7 +9,7 @@ apothecaries to vend their wares.
 - **Suggested Classes:** Charlatan, Chirurgeon, Mechanician, Visionary, Witch
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
 
-#### Alchemist Qualities
+## Alchemist Qualities
 
 - **Skill Competency:** Culture, Magicks, Medicine, Science 
 - **Specialties:** Culture (Scholarship +1), Interaction (Negotiate +1),
@@ -21,7 +21,7 @@ apothecaries to vend their wares.
   gloves, breeches, buckled shoes), 8 supplies of alchemical ingredients,
   2 doses of poison antidote, alchemy tools (Brew, Poison +1D6)
 
-#### Alchemist Maneuvers
+## Alchemist Maneuvers
 
 - **Anti-Toxins:** When creating an antidote or countering a poison, spend 1 Style Point to add Brew dice to a Poison roll
 - **Chemical Calculations:** When working in a well-equipped laboratory, spend 1 Style Point to add Calculus dice to a Brew roll

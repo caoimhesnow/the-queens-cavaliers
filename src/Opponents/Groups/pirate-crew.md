@@ -1,4 +1,4 @@
-##### Pirate Crew
+:# Pirate Crew
 
 These are the crew of a small sailing ship. For larger ships, add more
 Privateer Captains as officers, and create a major character as the

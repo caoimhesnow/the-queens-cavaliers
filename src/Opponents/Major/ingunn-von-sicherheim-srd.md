@@ -1,7 +1,7 @@
-##### Foreign Noblewoman
-
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::
-*Major Character*
+:# Foreign Noblewoman
+
+[Major Character]{.opptype}
 
 - **Competency Die:** D10
 - **Attributes:** Verve D8, Affinity D10, Guile D6

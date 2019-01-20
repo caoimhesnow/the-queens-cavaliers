@@ -1,7 +1,7 @@
-##### Dishonest Mechanician
-
 :::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Dishonest Mechanician
+
+[Minor Character]{.opptype}
 
 This is an example of a mechanician who was accused of stealing plans
 from another inventor (which she did do) and then went underground to

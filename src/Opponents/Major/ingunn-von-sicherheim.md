@@ -1,7 +1,7 @@
-##### Ingunn von Sicherheim
-
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::
-*Major Character*
+:# Ingunn von Sicherheim
+
+[Major Character]{.opptype}
 
 - **Competency Die:** D10
 - **Attributes:** Verve D8, Affinity D10, Guile D6

@@ -1,4 +1,4 @@
-##### Small Marketplace
+:# Small Marketplace
 
 Throughout both large cities and tiny villages, small marketplaces are
 centers of commerce featuring goods for sale. These are the kinds of

@@ -1,4 +1,4 @@
-##### Smuggling Ring
+:# Smuggling Ring
 
 Operating in the shadows to avoid taxes or other legal entanglements,
 these secretive smugglers look to optimize profits.

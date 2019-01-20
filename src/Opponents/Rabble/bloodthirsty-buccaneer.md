@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::
-Bloodthirsty Buccaneer
+:# Bloodthirsty Buccaneer
 
 [Rabble]{.opptype}
 

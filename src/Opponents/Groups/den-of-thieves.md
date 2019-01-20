@@ -1,4 +1,4 @@
-##### Den of Thieves
+:# Den of Thieves
 
 A loose assortment of ne'er-do-wells and cutthroats who would sell out
 their own grandmothers if there were profit in it.

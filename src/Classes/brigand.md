@@ -1,4 +1,4 @@
-### The Brigand 
+# The Brigand 
 
 While Gallinea and most of the Elaran continent are long-settled, that
 doesn't always stop opportunists from engaging in banditry. The typical
@@ -12,17 +12,16 @@ poor.
 - **Suggested Classes:** Chaplain, Dogsbody, Dragoon, Explorer, Fusilier, Privateer, Provincial, Veteran
 - **Suggested Passions:** Friends, Justice, Loyalty, Wealth
 
-#### Brigand Qualities
+## Brigand Qualities
 
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
 - **Specialties:** Defense (Dodge +1), Dueling (Lunge +1, Feint +1), Military (Aim +1), Nature (Prowl +1), Streetwise (Larceny +1)
 - **Weapon Prowess:** Knife, Sword, Cudgel, Bow
 - **Armor Prowess:** Flexible
 - **Social Rank:** Commoner (D0)
-- **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), leather
-jerkin (Flexible +1D6), hunting bow (Bow +1D6)
+- **Bonus Gear:** Peasant outfit (shift, breeches, buckled shoes), leather jerkin (Flexible +1D6), hunting bow (Bow +1D6)
 
-#### Brigand Maneuvers
+## Brigand Maneuvers
 
 - **Cunning Camouflage:** Spend 2 Style Points to set the value of one Prowl die to its maximum value before rolling
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll

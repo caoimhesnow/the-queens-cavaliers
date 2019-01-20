@@ -225,7 +225,8 @@ Royal Palace of Gallinea
 
 ## 2nd Bridge, Pont de Scanbria
 
-*description needed*
+The Pont de Scanbria connects the Rue de Scanbria on either side of the Riviere Luisante.  
+This is the main approach to the Royal Palace.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 La Guette (Z)
@@ -239,7 +240,11 @@ La Guette (Z)
 
 ## 3rd Bridge, Pont à l'Ouest
 
-*description needed*
+Pont à l'Ouest is just to the South and West of the Palace. It is often called the Tradesman’s 
+Bridge. This is where each tradesperson or merchant comes to be presented the the Minister of 
+Finance and Trade. Before embarking on business in the city a person must present themselves 
+and their goods for inspection to one of the financial officers for the Queendom -- 
+although the shadier businesses usually find a way around around these legalities.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 l'Academie d'Officiers Militaires (Y)
@@ -252,9 +257,17 @@ l'Academie d'Officiers Militaires (Y)
 
 ## 4th Bridge, Pont Interne
 
-*description needed*
+Pont Interne is one of two bridges that do not connect one of the islands to the mainland, 
+but one island to another. This bridge is often called "the Traitor’s Bridge" because it 
+is the main thoroughfare for prisoners taken from the Royal Palace to the Palais de Justice.
 
 ## 5th Bridge, Pont Est
+
+Pont Est is   the second of the interisland bridges.  It connects Île Royale to 
+Île Citadelle. This is often called the cavalier's bridge as the Citadel is the 
+home of the Queen's Cavaliers. The Citadel was once the main castle for the Royal Family 
+as it was thought more easily protected.  In the more recent peaceful past the family 
+was able to stay in a more central and easily accessible location.
 
 *description needed*
 
@@ -273,6 +286,8 @@ Mechanicians' Guildhall (K)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## 6th Bridge, Pont de la Reine
 
+Pont de la Reine is the main parade route for Royal and military processions.
+
 *description needed*
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
@@ -285,7 +300,7 @@ Library of Gallinea (I)
 
 ## 7th Bridge, Pont des Universités
 
-*description needed*
+Pont des Universités houses many of the city’s academics and librarians.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 Universities of Lutetia
@@ -303,6 +318,9 @@ The universities consist of:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 8th Bridge, Pont du Temple
+
+Pont du Temple is the easiest route to the Grand Cathedral of the Sun. 
+This also the home for many medical students and the religious devout.
 
 *description needed*
 
@@ -336,7 +354,8 @@ L'Infirmerie (M)
 
 ## 9th Bridge, Pont de Coeur
 
-*description needed*
+Pont de Coeur is a favorite of lovers of all ages. It offers many small tea and novelty shops 
+as well as a thriving gondola tour. Here the Luisante river is narrowed and tamer.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 l'Arsenal (N)
@@ -351,6 +370,11 @@ l'Arsenal (N)
 
 ## 10th Bridge, Pont de Marché
 
+Pont de Marché is the home of the Grand Market. This extends into 
+Les Ruelles, where it's said you can find anything your heart desires. 
+From there, you are an easy carriage ride over the Luisante to le Théâtre du Monde. 
+
+
 *description needed*
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
@@ -364,7 +388,15 @@ Le Théâtre du Monde (O)
 
   - Alternate Name: World Theater
 
-*description needed*
+The World Theater is the largest and most prolific theater in Lutetia, 
+and many say the greatest theater in all of Elara. 
+It is supported by a gift given upon the ascension of Queen Mariana I, ancestor 
+of the current queen. There is at least one playwright and one musical 
+conductor in residence. The Royal Minister of Theater is often a retired actor;
+currently that position is held by Jeanne Antoinette Poisson, a favorite of 
+late Queen Elisse from her childhood.
+
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
@@ -377,10 +409,22 @@ Temple of the Moon (P)
 
 ## 11th Bridge, Pont Lac
 
-*description needed*
-
+Pont Lac connects the Théâtre du Monde to the Palais de Lutetia. 
+This is the home of the countess of Castenia, the current lady-mayor of 
+Lutetia. She is renowned as much for her lavish formal parties as her political scheming. 
+The Palais de Lutetia is also home to an extravagantly decorated private theatre. 
+Countess Lucienne Castenia fancies herself a playwright and amuses herself by 
+arranging theatricals in the personal theatre. There's probably a reason that none of the 
+other theatres in the city have chosen to produce one of the lady-mayor's plays, but 
+if so, nobody has seen fit to tell her yet.
 
 ## 12th Bridge, Pont Roche
+
+Pont Roche is the only passable point to Île Rochuese, home of La Roche Prison.  
+The entire island is surrounded by a wall keeping it isolated from the lake.  
+Pont Roche has a guard post at either end with a high gate on each.  
+This Southernmost bridge itself is the home for most of the guards.  
+This is the only bridge with no shops or public spaces.
 
 *description needed*
 
@@ -408,7 +452,9 @@ Palais de Lutetia (I)
 
 ## 14th Bridge, Pont Sud
 
-*description needed*
+Pont Sud is home to both the actors for le Théâtre de la Rive and the highest-ranking 
+members of the Alchemist’s Guild.  The two groups make for the strange availability 
+of the oddest items.  This is where one might go for something a bit out of the ordinary.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 Le Théâtre de la Rive (F)
@@ -468,7 +514,9 @@ La Chapelle de Jardin (V)
 
 ## 16th Bridge, Pont Neuf
 
-*description needed*
+Pont Neuf, the New Bridge, was a replacement for Pont des Artes. Pont des Artes 
+was destroyed when a young tradesman attempted to carry both gun powder and 
+manure in the same cart over the bridge.
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
 Palais de Justice (C)

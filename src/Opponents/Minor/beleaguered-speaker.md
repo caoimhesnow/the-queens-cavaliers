@@ -1,7 +1,7 @@
-##### Beleaguered Speaker
-
 ::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Beleaguered Speaker
+
+[Minor Character]{.opptype}
 
 Even with guaranteed freedom of religion in Gallinea, many who follow
 the Devran faith find themselves subject to harassment and scorn. This

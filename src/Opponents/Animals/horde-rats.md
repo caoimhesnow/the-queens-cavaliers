@@ -1,7 +1,7 @@
-##### Horde of Rats
-
 :::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-*Mammoth-scale horde*
+:# Horde of Rats
+
+[Mammoth-scale horde]{.opptype}
 
 - **Attributes:** Instinct D8, Ferocity D8, Training D0, Horde D12
 - **Yield Limit:** 14

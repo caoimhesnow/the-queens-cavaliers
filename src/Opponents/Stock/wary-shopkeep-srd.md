@@ -1,7 +1,7 @@
-##### Wary Shopkeep
-
 ::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Wary Shopkeep
+
+[Stock Character]{.opptype}
 
 This merchant has dealt with shoplifters before – as well as arrogant
 player characters who think they can come into her shop and boss her around –

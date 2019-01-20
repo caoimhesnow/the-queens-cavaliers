@@ -1,7 +1,7 @@
-##### Parrot, trained
+:::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
+:# Parrot, trained
 
-:::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::::
-*Pet-scale animal*
+[Pet-scale animal]{.opptype}
 
 - **Attributes:** Instinct D6, Ferocity D0, Training D6
 - **Yield Limit:** 2
@@ -16,7 +16,6 @@
 Feint)\
 - **Impetus:** Loyalty (D6)
 
-Pirates love these things. Originally from the jungles of the Farthest
-South, they can be trained to imitate human voices.
+Pirates love these things. Originally from the jungle,
+they can be trained to imitate human voices.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-

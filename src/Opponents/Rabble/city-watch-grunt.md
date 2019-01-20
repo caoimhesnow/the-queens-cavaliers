@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::::
-Lutetian Watch Grunt
+:# Lutetian Watch Grunt
 
 [Rabble]{.opptype}
 

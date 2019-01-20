@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::
-Infantry Recruit
+:# Infantry Recruit
 
 [Rabble]{.opptype}
 

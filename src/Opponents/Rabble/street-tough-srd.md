@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::::
-Street Tough
+:# Street Tough
 
 [Rabble]{.opptype}
 

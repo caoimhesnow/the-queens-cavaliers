@@ -1,4 +1,4 @@
-##### Military Unit
+:# Military Unit
 
 These will most commonly be soldiers in the Gallinean army, if your
 cavaliers are in Gallinea. Sometimes they're encountered in a bar.

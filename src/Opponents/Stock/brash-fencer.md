@@ -1,7 +1,7 @@
-##### Brash Fencer
-
 ::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Brash Fencer
+
+[Stock Character]{.opptype}
 
 Many young bravos come to the big city hoping to make names for
 themselves, and attempt to do so by challenging multiple people to

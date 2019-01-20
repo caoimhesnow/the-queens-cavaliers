@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-Laconic Farmer
+:# Laconic Farmer
 
 [Rabble]{.opptype}
 

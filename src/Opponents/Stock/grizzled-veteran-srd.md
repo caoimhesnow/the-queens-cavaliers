@@ -1,7 +1,7 @@
-##### Grizzled Veteran
-
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Grizzled Veteran
+
+[Stock Character]{.opptype}
 
 There are a number of former soldiers who live their lives as
 hired mercenaries, guardsmen, members of the militia, or drunken sots.

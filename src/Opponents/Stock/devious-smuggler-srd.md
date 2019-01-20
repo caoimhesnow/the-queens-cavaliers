@@ -1,7 +1,7 @@
-##### Devious Smuggler
-
 :::::::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Devious Smuggler
+
+[Stock Character]{.opptype}
 
 Smugglers and other criminals can be found at the edges of civilized
 society, trading in information as much as they do their

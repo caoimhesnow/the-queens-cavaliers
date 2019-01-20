@@ -1,7 +1,7 @@
-##### Gregarious Barkeep
-
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Gregarious Barkeep
+
+[Stock Character]{.opptype}
 
 The barkeep is more than willing to lend an ear when you need one, and
 keep the drinks coming – but if trouble breaks out in her bar, she's

@@ -1,4 +1,4 @@
-### The Barrister 
+# The Barrister 
 
 When someone is accused of a crime another person, she will usually be represented in court by a Barrister.
 Barristers have special training in the law and court procedures, and
@@ -7,7 +7,7 @@ are skilled at speaking before a magistrate.
 - **Suggested Classes:** Chaplain, Constable, Courtier, Envoy, Visionary
 - **Suggested Passions:** Family, Justice, Loyalty, Pride
 
-#### Barrister Qualities
+## Barrister Qualities
 
 - **Skill Competency:** Culture, Streetwise 
 - **Specialties:** Culture (Etiquette +1, Scholarship +1), Interaction
@@ -19,7 +19,7 @@ are skilled at speaking before a magistrate.
 - **Bonus Gear:** Courtly outfit (hair ribbons, bodice, courtier's gloves,
   skirt, chopines), 6 law books (Knowledge +1D6, six legal topics)
 
-#### Barrister Maneuvers
+## Barrister Maneuvers
 
 - **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
 - **For The Defense:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll

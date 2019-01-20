@@ -1,7 +1,7 @@
-##### Rogue Highwayman
-
 ::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Rogue Highwayman
+
+[Minor Character]{.opptype}
 
 The rogue highwayman is encountered on the country roads of France,
 and makes a living by stealing from others at gunpoint. Often she's the

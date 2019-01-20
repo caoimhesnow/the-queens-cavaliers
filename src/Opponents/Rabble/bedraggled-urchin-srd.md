@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::
-Bedraggled Urchin
+:# Bedraggled Urchin
 
 [Rabble]{.opptype}
 

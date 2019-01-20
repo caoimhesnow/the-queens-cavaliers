@@ -1,4 +1,4 @@
-##### Moralistic Mob
+:# Moralistic Mob
 
 Using the pretext of righteous indignation, a mob of angry commoners has
 been stirred up and are looking for victims. And there's an immigrant

@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::
-Gossiping Courtier
+:# Gossiping Courtier
 
 [Rabble]{.opptype}
 

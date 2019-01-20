@@ -1,4 +1,4 @@
-### The Constable
+# The Constable
 
 In the Gallinean justice system, the Crown is represented by two
 separate yet equally important groups: the Constabulary, who
@@ -13,7 +13,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Suggested Classes:** Barrister, Dragoon, Duelist, Provincial, Veteran
 - **Suggested Passions:** Country, Justice, Knowledge, Loyalty
 
-#### Constable Qualities
+## Constable Qualities
 
 - **Skill Competency:** Dueling, Culture, Military, Streetwise
 - **Specialties:** Culture (Etiquette +1), Dueling (Riposte +1), Defense (Parry +1), Military (Brawl +1, Aim +1), Observation (Deduce +1)
@@ -23,7 +23,7 @@ few have retired and ply their trade as investigators for private hire.
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches,
   boots, tabard), steel breastplate (Rigid Armor +1D6), flintlock musket (Musket +1D10)
 
-#### Constable Maneuvers
+## Constable Maneuvers
 
 - **Criminology:** When investigating a crime scene, spend 1 Style Point to add Scholarship dice to a Deduce roll
 - **Brilliant Analysis:** Spend 2 Style Points to set the value of one Deduce die to its maximum value before rolling

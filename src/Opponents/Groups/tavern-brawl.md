@@ -1,4 +1,4 @@
-##### Tavern Brawl
+:# Tavern Brawl
 
 Barroom fights break out quite often due to the presence of alcohol and
 surly people. Here are the typical opponents you might find in such a

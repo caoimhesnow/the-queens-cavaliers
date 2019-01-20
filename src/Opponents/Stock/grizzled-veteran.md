@@ -1,7 +1,7 @@
-##### Grizzled Veteran
-
 ::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::
-*Stock Character*
+:# Grizzled Veteran
+
+[Stock Character]{.opptype}
 
 The last war with Albia ended just a few years ago, but lasted for
 decades. There are a number of former soldiers who live their lives as

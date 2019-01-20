@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::
-Unemployed Thespian
+:# Unemployed Thespian
 
 [Rabble]{.opptype}
 

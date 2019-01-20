@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::
-Angry Mob Member
+:# Angry Mob Member
 
 [Rabble]{.opptype}
 

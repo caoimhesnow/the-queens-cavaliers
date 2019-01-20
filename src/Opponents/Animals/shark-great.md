@@ -1,7 +1,7 @@
-##### Shark, great
-
 :::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::::
-*Mount-scale animal*
+:# Shark, great
+
+[Mount-scale animal]{.opptype}
 
 - **Attributes:** Instinct D8, Ferocity D12, Training D0
 - **Yield Limit:** 12

@@ -1,7 +1,7 @@
-##### Devout Priest
-
 :::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Devout Priest
+
+[Minor Character]{.opptype}
 
 This is a typical priest, likely assigned to a nearby chapel
 or perhaps giving out aid to travellers.

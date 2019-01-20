@@ -1,6 +1,5 @@
-
 ::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-Drunken Brawler
+:# Drunken Brawler
 
 [Rabble]{.opptype}
 

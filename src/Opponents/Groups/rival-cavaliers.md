@@ -1,4 +1,4 @@
-##### Rival Cavaliers
+:# Rival Cavaliers
 
 This group may be other members of the Queen's Cavaliers, or their
 equivalents in a parallel organization.

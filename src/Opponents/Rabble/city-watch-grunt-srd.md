@@ -1,6 +1,5 @@
-
 :::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::
-City Watch Grunt
+:# City Watch Grunt
 
 [Rabble]{.opptype}
 

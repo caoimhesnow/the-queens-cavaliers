@@ -1,7 +1,7 @@
-##### Privateer Captain
-
 :::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::::::::
-*Minor Character*
+:# Privateer Captain
+
+[Minor Character]{.opptype}
 
 These dread pirates sail the seas, plundering boats and leading crews of
 bloodthirsty buccaneers. Some actually have letters of marque and are

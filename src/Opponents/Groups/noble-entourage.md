@@ -1,4 +1,4 @@
-##### Noble's Entourage
+:# Noble's Entourage
 
 Traveling in style in one or more carriages, nobles may sometimes find
 themselves at the mercy of a bandit group -- requiring the cavaliers to
