@@ -89,7 +89,7 @@ national flag.
 
 *description needed* 
 
-:::::::::::::::::::::::::::::: illustration-right :::::::::::::::::::::::::
+:::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::
 ![King Edgar II of Albia, by Eleanor Ferron](assets/Portraits/king-edgar.jpg "King Edgar II of Albia, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

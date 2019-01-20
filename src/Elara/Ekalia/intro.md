@@ -1,7 +1,7 @@
 # Ekalia #                                                  {.breakbefore}
 
 :::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::
-The Ekalian Republic
+:# The Ekalian Republic
 
 ![Flag of Ekalia](assets/Flags/Ekalia.png "Flag of Ekalia")
 

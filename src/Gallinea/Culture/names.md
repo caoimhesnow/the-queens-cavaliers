@@ -1,11 +1,11 @@
 # Gallinean Names
 
-## First Names
 A Gallinean first name has a traditional gender association, but in modern times it's 
 considered acceptable to choose a name outside of one's traditional gender assignment.
 
-### Traditionally Female Names
+## Traditionally Female First Names
   
+:::::::::::::::::::::::: columnate ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Adeline, Alays, Aldegonde, Aldeta, Aliecte, Allis, Allune, Ameline, Andrena, Andrienne, Angelique, Armelle, Astrugue, Aubree, Audegonne, Avisse, Barbe, Bartonne, Basile,
 Baudynne, Betris, Biciere, Bietrix, Blaisette, Bonne, Cahotte, Caize, Callotte, Cezille, Clare, Clareta, Clementia, Collaye, Cornille, Crespine, Dargy, Denyse, Druette,
 Emmeline, Emone, Erme, Esdeline, Estevene, Eustasse, Extasse, Fleurie, Florymonde, Flourie, Garina, Genevieve, Gervaise, Gilette, Gradine, Hanain, Haulduine, Havis, Helene,
@@ -14,9 +14,11 @@ Lore, Loyse, Lucque, Lusette, Mahault, Mahelot, Marcile, Marguine, Marque, Masse
 Nonne, Odeline, Olyna, Ottelette, Pacquette, Pasque, Perine, Peronne, Peyrinne, Plourette, Poisne, Poncelette, Quateline, Quentine, Rectrude, Renee, Restitue, Roisne, Rose,
 Royne, Sacrée, Sandrine, Saura, Sebille, Sezillons, Simonne, Sylvie, Teffaine, Thieffaine, Tiessa, Tonyna, Toussaine, Vandalene, Victoire, Vingtremette, Weceline, Ydee,
 Yolente, Yoline, Yzabeau.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Traditionally Male Names
+## Traditionally Male Female Names
 
+:::::::::::::::::::::::: columnate ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Aimery, Alain, Allard, Amelin, Ancel, Andrieu, Antoine, Archille, Aribert, Arnault, Artus, Astort, Aubert, Audrien, Auguinare, Aulbin, Azor, Bastien, Baudart, Benabic,
 Berard, Bettremeiux, Biciere, Blaise, Blaze, Brisse, Buesart, Burieau, Clarembaut, Colart, Collart, Constant, Cornil, Crespin, Denis, Dreux, Dydier, Edme, Eliot, Eloy,
 Eralh, Esdrée, Estiene, Felix, Fermin, Ferry, Finas, Firmin, Floris, Flourent, Foubert, Framboust, Fyacre, Galleran, Garrin, Gaston, Genry, Gentian, Gervais, Gilles,

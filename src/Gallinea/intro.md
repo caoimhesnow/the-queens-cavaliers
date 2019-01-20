@@ -3,7 +3,9 @@
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 The Queendom of Gallinea
 
-![Flag of Gallinea](assets/Flags/Gallinea.png "Flag of Gallinea")
+![Flag of Gallinea, by Robert P. Stefko](assets/Flags/Gallinea.png "Flag of Gallinea, by Robert P. Stefko")
+
+![Map of Gallinea, by Robert Altbauer](assets/Maps/Full/Gallinea-blank-map.jpg "Map of Gallinea, by Robert Altbauer")
 
 |                 |                                                                   |
 | --------------- | ----------------------------------------------------------------- |

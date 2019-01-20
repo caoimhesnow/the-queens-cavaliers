@@ -68,6 +68,27 @@ at birth. Gender roles have become understood as a question of
 self-identification, including people who exist outside of a strict
 binary as well as those who are comfortable within it.
 
+:::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
+Gender Terminology
+
+- **Clarissic:** An adjective describing someone whose gender is not that
+assigned at birth. A reference to Clarisse Sudelune, a former soldier,
+Maréchale Général de Gallinea, princess-consort, and princess-regent in
+the 12th century PQ.
+- **Female:** An adjective describing someone who is a woman.
+- **Male:** An adjective describing someone who is a man.
+- **Man:** Someone who is male.
+- **Maverique (adj):** An adjective describing someone who has a gender which is not male, female, or a combination of those.
+- **Maverique (n):** Someone whose gender is *maverique (adj)*.
+- **Neutrois:** An adjective describing someone who does not have a gender.
+- **Person:** Someone who is of any gender.
+- **Perybrean:** An adjective describing someone whose gender is a combination
+  of male and female, with that combination either being fixed or fluid
+  over time. Named after the Ekalian twin deities Peryon and Sybrea who
+  are to be reflections of each other or possibly the same god.
+- **Woman:** Someone who is female.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Female and male identities are considered legitimate regardless of birth
 assignment. Legal recognition of gender is not required for all but
 those in the higher tiers of society, and the procedure itself is a
@@ -106,26 +127,6 @@ provide the equivalent of hormone replacement to those who wish it, and
 a number of medical procedures exist that can provide further changes to
 bring one's body into conformance with their stated gender.
 
-:::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
-Gender Terminology
-
-- **Clarissic:** An adjective describing someone whose gender is not that
-assigned at birth. A reference to Clarisse Sudelune, a former soldier,
-Maréchale Général de Gallinea, princess-consort, and princess-regent in
-the 12th century PQ.
-- **Female:** An adjective describing someone who is a woman.
-- **Male:** An adjective describing someone who is a man.
-- **Man:** Someone who is male.
-- **Maverique (adj):** An adjective describing someone who has a gender which is not male, female, or a combination of those.
-- **Maverique (n):** Someone whose gender is *maverique (adj)*.
-- **Neutrois:** An adjective describing someone who does not have a gender.
-- **Person:** Someone who is of any gender.
-- **Perybrean:** An adjective describing someone whose gender is a combination
-  of male and female, with that combination either being fixed or fluid
-  over time. Named after the Ekalian twin deities Peryon and Sybrea who
-  are to be reflections of each other or possibly the same god.
-- **Woman:** Someone who is female.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Sexuality
 
@@ -134,6 +135,20 @@ orientations is unknown within Gallinean society. Society, overall, is
 bisexual and one's preference for specific genders is considered a
 personal matter. No one cares whether this is an inborn preference or a
 matter of choice; you love who you love, and that's what matters. 
+
+:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::
+:# Sexuality Terminology
+
+- **Jathyc:** An adjective describing a sexual or romantic relationship between two men, named after the Ekalian deity Jathys, god of craftsmanship and commerce.
+- **Outré:** An archaic adjective describing a man who is exclusively attracted to women, or a woman who is exclusively attracted to men.  Often considered offensive.
+- **Reian (adj):** A recently-coined adjective describing someone who does not
+  feel sexual attraction, or sometimes, romantic attraction. Named after
+  the Ekalian deity Reios, god of politics and the underworld.
+- **Reian (n)**. Someone whose sexuality is *reian (adj)*.
+- **Sapphique:** An adjective describing a sexual or romantic relationship between two women, named after Safira, the first Bride of the Sun according to Asrian theology.
+
+There are no particular terms for being a bisexual person, a lesbian, or a gay man in Gallinean. Such concepts don't exist in Elaran cultures.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The second Profession of Asrianism states that love is a gift from
 Eserre herself, and the Books of the Sun encourage all to love as freely
@@ -176,16 +191,9 @@ found the right person yet. One decree in the Elissian Reforms
 establishes full legal equality, including inheritance rights, to people
 who are asexual.
 
-:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::
-Sexuality Terminology
 
-- **Jathyc:** An adjective describing a sexual or romantic relationship between two men, named after the Ekalian deity Jathys, god of craftsmanship and commerce.
-- **Outré:** An archaic adjective describing a man who is exclusively attracted to women, or a woman who is exclusively attracted to men.  Often considered offensive.
-- **Reian (adj):** A recently-coined adjective describing someone who does not
-  feel sexual attraction, or sometimes, romantic attraction. Named after
-  the Ekalian deity Reios, god of politics and the underworld.
-- **Reian (n)**. Someone whose sexuality is *reian (adj)*.
-- **Sapphique:** An adjective describing a sexual or romantic relationship between two women, named after Safira, the first Bride of the Sun according to Asrian theology.
+# Race in Gallinea 
 
-There are no particular terms for being a bisexual person, a lesbian, or a gay man in Gallinean. Such concepts don't exist in Elaran cultures.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+*description needed*
+
+

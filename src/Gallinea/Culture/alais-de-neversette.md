@@ -68,7 +68,7 @@ and has given young Lutetians the idea that all pirates are singing pirates.
 
 Nearly all of the Alias stories follow this naming pattern:
 
-*The **genre** Adventures of Alais de Neversette: Alais de Neversette and [**optional prepositional phrase**] the **adjective** **noun**"*
+The ***GENRE*** Adventures of Alais de Neversette: Alais de Neversette and ***optional prepositional phrase*** the ***adjective*** ***noun***
 
 You can create your own Alais titles by using the following tables.
 

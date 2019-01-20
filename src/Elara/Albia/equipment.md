@@ -31,7 +31,7 @@ Table: Albian Equipment
   tracking an animal on the ground, this Item Die is maximized. A purebred
   Albian spaniel gives a +1D8 Item Die instead, and has a cost of 1D8.
 
-:::::::::::::::::::::::::::::::: illustration-right :::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::::::::::::::::
 ![Albian bulldog and owner](assets/Characters/Victoria.jpg "Albian bulldog and owner")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -58,7 +58,3 @@ Table: Monthly Calendar
 | 19       | 20         | 21        | 22         | 23        | 24      | Fourth Week |
 | 25       | 26         | 27        | 28         | 29        | 30      | Fifth Week  |
 
-:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-The current date for a new campaign start is presumed to be 1 Messidor 1249 PQ unless otherwise specified by the MJ!
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-

@@ -14,6 +14,10 @@ start of the winter season. Services in the Asrian churches ask for the
 blessings of the Goddess-Empress Eserre upon the faithful, and ask for a
 gentle winter.
 
+:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+The current date for a new campaign start is presumed to be 1 Messidor 1249 PQ unless otherwise specified by the MJ.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 The winter solstice occurs on 6 Pluviôse, marking the midpoint of winter
 and the time in which Eserre's sun is out for the least amount of time.
 Gallineans mark this date, and the two days around it, with the Winter's

@@ -13,7 +13,7 @@ landing at Gawain in Northern Albia. This happens so frequently that
 captains often hire a crew for the crossing in one direction and a new
 crew for the opposite direction. 
 
-:::::::::::::::::::::::: illustration-left ::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: pic-left :::::::::::::::::::::::::::::::::::::::::
 ![Queen Fionna of Albia, by Eleanor Ferron](assets/Portraits/queen-fionna.jpg "Queen Fionna of Albia, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -70,6 +70,7 @@ Cawdrey starts a brawl with the PC Cavaliers.
 ## Scene: Outside the Citadel
 
 Read or paraphrase the following information to the players:
+
 :::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
 *description needed*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

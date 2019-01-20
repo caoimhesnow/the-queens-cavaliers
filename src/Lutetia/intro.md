@@ -1,7 +1,9 @@
 # Lutetia                                         {.breakbefore}
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
-The City of Lutetia 
+:# The City of Lutetia 
+
+![Map of Lutetia, by Robert Altbauer](assets/Maps/Full/Lutetia-map.jpg "Map of Lutetia, by Robert Altbauer")
 
 |                 |                                        |
 | --------------- | -------------------------------------- |
@@ -27,8 +29,4 @@ the Grand Cathedral, and the Gallinean Library.
 Lady-Mayor Lusienne Castenia, the countess of Castenia, is the current 
 lady-mayor of Lutetia, and is renowned as much for her lavish formal 
 parties as her political scheming.
-
-## A Guide to the City
-
-*description needed*
 

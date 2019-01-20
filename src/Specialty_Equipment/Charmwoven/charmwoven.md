@@ -586,7 +586,6 @@ Table: Neutral Colors
 
 Table: Verve Colors
 
-|               |                 |
 | Color         | Description     |
 | ------------- | --------------- |
 | Argent (only) | Silver or white |

@@ -3,7 +3,7 @@
 *introduction needed*
 
 :::::::::::::::::::: country :::::::::::::::::::::
-The Holy Crown Colony of Nueva Cordera
+:# The Holy Crown Colony of Nueva Cordera
 
 |                |                               |
 | -------------- | ----------------------------- |

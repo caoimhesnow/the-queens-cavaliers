@@ -98,11 +98,11 @@ As a character increases in experience, her Competency Die will slowly
 increase, as explained in the later section on Experience. A player
 character's maximum Competency Die is D12.
 
-### For the MJ: 
-
-You can create non-player characters (NPCs) with no Competency Dice to
+::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::
+You can create non-player characters (NPCs) with D0 Competency Dice to
 represent untrained characters, or characters with higher Competency
 Dice to provide a greater challenge for experienced player characters. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Skills & Specialties
 

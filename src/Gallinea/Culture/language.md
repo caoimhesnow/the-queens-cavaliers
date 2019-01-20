@@ -1,14 +1,5 @@
 # Languages in Gallinea
 
-The primary language of Gallinea is, of course, modern Gallinean. The language is
-structurally descended from Old Qartan, but with many native words and names also
-based in the indigenous Brigue that predates the Qartan Empire's conquest of the land.
-
-While some Gallineans hold to the arrogance that their tongue is the height of civilization
-and thus the only language one need to know, Gallinea's constant interactions with its
-neighboring countries means the most practical Gallineans will speak and read at least
-one additional languages.
-
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Old Gallinean is French?
 
@@ -19,6 +10,16 @@ Contemporary Gallineans can certainly understand the language of several centuri
 back, but it sounds old-fashioned and archaic, much as Shakespeare sounds to modern
 speakers of English.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+The primary language of Gallinea is, of course, modern Gallinean. The language is
+structurally descended from Old Qartan, but with many native words and names also
+based in the indigenous Brigue that predates the Qartan Empire's conquest of the land.
+
+While some Gallineans hold to the arrogance that their tongue is the height of civilization
+and thus the only language one need to know, Gallinea's constant interactions with its
+neighboring countries means the most practical Gallineans will speak and read at least
+one additional languages.
+
 
 The languages commonly known in Gallinea are listed on the following table. Those considered
 "dead languages" are shown in italics.
