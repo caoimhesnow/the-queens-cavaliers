@@ -4,7 +4,7 @@ There are 12 skills in *The Queen's Cavaliers*, ranging from Culture to
 Streetwise. Each of these skills has three specialties, corresponding to
 the three Attributes of Verve, Affinity, and Guile.
 
-### Using Skills
+## Using Skills
 
 To use a skill, first you determine under which specialty the task you
 want to perform falls. Your dice pool starts with one die of that
