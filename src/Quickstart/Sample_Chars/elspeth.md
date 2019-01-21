@@ -24,30 +24,30 @@ naturally dreamy personality as a cover to appear inattentive, when she is actua
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D8, Guile D10
 - **Social Rank:** Noble (D10) / Artisan (D8)
-  - **Wealth Pool:** 1D10+1D8+1D6
+  - *Wealth Pool:* 1D10+1D8+1D6
 - **Yield Limit:** 9
 - **Wound Limit:** 4 (Drop 1, Drop 2, Drop 3, Dying)
 - **Initiative:** Timing 1D10 + 1D6
 - **Skill Competency:** Culture, Defense, Dueling, Initiative, Interaction, Medicine, Military, Observation, Streetwise
-  - **Culture:** Arts +1, Etiquette +2
-  - **Defense:** Parry +1, Dodge +1
-  - **Interaction:** Negotiate +2, Deceive +2 
-  - **Military:** Strategy +1
-  - **Medicine:** Poison +1
-  - **Observation:** Perceive +1, Intuition +1 
-  - **Streeetwise:** Larceny +1
+  - *Culture:* Arts +1, Etiquette +2
+  - *Defense:* Parry +1, Dodge +1
+  - *Interaction:* Negotiate +2, Deceive +2 
+  - *Military:* Strategy +1
+  - *Medicine:* Poison +1
+  - *Observation:* Perceive +1, Intuition +1 
+  - *Streeetwise:* Larceny +1
 - **Weapon Prowess:** Knife, Sword, Pistol
 - **Armor Prowess:** None
 - **Languages:** Albian, Gallinean, and Old Qartan
 - **Passions:** 
-    - **Family D12;** personified by her ancestor Lady Gunnora, who defended her castle against an overwhelming force
-    - **Knowledge D10;** personified by Sir Wyllin, her uncle and mentor, a Gentleman of the Chamber to King Edgar
-    - **Duty D8;** personified by Albizarios, ancient Qartan general, model of civic virtue
-    - **D6 Loyalty to King Edgar;** personified by Brydget, her *much* older sister, a war hero
+    - *Family D12;* personified by her ancestor Lady Gunnora, who defended her castle against an overwhelming force
+    - *Knowledge D10;* personified by Sir Wyllin, her uncle and mentor, a Gentleman of the Chamber to King Edgar
+    - *Duty D8;* personified by Albizarios, ancient Qartan general, model of civic virtue
+    - *Loyalty D6* to King Edgar; personified by Brydget, her *much* older sister, a war hero
 - **Style Maneuvers:** 
-    - **Mostly Harmless:** When unarmed and facing an armed opponent, spend 1 Style Point to add Deceive dice to a Dodge roll
-    - **Polite Fictions:** When speaking with someone of at least Noble social rank, spend 1 Style Point to add Etiquette dice to a Deceive roll
-    - **Practiced Manners:** Spend 2 Style Points to set the value of one Etiquette die to its maximum value before rolling
+    - *Mostly Harmless:* When unarmed and facing an armed opponent, spend 1 Style Point to add Deceive dice to a Dodge roll
+    - *Polite Fictions:* When speaking with someone of at least Noble social rank, spend 1 Style Point to add Etiquette dice to a Deceive roll
+    - *Practiced Manners:* Spend 2 Style Points to set the value of one Etiquette die to its maximum value before rolling
 - **Equipment:**  6 uses of poison, 3 uses of Serpent’s Tongue (Deceive D6), 4 Large Books (D6 item bonus to Arts, Society, Poison, Strategy) and an elegant Riding Horse.
     - *Courtly Outfit:*  celeste velvet hair ribbons (D10 bonus to Society), celeste velvet embroidered bodice, argent satin Courtier’s gloves, celeste satin and brocade full skirt and celeste chopines
     - *Servant’s Outfit:*  argent shift, cendree skirt and tenne buckled shoes

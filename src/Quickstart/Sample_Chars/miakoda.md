@@ -19,19 +19,19 @@ witchcraft and seeks to expand her knowledge.
 - **Competency Die:** D6
 - **Attributes:** Verve D8, Affinity D10, Guile D6
 - **Social Rank:** Artisan (D8) / Soldier (D6)
-- **Wealth Pool:** 1D8 + 2D6
+  - *Wealth Pool:* 1D8 + 2D6
 - **Yield Limit:** 9
 - **Wound Limit:** 4 (Drop 1, Drop 2, Drop 3, Dying)
 - **Initiative:** Vigilance 1D10 + 1D6
 - **Skill Competency**: Culture, Defense, Dueling, Initiative, Interaction, Magicks, Medicine, Military, Nature, Observation, Streetwise
-   - **Culture:** Scholarship +1
-   - **Defense:** Parry +1, Block +1
-   - **Dueling:** Lunge +1, Riposte +1
-   - **Magicks:** Brew +1, Portents +1
-   - **Medicine:** Treat +1, Poison +1
-   - **Military:** Brawl +1
-   - **Nature:** Husbandry +2
-   - **Streetwise:** Carouse +1
+   - *Culture:* Scholarship +1
+   - *Defense:* Parry +1, Block +1
+   - *Dueling:* Lunge +1, Riposte +1
+   - *Magicks:* Brew +1, Portents +1
+   - *Medicine:* Treat +1, Poison +1
+   - *Military:* Brawl +1
+   - *Nature:* Husbandry +2
+   - *Streetwise:* Carouse +1
 - **Weapon Prowess:** knife, sword, pike, pistol
 - **Armor Prowess:** flexible armor, rigid armor
 - **Languages:** Gallinean
@@ -39,11 +39,11 @@ witchcraft and seeks to expand her knowledge.
    - *Love D12;* for Vialle
    - *Knowledge D10;*
    - *Faith D8;* Miakoda is a Dodekarian
-   - *Loyalty to the Queen's Cavaliers D6*
+   - *Loyalty D6* to the Queen's Cavaliers D6
 - **Style Maneuvers:** 
-  - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
-  - **Equestrienne:** When mounted on a horse you care for yourself, spend 1 Style Point to add Husbandry dice to a Lunge roll
-  - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
+  - *Aggressive Assault:* Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
+  - *Equestrienne:* When mounted on a horse you care for yourself, spend 1 Style Point to add Husbandry dice to a Lunge roll
+  - *Ritual Reliability:* Spend 1 Style Point to reroll a Magicks roll
 - **Equipment:** alchemist's tools (Alchemy +1D6), sabre (Sword +1D6, cavalry),
   divination cards (Portents +1D6), Steel Breastplate (Armor +1D10), Shadow (peregrine falcon);
   aggression draught (Lunge +1D6), courage draught (remove 1D6 yield), healing unguent
