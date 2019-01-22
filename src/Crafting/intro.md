@@ -38,17 +38,17 @@ can be bought in bulk<a href="#making-a-wealth-roll" class="xref-asdesc-insectio
 
 Table: Supplies
 
-| Item                   | Cost | Use                                             |
-| ---------------------- | ---- | ----------------------------------------------- |
-| Alchemical ingredients | 1D6  | Draughts, salves, concoctions, poison, medicine |
-| Art media              | 1D6  | Works of art                                    |
-| Blackpowder charges    | 1D0  | Blackpowder weapons, phlogistone components     |
-| Clockwork gears        | 1D6  | Clockwork devices and components                |
-| Crucible steel         | 1D6  | Weapons, armor, clockwork gears, casings        |
-| Fabric                 | 1D0  | Charmweaving                                    |
-| Foodstuffs             | 1D0  | Cooking, eating                                 |
-| Medicine               | 1D6  | Surgery, treat                                  |
-| Writing materials      | 1D0  | Reports, written works of art, battle plans     |
+| Item                   | Cost       | Use                                             |
+| ---------------------- | ---------- | ----------------------------------------------- |
+| Alchemical ingredients | 1D6, bulk  | Draughts, salves, concoctions, poison, medicine |
+| Art media              | 1D6, bulk  | Works of art                                    |
+| Blackpowder charges    | 1D0, bulk  | Blackpowder weapons, phlogistone components     |
+| Clockwork gears        | 1D6, bulk  | Clockwork devices and components                |
+| Crucible steel         | 1D6, bulk  | Weapons, armor, clockwork gears, casings        |
+| Fabric                 | 1D0, bulk  | Charmweaving                                    |
+| Foodstuffs             | 1D0, bulk  | Cooking, eating                                 |
+| Medicine               | 1D6, bulk  | Surgery, treat                                  |
+| Writing materials      | 1D0, bulk  | Reports, written works of art, battle plans     |
 
 **Alchemical ingredients:** Chemicals, herbs, rare salts, parts of
 animals, and other materials used to create salves, draughts, poison,
@@ -101,15 +101,15 @@ Table: Workrooms
 
 | Room            | Cost | Item Die |
 | --------------- | ---- | -------- |
-| Artist's Studio | 2D8  | \+1D8    |
-| Kitchen         | 2D8  | \+1D8    |
-| Laboratory      | 2D10 | \+1D10   |
-| Library         | 2D10 | \+1D10   |
-| Medical Theatre | 2D10 | \+1D10   |
-| Observatory     | 2D10 | \+1D10   |
-| Séance Room     | 2D8  | \+1D8    |
-| Smithy          | 2D8  | \+1D8    |
-| Workshop        | 2D10 | \+1D10   |
+| Artist's Studio | 2D8  |  +1D8    |
+| Kitchen         | 2D8  |  +1D8    |
+| Laboratory      | 2D10 |  +1D10   |
+| Library         | 2D10 |  +1D10   |
+| Medical Theatre | 2D10 |  +1D10   |
+| Observatory     | 2D10 |  +1D10   |
+| Séance Room     | 2D8  |  +1D8    |
+| Smithy          | 2D8  |  +1D8    |
+| Workshop        | 2D10 |  +1D10   |
 
 Most workrooms are only available in cities, although some smaller towns
 might be able to provide an artist's studio, a kitchen, a séance room,
@@ -139,11 +139,11 @@ Table: Success Limits
 
 | Specialty Rank | Item Die | Charm Die | Bonus Die | Standard Opposition   |
 | -------------- | -------- | --------- | --------- | --------------------- |
-| \+1            | \+1D6    | \+1D6     | \+1D0     | Easy (3D6)            |
-| \+2            | \+1D8    | \+1D8     | \+1D6     | Moderate (3D8)        |
-| \+3            | \+1D10   | \+1D10    | \+1D8     | Difficult (3D10)      |
-| \+4            | \+1D12   | \+1D12    | \+1D10    | Very Difficult (3D12) |
-| \+5            | \+1D12   | \+1D12    | \+1D12    | Very Difficult (3D12) |
+|  +1            |  +1D6    |  +1D6     |  +1D0     | Easy (3D6)            |
+|  +2            |  +1D8    |  +1D8     |  +1D6     | Moderate (3D8)        |
+|  +3            |  +1D10   |  +1D10    |  +1D8     | Difficult (3D10)      |
+|  +4            |  +1D12   |  +1D12    |  +1D10    | Very Difficult (3D12) |
+|  +5            |  +1D12   |  +1D12    |  +1D12    | Very Difficult (3D12) |
 
 ## Tag Dice
 
@@ -185,11 +185,11 @@ Table: Extra Supplies
 
 | Units of Supplies | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
-| 2                 | 1D0       | \+1                     |
-| 3                 | 1D6       | \+2                     |
-| 4                 | 1D8       | \+3                     |
-| 6                 | 1D10      | \+4                     |
-| 8                 | 1D12      | \+5                     |
+| 2                 | 1D0       |  +1                     |
+| 3                 | 1D6       |  +2                     |
+| 4                 | 1D8       |  +3                     |
+| 6                 | 1D10      |  +4                     |
+| 8                 | 1D12      |  +5                     |
 
 ## Extra Time
 
@@ -206,31 +206,31 @@ Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Specialty Rank Required |
 | --------------- | --------- | ----------------------- |
-| 2 minutes       | 1D0       | \+1                     |
-| 5 minutes       | 1D6       | \+2                     |
-| 15 minutes      | 1D8       | \+3                     |
-| 1 hour          | 1D10      | \+4                     |
-| 4 hours         | 1D12      | \+5                     |
+| 2 minutes       | 1D0       |  +1                     |
+| 5 minutes       | 1D6       |  +2                     |
+| 15 minutes      | 1D8       |  +3                     |
+| 1 hour          | 1D10      |  +4                     |
+| 4 hours         | 1D12      |  +5                     |
 
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
-| 2 hours           | 1D0       | \+1                     |
-| 4 hours           | 1D6       | \+2                     |
-| 8 hours (1 day)   | 1D8       | \+3                     |
-| 16 hours (2 days) | 1D10      | \+4                     |
-| 32 hours (4 days) | 1D12      | \+5                     |
+| 2 hours           | 1D0       |  +1                     |
+| 4 hours           | 1D6       |  +2                     |
+| 8 hours (1 day)   | 1D8       |  +3                     |
+| 16 hours (2 days) | 1D10      |  +4                     |
+| 32 hours (4 days) | 1D12      |  +5                     |
 
 Table: Extra Time for a One-Day Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | ----------------- | --------- | ----------------------- |
-| 2 days            | 1D0       | \+1                     |
-| 5 days (1 week)   | 1D6       | \+2                     |
-| 10 days (2 weeks) | 1D8       | \+3                     |
-| 20 days (4 weeks) | 1D10      | \+4                     |
-| 30 days (6 weeks) | 1D12      | \+5                     |
+| 2 days            | 1D0       |  +1                     |
+| 5 days (1 week)   | 1D6       |  +2                     |
+| 10 days (2 weeks) | 1D8       |  +3                     |
+| 20 days (4 weeks) | 1D10      |  +4                     |
+| 30 days (6 weeks) | 1D12      |  +5                     |
 
 ## Rushing
 
@@ -352,15 +352,15 @@ indicated success table.
 ::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
 | Weapon Qualities                |                                   |
 | ------------------------------- | --------------------------------- |
-| \+                              |  Basket Hilt (Decrease Advantage) |
-| \+                              |  Retort (Execute a Riposte)       |
-| \+++                            |  Entangling                       |
-| \+++                            |  Tripping (Knockdown)             |
-| \+++                            |  Unhorse                          |
-| \+++                            |  Wounding (Inflict 1 Wound)       |
-| \+++                            |  Yielding (Inflict 4 Yield)       |
-| \++++                           |  Disarming                        |
-| \+++++                          |  Weapon-Breaking                  |
+|  +                              |  Basket Hilt (Decrease Advantage) |
+|  +                              |  Retort (Execute a Riposte)       |
+|  +++                            |  Entangling                       |
+|  +++                            |  Tripping (Knockdown)             |
+|  +++                            |  Unhorse                          |
+|  +++                            |  Wounding (Inflict 1 Wound)       |
+|  +++                            |  Yielding (Inflict 4 Yield)       |
+|  ++++                           |  Disarming                        |
+|  +++++                          |  Weapon-Breaking                  |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Basket Hilt:** If your opponent has Advantage, you can decrease her

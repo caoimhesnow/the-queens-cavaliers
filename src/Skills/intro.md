@@ -86,7 +86,7 @@ Queen's Cavaliers are shown in the following table:
 Table: Skills and Specialties
 
 | Skill       | Verve Specialty | Affinity Specialty | Guile Specialty |
-| ----------- | --------------- | ------------------ | --------------- |
+| :---------- | :-------------- | :----------------- | :-------------- |
 | Culture     | Arts            | Etiquette          | Scholarship     |
 | Defense     | Parry           | Block              | Dodge           |
 | Dueling     | Lunge           | Riposte            | Feint           |

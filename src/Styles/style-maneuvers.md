@@ -59,7 +59,7 @@ This list summarizes the available maneuvers.
   - **Envenomed Blade:** When using a poisoned knife, spend 1 Style Point to add Poison dice to a Lunge roll
   - **Epidemiology:** When diagnosing or treating an unknown illness, spend 1 Style Point to add Deduce dice to a Treat roll
   - **Equestrienne:** When mounted on a horse you care for yourself, spend 1 Style Point to add Husbandry dice to a Lunge roll
-  - **Fashion\! Dodge to the Left:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
+  - **Fashion! Dodge to the Left:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
   - **Fast-Talking:** When unarmed and facing an armed opponent, spend 1 Style Point to add Banter dice to a Dodge roll
   - **Feeling No Pain:** When you've been drinking, spend 1 Style Point to add Carouse dice to a Block roll
   - **First Aid:** Spend 2 Style Points to set the value of one Treat die to its maximum value before rolling

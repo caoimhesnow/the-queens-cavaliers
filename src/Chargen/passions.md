@@ -302,12 +302,12 @@ Lust can be flirty, teasing, or promiscuous.
 Genevieve de Longpre, eldest daughter of the Duke of
 Rhodope, is renowned for her string of love affairs -- most of which
 ended poorly. It's said she has at least one girl in every port, and
-perhaps even more\! Hopefully they won't all meet at the same time.
+perhaps even more! Hopefully they won't all meet at the same time.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Lust, Inverted:** Actually, it's about ethics in sexual relationships.
 You're one of the good people, and yet the objects of your desire keep
-gravitating away from you and toward inferior mates\! They'll pay for
+gravitating away from you and toward inferior mates! They'll pay for
 making you involuntarily celibate.
 
 ### Pride

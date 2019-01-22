@@ -1,6 +1,26 @@
 # Foreign Weapons
 
-*note: this was originally meant to be included with each country, but is presented here for completeness*
+In addition to the common and uncommon dueling weapons listed in the
+previous tables and aimed weapons later in this chapter, the nations
+that comprise Elara and Ifran have their own weapons as well. These
+national weapons are described <a href="#the-countries-of-elara" class="xref-inchapter"></a>
+and <a href="#the-countries-of-ifran" class="xref-inchapter"></a>, 
+
+  - **Albia:** claymore, dirk, longbow, tuck
+  - **Ekalia:** brandestoc, cinquedea, hook prothesis
+  - **Northern Ifran:** horsebow, jambiya, shamshir
+  - **Ondala:** espada ropera, montante
+  - **Talania:** koncerz, szabla
+  - **Varendia:** colichedemarde, katzbalger, zweihander
+
+The availability of foreign dueling weapons is the same as that of
+uncommon weapons -- 1D0 in a capital city, 1D6 in any other city, and
+1D8 in villages -- at least, when you're in that foreign country.
+
+For neighboring countries, the availability of foreign dueling weapons
+is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
+In far-distant countries, the availability increases to 1D8 in a capital
+city, 1D12 in any other city, and unavailable in smaller settlements.
 
 ## Dueling Weapons
 
