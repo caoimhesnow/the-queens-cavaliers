@@ -76,8 +76,8 @@ This list summarizes the available maneuvers.
   - **How Dare You:** When attacking someone who has already damaged you in the current combat, spend 1 Style Point to add Inspire dice to a Riposte roll
   - **Huntsman's Best Friend:** When traveling with a hunting dog, spend 1 Style Point to add Husbandry dice to an Explore roll
   - **I'm a Lover, not a Fighter:** When being attacked by someone whom you find attractive, spend 1 Style Point to add Carouse dice to a Dodge roll
-  - **I'm Innocent, Innocent\!:** When trying to convince someone of your innocence, spend 1 Style Point to add Intuition dice to an Inspire roll
-  - **I'm Too Pretty to Die\!:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Dodge roll
+  - **I'm Innocent, Innocent!:** When trying to convince someone of your innocence, spend 1 Style Point to add Intuition dice to an Inspire roll
+  - **I'm Too Pretty to Die!:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Dodge roll
   - **Ifrani School of Swordplay:** When fighting with a shamshir in one hand and the other hand empty, holding a qatar, or holding a jambiya, spend 1 Style Point to add Prowl dice to a Riposte roll
   - **Imeran School of Fencing:** When fighting with a cutlass in one hand and a dagger or cinquedea in the other hand, spend 1 Style Point to add Dodge dice to a Lunge roll
   - **In Costume:** When wearing a disguise or costume, spend 1 Style Point to add Arts dice to a Deceive roll
@@ -204,5 +204,5 @@ when choosing it.
 
 Players, you don't have the option to create your own Style Maneuvers
 whenever you want -- but you can always suggest one to your MJ and maybe
-she'll like the idea\!
+she'll like the idea!
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -146,6 +146,7 @@ higher learning are expected to dress in traditional scholarly robes
 while teaching or attending classes. Outside of class, of course,
 they're free to wear whatever they want.
 
+
 **Swashbuckler outfit (Soldier 1D6):** The cavalier hat, the billowing
 cape, the high boots -- anyone wearing this outfit cuts a dashing figure
 indeed. While some such outfits are more sedate and refined, many look

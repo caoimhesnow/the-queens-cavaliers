@@ -1,4 +1,8 @@
-# Prince Jean-Remy
+# Jean-Remy {.breakbefore}
+
+:::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::
+![Prince Jean-Remy, by Sarah Otterstaetter](assets/Scenes/espionage.jpg "Prince Jean-Remy, by Sarah Otterstaetter")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Prince Jean-Remy of Gallinea was born Princess Renee, younger sibling 
 of Queen Elisse, but from an early age was ill-suited for the princess role. 
@@ -25,47 +29,59 @@ manipulating him to hear the latest secrets of Albia’s ambassador, the Duke of
 Guardian Farrazin and Prince Jean-Remy despise each other, as they have competing 
 intelligence-gathering operations within the same nation.
 
-:::::::::::::::::::::::::::::::: statblock ::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::: using :::::::::::::::::::::::::::::::::::::::
+::::::::::: ally ::::::::::::::::::::::
+Gallinea's spymaster has his fingers in everything that happens
+in the country and beyond, and is always looking to recruit more
+clandestine agents to his cause. Even if players don't work 
+directly for him, he could still provide information or ask them
+to undertake missions for the good of Gallinea and its queen.
+Be careful about overusing him as a *deus ex machina*, however,
+unless your player characters have no espionage or information-gathering
+abilities at all.
+:::::::::::::::::::::::::::::::::::::::
+
+:::::::::::: enemy ::::::::::::::::::::
+You *don't* want to make an enemy of Prince Jean-Remy.
+The easiest way to do so is to threaten the Queen or her
+authority in any way. He won't hesitate to have enemies
+killed, or kill them himself, if they pose a danger to
+the Crown.
+:::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::: npcblock ::::::::::::::::::::::::::::::::::::
 :# Prince Jean-Remy
 
 [Major Character]{.opptype}
 
 - **Competency Die:** D10 (90 XP)
 - **Attributes:** Verve D6, Affinity D8, Guile D10
-- **Social Rank:** ??
-  - *Wealth:* ??
-- **Yield Limit:** ??
+- **Social Rank:** Royalty (D12) / Soldier (D6)
+  - *Personal Wealth:* 1D12 + 1D10 + 1D6
+- **Yield Limit:** 16
 - **Wound Limit:** 5 (Drop 0, Drop 1, Drop 2, Drop 4, Dying)
-- **Initiative:** 
-    Impulse 
-    Vigilance 
-    Timing 
-- **Skill Competency:** Culture,
-                        Defense,
-                        Dueling,
-                        Initiative,
-                        Interaction,
-                        Medicine,
-                        Military,
-                        Nature,
-                        Observation,
-                        Science,
-                        Streetwise
+- **Initiative:** Timing 4D10
+- **Skill Competency:** Culture, Defense, Dueling, Initiative, Interaction, Medicine, Military, Nature,
+                        Observation, Science, Streetwise
   - *Culture:*        Etiquette +4, 1D10 + 5D8; Scholarship +4, 6D10
   - *Defense:*        Parry +1, 1D0 + 3D6; Block 1D10 + 1D8; Dodge +4, 6D10
-  - *Dueling:*        Lunge 1D10 + 2D6; Riposte +1, 1D10 + 2D8 + 1D6; Feint +4, 6D10 + 1D6
+  - *Dueling:*        Lunge 1D10 + 2D6; Riposte +1, 2D10 + 2D8 + 1D6; Feint +4, 6D10 + 1D6
   - *Initiative:*     Timing +2, 4D10
-  - *Interaction:*    Deceive +4, 6D10
+  - *Interaction:*    Deceive +4, 7D10
   - *Medicine:*       Poison +1, 3D10
   - *Military:*       Brawl 1D10 + 1D6; Aim 1D10 + 1D8 + 1D6; Strategy +4, 6D10
   - *Nature:*         Explore +4, 1D10 + 5D6; Prowl +4, 6D10
-  - *Observation:*    Deduce +4, 6D10
+  - *Observation:*    Perceive 1D10 + 1D6; Deduce +4, 6D10
   - *Science:*        Calculate +1, 3D10
   - *Streetwise:*     Carouse +4, 1D10 + 5D8; Larceny +1, 3D10
-- **Equipment:** peasant outfit, 
-                 armor (Armor +1D??),
-                 weapon (Sword +1D8),
-                 other gear
+- **Weapon Prowess:** knife, sword, cudgel, bow, pistol, musket
+- **Armor Prowess:** flexible armor
+- **Equipment:** custom designed swordbreaker (Knife +1D6; Parry +++++: Break weapon; Parry, Riposte, Feint only), various disguises
+    - *Spymaster outfit:* black cavalier hat with carnation plume (Riposte +1D10), black doublet, brown soldier's gloves, black breeches, brown boots, sable cape (Deceive +1D10)
+    - *Helpless old granny outfit:* gray shift, brown breeches, brown sandals
+    - *Ekalian pirate outfit:* sanguine headscarf, celeste doublet, sanguine soldier gloves (Prowl +1D10), sanguine pantaloons, brown and celeste boots
+    - *Streetside cheesemonger:* raspberry beret (the kind you find in a secondhand store), white smock, brown breeches, brown and amaranth buckled shoes (Streetwise +1D10)
 - **Passions:** 
     Family                 (D12),
     Country                (D10), 
@@ -73,7 +89,10 @@ intelligence-gathering operations within the same nation.
     Pride                   (D6)
 - **Languages:** Gallinean, Albian, Ekalian, Ondalese, Serican, Varendish
 - **Style Maneuvers:**
-  - *Style Points:* ? (maximum ?)
-
-*description needed*
+  - *Social Reliability:* Spend 1 Style Point to reroll an Interaction roll
+  - *Student of Accents:* When trying to pass yourself off as someone from another nation, spend 1 Style Point to add Explore dice to a Deceive roll
+  - *Trained Ear:* When listening to other people speaking, spend 1 Style Point to add Scholarship dice to a Perceive roll
+  - *Style Points:* 3 (maximum 6)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
