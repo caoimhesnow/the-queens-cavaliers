@@ -10,9 +10,9 @@ Hey, go [grab yourself a copy in your favorite format](https://github.com/caoimh
 
 #### Technical Details
 
-The manuscript is in the process of being added to this github site, and will soon be available in HTML, PDF, and other formats.
+The manuscript has been added to this github site, and is available in raw markdown, html, or PDF.
 
-Documents are stored in markdown and then converted using a custom lua script, gnu make, and pandoc.
+Documents are stored in markdown and then converted using a custom lua script, gnu make, pandoc, and princexml.
 
 #### Licenses
 
