@@ -852,7 +852,6 @@ into the Queen's Cavaliers as a new recruit, and was also contacted by
 Prince Jean-Remy, the Queen's uncle and spymaster, and asked to report
 back to him on the actions of her fellow cavaliers.
 
-
 - **Languages:** Varendish, Gallinean
 - **Social Rank:** Soldier (D6), Artisan (D8)
 - **Weapon Prowess:** Knife, Sword
