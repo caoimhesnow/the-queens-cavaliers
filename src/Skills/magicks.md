@@ -35,11 +35,11 @@ Charm Die, Moderate (3D8) for a +1D8 Charm Die, and so on.
 | Time:          | 1 action                      |
 | Opposition:    | Standard Opposition           |
 | Item Die:      | Tailoring Tools or Workshop   |
-| \+:            | Sense Charm                   |
+|  +:            | Sense Charm                   |
 | ++:            | Suppress Charm Die            |
-| \+++:          | Bolster Charm Die             |
+|  +++:          | Bolster Charm Die             |
 | +++:           | Gain 1 Style Point            |
-| \++++:         | Restore Charm Die             |
+|  ++++:         | Restore Charm Die             |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Sense Charm: **You can sense charms woven into clothing that are in
@@ -95,7 +95,7 @@ or salve. Mixing a concoction has a standard difficulty of Easy (3D6).
 | Opposition:    | Standard Opposition            |
 | Item Die:      | Alchemy tools or laboratory    |
 | +:             | Mix a Concoction               |
-| \++:           | Apply a Concoction             |
+|  ++:           | Apply a Concoction             |
 | +++:           | Gain 1 Style Point             |
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -171,11 +171,11 @@ Table: Maximum Tag Die
 
 | Portents Ranks | Maximum Tag Die |
 | -------------- | --------------- |
-| \+1            | \+1D0           |
-| \+2            | \+1D6           |
-| \+3            | \+1D8           |
-| \+4            | \+1D10          |
-| \+5            | \+1D12          |
+|  +1            |  +1D0           |
+|  +2            |  +1D6           |
+|  +3            |  +1D8           |
+|  +4            |  +1D10          |
+|  +5            |  +1D12          |
 
 **Increase Precision:** The duration of your prediction increases by 24
 hours, up to a limit of increases equal to your Magicks (Portents)
@@ -207,9 +207,9 @@ Table: Maximum Hex Penalty
 
 | Portents Ranks | Maximum Hex Penalty |
 | -------------- | ------------------- |
-| \+1            | Drop 1              |
-| \+2            | Drop 2              |
-| \+3            | Drop 3              |
-| \+4            | Drop 4              |
-| \+5            | Drop 4              |
+|  +1            | Drop 1              |
+|  +2            | Drop 2              |
+|  +3            | Drop 3              |
+|  +4            | Drop 4              |
+|  +5            | Drop 4              |
 

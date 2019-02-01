@@ -5,10 +5,6 @@ sprawls across both banks of the Luisante river and four islands,
 overlooking Lake Luisante. Sixteen wide bridges reach across the
 Luisante, each one giving its name to the surrounding neighborhoods.
 
-## History
-
-*description needed*
-
 ## Organization
 
 The city of Lutetia and the immediately surrounding countryside are

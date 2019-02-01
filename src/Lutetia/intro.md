@@ -3,8 +3,6 @@
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The City of Lutetia 
 
-![Map of Lutetia, by Robert Altbauer](assets/Maps/Full/Lutetia-map.jpg "Map of Lutetia, by Robert Altbauer")
-
 |                 |                                        |
 | --------------- | -------------------------------------- |
 | Type of City    | Capital city                           |

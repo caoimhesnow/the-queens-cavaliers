@@ -191,9 +191,66 @@ found the right person yet. One decree in the Elissian Reforms
 establishes full legal equality, including inheritance rights, to people
 who are asexual.
 
-
 # Race in Gallinea 
 
-*description needed*
+Due to centuries of migration within the Qartan Empire and following its
+fall, the people of Gallinea are of mixed ethnicity. While the average
+Gallinean has medium brown skin, medium brown hair, and hazel, brown, or blue eyes,
+it's not unusual to find blonde hair, green eyes, black hair, dark brown skin, red
+hair, or even violet eyes.
 
 
+The pre-Qartan aboriginal Gallineans were, by coincidence or not, of roughly
+the same phenotype as modern Gallineans. Those with greater amounts of Albian ancestry tend
+have lighter skin, hair, and eyes, while those with Varendish ancestors have more ruddy
+skin, brown eyes, and red or brown hair.
+
+Those of more direct Ifran descent have darker skin, dark brown eyes, and usually curly black hair,
+while Gallineans with Ekalian roots have medium-brown skin, blue or brown eyes, and curly black
+hair. People from the Coffee Coast have darker brown skin, straight black hair, and brown or
+green eyes, while Sericans have light brown skin, brown eyes, and straight black hair.
+
+Gallineans do recognize these differences but the importance they ascribe to them is 
+different than the 21st Century Earth concept of race. To Gallineans -- and most Elarans
+and Ifrans -- what matters less is one's appearance and more one's culture. Those wearing
+traditional Ifran or Varendish clothing will be seen as outsiders, regardless of their
+ancestry or appearance, while an identically appearing person in the latest Lutetian
+fashion with a Coeur de Gallinean accent will be accepted without question.
+
+## Slavery in Elara and Ifran
+
+There is no history of organized slavery in Gallinea, or in any other parts of 
+the former Qartan Empire. The Asrian religion specifically forbids slavery
+as one of the Nine Precepts, and that prohibition has been considered
+exceedingly clear over the centuries.
+
+Despite being illegal and immoral, some slavery exists. Slavers will kidnap people,
+usually at a young age, and sell them to others for doing manual labor. These are
+viewed less as legal ownership of a human being, but rather as a type of kidnapping
+and cruelty. Gallineans found guilty of being slavers or slave "owners" are given
+some of the harshest sentences.
+
+Distant Elissia, far from Gallinea and its social mores and authorities, has an
+increasing problem with slavery. Most of these slaves are, like the vast majority of
+Elissians, are Elarans; no one tries to enslave the northern or southern Ifrani
+populations. The Ellisian authorities shut down slavers wherever they find them,
+although they have had limited success.
+
+::::::::::::::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::::::::
+:# Using Slavery in Your Campaign
+
+Our basic advice is: *Don't.*
+
+The real-world history of slavery, particularly of the Atlantic slave trade, has made slavery a
+charged topic -- and one we feel is not suited for a game of *The Queen's Cavaliers*. The
+worldbuilding was designed to make generational, institutionalized slavery a non-issue in
+Gallinea.
+
+If you do wish to address slavery in your campaign, keep your players in mind and be responsive
+to their concerns. Some players might be made very uncomfortable by the exploration of slavery
+in a tabletop game, while others may view it as trivializing an important subject.
+
+The section above, which describes slavery in Elissia, can be used as the basis for fighting
+against slavers and slave owners. For some players and MJs, it make be enjoyably cathartic to
+imagine firing muskets in the face of wicked slavers.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

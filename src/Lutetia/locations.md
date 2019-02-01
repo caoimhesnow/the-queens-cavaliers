@@ -13,6 +13,10 @@ at playing the various nobles, guildmasters, and ambassadors of the
 Royal Court off each other, preserving the interests of the Queen while
 allowing Her Majesty to remain above much of the petty politicking.
 
+:::::::::::::::::::::::::::::::::::::: pic-wide ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Lutetian arrondissements, cartography by Robert Altbauer](assets/Maps/Full/Lutetia-Arrondissements.jpg "Lutetian arrondissements, cartography by Robert Altbauer")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## The Bridges of Lutetia
 
 Lutetia is divided up into 55 different *arrondissements*, or
@@ -110,6 +114,19 @@ Table: List of Arrodissements
 | 15th   | 15th *sur l'île*   | 15th *sur le pont* | 15th *travers le pont*              | 15th *delà du mur*   |
 | 16th   | 16th *sur l'île*   | 16th *sur le pont* | 16th *travers le pont*              | 16th *delà du mur*   |
 
+# Features of the City
+
+The most notable feature of Lutetia is the Luisante River, which flows
+from headwaters in the northern part of Gallinea through the city, where
+it forms Luisante Lake. The Luisante then flows south through the
+country to Valerienne, where it empties into the Middle Sea.
+
+Luisante means “sparkling” and the river mostly lives up to its name
+until it enters the capital, where the extensive underground Lutetian
+sewer system meets its waters. The sides of the river are reinforced
+with stone walls that form hard channels to control the Luisante until
+it spills into the lake to the south of the city.
+
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :# Lutetian Idioms
 
@@ -126,38 +143,25 @@ judge others' experience in the city.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Features of the City
-
-The most notable feature of Lutetia is the Luisante River, which flows
-from headwaters in the northern part of Gallinea through the city, where
-it forms Luisante Lake. The Luisante then flows south through the
-country to Valerienne, where it empties into the Middle Sea.
-
-Luisante means “sparkling” and the river mostly lives up to its name
-until it enters the capital, where the extensive underground Lutetian
-sewer system meets its waters. The sides of the river are reinforced
-with stone walls that form hard channels to control the Luisante until
-it spills into the lake to the south of the city.
-
 The four islands at the center of the city are the oldest parts of
-Lutetia. The first Qartan settlements were on the largest island, Île de
-Lutetia, which was originally surrounded by a wooden, and later stone,
+Lutetia. The first Qartan settlements were on the largest island, 
+**Île de Lutetia**, which was originally surrounded by a wooden, and later stone,
 wall. Only a few signs of this original wall remain today, mostly in a
 few random sides of old buildings overlooking the river.
 
-The next largest island, Île Royale, is home to the royal palace. The
-two smaller islands, Île Citadelle and Île Rocheuse, are named for the
+The next largest island, **Île Royale**, is home to the royal palace. The
+two smaller islands, **Île Citadelle** and **Île Rocheuse**, are named for the
 stone castles that dominate each.
 
-The Old Wall was built to surround the islands and the parts of the city
-on the east and west banks of the Luisante, but in recent decades
+The Old Wall, also known as Prisca's Wall, was built to surround the islands 
+and the parts of the city on the east and west banks of the Luisante, but in recent decades
 Lutetia has overgrown the boundaries of the wall and expanded out
 further into the Gallinean countryside.
 
 Besides the two castles on Île Citadelle and Île Rocheuse, Lutetia is
-defended by three stone fortresses ringing the city – La Guette to the
-northwest, l'Arsenal to the east, and Le Puissant to the southwest. The
-newly constructed Airship Tower at Le Puissant serves an important role
+defended by three stone fortresses ringing the city – **La Guette** to the
+northwest, **l'Arsenal** to the east, and **Le Puissant** to the southwest. The
+newly constructed **Airship Tower** at Le Puissant serves an important role
 in protecting the city from aerial assault.
 
 Four ancient roads, dating back to the days of the Qartan Empire, meet
@@ -185,7 +189,7 @@ Table: Lutetian Landmarks
 | Map Key | Location                          | Arrondissement         | 
 | :-----: | :-------------------------------- | :--------------------- | 
 | A       | Royal Palace                      | Île Royale             |
-| B       | The Citadel                       | 5th *sur le pont*      |
+| B       | The Citadel                       | 5th *travers le pont*  |
 | C       | Palais de Justice                 | 4th *sur l'île*        |
 | D       | Grand Cathedral of the Sun        | 8th *sur l'île*        |
 | E       | La Dame de la Victoire            | 15th *sur l'île*       |
@@ -211,6 +215,7 @@ Table: Lutetian Landmarks
 | Y       | l'Académie d'Officiers Militaires | 3rd *delà du mur*      |
 | Z       | La Guette                         | 2nd *delà du mur*      |
 
+::::::::::::::::::::::::::::::::::::: walkingtour ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Île Royale
 
 The Royal Island is the second-largest of the Lutetian islands and, as the name implies, is home
@@ -396,13 +401,13 @@ In 4th *travers le pont*, you may find:
 :# Palais de Justice
 
 The **Palais de Justice** is a dual-winged building located in the heart of the
-city, and is the center of law in Lutetia. The Lutetia city watch and constabulary
-occupy the west wing of the building, while the courts of justice are in the east
-wing. The middle portion of the Palace of Justice is taken up by The Central Chamber,
+city, and is the center of law in Lutetia. The courts of justice are in the east
+wing, and the legislature in the west. Most of the west wing is taken up by the
+The middle portion of the Palace of Justice is taken up by The Central Chamber,
 a three-layered meeting hall where Lutetia's three deliberative bodies meet -- the
 Parliament of Nobles, the Assembly of Guilds, and the Convocation of Veterans.
 
-The Minister of Justice usually maintains her office in this building,
+The Minister of Justice usually maintains an office in this building,
 but Minister Farrazin prefers to spend the majority of his time in the
 Grand Cathedral rather than the Palace of Justice.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -874,6 +879,8 @@ This is the only bridge with no shops or public spaces.
 
 In 12th *sur l'ile*, you may find:
 
+   - the public offices of the Lutetian city watch
+   - constables discussing cases at a nearby bar (Soldier D6 social rank)
    - bail bondsmen
    - licenced bounty hunters
    - defense barristers
@@ -891,6 +898,7 @@ On 12th *sur le pont*, you may find:
 
 In 12th *travers le pont*, you may find:
 
+   - constables writing reports
    - Lutetian city watch interrogators
    - convicted criminals who claim they're innocent
    - sheltered informants
@@ -1274,3 +1282,4 @@ but Prince-Consort Carolus has been known to inspect the riding horses, often in
 of his countryman Lord-Ambassador Bedyngford.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
