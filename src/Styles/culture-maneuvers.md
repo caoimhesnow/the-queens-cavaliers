@@ -1,0 +1,33 @@
+# Culture Styles
+
+  - **Anatomical Studies:** When working in a well-equipped surgical theatre, spend 1 Style Point to add Scholarship dice to a Surgery roll
+  - **Beating a High Horse:** When mocking someone of higher social rank than you, spend 1 Style Point to add Etiquette dice to a Banter roll
+  - **Bird Calls:** When working with birds, spend 1 Style Point to add Arts dice to a Husbandry roll
+  - **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll
+  - **Boundless Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling
+  - **Combat Pantomime:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Block roll
+  - **Criminology:** When investigating a crime scene, spend 1 Style Point to add Scholarship dice to a Deduce roll
+  - **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
+  - **Forensic Analysis:** When using a well-equipped laboratory, spend 1 Style Point to add Scholarship dice to a Deduce roll
+  - **From the Heart:** When performing or displaying a work of art, spend 1 Style Point to add Arts dice to an Inspire roll
+  - **I'm Too Pretty to Die!:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Dodge roll
+  - **In Costume:** When wearing a disguise or costume, spend 1 Style Point to add Arts dice to a Deceive roll
+  - **It's My Creation:** When repairing or using a device that you invented, spend 1 Style Point to add Arts dice to a Clockworks roll
+  - **Legal Precedents:** When speaking in court, spend 1 Style Point to add Scholarship dice to an Inspire roll
+  - **Linguistics:** When trying to understand something in a language you don't know, spend 1 Style Point to add Explore dice to a Scholarship roll
+  - **Lutetian School of Fencing:** When fighting with a rapier or colichemarde in one hand and other hand empty, spend 1 Style Point to add Arts dice to a Parry roll
+  - **Manners Count:** When speaking to someone of at least Artisan rank, spend 1 Style Point to add Etiquette dice to a Negotiate roll.
+  - **Measuring is Everything:** When following a recipe or a cookbook while cooking, spend 1 Style Point to add Calculus dice to an Arts roll
+  - **Mistress of Fashion:** When creating clothing or accoutrements with a base cost of D6 or higher, spend 1 Style Point to add Arts dice to a Weave roll
+  - **Orwand's Proverbs:** When dealing with someone of the Dualitarian faith, spend 1 Style Point to add Scholarship dice to a Negotiate roll
+  - **Polite Fictions:** When speaking with someone of at least Noble social rank, spend 1 Style Point to add Etiquette dice to a Deceive roll
+  - **Practiced Manners:** Spend 2 Style Points to set the value of one Etiquette die to its maximum value before rolling
+  - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
+  - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
+  - **Standing on the Shoulders of Giants:** When inventing a device in a well-equipped workshop, spend 1 Style Point to add Scholarship dice to a Clockworks roll
+  - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
+  - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
+  - **Trained Ear:** When listening to other people speaking, spend 1 Style Point to add Scholarship dice to a Perceive roll
+  - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
+  - **Yodeler:** When working with domesticated animals, spend 1 Style Point to add Arts dice to a Husbandry roll
+  - **Zamorovian School of Fencing:** When fighting with a szabla in one hand, spend 1 Style Point to add Arts dice to a Parry roll

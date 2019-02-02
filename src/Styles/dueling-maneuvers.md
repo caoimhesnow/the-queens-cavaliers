@@ -1,0 +1,13 @@
+  - **Confident Fencing:** Spend 1 Style Point to reroll a Dueling roll
+  - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
+  - **Albian Cavalry:** When mounted with a backsword or sabre in one hand and the other hand free, spend 1 Style Point to add Husbandry dice to a Lunge roll
+  - **Drunken Stagger:** When drunk, spend 1 Style Point to add Carouse dice to a Lunge roll
+  - **Envenomed Blade:** When using a poisoned knife, spend 1 Style Point to add Poison dice to a Lunge roll
+  - **Equestrienne:** When mounted on a horse you care for yourself, spend 1 Style Point to add Husbandry dice to a Lunge roll
+  - **Imeran School of Fencing:** When fighting with a cutlass in one hand and a dagger or cinquedea in the other hand, spend 1 Style Point to add Dodge dice to a Lunge roll
+  - **Landsknecht Tactics:** When fighting with a pike, spend 1 Style Point to add Strategy dice to a Lunge roll
+  - **Mounted Combatant:** When using a weapon with the Mounted quality while mounted, spend 1 Style Point to add Husbandry dice to a Lunge roll
+  - **Never Again:** When attacking someone who has already damaged one of your allies in the current combat, spend 1 Style Point to add Inspire dice to a Lunge roll
+  - **Scalpel's Cut:** When using a knife or chirurgeon's knives, spend 1 Style Point to add Surgery dice to a Lunge roll
+  - **Street Fighting:** When using a knife or a cudgel, spend 1 Style Point to add Brawl dice to a Lunge roll
+  - **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a Lunge roll
