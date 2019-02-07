@@ -34,3 +34,4 @@ Table: Gallinea's Major Wars
 | Third Varendish War            |      to 1123    | Varendia              |
 | The Channel War                |                 | Ondala                |
 | Twenty Years' War              | 1221 to 1241    | Albia                 |
+
