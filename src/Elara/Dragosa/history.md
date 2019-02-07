@@ -1,4 +1,4 @@
 # Dragosan History
 
-*introduction needed*
+[]{.comingsoon}
 

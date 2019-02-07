@@ -1,7 +1,7 @@
 # Pitdah
 
 :::::::::::::: country ::::::::::::::::::::::::::::::
-:# The City-State of Pitdah
+:# The Free City-State of Pitdah
 
 |                 |                                 |
 | --------------- | ------------------------------- |
@@ -19,6 +19,5 @@
 | Major Exports   |                                 |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-*description needed*
+[]{.comingsoon}
 

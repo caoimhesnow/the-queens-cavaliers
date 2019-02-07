@@ -80,7 +80,7 @@ Loyalty, Lust, Pride, and Wealth. You will rank your four chosen
 Passions from D12 (the strongest) to D6 (the weakest).
 
 :::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::::::::
-*Optional:* For each Passion, name one person associated with that passion
+For each Passion, name one person associated with that passion
 and record that person's name to the right of the Passion. This is the
 person (living or dead) whom your character most closely associates with
 that Passion, either positively or negatively. You can use an existing

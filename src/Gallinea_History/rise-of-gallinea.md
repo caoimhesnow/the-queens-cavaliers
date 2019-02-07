@@ -1,10 +1,10 @@
 # Rise of the Gallinean Nation
 
 In a time of oppressive ex-Legions, feudal warlords, and warring kings, a land in turmoil 
-cried out for a heroine, and one answered. She was Martialla, a former priestess forged in the heat of 
+cried out for a heroine. She was Martialla, a former priestess forged in the heat of 
 Lutetia's burning Temple.
 
-Known in modertn times by her Qartan title of Martialla Conquestus or her Old Gallinean name as Martielle 
+Known in modern times by her Qartan title of Martialla Conquestus or her Old Gallinean name as Martielle 
 le Conquérante, she led a revolt that forced the ex-Legionnaires to join her growing army or face execution.
 She would later use this strategy on the Valerian Empire and the queendom of Verterre, although Scanbria
 was not to come under Gallinean rule until centuries later.

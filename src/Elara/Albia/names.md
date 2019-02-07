@@ -1,6 +1,6 @@
 # Albian Names
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Traditionally female names
 
@@ -49,7 +49,7 @@ Kenns, Ninson, Powlls, Robenson, Thamson, Wylson.
 :::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Albian Place Names
 
-*introduction needed*
+[]{.comingsoon}
 
 - **Clearings:** -field, -leigh, -thwaite
 - **Farms:** -bost, -ham, -stead, -ster

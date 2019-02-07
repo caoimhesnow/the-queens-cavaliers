@@ -24,7 +24,7 @@ the process. To make an attack with explosives, you use the Science
 bombs.
 
 ::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::::::::::
-## Free Starting Weapon
+:# Free Starting Weapon
 
 When you create your character for *The Queen's Cavaliers*, you get a
 free weapon in addition to any granted by your classes and any

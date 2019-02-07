@@ -14,7 +14,7 @@ captains often hire a crew for the crossing in one direction and a new
 crew for the opposite direction. 
 
 :::::::::::::::::::::::: pic-left :::::::::::::::::::::::::::::::::::::::::
-![Queen Fionna of Albia, by Eleanor Ferron](assets/Portraits/queen-fionna.jpg "Queen Fionna of Albia, by Eleanor Ferron")
+![Queen Fionna of Albia, by Eleanor Ferron](assets/Portraits/Medium/queen-fionna.jpg "Queen Fionna of Albia, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Bear Island

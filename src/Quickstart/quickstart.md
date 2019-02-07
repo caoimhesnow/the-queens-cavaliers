@@ -331,10 +331,10 @@ the Success Table for Deceive looks like:
 | :---------- | :----------------- |
 | Time:       | Free Roll          |
 | Opposition: | Intuition          |
-| +:          | Think on Your Feet |
-| ++:         | Appear Sincere     |
-| +++:        | Gain 1 Style Point |
-| ++++:       | Appear Trustworthy |
+| +           | Think on Your Feet |
+| ++          | Appear Sincere     |
+| +++         | Gain 1 Style Point |
+| ++++        | Appear Trustworthy |
 ::::::::::::::::::::::::::::::::::::
 
 You can spend your Success Points and achieve the desired results. Each
@@ -358,8 +358,10 @@ In such a case, the extra points you don't spend are simply unused and go away.
 You have three Success Points and succeeded on your Deceive roll.
 You decide to spend your Success Points as follows:
 
-- +: Think on Your Feet -- you quickly come up with a good lie.  "I'm the ... inspector!  I'm here to inspect ... all the things!"
-- ++: Appear Sincere -- you don't seem like you're obviously lying, so the guard believes you.
+|      |                          |
+| :--- | :----------------------- |
+| +    | **Think on Your Feet**  -- you quickly come up with a good lie.  "I'm the ... inspector!  I'm here to inspect ... all the things!" |
+| ++   |  Appear Sincere -- you don't seem like you're obviously lying, so the guard believes you. |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Style Points
@@ -374,9 +376,11 @@ a maximum of three Style Points at any time.
 You score six Success Points on a Deceive roll, and spend your Success
 Points like this:
 
-- +: Think on Your Feet
-- ++: Appear Sincere
-- +++: Gain 1 Style Point
+|      |                     |
+| :--- | :------------------ |
+| +    | Think on Your Feet  |
+| ++   | Appear Sincere      |
+| +++  | Gain 1 Style Point  |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Every time you gain a Style Point, you are required to describe what
@@ -395,7 +399,7 @@ of moonlight reflecting off my teeth with a 'glint!' sound. With confident
 assurance, I tell her that I'm here to perform an inspection, and I even hint
 that if she doesn't comply, she may be in trouble with her superiors."
 
-“Awesome ! That happens,” says the MJ. And you earn your Style Point.
+“Awesome! That happens,” says the MJ. And you earn your Style Point.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::
@@ -420,7 +424,7 @@ stylish when you *use* a Style Maneuver (but you can if you want to !).
 
 There are three types of Style Maneuvers: Maximize, Reroll, and Add.
 
-### Maximize (Specialty)
+### Maximize *Specialty*
 
 This Style Maneuver lets you spend two Style Point, then take one of the
 Specialty Dice of the appropriate Specialty and set that die to its
@@ -439,7 +443,7 @@ dice -- 1D10 + 2D6 -- getting a 2, a 3, and a 2.
 Adding the 10 to the 3, you get a total of 13 with three success points. Nice!
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Reroll (Skill)
+### Reroll *Skill*
 
 This Style Maneuver lets you reroll a roll that you just made. Spend a
 Style Point, pick up all the dice (except maximized dice, of course) and
@@ -457,7 +461,7 @@ reroll the dice, and get a much better roll: 7, 9, 2, 6.  Hooray !
 This is a total of 16 and seven Success Points.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Add (One Specialty) to (Another Specialty)
+### Add *One Specialty* to *Another Specialty*
 
 This Style Maneuver lets you add your Specialty dice to another roll.
 You add only the Specialty dice – of the same size as the first
@@ -480,7 +484,7 @@ Your Deceive dice pool is now 2D10 + 2D8 + 2D6. You roll the dice and get
 
 ## Experience
 
-Each game session of *The Queen's Cavaliers* gives you three to five
+Each game session of *The Queen's Cavaliers* gives you one to five
 Experience Points (XP), which you use to improve your player character.
 The cost for each improvement is shown in the following table.
 
@@ -489,7 +493,7 @@ Table: Character Improvements
 | Character Improvement      | Cost                  | Notes                  |
 | :------------------------  | :-------------------: | :--------------------- |
 | New Skill Competency       | 3 XP                  |                        |
-| Specialty Rank, per rank:  | Equal to the new rank |                        |
+| Specialty Rank, per rank:  |                       | Equal to the new rank  |
 |  +0 to +1                  | 1 XP                  |                        |
 |  +1 to +2                  | 2 XP                  | (3 XP from +0 to +2)   |
 |  +2 to +3                  | 3 XP                  | (6 XP from +0 to +3)   |

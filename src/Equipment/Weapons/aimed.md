@@ -1,5 +1,20 @@
 # Aimed Weapons
 
+::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
+:# Maximum Range?
+
+The tables below don't specify a maximum distance for long range. That's
+because areas are an abstract representation of distance, not exact
+measurements. Under ideal conditions, a weapon that has the long range
+quality could reach 10 or more areas away, depending on how the areas
+are set up for that encounter; in a crowded city street, the effective
+range will be much lower.
+
+Ultimately it's up to the MJ to decide what the maximum effective range
+is for any weapon used at extreme long range, although usually not more
+than 10 areas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 An Aimed weapon is one that can be used with the Military (Aim)
 specialty. Larger ranged weapons are usually explosive weapons and use
 the Science (Blackpowder) specialty for attacks.
@@ -43,21 +58,6 @@ long ranges.
     Long Range. All Aimed weapons that can be used at this distance have
     at least a Drop 1 penalty. If there is no Long Range listed for a
     weapon, it can't be used to attack at Long Range.
-
-::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
-Maximum Range?
-
-The tables below don't specify a maximum distance for long range. That's
-because areas are an abstract representation of distance, not exact
-measurements. Under ideal conditions, a weapon that has the long range
-quality could reach 10 or more areas away, depending on how the areas
-are set up for that encounter; in a crowded city street, the effective
-range will be much lower.
-
-Ultimately it's up to the MJ to decide what the maximum effective range
-is for any weapon used at extreme long range, although usually not more
-than 10 areas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Table: Aimed Weapons
 

@@ -1,14 +1,12 @@
 # Locations in Ondala
 
+[]{.comingsoon}
+
 ## Diega, Secular Capital of Ondala
 
-*description needed* description
+[]{.comingsoon}
 
 ## Cordera, Spiritual Capital of Ondala
 
-*description needed*
-
-## Generic Swamp
-
-*description needed*
+[]{.comingsoon}
 

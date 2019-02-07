@@ -11,7 +11,7 @@ or nearby Pitdah where they serve as light cavalry for the khedive -- himself a 
 and guards for caravans though the desert wastes.
 
  - **Suggested Classes:** Brigand, Courtier, Dragoon, Duelist, Explorer, Fusilier, Provincial, Speaker, Veteran
- - **Suggested Passions:** *description needed*
+ - **Suggested Passions:** []{.comingsoon}
 
 ## Faris Class Traits
 
@@ -24,7 +24,7 @@ and guards for caravans though the desert wastes.
 
 ## Faris Maneuvers
 
-*need to have the correct name for these maneuvers*
+ []{.comingsoon}
 
  - Maximize Sword: Spend 1 Style Point to set the value of one sword weapon die to its maximum value before rolling.
  - Maximize Explore: Spend 1 Style Point to set the value of one Explore die to its maximum value before rolling.

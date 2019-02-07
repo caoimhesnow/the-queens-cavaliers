@@ -1,8 +1,8 @@
 # Locations in New Cordera
 
-*introduction needed*
+[]{.comingsoon}
 
 ## New Cordera City
 
-*description needed*
+[]{.comingsoon}
 

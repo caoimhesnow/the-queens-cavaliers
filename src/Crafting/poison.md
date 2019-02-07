@@ -37,13 +37,13 @@ creation.
 | +                 |  Craft Antidote              |
 | +                 |  Increase Quantity           |
 | +                 |  Add Time Delay              |
-| \++               |  Add Stage                   |
+|  ++               |  Add Stage                   |
 | ++                |  Improve Potency             |
 | +++               |  Craft Exotic Poison         |
 | +++               |  Craft Exotic Antidote       |
 | ++++              |  Reduce Material Cost        |
 | +++++             |  Develop Antidote            |
-| ++++++            |  Eureka\!                    |
+| ++++++            |  Eureka!                     |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Standard Poison (1 unit of alchemical ingredients):** You create
@@ -95,7 +95,7 @@ antidote has an Item Die of +1D6, and is only effective against that
 single toxin. Now that you've created the cure, you can create it as an
 "exotic antidote", as can anyone who you instruct in the process.
 
-**Eureka\! (5 units of alchemical ingredients):** You've managed to mix
+**Eureka!  (5 units of alchemical ingredients):** You've managed to mix
 up a unique poison that is resistant to the normal antidotes. The
 poison's Item Die is +1D6. Now that you have created it, you can create
 it as an "exotic poison", as can anyone who you instruct in the process.

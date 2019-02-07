@@ -1,6 +1,6 @@
 # Bombs
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Placed Bombs
 
@@ -17,6 +17,10 @@ Table: Placed Bombs
 | Thunder    | 3D6        | Carried     | Blackpowder  +1D8 |  1D6 Wounds | x3    |
 | Wildfire   | 3D8        | Carried     | Blackpowder  +1D6 | 1D10 Wounds | x2    |
 
+[]{.comingsoon}
+
+Table: Bomb Effects
+
 | Bomb Type  | Radius Steps            | Special                |
 | :--------- | :---------------------- | :--------------------- |
 | Alchemical | Close, Adjacent, Short  |  +: Inflict 1 Yield    |
@@ -30,14 +34,14 @@ Table: Placed Bombs
 | Thunder    | Close, Adjacent, Short  |                        |
 | Wildfire   | Adjacent, Short, Medium |  ++: Step-Up Radius    |
 
-  - **Alchemical Bomb:** *description needed*
-  - **Canister   Bomb:** *description needed*
-  - **Heavy      Bomb:** *description needed*
-  - **Mining     Bomb:** *description needed*
-  - **Powderhorn Bomb:** *description needed*
-  - **Powderkeg  Bomb:** *description needed*
-  - **Smoke      Bomb:** *description needed*
-  - **Structure  Bomb:** *description needed*
-  - **Thunder    Bomb:** *description needed*
-  - **Wildfire   Bomb:** *description needed*
+  - **Alchemical Bomb:** []{.comingsoon}
+  - **Canister   Bomb:** []{.comingsoon}
+  - **Heavy      Bomb:** []{.comingsoon}
+  - **Mining     Bomb:** []{.comingsoon}
+  - **Powderhorn Bomb:** []{.comingsoon}
+  - **Powderkeg  Bomb:** []{.comingsoon}
+  - **Smoke      Bomb:** []{.comingsoon}
+  - **Structure  Bomb:** []{.comingsoon}
+  - **Thunder    Bomb:** []{.comingsoon}
+  - **Wildfire   Bomb:** []{.comingsoon}
 

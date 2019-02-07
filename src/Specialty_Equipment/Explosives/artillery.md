@@ -1,6 +1,6 @@
 # Artillery
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Artillery
 
@@ -28,14 +28,14 @@ Table: Artillery Range
 | Rabinet              | Drop 0 | Drop 2 | Drop 2 |        |  4 Naval Areas |
 | Vouivre-mignon       | Drop 0 | Drop 0 | Drop 1 | Drop 2 |  6 Naval Areas |
 
-  - **Basilic:** *description needed*
-  - **Couleuvrine:** *description needed*
-  - **Couleuvrine, grande:** *description needed*
-  - **Couleuvrine, moyenne:** *description needed*
-  - **Falconet:** *description needed*
-  - **Mortar, heavy:** *description needed*
-  - **Rabinet:** *description needed*
-  - **Vouivre-mignon:** *description needed*
+  - **Basilic:** []{.comingsoon}
+  - **Couleuvrine:** []{.comingsoon}
+  - **Couleuvrine, grande:** []{.comingsoon}
+  - **Couleuvrine, moyenne:** []{.comingsoon}
+  - **Falconet:** []{.comingsoon}
+  - **Mortar, heavy:** []{.comingsoon}
+  - **Rabinet:** []{.comingsoon}
+  - **Vouivre-mignon:** []{.comingsoon}
 
 Table: Cannon Shot
 
@@ -50,12 +50,12 @@ Table: Cannon Shot
 | Thunder     |  2D6, bulk |    +1 Wound  | x3    | Adjacent, Short, Medium |                        |
 | Wildfire    | 1D10, bulk |  +1D8 Wounds | x2    | Adjacent, Short, Medium |  ++: Step-Up Radius    |
 
-  - **Alchemical shot:** *description needed*
-  - **Cannister shot:** *description needed*
-  - **Blackpowder shot:** *description needed*
-  - **Chain shot:** *description needed*
-  - **Round shot:** *description needed*
-  - **Smoke shot:** *description needed*
-  - **Thunder Shot:** *description needed*
-  - **Wildfire Shot:** *description needed*
+  - **Alchemical shot:** []{.comingsoon}
+  - **Cannister shot:** []{.comingsoon}
+  - **Blackpowder shot:** []{.comingsoon}
+  - **Chain shot:** []{.comingsoon}
+  - **Round shot:** []{.comingsoon}
+  - **Smoke shot:** []{.comingsoon}
+  - **Thunder Shot:** []{.comingsoon}
+  - **Wildfire Shot:** []{.comingsoon}
 

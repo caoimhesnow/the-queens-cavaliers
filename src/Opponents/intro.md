@@ -7,12 +7,12 @@ both in combat and out of combat, for player characters. These opponents
 are rated in terms of how important they are to the story: rabble
 are at best extras, while minor opponents take supporting roles. Major
 opponents, of course, can challenge a group of cavaliers as major
-villains or powerful allies\!
+villains or powerful allies!
 
 ::::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::::::::
-Using Opponents
+:# Using Opponents
 
-Don't assume that all opponents are there to fight\! A corrupt noble,
+Don't assume that all opponents are there to fight! A corrupt noble,
 scheming artisan, angry soldier, or even hapless rabble could complicate
 the heroes' lives without even lifting a finger.
 
@@ -21,7 +21,7 @@ player's Negotation, to represent a duel of words -- trying to to
 convince a court of one's guilt or innocence.
 
 Don't make rolls against Standard Opposition for opponents, though --
-you shouldn't ever be rolling against yourself\! Either find a way for
+you shouldn't ever be rolling against yourself! Either find a way for
 the player to oppose the roll, or just decide via fiat whether the
 opponent succeeds or not.
 

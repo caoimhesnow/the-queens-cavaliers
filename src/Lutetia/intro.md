@@ -1,4 +1,4 @@
-# Lutetia                                         {.breakbefore}
+# Lutetia
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The City of Lutetia 

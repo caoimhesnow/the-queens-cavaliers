@@ -6,9 +6,9 @@
 ![Hermic and Tanglestern, by Eleanor Ferron](assets/Characters/Tanglestern-and-Hermic.jpg "Hermic and Tanglestern, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 
-[Tanglestern] {.boxh2 .breakbefore}
+[Tanglestern]{.boxh2 .breakbefore}
 
 [Dogsbody / Brigand]{.opptype}
 
@@ -43,7 +43,7 @@
 - **Equipment:** hunting bow (Bow +1D6), leather jerkin (Armor +1D6), backsword (Sword +1D8)
     - *Peasant Outfit:* shift, breeches, buckled shoes
 
-[Hermic] {.boxh2 .breakbefore}
+[Hermic]{.boxh2 .breakbefore}
 
 [Charlatan / Visionary]{.opptype}
 

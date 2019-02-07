@@ -15,7 +15,7 @@ manage to cope with the sweltering heat and become professional Colliers. It may
 but unlike most professions in Elissia, it does pay well.
 
   - **Suggested Classes:** Dogsbody, Dragoon, Explorer, Fusilier, Mechanician, Provincial, Veteran
-  - **Suggested Passions:** *description needed*
+  - **Suggested Passions:** []{.comingsoon}
 
 ## Collier Class Traits
 
@@ -28,7 +28,7 @@ but unlike most professions in Elissia, it does pay well.
 
 ## Collier Maneuvers
 
-*need to update these to the correct names for the style maneuvers*
+[]{.comingsoon}
 
   - Maximize Blackpowder: Spend 1 Style Point to set the value of one Blackpowder die to its maximum value before rolling.
   - Maximize Brawl: Spend 1 Style Point to set the value of one Brawl die to its maximum value before rolling.

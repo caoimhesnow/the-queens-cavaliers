@@ -414,7 +414,7 @@ Table: International Air Travel from Lutetia
 | Northern Storm Islands    | 613 leagues   | 41 hours             |
 | Zamorov, Talania          | 732 leagues   | 49 hours             |
 | Lost City of Aad          | 795 leagues   | 2 days               |
-| Great Ifran Ravine        | 876 leagues   | 2 &3189; days        |
+| Great Ifran Ravine        | 876 leagues   | 2 &#189; days        |
 | Nouville, Elissia         | 1,145 leagues | 3 &#189; days        |
 | New Cordera               | 1,480 leagues | 4 days               |
 | Kamhara, Mwene Karanga    | 1,558 leagues | 4 &#189; days        |

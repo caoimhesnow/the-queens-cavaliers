@@ -1,12 +1,15 @@
 # Locations in Ubar
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Azophi Observatory
 
-*description needed*
+[]{.comingsoon}
 
 ## Temple of Night
 
-*description needed*
+[]{.comingsoon}
 
+## The Great Ifran Ravine
+
+[]{.comingsoon}

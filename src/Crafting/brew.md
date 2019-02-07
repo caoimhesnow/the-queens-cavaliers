@@ -39,7 +39,7 @@ creation.
 | +               |  Increase Quantity            |
 | ++              |  Increase Potency             |
 | ++++            |  Reduce Material Cost         |
-| ++++++          |  Eureka\!                     |
+| ++++++          |  Eureka!                      |
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Brew Alchemical Substance (1 unit of alchemical ingredients):** You
@@ -62,7 +62,7 @@ number of specialty ranks you have in Magicks (Brew).
 **Reduce Material Cost:** You reduce the overall cost of this Crafting
 roll by one unit of alchemical ingredients.
 
-**Eureka\! (2 units of alchemical ingredients):** You invent a new
+**Eureka!  (2 units of alchemical ingredients):** You invent a new
 draught, salve, or concoction that hasn't been brewed before. Work with
 your MJ to determine the exact result of your new formulation. It has an
 initial Charm Die of +1D6.

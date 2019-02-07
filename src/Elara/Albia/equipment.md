@@ -1,11 +1,11 @@
 # Albian Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Albian Equipment
 
 | Item                    | Cost      | Item Die          | Notes                                                               |
-| ----------------------- | --------- | ----------------- | ------------------------------------------------------------------- |
+| :---------------------- | :-------: | :---------------- | :------------------------------------------------------------------ |
 | Albian Bulldog          | 1D6       | Brawl +1D6        | --                                                                  |
 | Albian Hunting Outfit   | 4D6       | --                | Tricorne, casaque, farmer's gloves, breeches, military boots, cloak |
 | Albian Spaniel          | 1D6       | Explore +1D6      | --                                                                  |
@@ -32,7 +32,7 @@ Table: Albian Equipment
   Albian spaniel gives a +1D8 Item Die instead, and has a cost of 1D8.
 
 :::::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::::::::::::::::
-![Albian bulldog and owner](assets/Characters/Victoria.jpg "Albian bulldog and owner")
+![Albian bulldog and owner](assets/Characters/Medium/Victoria.jpg "Albian bulldog and owner")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -52,11 +52,10 @@ Table: Albian Equipment
   requires more physical strength to use, but also provides a much longer
   effective range. It's less effective at close range, however.
 
-
 Table: Albian Greatbow
 
 | Weapon   | Hands Required | Prowess | Specialties | Ranges                                                         |
-| :------- | :------------- | :------ | :---------- | :------------------------------------------------------------- |
+| :------- | :------------: | :------ | :---------- | :------------------------------------------------------------- |
 | Greatbow | Two            | Bow     | Aim         | Close (Drop 2), Short (Drop 0), Medium (Drop 0), Long (Drop 1) |
 
 - **Hunting horn:** This horn is rarely used to play actual music, but instead is

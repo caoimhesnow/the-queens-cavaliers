@@ -1,4 +1,4 @@
-# Sample Characters {.breakbefore}
+# Sample Characters
 
-*introduction needed*
+[]{.comingsoon}
 

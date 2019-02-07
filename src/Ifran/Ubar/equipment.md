@@ -1,6 +1,6 @@
 # Ubaran Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Nuevan Equipment
 
@@ -9,7 +9,7 @@ Table: Nuevan Equipment
 
 ## Ubaran Weapons
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Ubaran Weapons
 

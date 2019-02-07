@@ -1,34 +1,19 @@
 # Adventures in Ondala
 
-*description needed* blurb
+[]{.comingsoon}
 
 ## Ondalan Story Seeds
 
-*description needed* random hooks
+[]{.comingsoon}
 
 ## The Ondalan Campaign
 
-*description needed* blurb
+[]{.comingsoon}
 
 ## Ondalan Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Ondalan Opponents
 
-*description needed*
-
-## Ondalan Rabble
-
-*description needed*
-
-## Character
-
-*description needed*
-
-::::::::::::: statblock :::::::::::::
-**Major Character**
-
-*description needed* background 
-:::::::::::::::::::::::::::::::::::::
-
+[]{.comingsoon}

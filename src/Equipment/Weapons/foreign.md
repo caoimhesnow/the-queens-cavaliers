@@ -24,7 +24,7 @@ city, 1D12 in any other city, and unavailable in smaller settlements.
 
 ## Dueling Weapons
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Foreign Dueling Weapons
 
@@ -57,16 +57,16 @@ Table: Foreign Dueling Weapons
   - **Claymore (Albia):** The Albian greatsword is used primarily by those
     of Mathac heritage and is closely identified with Bear Island.
     
-  - **Colichedemarde (Varendia):** *description needed* small sword
+  - **Colichedemarde (Varendia):** []{.comingsoon} small sword
     
-  - **Dirk (Albia):** *description needed* dagger
+  - **Dirk (Albia):** []{.comingsoon} dagger
     
   - **Espada Ropera (Ondala):** Some might say this is "only" a rapier,
     but it's well-known that the swordcrafters of Ondala produce the finest
     rapiers in the world. Perfectly balanced, the espada ropera is desired
     by fencers across Elara.
     
-  - **Hook Prosthesis (Ekalia):** *description needed*
+  - **Hook Prosthesis (Ekalia):** []{.comingsoon}
     
   - **Jambiya (Northern Ifran):** This curved knife is a common tool across
     Northern Ifran, and can inflict nasty wounds if it gets past a target's
@@ -76,22 +76,22 @@ Table: Foreign Dueling Weapons
     for chopping -- arms, shields, legs, armor, whatever. When used with
     both hands, the Weapon Die increases to 1D10.
     
-  - **Koncerz (Talania):** *description needed* sabre
+  - **Koncerz (Talania):** []{.comingsoon} sabre
     
-  - **Montante (Ondala):** *description needed* greatsword
+  - **Montante (Ondala):** []{.comingsoon} greatsword
     
-  - **Shamshir (Northern Ifran):** *description needed* scimitar
+  - **Shamshir (Northern Ifran):** []{.comingsoon} scimitar
     
-  - **Szabla (Talania):** *description needed* sabre
+  - **Szabla (Talania):** []{.comingsoon} sabre
     
-  - **Tuck (Albia):** *description neeeded* As with other long swords, using a tuck
+  - **Tuck (Albia):** []{.comingsoon} As with other long swords, using a tuck
     with both hands increases the Weapon Die to 1D10.
     
-  - **Zweihander (Varendia):** *description needed* greatsword
+  - **Zweihander (Varendia):** []{.comingsoon} greatsword
     
 ## Foreign Aimed Weapons
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Foreign Aimed Weapons
 
@@ -100,6 +100,6 @@ Table: Foreign Aimed Weapons
 | Horsebow | D6   | Cavalry | Bow 1D6    | Drop 0 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
 | Longbow  | D8   | Both    | Bow 1D8    | Drop 0 | Drop 1 | Drop 0 | Drop 0 | Drop 2 |
 
-  - **Horsebow (Northern Ifran):** *description needed*
-  - **Longbow (Albia):** *description needed*
+  - **Horsebow (Northern Ifran):** []{.comingsoon}
+  - **Longbow (Albia):** []{.comingsoon}
 

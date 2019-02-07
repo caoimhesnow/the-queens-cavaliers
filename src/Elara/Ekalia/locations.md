@@ -1,18 +1,10 @@
 # Thedis, Capital of Ekalia
 
-*description needed*
+[]{.comingsoon}
 
-:::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::
-The High Twelve
+:::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::
+:# The High Twelve
 
-*sidebar blurb*
+[]{.comingsoon}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Another Location
-
-*description needed*
-
-## Yet Another Location
-
-*another description*
 

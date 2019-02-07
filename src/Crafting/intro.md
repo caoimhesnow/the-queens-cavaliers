@@ -1,4 +1,4 @@
-# Crafting # {.breakbefore}
+# Crafting 
 
 As described earlier, characters in *The Queen's Cavaliers* can use most specialties in order to craft items
 related to that specialty. The requirements for crafting are:

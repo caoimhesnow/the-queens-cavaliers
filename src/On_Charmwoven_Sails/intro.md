@@ -1,4 +1,4 @@
-# On Charmwoven Sails {.breakbefore}
+# On Charmwoven Sails 
 
 [Bonus Content by Berin Kinsman]{.bonuscontent}
 
@@ -314,7 +314,7 @@ You can't rush a repair that you're taking extra time on. The size of the drop p
 how much you rush the repairs. For example, if you make repairs as one action, have a Drop 4 penalty.
 
 ::::::::::::::::: success ::::::::::::::::::::::::
-| Block      | Shipboard                         |
+| Weave      | Shipboard                         |
 | ---------- | --------------------------------- |
 | Base Time  | 1 minute                          |
 | Opposition | Automatic success, unless rushing |
@@ -541,7 +541,7 @@ taken.
 Table: Damage to Ships
 
 | Wounds | Drop Penalty | Yield Limit |
-| :----- | :----------- | ----------: |
+| :----- | :----------- | :---------- |
 | None   | Drop 0       |             |
 | 100    | Drop 1       |  -25 Yield  |
 | 200    | Drop 2       |  -50 Yield  |
@@ -808,7 +808,7 @@ on the table.
 Table: Ship Operating Costs
 
 | Ship Type         | Sails Cost | Crew Pay | Provisions Space | 
-| :---------------- | :--------: | -------: | :--------------: | 
+| :---------------- | :--------: | :------: | :--------------: | 
 | Brigantine        | 2D6        | 2D10     |  4               | 
 | Chaloupe          | 1D6        |  2D8     |  1               |
 | Crommesteven      | 1D6        |  2D8     |  2               |
@@ -1093,7 +1093,7 @@ navigation roll can be made to get the ship free after the first hour.
 Table: Storm Categories
 
 | Winds        | Wind Speed | Waves   | Damage |
-| :----------  | ---------: | ------: | -----: |
+| :----------  | :--------: | :-----: | :----: |
 | Minimal      |  80 mph    |   5 ft. | 1d12   |
 | Moderate     | 100 mph    |  10 ft. | 2d12   |
 | Extensive    | 120 mph    |  15 ft. | 2d12   |

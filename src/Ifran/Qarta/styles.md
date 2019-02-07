@@ -1,4 +1,4 @@
 # Qartan Style Maneuvers
 
-*introduction needed*
+[]{.comingsoon}
 

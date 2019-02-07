@@ -1,8 +1,8 @@
 # New Dunan Locations
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Mosswick
 
-*description needed*
+[]{.comingsoon}
 

@@ -78,7 +78,7 @@ Roll 1D12 to determine the genre of the book.
 Table: Alais de Neversette Genres
 
 | D12 Roll | Genre        | Description                                                                            |
-| :------: | :----------: | :------------------------------------------------------------------------------------- |
+| :------: | :----------- | :------------------------------------------------------------------------------------- |
 | 1-2      | Amazing      | The core line of books, featuring action and adventure                                 |
 | 3        | Comical      | A farcical take on Alais and her adventures, not respected by serious Alaisologists    |
 | 4        | Fashionable  | Aimed at teenage readers with Alais's outfits described as she goes to social events   |
@@ -111,7 +111,7 @@ Roll 1D12 and 1D6 to select a prepositional phrase.
 Table: Alais de Neversette Prepositional Phrases
 
 | D12 Roll | D6 = 1      | D6 = 2        | D6 = 3         | D6 = 4        | D6 = 5       | D6 = 6            |
-| :------: | :---------: | :------------ | :------------- | :------------ | :----------- | :---------------- |
+| :------: | :---------- | :------------ | :------------- | :------------ | :----------- | :---------------- |
 | 1-6      |  *none*     | *none*        | *none*         | *none*        | *none*       |*none*             |
 | 7        | Army of     | Attack of     | Betrayal by    | Cave of       | City of      | Code of           |
 | 8        | Curse of    | Danger of     | Doom of        | Escape of     | Gold of      | Haunting of       |

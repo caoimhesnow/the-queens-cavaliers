@@ -1,11 +1,11 @@
 # History of Talania
 
-*description needed*
+[]{.comingsoon}
 
 ::::::::::::::::: sidebar :::::::::::::::::::::::::::
-The Shattering Frost
+:# The Shattering Frost
 
-*description needed*
+[]{.comingsoon}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 

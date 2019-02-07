@@ -7,7 +7,7 @@
 ![Valero de Diega, by Eleanor Ferron](assets/Characters/Valero-de-Diega.jpg "Valero de Diega, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 
 - **Competency Die:** D6
 - **Attributes:** Verve D8, Affinity D6, Guile D10

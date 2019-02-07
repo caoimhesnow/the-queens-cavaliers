@@ -1,4 +1,4 @@
-# Gallinean Culture {.breakbefore}
+# Gallinean Culture 
 
 Gallinea has a long history as a matriarchy, and in recent centuries has become 
 known for its very egalitarian and inclusive views – a philosophy which has been 

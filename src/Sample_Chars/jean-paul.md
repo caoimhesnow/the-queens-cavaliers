@@ -7,7 +7,7 @@
 ![Jean-Paul du Chevalier, by Eleanor Ferron](assets/Characters/Jean-Paul-du-Chevalier.jpg "Jean-Paul du Chevalier, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 
 - **Competency Die:** D6
 - **Attributes:** Verve D8, Affinity D10, Guile D6

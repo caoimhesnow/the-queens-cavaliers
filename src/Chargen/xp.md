@@ -8,7 +8,7 @@ rewards by a factor of up to three.
 Table: XP rewards per session
 
 |                        |                  |
-| :--------------------- | :--------------: |
+| :--------------------- | :--------------- |
 | Base Per Sesssion      | 1 XP per session |
 | Each Major Scene       | 1 XP per scene   |
 | Storyline Resolution   | 1 XP             |
@@ -27,12 +27,12 @@ Table: Character improvements
 | Character Element          | Cost                  | Notes                  |
 | :------------------------  | :-------------------: | :--------------------- |
 | New Skill Competency       | 3 XP                  |                        |
-| Specialty Rank, per rank:  | Equal to the new rank |                        |
-| \+0 to +1                  | 1 XP                  |                        |
-| \+1 to +2                  | 2 XP                  | (3 XP from +0 to +2)   |
-| \+2 to +3                  | 3 XP                  | (6 XP from +0 to +3)   |
-| \+3 to +4                  | 4 XP                  | (10 XP from +0 to +4)  |
-| \+4 to +5                  | 5 XP                  | (15 XP from +0 to +5)  |
+| Specialty Rank, per rank:  |                       | Equal to the new rank  |
+|  +0 to +1                  | 1 XP                  |                        |
+|  +1 to +2                  | 2 XP                  | (3 XP from +0 to +2)   |
+|  +2 to +3                  | 3 XP                  | (6 XP from +0 to +3)   |
+|  +3 to +4                  | 4 XP                  | (10 XP from +0 to +4)  |
+|  +4 to +5                  | 5 XP                  | (15 XP from +0 to +5)  |
 | New Language               | 1 XP                  |                        |
 | Weapon Prowess             | 1 XP                  |                        |
 | Armor Prowess              | 1 XP                  |                        |
@@ -49,13 +49,13 @@ Table: XP spent and competency dice
 
 | XP Spent | Competency Die | Maximum Specialty Rank |
 | :------: | :------------: | :--------------------: |
-| 0        | D6             | \+2                    |
-| 20       | D8             | \+3                    |
-| 50       | D10            | \+4                    |
-| 100      | D12            | \+5                    |
+| 0        | D6             |  +2                    |
+| 20       | D8             |  +3                    |
+| 50       | D10            |  +4                    |
+| 100      | D12            |  +5                    |
 
 ::::::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::
-Optional Rule: Training Time
+:# Training Time
 
 Each XP spent typically requires one week of practice or training. This
 requirement can be waived by the MJ if you've already invested time and

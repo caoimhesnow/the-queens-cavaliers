@@ -1,4 +1,4 @@
-### Item Scale
+# Item Scale
 
 Every item has a scale that describes the general size of the item:
 pocket scale, handheld scale, portable scale, human scale, furniture
@@ -10,7 +10,7 @@ The scale concept is used in the optional rules for Encumbrance, later
 in this chapter, as well as for clockwork devices <a href="#clockworks-2" class="xref-inchapter-under"></a> 
 and animals <a href="#animals" class="xref-inchapter"></a>.
 
-#### Pocket Scale
+ Pocket Scale
 
 A pocket-scale device is light, easily concealed, requires only one hand
 to operate, and can be carried within a pocket or beneath clothing
@@ -19,7 +19,7 @@ knives, flasks of alchemical brews, and a pet mouse.
 
 Weapons of this size are classified as Either Hand weapons.
 
-#### Handheld Scale
+## Handheld Scale
 
 A handheld item usually requires one hand to operate and can be carried
 on a belt, in a holster, or in a scabbard. Most can't be easily
@@ -30,7 +30,7 @@ When describing animals, such as cats or small dogs, handheld scale is
 known as pet scale. Weapons of this size are classified as Main Hand
 weapons.
 
-#### Portable Scale
+## Portable Scale
 
 A portable-scale item is one which requires two hands to carry and
 operate, or perhaps can be carried as a backpack. Examples include
@@ -39,14 +39,14 @@ two-handed swords, muskets, and bar stools.
 The equivalent scale for animals is companion scale. A portable-scale
 weapon is classified a Both Hands weapon.
 
-#### Human Scale
+## Human Scale
 
 An object roughly the size of a person – such as a statue or a suit of
 rigid armor – can't be easily carried by a single person without
 requiring her full attention. Other examples include work carts, heavy
 chairs, and velocipedes.
 
-#### Furniture Scale
+## Furniture Scale
 
 Larger than a human but smaller than a room, a carriage-scale item is
 around the size of a bed, a wardrobe dresser, or a small carriage. At
@@ -56,7 +56,7 @@ thrones.
 
 In descriptions of animals, furniture scale is known as mount scale.
 
-#### Room Scale
+## Room Scale
 
 Room-scale items can be rooms themselves, the amount of furnishings it
 takes to fill up a room, or an object of comparable size. In combat,
@@ -64,7 +64,7 @@ each room-scale item is usually its own Area.
 
 Mammoth scale is the equivalent of room scale when describing animals.
 
-#### Building Scale
+## Building Scale
 
 Building-scale items include buildings, of course, but also large
 vehicles such as sailing ships or airships. In combat situations, a

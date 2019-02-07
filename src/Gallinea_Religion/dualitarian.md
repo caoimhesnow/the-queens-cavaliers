@@ -15,6 +15,10 @@ reinterpreting both to fit the theology of the Dualitarians.
 
 ## Symbology 
 
+::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::::
+![The cross of Dualitarianism on the Albian flag, by Robert P. Stefko](assets/Flags/Albia.png "The cross of Dualitarianism on the Albian flag, by Robert P. Stefko")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Dualitarians eschew symbology save for a simple *horizontal cross-ordinary*, symbolizing the 
 convergence of the Asrian and Devran religions in a single faith. This symbols is also evident in
 the Albian flag.
@@ -27,8 +31,7 @@ was taught that Ashra and Devra were one and the same. Upon returning to Dunon, 
 Revelation* and started the Dualitarian faith.
 
 In honor of his journey, Dualitarian chaplains are called "pilgrims," although few find it necessary
-to undertake a pilgrimage themselves. "Dackin has undergone pilgrimage so that we need not!" says
-a common proverb.
+to undertake a pilgrimage themselves. "Dackin has undergone pilgrimage so that we need not!" says a common proverb.
 
 The Dualitarian church is headquartered in Dunon, the capital of Albia, and is led by Patriarch
 Roland Orde, the Son of Ashradevra. Orde rarely leaves Dunon, fearful of meeting his end at the

@@ -1,19 +1,19 @@
 # Adventures in New Cordera
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Nuevan Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The New Cordera Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Nuevan Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Nuevan Opponents
 
-*description needed*
+[]{.comingsoon}

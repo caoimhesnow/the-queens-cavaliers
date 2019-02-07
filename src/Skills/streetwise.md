@@ -29,12 +29,12 @@ ranks in Streetwise (Banter), as shown on the following table:
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Banter Rank Required |
-| ----------------- | --------- | -------------------- |
-| 2 hours           | 1D0       | \+1                  |
-| 4 hours           | 1D6       | \+2                  |
-| 8 hours (1 day)   | 1D8       | \+3                  |
-| 16 hours (2 days) | 1D10      | \+4                  |
-| 32 hours (4 days) | 1D12      | \+5                  |
+| :---------------- | :-------: | :------------------: |
+| 2 hours           | 1D0       |  +1                  |
+| 4 hours           | 1D6       |  +2                  |
+| 8 hours (1 day)   | 1D8       |  +3                  |
+| 16 hours (2 days) | 1D10      |  +4                  |
+| 32 hours (4 days) | 1D12      |  +5                  |
 
 **Opposition:**  When directly confronting someone, your Banter roll is 
 opposed by their own Banter roll. If you're spreading rumors, the
@@ -50,7 +50,7 @@ a large city.
 | ++:           | Increase Advantage               |
 | +++:          | Gain 1 Style Point               |
 | +++:          | Inflict 1 Yield                  |
-| \+++:         | Spread Rumor                     |
+|  +++:         | Spread Rumor                     |
 | ++++:         | Enrage Opponent                  |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -84,12 +84,12 @@ Streetwise (Banter) as shown in the following table:
 Table: Maximum Tag Die
 
 | Banter Ranks | Maximum Tag Die |
-| ------------ | --------------- |
-| \+1          | \+1D0           |
-| \+2          | \+1D6           |
-| \+3          | \+1D8           |
-| \+4          | \+1D10          |
-| \+5          | \+1D12          |
+| :----------: | :-------------: |
+|  +1          |  +1D0           |
+|  +2          |  +1D6           |
+|  +3          |  +1D8           |
+|  +4          |  +1D10          |
+|  +5          |  +1D12          |
 
 **Enrage Opponent:** If you aren't in a fight already, you provoke your 
 opponent into starting combat. If you are in combat, your opponent
@@ -125,12 +125,12 @@ in Streetwise (Carousing), as shown on the following table:
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Carousing Rank Required |
-| ----------------- | --------- | ----------------------- |
-| 2 hours           | 1D0       | \+1                     |
-| 4 hours           | 1D6       | \+2                     |
-| 8 hours (1 day)   | 1D8       | \+3                     |
-| 16 hours (2 days) | 1D10      | \+4                     |
-| 32 hours (4 days) | 1D12      | \+5                     |
+| :---------------: | :-------: | :---------------------: |
+| 2 hours           | 1D0       |  +1                     |
+| 4 hours           | 1D6       |  +2                     |
+| 8 hours (1 day)   | 1D8       |  +3                     |
+| 16 hours (2 days) | 1D10      |  +4                     |
+| 32 hours (4 days) | 1D12      |  +5                     |
 
 **Opposition:** The larger the city, the easier it is for you to get 
 information or make a connection without drawing too much attention to
@@ -205,7 +205,7 @@ how quickly you rush, as shown on the following table:
 Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
@@ -227,12 +227,12 @@ Observation specialty of whomever might see you.
 | Item Die:     | Repair tools when working with obstacles  |
 | +:            | Case the Joint                            |
 | ++:           | Steal Something                           |
-| \+++:         | Bypass Obstacle                           |
+|  +++:         | Bypass Obstacle                           |
 | +++:          | Gain 1 Style Point                        |
-| \+++:         | Install Obstacle                          |
+|  +++:         | Install Obstacle                          |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Case the Joint:**   | You look around your own Area or an adjacent Area 
+**Case the Joint:** You look around your own Area or an adjacent Area 
 and learn one of the following pieces of information:
 
 - The nearest exit, and whether it's locked
@@ -270,8 +270,8 @@ Larceny as shown on the following table:
 
 Table: Maximum Observation Opposition
 
-| Larceny Rank | Item Die              |
-| ------------ | --------------------- |
+| Larceny Rank | Standard Opposition   |
+| :----------: | :-------------------: |
 | 1            | Easy (3D6)            |
 | 2            | Moderate (3D8)        |
 | 3            | Difficult (3D10)      |

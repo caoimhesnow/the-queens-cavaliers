@@ -3,7 +3,7 @@
 :::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::
 :# The Ekalian Republic
 
-![Flag of Ekalia](assets/Flags/Ekalia.png "Flag of Ekalia")
+![Flag of Ekalia, by Robert P. Stefko](assets/Flags/Ekalia_Alt.png "Flag of Ekalia, by Robert P. Stefko")
 
 |                 |                                     |
 | --------------- | ----------------------------------- |

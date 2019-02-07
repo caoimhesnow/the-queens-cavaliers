@@ -3,7 +3,7 @@
 This is an incomplete timeline of Gallinean history.
 
 | Year | Event                                                                  | Date         |
-| ---: | :------------------------------------------------------------ | :----------- |
+| ---: | :--------------------------------------------------------------------- | :----------- |
 | 1    | Fall of the Qartan Empire                                              |              |
 | 3    | The start of priestess Martialla's revolt against the Legions          |              |
 | 7    | Martialla Conquestus declares herself first queen of Galinia           |              |
@@ -22,3 +22,4 @@ This is an incomplete timeline of Gallinean history.
 | 1242 | Marriage of Princess Mariana to Prince Carolus of Albia                | Floreal 16   |
 | 1243 | Assassination of Elisse III and crown princess Jehanne                 | Frimaire 22  |
 
+[]{.comingsoon}

@@ -39,31 +39,31 @@ Table: Living Expenses
 | Stabling for one night                | 1D0  |
 | Stabling for one week                 | 1D6  |
 
- - **Drinks, good:** *description needed* 
- - **Drinks, private reserve:** *description needed* 
- - **Drinks, watered down:** *description needed* 
- - **Lodging, cheap:** *description needed* 
- - **Lodging, good:** *description needed* 
- - **Lodging, sumptuous:** *description needed* 
- - **Meals, bland:** *description needed* 
- - **Meals, good:** *description needed* 
- - **Meals, gourmet:** *description needed* 
- - **Round on the house:** *description needed* 
- - **Stabling:** *description needed* 
+ - **Drinks, good:** []{.comingsoon} 
+ - **Drinks, private reserve:** []{.comingsoon} 
+ - **Drinks, watered down:** []{.comingsoon} 
+ - **Lodging, cheap:** []{.comingsoon} 
+ - **Lodging, good:** []{.comingsoon} 
+ - **Lodging, sumptuous:** []{.comingsoon} 
+ - **Meals, bland:** []{.comingsoon} 
+ - **Meals, good:** []{.comingsoon} 
+ - **Meals, gourmet:** []{.comingsoon} 
+ - **Round on the house:** []{.comingsoon} 
+ - **Stabling:** []{.comingsoon} 
   
 ## Miscellaneous Gear
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Transportation and Animals
 
-*introduction needed*
+[]{.comingsoon}
 
 Each Gallinean league is equal to approximately 2 miles. An average person on foot can walk 1 to 2 leagues per hour.
 
 ### Vehicles
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Vehicles
 
@@ -80,20 +80,20 @@ Table: Vehicles
 | Velocipede   | 1D8  | 1 Area     | 3 Areas   | 3 leagues per hour  | 
 | Wagon        | 1D6  | 1 Area     | 2 Areas   | 3 leagues per hour  | 
 
- - **Airship:** *description needed* Actual speed will vary depending on wind and weather conditions.
- - **Carriage:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
- - **Cart**: *description needed* 
- - **Gondola:** *description needed*  river
- - **Narrowboat:** *description needed* river
- - **River Barge:** *description needed* river
- - **Rowboat:** *description needed* river
+ - **Airship:** []{.comingsoon} Actual speed will vary depending on wind and weather conditions.
+ - **Carriage:** []{.comingsoon} Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+ - **Cart**: []{.comingsoon} 
+ - **Gondola:** []{.comingsoon}  river
+ - **Narrowboat:** []{.comingsoon} river
+ - **River Barge:** []{.comingsoon} river
+ - **Rowboat:** []{.comingsoon} river
  - **Sailing Ship:** *descripton needed* Actual speed will vary depending on wind and weather conditions.
- - **Velocipede:** *description needed*
- - **Wagon:** *description needed* Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
+ - **Velocipede:** []{.comingsoon}
+ - **Wagon:** []{.comingsoon} Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
   
 ### Mounts
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Mounts
 
@@ -103,19 +103,19 @@ Table: Mounts
 | Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
 | Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
 
- - **Draft Horse:** *description needed*
- - **Riding Horse:** *description needed* 
- - **Warhorse:** *description needed*
+ - **Draft Horse:** []{.comingsoon}
+ - **Riding Horse:** []{.comingsoon} 
+ - **Warhorse:** []{.comingsoon}
   
 #### Horse Accessories
 
-*introduction needed*
+[]{.comingsoon}
 
-## Pets and Farm Animals
+### Pets and Farm Animals
 
-*introduction needed*
+[]{.comingsoon}
 
-**Domesticated:** *description needed*
+**Domesticated:** []{.comingsoon}
 
 Table: Pets and Farm Animals
 
@@ -142,20 +142,20 @@ Table: Pets and Farm Animals
 | Rabbit            | 1D0  | Bunny, hare                        |
 
  - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
- - **Bird, Messenger (domesticated):** *description needed* 
- - **Bird, Song:** *description needed*
- - **Cat, Common:** *description needed*
- - **Cat, Purebred:** *description needed*
- - **Dog, Companion (Domesticated):** *description needed*
- - **Dog, Guard (Domesticated):** *description needed*
- - **Dog, Herding (Domesticated):** *description needed*
- - **Dog, Mongrel (Domesticated):** *description needed*
- - **Fowl, Barnyard:** *description needed*
- - **Livestock, Dairy:** *description needed*
- - **Livestock, Meat:** *description needed*
- - **Livestock, Wool:** *description needed*
- - **Raptor, Trained (Domesticated):** *description needed*
- - **Raptor, Untrained:** *description needed*
- - **Reptile:** *description needed*
- - **Rodents and Rabbits:** *description needed*
+ - **Bird, Messenger (domesticated):** []{.comingsoon} 
+ - **Bird, Song:** []{.comingsoon}
+ - **Cat, Common:** []{.comingsoon}
+ - **Cat, Purebred:** []{.comingsoon}
+ - **Dog, Companion (Domesticated):** []{.comingsoon}
+ - **Dog, Guard (Domesticated):** []{.comingsoon}
+ - **Dog, Herding (Domesticated):** []{.comingsoon}
+ - **Dog, Mongrel (Domesticated):** []{.comingsoon}
+ - **Fowl, Barnyard:** []{.comingsoon}
+ - **Livestock, Dairy:** []{.comingsoon}
+ - **Livestock, Meat:** []{.comingsoon}
+ - **Livestock, Wool:** []{.comingsoon}
+ - **Raptor, Trained (Domesticated):** []{.comingsoon}
+ - **Raptor, Untrained:** []{.comingsoon}
+ - **Reptile:** []{.comingsoon}
+ - **Rodents and Rabbits:** []{.comingsoon}
   

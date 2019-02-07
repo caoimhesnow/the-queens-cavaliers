@@ -29,7 +29,7 @@ number of ranks in Medicine (Surgery), as shown on the following table:
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
+| :---------------: | :-------: | :---------------------: |
 | 2 hours           | 1D0       | \+1                     |
 | 4 hours           | 1D6       | \+2                     |
 | 8 hours (1 day)   | 1D8       | \+3                     |
@@ -43,7 +43,7 @@ number of ranks in Medicine (Surgery), as shown on the following tables:
 Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
+| :---------------: | :-------: | :---------------------: |
 | 2                 | 1D0       | \+1                     |
 | 3                 | 1D6       | \+2                     |
 | 4                 | 1D8       | \+3                     |
@@ -114,7 +114,7 @@ ranks in Medicine (Surgery), as shown on the following table:
 Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Treat Rank Required |
-| --------------- | --------- | ------------------- |
+| :-------------: | :-------: | :-----------------: |
 | 2 minutes       | 1D0       | \+1                 |
 | 5 minutes       | 1D6       | \+2                 |
 | 15 minutes      | 1D8       | \+3                 |
@@ -124,7 +124,7 @@ Table: Extra Time for a One-Minute Task
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Treat Rank Required |
-| ----------------- | --------- | ------------------- |
+| :---------------: | :-------: | :-----------------: |
 | 2 hours           | 1D0       | \+1                 |
 | 4 hours           | 1D6       | \+2                 |
 | 8 hours (1 day)   | 1D8       | \+3                 |
@@ -138,7 +138,7 @@ number of ranks in Medicine (Surgery), as shown on the following tables:
 Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
-| ----------------- | --------- | ----------------------- |
+| :---------------: | :-------: | :---------------------: |
 | 2                 | 1D0       | \+1                     |
 | 3                 | 1D6       | \+2                     |
 | 4                 | 1D8       | \+3                     |
@@ -153,7 +153,7 @@ treatment, as shown on the following tables:
 Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
@@ -162,7 +162,7 @@ Table: Rushing a One-Minute Task
 Table: Rushing a One-Hour Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 30 minutes      | Drop 1       |
 | 15 minutes      | Drop 2       |
 | 5 minutes       | Drop 3       |
@@ -275,7 +275,7 @@ the posion by one step, limited by your specialty ranks in Medicine
 Table: Maximum Observation Opposition
 
 | Poison Rank | Item Die              |
-| ----------- | --------------------- |
+| :---------: | :-------------------: |
 | 1           | Easy (3D6)            |
 | 2           | Moderate (3D8)        |
 | 3           | Difficult (3D10)      |

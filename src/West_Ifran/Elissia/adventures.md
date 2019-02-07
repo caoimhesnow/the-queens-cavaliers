@@ -1,21 +1,21 @@
 # Adventures in Elissia
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Elissian Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Elissian Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Elissian Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Elissian Opponents
 
-*description needed*
+[]{.comingsoon}
 
 

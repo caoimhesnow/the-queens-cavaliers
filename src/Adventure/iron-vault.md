@@ -32,7 +32,7 @@ to seize it, but also discredit the Queen's Cavaliers.
 
 ## Running the Adventure
 
-*description needed*
+[]{.comingsoon}
 
 ## Player Introduction
 
@@ -58,9 +58,7 @@ Queen's Cavaliers. You should adapt this to fit the players.
 
 Read or paraphrase the following information to the players:
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* Andre du Corbier, a member of the Cavaliers, has
 brought the players to a bar to celebrate the next day's induction into
@@ -71,9 +69,7 @@ Cawdrey starts a brawl with the PC Cavaliers.
 
 Read or paraphrase the following information to the players:
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The Citadel is locked up and there are signs posted,
 “Closed by order of the Guardian of the Faith.” The players are met by
@@ -82,9 +78,7 @@ including that Sir Gerard has been captured.
 
 ## Scene: Meeting the Guardian
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players can choose to talk to Ferrazan, Guardian
 of the Faith. He's not in on the plot but probably will come off as the
@@ -92,9 +86,7 @@ primary bad guy. He has possession of the forged documents that
 incriminate the Cavaliers.
 
 ## Scene: Infiltrating the Prison
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players enter the prison somehow. They can fight
 their way in, sneak in, or even get thrown in jail for some minor
@@ -103,53 +95,41 @@ with Andre and the key is with Edine du Chevalier in Touriel.
 
 ## Scene: Andre's Fate
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* Martine kills Andre and probably gains the ring. 
 
 ## Scene: Additional Investigation
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players investigate in other ways. This is a
 catch-all to allow for player creativity.
 
 ## Scene: Side Trip to Touriel
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players meet Edine, an older member of the
 Queen's Cavaliers, and gain the key from her. 
 
 ## Scene: Return to Lutetia
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players may get ambushed along the way by Martine
 and hired bandits.
 
 ## Scene: Breaking Into the Vault
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The players have to sneak past or fight the
 Guardian's soldiers in order to break into the Vault and open it up.
 
 ## Scene: Bedyngford's Entrance
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The Duke of Bedyngford shows up with his men and
 enters the Citadel and fights with the players. At the end, Bedyngford
@@ -157,9 +137,7 @@ tries to escape.
 
 ## Scene: The Cavaliers Restored
 
-:::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
-*description needed*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
 
 *What happens here:* The Queen lifts the edict against the Cavaliers
 because they are exonerated, and the players are officially inducted

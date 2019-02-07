@@ -10,6 +10,10 @@ council who work as a heavenly version of the polis councils found throughout th
 
 ## Symbology
 
+::::::::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::
+![An Ekalian coin displaying the Dodekahedron symbol, by Robert P. Stefko](assets/Symbols/Dodekahedron.png "An Ekalian coin displaying the Dodekahedron symbol, by Robert P. Stefko")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 There are two symbols of the Dodekarian faith: a regular geometric solid with twelve sides, 
 each pentagonal face containing the symbol of one of the High Twelve; and the dodekahedron, 
 commonly found on coins, flags, and other flat surfaces.

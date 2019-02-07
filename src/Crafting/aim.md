@@ -27,7 +27,7 @@ creation.
 
 :::::::::::::::::: success ::::::::::::::::::::
 | Aim            | (Crafting)                 |
-| -------------- | -------------------------- |
+| :------------- | :------------------------- |
 | Base Time      | 1 hour                     |
 | Opposition     | Automatic Success          |
 | Item Die       | Metalworking tools, smithy |

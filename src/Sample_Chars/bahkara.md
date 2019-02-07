@@ -7,7 +7,7 @@
 ![Bahkara, by Eleanor Ferron](assets/Characters/Bahkara.jpg "Bahkara, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D8, Guile D10

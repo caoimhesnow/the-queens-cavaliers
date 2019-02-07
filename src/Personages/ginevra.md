@@ -1,7 +1,7 @@
 # Ginevra de Hiedra {.breakbefore}
 
 ::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::
-![Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron](assets/Portraits/ginevra-de-hiedra-y-obispo.jpg "Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron")
+![Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron](assets/Portraits/Medium/ginevra-de-hiedra-y-obispo.jpg "Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Comodora Ginevra de Hiedra y Obispo is the fleet captain of the New Corderan Colonial Fleet. She is the youngest fleet captain in the Holy Navy of Ondala and is a loyal supporter of Queen Ximena.

@@ -1,16 +1,16 @@
 # Adventures in Dragosa
 
-*introcution needed*
+[]{.comingsoon}
 
 ## Dragosan Plot Hooks
 
-*description needed*
+[]{.comingsoon}
 
 ## The Dragosan Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Dragosan Organizations
 
-*description needed*
+[]{.comingsoon}
 

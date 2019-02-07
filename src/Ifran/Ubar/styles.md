@@ -1,4 +1,4 @@
 # Ubaran Style Maneuvers
 
-*description needed*
+[]{.comingsoon}
 

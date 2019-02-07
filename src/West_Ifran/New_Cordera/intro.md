@@ -1,6 +1,6 @@
 # New Cordera
 
-*introduction needed*
+[]{.comingsoon}
 
 :::::::::::::::::::: country :::::::::::::::::::::
 :# The Holy Crown Colony of Nueva Cordera
@@ -17,3 +17,5 @@
 | Currency       | sol (singular), sols (plural) |
 | Major Exports  | Phlogistone, tobacco          |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[]{.comingsoon}

@@ -1,28 +1,27 @@
 # Talanian Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Talanian Equipment
 
 | Item                | Cost   | Item Die    | Notes                  |
-| ------------------- | ------ | ----------- | ---------------------- |
-| Arcanimation Engine | Varies | \--         | Clockwork power supply |
+| :------------------ | :----: | :---------- | :--------------------- |
+| Arcanimation Engine | Varies |  --         | Clockwork power supply |
 | Charmwoven Doll     | Varies | Varies      |                        |
 | Harmonicon          | Varies | Varies      | Clockwork component    |
 | Kalambur Sobaka     | D6     | Banter +1D6 | Talanian pun dog       |
 | Mechanical Toy      | Varies | Varies      |                        |
 | Mummer's Outfit     |        |             |                        |
 | Szabla              |        |             |                        |
-| Talanian Blue       | D6     | \--         | Purebred cat           |
+| Talanian Blue       | D6     |  --         | Purebred cat           |
 
-
-- **Arcanimation Engine:**  *description needed*
-- **Charmwoven Doll:**  *description needed*
-- **Harmonicon:**  *description needed*
-- **Kalambur Sobaka:**  *description needed*
-- **Mechanical Toy:**  *description needed*
-- **Mummer's Outfit:**  *description needed*
-- **Talanian Blue:**  *description needed*
+- **Arcanimation Engine:**  []{.comingsoon}
+- **Charmwoven Doll:**  []{.comingsoon}
+- **Harmonicon:**  []{.comingsoon}
+- **Kalambur Sobaka:**  []{.comingsoon}
+- **Mechanical Toy:**  []{.comingsoon}
+- **Mummer's Outfit:**  []{.comingsoon}
+- **Talanian Blue:**  []{.comingsoon}
 
 ## Talanian Clockworks
 
@@ -59,7 +58,7 @@ below.
 Table: Arcanimation Engines
 
 | Space | Cost (Gears, Fabric) | Minimum Ranks           | Power Supplied |
-| ----- | -------------------- | ----------------------- | -------------- |
+| :---: | :------------------: | :---------------------- | :------------: |
 | 1     | D0 (1, 1)            | Clockworks +1, Weave +1 | 1              |
 | 1     | D6 (1, 1)            | Clockworks +2, Weave +2 | 2              |
 | 1     | D8 (1, 1)            | Clockworks +3, Weave +3 | 3              |
@@ -86,7 +85,7 @@ the table below.
 Table: Harmonicon Components
 
 | Space | Cost (Gears) | Minimum Ranks          | Power |
-| ----- | ------------ | ---------------------- | ----- |
+| :---: | :----------: | :--------------------- | :---: |
 | 0     | D0 (0)       |                        | 1     |
 | 1     | D6 (1)       | Clockworks +1, Arts +1 | 1     |
 | 2     | D8 (2)       | Clockworks +2, Arts +2 | 2     |
@@ -97,9 +96,8 @@ Table: Harmonicon Components
 
 Table: Harmonicon Instrument Types
 
-|       |             |                |              |              |
-| ----- | ----------- | -------------- | ------------ | ------------ |
 | Space | Instruments | Musical Pieces | Total Length | Range        |
+| :---: | :---------: | :------------: | :----------- | :----------- |
 | 0     | 1           | 1              | 1 minute     | Close (0)    |
 | 1     | 2           | 2              | 5 minutes    | Short (1-2)  |
 | 2     | 3           | 5              | 10 minutes   | Short (1-2)  |
@@ -110,12 +108,12 @@ Table: Harmonicon Instrument Types
 
 ## Talanian Devices
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Talanian Devices
 
 | Item                | Construction Cost | List Cost | Size     | Complexity |
-| ------------------- | ----------------- | --------- | -------- | ---------- |
+| :------------------ | :---------------: | :-------: | :------- | :--------: |
 | Action Doll         |                   |           | Handheld |            |
 | Automatonic Dog     |                   |           | Portable |            |
 | Mechanical Songbird |                   |           | Pocket   |            |
@@ -132,59 +130,59 @@ Table: Talanian Devices
 - **List Cost:** 1D6
 - **Complexity:** 4
 
-*description needed*
+[]{.comingsoon}
 
 ### Automatonic Dog
 
-- **Casing Size:** Portable (gear space *details needed*)
-- **Power Source:** *details needed* (space *details needed*, power supply *details needed*)
-- **Components:** *details needed*, Miniaturization (gear space +*details needed*)
-- **Construction Cost:** *details needed* (*details needed*)
-- **List Cost:** *details needed* (*details needed*)
-- **Complexity:** *details needed*
+- **Casing Size:** Portable (gear space []{.comingsoon})
+- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+- **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
+- **List Cost:** []{.comingsoon} ([]{.comingsoon})
+- **Complexity:** []{.comingsoon}
 
-*description needed*
+[]{.comingsoon}
 
 ### Mechanical Songbird
 
-- **Casing Size:** Pocket (gear space *details needed*)
-- **Power Source:** *details needed* (space *details needed*, power supply *details needed*)
-- **Components:** *details needed*, Miniaturization (gear space +*details needed*)
-- **Construction Cost:** *details needed* (*details needed*)
-- **List Cost:** *details needed* (*details needed*)
-- **Complexity:** *details needed*
+- **Casing Size:** Pocket (gear space []{.comingsoon})
+- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+- **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
+- **List Cost:** []{.comingsoon} ([]{.comingsoon})
+- **Complexity:** []{.comingsoon}
 
-*description needed*
+[]{.comingsoon}
 
 ### Music Box
 
-- **Casing Size:** Handheld (gear space *details needed*)
-- **Power Source:** *details needed* (space *details needed*, power supply *details needed*)
-- **Components:** *details needed*, Miniaturization (gear space +*details needed*)
-- **Construction Cost:** *details needed* (*details needed*)
-- **List Cost:** *details needed* (*details needed*)
-- **Complexity:** *details needed*
+- **Casing Size:** Handheld (gear space []{.comingsoon})
+- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+- **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
+- **List Cost:** []{.comingsoon} ([]{.comingsoon})
+- **Complexity:** []{.comingsoon}
 
-*description needed*
+[]{.comingsoon}
 
 ### Tiny Dancer
 
-- **Casing Size:** Pocket (gear space *details needed*)
-- **Power Source:** *details needed* (space *details needed*, power supply *details needed*)
-- **Components:** *details needed*, Miniaturization (gear space +*details needed*)
-- **Construction Cost:** *details needed* (*details needed*)
-- **List Cost:** *details needed* (*details needed*)
-- **Complexity:** *details needed*
+- **Casing Size:** Pocket (gear space []{.comingsoon})
+- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+- **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
+- **List Cost:** []{.comingsoon} ([]{.comingsoon})
+- **Complexity:** []{.comingsoon}
 
-*description needed*
+[]{.comingsoon}
 
 ##### Wind-Up Wagon
 
-- **Casing Size:** Person (gear space *details needed*)
-- **Power Source:** *details needed* (space *details needed*, power supply *details needed*)
-- **Components:** *details needed*, Miniaturization (gear space +*details needed*)
-- **Construction Cost:** *details needed* (*details needed*)
-- **List Cost:** *details needed* (*details needed*)
-- **Complexity:** *details needed*
+- **Casing Size:** Person (gear space []{.comingsoon})
+- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+- **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
+- **List Cost:** []{.comingsoon} ([]{.comingsoon})
+- **Complexity:** []{.comingsoon}
 
-*description needed*
+[]{.comingsoon}

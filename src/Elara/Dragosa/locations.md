@@ -2,10 +2,10 @@
 
 ## Volstok, Capital of Dragosa
 
-*description needed*
+[]{.comingsoon}
 
 ::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::
-Talanian Refugees
+:# Talanian Refugees
 
 Former inhabitants of Talania, fleeing from the encroachment of the
 Shattering Frost, have flooded the northern and central parts of

@@ -1,6 +1,6 @@
 # Qartan Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Qartan Equipment
 
@@ -9,4 +9,4 @@ Table: Qartan Equipment
 
 ## Qartan Weapons
 
-*description needed*
+[]{.comingsoon}

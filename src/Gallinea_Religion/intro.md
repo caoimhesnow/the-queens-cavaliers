@@ -1,4 +1,4 @@
-# Religion in Gallinea {.breakbefore}
+# Religion in Gallinea 
 
 The queendom of Gallinea is explicitly Asrian in nature, although the degree to which
 one follows the faith varies from those who only attend services on the first days of

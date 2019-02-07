@@ -1,6 +1,6 @@
 # New Dunon
 
-*introduction needed*
+[]{.comingsoon}
 
 :::::::::::::::::: country ::::::::::::::::::::::::
 :# The Grand Duchy of New Dunon
@@ -19,5 +19,5 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-*description needed*
+[]{.comingsoon}
 

@@ -1,5 +1,5 @@
 :::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-:# Riding horse
+:# Horse, Riding
 
 [Mount-scale animal]{.opptype}
 

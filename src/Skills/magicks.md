@@ -170,7 +170,7 @@ table:
 Table: Maximum Tag Die
 
 | Portents Ranks | Maximum Tag Die |
-| -------------- | --------------- |
+| :------------: | :-------------: |
 |  +1            |  +1D0           |
 |  +2            |  +1D6           |
 |  +3            |  +1D8           |
@@ -206,7 +206,7 @@ on the following table:
 Table: Maximum Hex Penalty
 
 | Portents Ranks | Maximum Hex Penalty |
-| -------------- | ------------------- |
+| :------------: | :-----------------: |
 |  +1            | Drop 1              |
 |  +2            | Drop 2              |
 |  +3            | Drop 3              |

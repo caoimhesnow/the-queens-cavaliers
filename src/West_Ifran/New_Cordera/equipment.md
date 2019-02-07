@@ -1,6 +1,6 @@
 # Nuevan Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Nuevan Equipment
 
@@ -9,4 +9,4 @@ Table: Nuevan Equipment
 
 ## Nuevan Weapons
 
-*description needed*
+[]{.comingsoon}

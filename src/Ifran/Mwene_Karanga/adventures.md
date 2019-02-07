@@ -1,11 +1,11 @@
 # Adventures in Mwene Karanga
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Karangan Story Seeds
 
-*decription needed*
+[]{.comingsoon}
 
-#### Karangan Opponents
+## Karangan Opponents
 
-*description needed*
+[]{.comingsoon}

@@ -1,12 +1,12 @@
 # Locations in Serica
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Serica
 
-*description needed*
+[]{.comingsoon}
 
 ## Shan
 
-*description needed*
+[]{.comingsoon}
 

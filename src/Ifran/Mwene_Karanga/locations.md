@@ -1,19 +1,19 @@
 # Locations in Mwene Karanga
 
-*introduction needed*
+[]{.comingsoon}
 
-## The Karangan Desert
+## The Karangan Forest
 
-*description needed*
+[]{.comingsoon}
 
 ## Kamhara, City of Trade
 
-*description needed*
+[]{.comingsoon}
 
 ## Old Mabwe, City of Invention
 
-*description needed*
+[]{.comingsoon}
 
 ## Chapunga Island
 
-*description needed*
+[]{.comingsoon}

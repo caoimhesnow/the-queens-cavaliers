@@ -43,7 +43,7 @@ creation.
 | ++                     |  Improve Writing             |
 | +++                    |  Translate a Passage         |
 | +++                    |  Craft Book Chapter          |
-| ++++++                 |  Eureka\!                    |
+| ++++++                 |  Eureka!                     |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Report (1 unit of writing materials):** You create a basic
@@ -64,7 +64,7 @@ materials you spend, you can translate another page of text.
 chapter about a general topic. The book has a +1D6 Item Die that can be
 used in Scholarship or Knowledge rolls related to the topic.
 
-**Eureka\!:** During the course of your research, you've reached a new
+**Eureka!:** During the course of your research, you've reached a new
 conclusion that has eluded other scholars before you. The Item Die of
 the report or chapter is maximized when used in a dice pool.
 

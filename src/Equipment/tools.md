@@ -22,25 +22,23 @@ Table: Tools
 | Mining Tools        | 1D6  | Explore +1D6 prospecting only, Blackpower +1D6 mining only      |
 | Musical Instrument  | 1D6  | Arts +1D6 performance only, Inspire +1D6                        |
 | Repair Tools        | 1D6  | Clockworks +1D6                                                 |
-| Rolling Pin         | 1D0  | Arts +1D0 cooking only, Cudgel +1D0                             |
 | Spyglass            | 1D6  | Observation +1D6 more than 2 areas away                         |
 | Tailoring Tools     | 1D6  | Weave +1D6                                                      |
 
-  - **Abacus:** *description needed*
-  - **Alchemy Tools:** *description needed*
-  - **Artistic Tools:** *description needed*
-  - **Book:** *description needed*
-  - **Chirurgeon's Knives:** *description needed*
-  - **Divination Tools:** *description needed*
-  - **Farmworking Tools:** *description needed*
-  - **Kitchen Cutlery:** *description needed*
-  - **Lockpicks:** *description needed*
-  - **Magnifying Glass:** *description needed*
-  - **Mariner's Astrolabe:** *description needed*
-  - **Metalworking Tools:** *description needed*
-  - **Mining Tools:** *description needed*
-  - **Musical Instrument:** *description needed*
-  - **Repair Tools:** *description needed*
-  - **Rolling Pin:** *description needed*
-  - **Spyglass:** *description needed*
-  - **Tailoring Tools:** *description needed*
+  - **Abacus:** []{.comingsoon}
+  - **Alchemy Tools:** []{.comingsoon}
+  - **Artistic Tools:** []{.comingsoon}
+  - **Book:** []{.comingsoon}
+  - **Chirurgeon's Knives:** []{.comingsoon}
+  - **Divination Tools:** []{.comingsoon}
+  - **Farmworking Tools:** []{.comingsoon}
+  - **Kitchen Cutlery:** []{.comingsoon}
+  - **Lockpicks:** []{.comingsoon}
+  - **Magnifying Glass:** []{.comingsoon}
+  - **Mariner's Astrolabe:** []{.comingsoon}
+  - **Metalworking Tools:** []{.comingsoon}
+  - **Mining Tools:** []{.comingsoon}
+  - **Musical Instrument:** []{.comingsoon}
+  - **Repair Tools:** []{.comingsoon}
+  - **Spyglass:** []{.comingsoon}
+  - **Tailoring Tools:** []{.comingsoon}

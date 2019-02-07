@@ -1,6 +1,6 @@
 # Pitdahr Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Pitdahr Equipment
 
@@ -12,7 +12,7 @@ Table: Pitdahr Equipment
 
 ## Pitdahr Weapons
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Pitdahr Weapons
 
@@ -20,13 +20,13 @@ Table: Pitdahr Weapons
 | :-------------- | :--: | :----------- | :----------- | :----------------------------------------------------- |
 | Shamshir        | D6   | Cavalry      | Sword +1D6   | Parry (+++: Unhorse), Lunge, Riposte, Feint            |
 
-  - **Shamshir (Northern Ifran):** *description needed* scimitar
+  - **Shamshir (Northern Ifran):** []{.comingsoon}
 
 Table: Pitdahn Aimed Weapons
 
 | Weapon   | Cost | Hands   | Weapon Die | Reload | Close  | Short  | Medium | Long   |
-| :------- | :--: | :------ | :--------- | ------ | ------ | ------ | ------ | ------ |
+| :------- | :--: | :------ | :--------- | :----- | :----- | :----- | :----- | :----- |
 | Horsebow | D6   | Cavalry | Bow 1D6    | Drop 0 | Drop 1 | Drop 0 | Drop 1 | Drop 2 |
 
-  - **Horsebow (Northern Ifran):** *description needed*
+  - **Horsebow (Northern Ifran):** []{.comingsoon}
 

@@ -11,6 +11,14 @@ The Desert Mother is also known as the Queen of the Night. While the darkness of
 in colder climes, to those in the blistering Ifrani desert the night is a time of relief, of 
 activity, of renewal. Such was the context for the creation of the Devran faith.
 
+## Symbolism
+
+::::::::::::::::::::::::::::: pic-right :::::::::::::::::::::::::::::::::::::::::
+![Devran Moon, by Robert P. Stefko](assets/Symbols/DevranMoon.png "Devran Moon, by Robert P. Stefko")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Devra is sometimes represented by a crescent moon, and the stars behind her as ancestors who have passed on.
+
 ## *Songs of the Desert Mother*
 
 *Songs of the Desert Mother* is the collective name for ancient poems, songs, hymns, and parables collected over

@@ -1,20 +1,20 @@
 # Adventures in Qarta
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Qartan Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Qartan Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Qartan Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Qartan Opponents
 
-*description needed*
+[]{.comingsoon}
 

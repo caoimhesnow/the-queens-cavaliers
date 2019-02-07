@@ -60,12 +60,12 @@ following table:
 Table: Maximum Tag Die
 
 | Explore Ranks | Maximum Tag Die |
-| ------------- | --------------- |
-| \+1           | \+1D0           |
-| \+2           | \+1D6           |
-| \+3           | \+1D8           |
-| \+4           | \+1D10          |
-| \+5           | \+1D12          |
+| :-----------: | :-------------: |
+|  +1           |  +1D0           |
+|  +2           |  +1D6           |
+|  +3           |  +1D8           |
+|  +4           |  +1D10          |
+|  +5           |  +1D12          |
 
 **Find Food and Water:** You manage to find a source of water, and units
 of foodstuffs equal to your ranks in Nature (Explore), for every two
@@ -118,12 +118,12 @@ number of ranks in Nature (Husbandry), as shown on the following table:
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Husbandry Rank Required |
-| ----------------- | --------- | ----------------------- |
-| 2 hours           | 1D0       | \+1                     |
-| 4 hours           | 1D6       | \+2                     |
-| 8 hours (1 day)   | 1D8       | \+3                     |
-| 16 hours (2 days) | 1D10      | \+4                     |
-| 32 hours (4 days) | 1D12      | \+5                     |
+| :---------------: | :-------: | :---------------------: |
+| 2 hours           | 1D0       |  +1                     |
+| 4 hours           | 1D6       |  +2                     |
+| 8 hours (1 day)   | 1D8       |  +3                     |
+| 16 hours (2 days) | 1D10      |  +4                     |
+| 32 hours (4 days) | 1D12      |  +5                     |
 
 **Item Die:** You can add the Weapon Die of a Knife when butchering, the
 Item Die of a domesticated animal when gathering crops, tending flocks,
@@ -148,7 +148,7 @@ one with D8 Ferocity is Moderate (3D8), and so on.
 | Opposition:   | Standard Opposition |
 | +:            | Handle Animal       |
 | +:            | Gather Crops        |
-| \+:           | Dairy Farming       |
+|  +:           | Dairy Farming       |
 | +++:          | Gain 1 Style Point  |
 | +++:          | Veterinary Medicine |
 | +++:          | Butchery            |
@@ -173,12 +173,12 @@ shown in the following table:
 Table: (table) Maximum Tag Die
 
 | Husbandry Ranks | Maximum Tag Die |
-| --------------- | --------------- |
-| \+1             | \+1D0           |
-| \+2             | \+1D6           |
-| \+3             | \+1D8           |
-| \+4             | \+1D10          |
-| \+5             | \+1D12          |
+| :-------------: | :-------------: |
+|  +1             |  +1D0           |
+|  +2             |  +1D6           |
+|  +3             |  +1D8           |
+|  +4             |  +1D10          |
+|  +5             |  +1D12          |
 
 **Gather Crops:** Assuming you have access to a field of crops, you can
 harvest 2 units of foodstuffs. For each additional success point you
@@ -254,7 +254,7 @@ Nature (Prowl):
 Table: Maximum Observation Opposition
 
 | Prowl Rank | Item Die              |
-| ---------- | --------------------- |
+| :--------: | :-------------------: |
 | 1          | Easy (3D6)            |
 | 2          | Moderate (3D8)        |
 | 3          | Difficult (3D10)      |

@@ -1,12 +1,15 @@
 # Locations in Talania
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Zamorov, Abandoned Capital of Talaniana
 
-*description needed*
+[]{.comingsoon}
 
 ## Talanian Valley
 
-*description needed*
+[]{.comingsoon}
 
+## Yuzhnaya Harbor
+
+[]{.comingsoon}

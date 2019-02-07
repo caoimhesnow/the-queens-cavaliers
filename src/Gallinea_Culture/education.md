@@ -94,19 +94,19 @@ in astronomy, alchemy, and mining; *licentia des arts* and *maîtresse des arts*
 chorale, theatrics and dance; and *licentia de l'histoire* and *maîtresse de l'histoire* in 
 comparative theology, criminal defense barristry, critical thinking, and cultural studies.
 
-## Theological Seminary of Cordova
+## Theological Seminary of Cordera
 
-All chaplains are required to study at the Theological Seminary in Cordova, Ondala, or study directly
+All chaplains are required to study at the Theological Seminary in Cordera, Ondala, or study directly
 under a seminary-educated theologian. A basic education takes three years and grants a 
 *licentia de religion* as well as ordination as a chaplain. An additional three years of study is
 required to earn a *maîtresse de religion* which qualifies one to both teach other chaplains abroad and
 serve as senior chaplain. A full *doctorat en religion* is required for arch-chaplains and also for
 teaching at the theological seminary.
 
-Chaplains who are ordained without the requisite training are expected to report to Cordova as soon
+Chaplains who are ordained without the requisite training are expected to report to Cordera as soon
 as they able to able to do so. The current matriarch of the church, Isabene de la Justicia, was ordinained
-as a chaplain before attenting the seminary; to many of the more conservative arch-chaplains, this was
-enough to later disqualify her from ascension as the Bride of the Sun.
+as a chaplain before attenting the seminary; to many of the more conservative arch-chaplaiera this was
+eraugh to later disqualify her from ascension as the Bride of the Sun.
 
 ## Private Tutoring
 

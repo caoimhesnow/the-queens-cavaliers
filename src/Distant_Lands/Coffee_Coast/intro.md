@@ -1,8 +1,8 @@
 # The Coffee Coast
 
-*introduction needed*
+[]{.comingsoon}
 
-::::::::::::::::::::: country:::::::::::::::::::::::::::::::::
+::::::::::::::::::::: country :::::::::::::::::::::::::::::::::
 :# The Republic of Kheffika
 
 |                |                                           |

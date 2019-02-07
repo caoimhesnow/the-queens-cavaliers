@@ -1,12 +1,12 @@
 # Locations in Varendia
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Medtken, Traditional Capital of Varendia
 
-*description needed*
+[]{.comingsoon}
 
 ## Albingia
 
-*description needed*
+[]{.comingsoon}
 

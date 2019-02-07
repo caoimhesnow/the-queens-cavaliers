@@ -87,10 +87,10 @@ national flag.
 
 ## Elaran Plague
 
-*description needed* 
+[]{.comingsoon}
 
 :::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::
-![King Edgar II of Albia, by Eleanor Ferron](assets/Portraits/king-edgar.jpg "King Edgar II of Albia, by Eleanor Ferron")
+![King Edgar II of Albia, by Eleanor Ferron](assets/Portraits/Medium/king-edgar.jpg "King Edgar II of Albia, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Royal Family

@@ -27,7 +27,7 @@ Table: Common Clockwork Items
 
 ## Clockwork Weapons
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Clockwork Weapons
 
@@ -36,6 +36,8 @@ Table: Clockwork Weapons
 | Clockbow         | D10   | Both    | Bow +1D8      | Aim                          |
 | Clockwork Pistol | D8    | Main    | Pistol +1D6   | Aim                          |
 | Gearsword        | D10   | Main    | Sword +1D8    | Parry, Lunge, Riposte, Feint |
+
+[]{.comingsoon}
 
 Table: Details for Aimed Clockwork Weapons
 

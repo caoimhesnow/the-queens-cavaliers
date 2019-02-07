@@ -1,6 +1,6 @@
 # Elissian Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Elissian Equipment
 
@@ -9,5 +9,5 @@ Table: Elissian Equipment
 
 ## Elissian Weapons
 
-*description needed*
+[]{.comingsoon}
 

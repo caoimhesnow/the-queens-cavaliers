@@ -1,20 +1,20 @@
 # Adventures in Serica
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Serican Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Serican Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Serican Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Serican Opponents
 
-*description needed*
+[]{.comingsoon}
 

@@ -15,6 +15,6 @@
 - **Impetus:** Hunger (D8), Survival (D6)
 
 Here's that single rat by itself. You probably won't get hurt by it.
-Just pray to Essere it's not carrying some dreadful plague...
+Just pray to Eserre it's not carrying some dreadful plague...
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

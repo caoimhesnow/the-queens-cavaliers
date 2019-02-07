@@ -1,5 +1,4 @@
-::::::::::::::::::::::::: option ::::::::::::::::::::::::::::::::::::::::::
-Optional Rule: Encumbrance
+# Optional Rule: Encumbrance
 
 This is an optional rule that the MJ can use if it will enhance her
 game. In most cases, the calculations are more effort than they're worth
@@ -7,20 +6,22 @@ and rarely provide any actual change in the game. However, if the
 players start carrying around dozens of heavy items, the MJ might decide
 that this use can help bring her players' gear into line with her
 expectations for the game. *The Queen's Cavaliers* is a swashbuckling
-action game, and not about lugging around heavy weights\!
+action game, and not about lugging around heavy weights!
 
-#### Carrying Limit
+## Carrying Limit
 
 A human carrying a Person-sized object takes a Drop 2 penalty on attack
 rolls (Dueling, Brawl, and Aim), and cannot move more than one area in a
 given turn. Humans cannot usually move items of Carriage size or higher,
 unless it's got wheels or something similar.
 
-*Example:* You pick up an unconscious colleague and carry her over your
+:::::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
+You pick up an unconscious colleague and carry her over your
 shoulders. That's obviously a Person-sized object, so you get a Drop 2
 penalty and can't run.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-#### Combining Encumbrance
+## Combining Encumbrance
 
 Three items of a smaller size are equivalent to one item of larger size.
 So three Portable items are as bulky and heavy as one Person-sized
@@ -35,7 +36,7 @@ cutlass, a buckler, and a brace of six pistols tied together by rope --
 and not be slowed down, because that only equals two Portable items,
 which is less than a Person-sized object.
 
-#### Worn Items
+## Worn Items
 
 Items that are specifically designed to be worn -- and which can't be
 removed easily during the middle of a fight (and sometimes, even after a
@@ -57,7 +58,7 @@ all considered Pocket size (regardless of actual size) and thus is not
 included when worn unless you're doing something silly like wearing
 three different capes at the same time.
 
-#### Other Things That Don't Weigh Very Much
+## Other Things That Don't Weigh Very Much
 
 Medicine, alchemy supplies, draughts and unguents, poisons, and other
 small consumables don't count for encumbrance unless you've got 9 of
@@ -72,5 +73,4 @@ units you carry. So if you're carrying, say, 10 units of clockwork
 gears, that counts as three Pocket-size objects, or 1 Handheld object.
 Two or fewer units of these supplies don't count for encumbrance
 purposes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

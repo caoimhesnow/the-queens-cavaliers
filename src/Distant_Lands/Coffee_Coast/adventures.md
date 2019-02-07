@@ -1,11 +1,11 @@
 # Adventures in the Coffee Coast
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Coffee Coast Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## Kheffikan Opponents
 
-*description needed*
+[]{.comingsoon}

@@ -1,5 +1,5 @@
 :::::::::::::::::::::::::::::: statblock :::::::::::::::::::::::::::::::::::::::::::::
-:# Warhorse
+:# Horse, Warhorse
 
 [Mount-scale animal]{.opptype}
 

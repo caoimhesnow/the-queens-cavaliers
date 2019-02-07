@@ -54,7 +54,7 @@ to Very Difficult (3D12).
 Table: Standard Opposition
 
 | Difficulty | Opposing Dice Pool |
-| ---------- | ------------------ |
+| :--------: | :----------------: |
 | Very Easy  | Automatic success  |
 | Easy       | 3D6                |
 | Moderate   | 3D8                |

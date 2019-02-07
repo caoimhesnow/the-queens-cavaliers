@@ -1,8 +1,7 @@
 # Locations in Elissia
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Nouville
 
-*description needed*
-
+[]{.comingsoon}

@@ -1,4 +1,4 @@
-# The Life of a Cavalier {.breakbefore}
+# The Life of a Cavalier 
 
 [Bonus Content by Sam Chupp]{.bonuscontent}
 
@@ -486,7 +486,7 @@ the Queen is the manifestation of the Goddess in the world. This has been backed
 writings and prophetic visionary dreams.
 
 ::::::::::::::::::::::::::::: pic-right :::::::::::::::::::::::::::::::::
-![Martine and Farrazin](assets/Scenes/martine-farrazin.jpg "Martine and Farrazin")
+![Martine and Farrazin](assets/Scenes/Medium/martine-farrazin.jpg "Martine and Farrazin")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 This heresy is secret, of course, but it is run by the Maiden Chaplain Kilara, a bright, charismatic woman
 who came to Asrianism though her family was Devran. As Maiden Chaplain she is the junior most of three
@@ -739,7 +739,7 @@ and that would satisfy Vichy well enough, although the Baths token might be part
 #### The Riverbreeze Baths
 
 ::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::::
-![Martine Deveaux, by Joanne Renaud](assets/Scenes/martine-dress.jpg)
+![Martine Deveaux, by Joanne Renaud](assets/Scenes/Medium/martine-dress.jpg)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 If the Cavaliers discover the Riverbreeze Baths prior to the Ambush, they will find the Baths open for
 business. A number of well­to­do and hedonistic nobles regularly take a river barge down to the Baths for a

@@ -199,6 +199,11 @@ Gallinean has medium brown skin, medium brown hair, and hazel, brown, or blue ey
 it's not unusual to find blonde hair, green eyes, black hair, dark brown skin, red
 hair, or even violet eyes.
 
+::::::::::::::::::::::::::::::: lineup :::::::::::::::::::::::::::::::::::
+![A typical Gallinean](assets/Portraits/Medium/gabriana-secouriste.jpg "A typical Gallinean")
+![A typical Gallinean](assets/Portraits/Medium/queen-mariana.jpg       "A typical Gallinean")
+![A typical Gallinean](assets/Portraits/Medium/martine-deveaux.jpg     "A typical Gallinean")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 The pre-Qartan aboriginal Gallineans were, by coincidence or not, of roughly
 the same phenotype as modern Gallineans. Those with greater amounts of Albian ancestry tend
 have lighter skin, hair, and eyes, while those with Varendish ancestors have more ruddy
@@ -208,6 +213,12 @@ Those of more direct Ifran descent have darker skin, dark brown eyes, and usuall
 while Gallineans with Ekalian roots have medium-brown skin, blue or brown eyes, and curly black
 hair. People from the Coffee Coast have darker brown skin, straight black hair, and brown or
 green eyes, while Sericans have light brown skin, brown eyes, and straight black hair.
+
+::::::::::::::::::::::::::::::: lineup :::::::::::::::::::::::::::::::::::
+![Albian ancestry](assets/Portraits/Medium/guardian-farrazin.jpg         "Albian ancestry")
+![Ifran ancestry](assets/Portraits/Medium/rodolfo-de-diega.jpg           "Ifran ancestry")
+![Khefikkan ancestry](assets/Portraits/Medium/isabene-de-la-justicia.jpg "Khefikkan ancestry")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Gallineans do recognize these differences but the importance they ascribe to them is 
 different than the 21st Century Earth concept of race. To Gallineans -- and most Elarans

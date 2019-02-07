@@ -1,4 +1,4 @@
-# Atlas of Gallinea {.breakbefore}
+# Atlas of Gallinea 
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The Queendom of Gallinea

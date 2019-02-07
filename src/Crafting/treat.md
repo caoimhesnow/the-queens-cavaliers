@@ -37,7 +37,7 @@ creation.
 | ++               |  Craft Known Cure                   |
 | ++++             |  Reduce Material Cost               |
 | +++++            |  Duplicate Cure                     |
-| ++++++           |  Eureka\!                           |
+| ++++++           |  Eureka!                            |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft medicine (1 unit of alchemical ingredients):** You create two
@@ -56,7 +56,7 @@ as you have a sample. You create one dose of the cure, and for every
 extra success point and unit of medicine you create another dose. The
 cure is effective for only 12 hours and cannot be extended.
 
-**Eureka\! (5 units of medicine):** You've invented a new cure for the
+**Eureka!  (5 units of medicine):** You've invented a new cure for the
 disease you're treating. You craft one dose of the cure, and for every
 extra success point and unit of medicine you create another one. The
 cure is effective for 24 hours, although you can extend the potency by

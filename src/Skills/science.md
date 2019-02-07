@@ -69,12 +69,12 @@ table:
 Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Blackpowder Rank Required |
-| --------------- | --------- | ------------------------- |
-| 2 minutes       | 1D0       | \+1                       |
-| 5 minutes       | 1D6       | \+2                       |
-| 15 minutes      | 1D8       | \+3                       |
-| 1 hour          | 1D10      | \+4                       |
-| 4 hours         | 1D12      | \+5                       |
+| :-------------: | :-------: | :-----------------------: |
+| 2 minutes       | 1D0       |  +1                       |
+| 5 minutes       | 1D6       |  +2                       |
+| 15 minutes      | 1D8       |  +3                       |
+| 1 hour          | 1D10      |  +4                       |
+| 4 hours         | 1D12      |  +5                       |
 
 **Rushing: **You can reduce the time to set or disarm a bomb by taking a
 Drop penalty on your die roll. You can't rush a job that you're taking
@@ -84,7 +84,7 @@ the task, as shown on the following table:
 Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
@@ -104,8 +104,8 @@ the bomb's Explosion Dice.
 | Opposition:   | Standard Opposition         |
 | Item Die:     | Weapon die or repair tools  |
 | Bonus Die:    | Extra time                  |
-| \+:           | Hit An Area                 |
-| \++:          | Base Damage +1 Wound        |
+|  +:           | Hit An Area                 |
+|  ++:          | Base Damage +1 Wound        |
 | ++:           | Set Timed Fuse              |
 | ++:           | Detonate Charges            |
 | +++:          | Expand Radius               |
@@ -178,22 +178,22 @@ shown on the following tables:
 Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Clockworks Rank Required |
-| --------------- | --------- | ------------------------ |
-| 2 minutes       | 1D0       | \+1                      |
-| 5 minutes       | 1D6       | \+2                      |
-| 15 minutes      | 1D8       | \+3                      |
-| 1 hour          | 1D10      | \+4                      |
-| 4 hours         | 1D12      | \+5                      |
+| :-------------: | :-------: | :----------------------: |
+| 2 minutes       | 1D0       |  +1                      |
+| 5 minutes       | 1D6       |  +2                      |
+| 15 minutes      | 1D8       |  +3                      |
+| 1 hour          | 1D10      |  +4                      |
+| 4 hours         | 1D12      |  +5                      |
 
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Clockworks Rank Required |
-| ----------------- | --------- | ------------------------ |
-| 2 hours           | 1D0       | \+1                      |
-| 4 hours           | 1D6       | \+2                      |
-| 8 hours (1 day)   | 1D8       | \+3                      |
-| 16 hours (2 days) | 1D10      | \+4                      |
-| 32 hours (4 days) | 1D12      | \+5                      |
+| :---------------: | :-------: | :----------------------: |
+| 2 hours           | 1D0       |  +1                      |
+| 4 hours           | 1D6       |  +2                      |
+| 8 hours (1 day)   | 1D8       |  +3                      |
+| 16 hours (2 days) | 1D10      |  +4                      |
+| 32 hours (4 days) | 1D12      |  +5                      |
 
 **Rushing: **You can reduce the time to repair, salvage, or sabotage a
 device by taking a Drop penalty on your die roll. You can't rush a job
@@ -203,7 +203,7 @@ on how much you rush the task, as shown on the following table:
 Table: Rushing a One-Minute Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 45 seconds      | Drop 1       |
 | 30 seconds      | Drop 2       |
 | 2 actions       | Drop 3       |
@@ -212,7 +212,7 @@ Table: Rushing a One-Minute Task
 Table: Rushing a One-Hour Task
 
 | Completion Time | Drop Penalty |
-| --------------- | ------------ |
+| :-------------: | :----------: |
 | 30 minutes      | Drop 1       |
 | 15 minutes      | Drop 2       |
 | 5 minutes       | Drop 3       |
@@ -233,11 +233,11 @@ in a device that is beyond your ability to create, based on your Science
 | Item Die:     | Tools or Workshop Die         |
 | Bonus Die:    | Plans, extra time             |
 | +:            | Keep It Together              |
-| \++:          | We Need More Power            |
-| \++:          | Repair 1 Malfunction          |
+|  ++:          | We Need More Power            |
+|  ++:          | Repair 1 Malfunction          |
 | ++:           | Salvage a Component           |
 | +++:          | Gain 1 Style Point            |
-| \++++:        | Sabotage Device               |
+|  ++++:        | Sabotage Device               |
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Keep It Together:** You manage to patch the device together long
@@ -296,7 +296,7 @@ calculations in your head is Hard (3D10).
 | Opposition:   | Standard Opposition   |
 | Item Die:     | Tools or Workshop Die |
 | +:            | Simple Calculation    |
-| \++:          | Analysis              |
+|  ++:          | Analysis              |
 | +++:          | Gain 1 Style Point    |
 | ++++:         | Complex Calculation   |
 :::::::::::::::::::::::::::::::::::::::::
@@ -317,12 +317,12 @@ shown in the following table:
 Table: Maximum Tag Die
 
 | Calculus Ranks | Maximum Tag Die |
-| -------------- | --------------- |
-| \+1            | \+1D0           |
-| \+2            | \+1D6           |
-| \+3            | \+1D8           |
-| \+4            | \+1D10          |
-| \+5            | \+1D12          |
+| :------------: | :-------------: |
+|  +1            |  +1D0           |
+|  +2            |  +1D6           |
+|  +3            |  +1D8           |
+|  +4            |  +1D10          |
+|  +5            |  +1D12          |
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
 you use the Specialty with style, and you can only have a maximum of

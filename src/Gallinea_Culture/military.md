@@ -99,20 +99,20 @@ The following table lists the current fleet of 12 sky navy airships.
 
 Table: Her Majesty's Sky Navy
 
-| Airship Name | Size                |
-| :----------- | :-----------------: |
-| Amarante     | Cloud Brigantine    |
-| Aubene       | Cloud Brigantine    |
-| Audace       | Sky Galion          |
-| Galaxie      | Star Fregate        |
-| Intrépide    | Sky Galion          |
-| Jérôme       | Cloud Brigantine    |
-| Lutetia      | Star Fregate        |
-| Persolei     | Star Fregate        |
-| Pégase       | Dame des Cieux      |
-| République   | Sky Galion          |
-| Résistance   | Sky Galion          |
-| Vaillante    | Sky Galion          |
+| Airship Name     | Size                |
+| :--------------- | :------------------ |
+| **Amarante**     | Cloud Brigantine    |
+| **Aubene**       | Cloud Brigantine    |
+| **Audace**       | Sky Galion          |
+| **Galaxie**      | Star Fregate        |
+| **Intrépide**    | Sky Galion          |
+| **Jérôme**       | Cloud Brigantine    |
+| **Lutetia**      | Star Fregate        |
+| **Persolei**     | Star Fregate        |
+| **Pégase**       | Dame des Cieux      |
+| **République**   | Sky Galion          |
+| **Résistance**   | Sky Galion          |
+| **Vaillante**    | Sky Galion          |
 
 Cloud brigantines are the smallest of the military airships, followed by star fregates and
 sky galions. The largest ship in the Gallinean sky navy is the massive Pégase, one of only

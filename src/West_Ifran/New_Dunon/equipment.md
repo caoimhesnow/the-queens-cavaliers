@@ -1,6 +1,6 @@
 # New Dunan Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: New Dunan Equipment
 
@@ -9,4 +9,4 @@ Table: New Dunan Equipment
 
 ## New Dunan Weapons
 
-*description needed*
+[]{.comingsoon}

@@ -1,4 +1,3 @@
 # Qartan Galinia
 
-*description needed*
-
+[]{.comingsoon}

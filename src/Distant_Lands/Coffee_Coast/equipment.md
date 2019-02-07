@@ -1,6 +1,6 @@
 # Kheffikan Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Kheffikan Equipment
 
@@ -9,4 +9,5 @@ Table: Kheffikan Equipment
 
 ## Kheffikan Weapons
 
-*description needed*
+[]{.comingsoon}
+

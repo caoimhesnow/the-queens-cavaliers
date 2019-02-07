@@ -1,4 +1,4 @@
 # Adventures
 
-*introduction needed*
+[]{.comingsoon}
 

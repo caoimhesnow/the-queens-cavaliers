@@ -58,7 +58,7 @@ you have in Interaction (Inspire), as shown on the following table:
 Table: Maximum Tag Die
 
 | Inspire Rank | Bonus Die |
-| ------------ | --------- |
+| :----------: | :-------: |
 | 1            | \+1D0     |
 | 2            | \+1D6     |
 | 3            | \+1D8     |
@@ -83,7 +83,7 @@ use.
 Table: Inspire Results
 
 | Tag Die | Drop Penalty | Bonus Die |
-| ------- | ------------ | --------- |
+| :-----: | :----------: | :-------: |
 | \+1D0   | Drop 1       | \+1D6     |
 | \+1D6   | Drop 2       | \+1D8     |
 | \+1D8   | Drop 3       | \+1D10    |

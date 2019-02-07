@@ -20,10 +20,10 @@ Table: Alchemy Items
   
   - **Antidote:** One unit is expended each time you use the Poison specialty to neutralize toxins.
   - **Courage Draught:** This removes 1D6 Yield from whoever drinks it.
-  - **Detective's Vice:** *description needed* drink
-  - **Firefly Lamp:** *description needed* carried
+  - **Detective's Vice:** []{.comingsoon} drink
+  - **Firefly Lamp:** []{.comingsoon} carried
   - **Healing Unguent:** This gives a Treat +1D6 bonus die on Surgery or Treat rolls to heal the person it's applied to.
-  - **Memory Draught:** *description needed* drink
+  - **Memory Draught:** []{.comingsoon} drink
   - **Nimblefingers Unction:** *description* applied to hands
-  - **Serpent's Tongue Draught:** *description needed* drink
-  - **Teetotaler's Tea:** *description needed* drink
+  - **Serpent's Tongue Draught:** []{.comingsoon} drink
+  - **Teetotaler's Tea:** []{.comingsoon} drink

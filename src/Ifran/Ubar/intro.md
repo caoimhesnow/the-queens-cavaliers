@@ -1,6 +1,6 @@
 # Ubar
 
-*introduction needed*
+[]{.comingsoon}
 
 ::::::::::::::::::: country :::::::::::::::::::::::::
 :# The Caliphate of Ubar
@@ -20,5 +20,5 @@
 | Major Exports   |                                 |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 

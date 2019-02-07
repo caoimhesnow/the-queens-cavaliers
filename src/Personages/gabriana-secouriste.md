@@ -1,7 +1,7 @@
 # Gabriana Secouriste {.breakbefore}
 
 :::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::
-![Cavalier Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/gabriana-secouriste.jpg "Cavalier Gabriana Secoursite, by Eleanor Ferron")
+![Cavalier Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/Medium/gabriana-secouriste.jpg "Cavalier Gabriana Secoursite, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.

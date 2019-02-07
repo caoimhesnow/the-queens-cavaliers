@@ -39,7 +39,7 @@ creation.
 **Draw Astrological Charts (1 unit of art media):** You create a set of
 astrological charts for someone based on the place, date, and time of
 her birth. (Incorrect information will, of course, produce useless
-charts\!) The charts you create provide you with a +1D6 Item Die for
+charts!) The charts you create provide you with a +1D6 Item Die for
 Magicks (Portents) rolls on that person.
 
 **Improve Astrological Charts (1 unit of art media):** The Item Die of

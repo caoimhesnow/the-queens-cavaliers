@@ -101,12 +101,12 @@ following table:
 Table: Maximum Tag Die
 
 | Intuition Ranks | Maximum Tag Die |
-| --------------- | --------------- |
-| \+1             | \+1D0           |
-| \+2             | \+1D6           |
-| \+3             | \+1D8           |
-| \+4             | \+1D10          |
-| \+5             | \+1D12          |
+| :-------------: | :-------------: |
+|  +1             |  +1D0           |
+|  +2             |  +1D6           |
+|  +3             |  +1D8           |
+|  +4             |  +1D10          |
+|  +5             |  +1D12          |
 
 **Sense Danger:** You can identify one or more sources of immediate
 danger that aren't readily apparent, including an ambush. Every two
@@ -167,12 +167,12 @@ following table:
 Table: Maximum Tag Die
 
 | Deduce Ranks | Maximum Tag Die |
-| ------------ | --------------- |
-| \+1          | \+1D0           |
-| \+2          | \+1D6           |
-| \+3          | \+1D8           |
-| \+4          | \+1D10          |
-| \+5          | \+1D12          |
+| :----------: | :-------------: |
+|  +1          |  +1D0           |
+|  +2          |  +1D6           |
+|  +3          |  +1D8           |
+|  +4          |  +1D10          |
+|  +5          |  +1D12          |
 
 **Reach Simple Conclusion:** You draw a basic conclusion from the
 available facts. You need to have recognized at least one clue to reach

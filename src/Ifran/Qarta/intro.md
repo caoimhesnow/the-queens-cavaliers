@@ -1,6 +1,6 @@
 # Qartan Empire
 
-*introduction needed*
+[]{.comingsoon}
 
 :::::::::::::::::: country ::::::::::::::::::::::::
 :# The Empire of Qarta
@@ -18,6 +18,5 @@
 | Major Exports  | Conquest, imperialism           |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
-*description needed*
+[]{.comingsoon}
 

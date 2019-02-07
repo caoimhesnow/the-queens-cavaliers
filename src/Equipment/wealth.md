@@ -84,8 +84,8 @@ her success points on the following success table:
 | Wealth Rolls |                       |
 | ------------ | --------------------- |
 | Opposition   | Cost and availability |
-| \+           | Purchase Item         |
-| \++++        | No Drop               |
+|  +           | Purchase Item         |
+|  ++++        | No Drop               |
 ::::::::::::::::::::::::::::::::::::::::
 
 **Purchase Item:** You can purchase the item or service in question. If
@@ -111,7 +111,7 @@ roll, as they are not a permanent part of your Wealth pool.
 ## Buying in Bulk
 
 Certain items in the equipment list can be purchased in bulk; these are
-marked by a \[B\] after the cost. For those items, and only those items,
+marked by the word *bulk* after the cost. For those items, and only those items,
 you can buy multiple quantities by expending additional success points.
 
 If you are spending a Reward, you get a quantity of items equal to half
@@ -134,17 +134,17 @@ By comparison, an uncharmed cavalier hat would cost D6 plus D0
 availability in Lutetia (they're all the rage these days), for a total
 of 1D6.
 
-## Cost D0
+:::::::::::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::
+:# Cost D0
 
 An item with a cost of D0 is not free; it still requires a successful
 Wealth roll to purchase and thus a die dropped (or a D0 or higher Reward
 to purchase without rolling).
-
 Likewise, a D0 Reward actually is something, but it doesn't do much
 except let you purchase a single D0 item (such as a knife).
-
 A D0 Barter die has no value, however, so you don't need to bother with
 those.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Barter Dice
 

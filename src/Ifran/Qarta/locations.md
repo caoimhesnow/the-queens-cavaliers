@@ -1,12 +1,12 @@
 # Qartan Locations
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Qarta
 
-*description needed*
+[]{.comingsoon}
 
 ## Aad
 
-*description needed*
+[]{.comingsoon}
 

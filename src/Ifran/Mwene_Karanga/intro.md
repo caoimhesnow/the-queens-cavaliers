@@ -1,6 +1,5 @@
 # The Furthest South
 
-*introduction needed*
 
 :::::::::::::::::::: country ::::::::::::::::::::::::::::
 :# Empire of Great Karanga
@@ -19,3 +18,5 @@
 | Currency        | kiniun (singular), kiniuns (plural) |
 | Major Exports   | Lumber, gold, clockworks            |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[]{.comingsoon}

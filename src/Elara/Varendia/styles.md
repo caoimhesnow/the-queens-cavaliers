@@ -1,6 +1,6 @@
 # Varendish Style Maneuvers
 
-*introduction needed*
+[]{.comingsoon}
 
 - **Landsknecht Tactics:** When fighting with a pike, spend 1 Style Point to add Strategy dice to a Lunge roll
 - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll

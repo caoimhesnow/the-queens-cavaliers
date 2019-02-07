@@ -1,19 +1,19 @@
 # Adventures in Pitdah
 
-*description needed*
+[]{.comingsoon}
 
 ## Pitdahr Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Pitdah Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Pitdahr Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Pitdahn Opponents
 
-*description needed*
+[]{.comingsoon}

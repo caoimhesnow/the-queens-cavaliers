@@ -1,6 +1,6 @@
 # Monarchs of Gallinea
 
-This is an incomplete listing of the most recent queens and kings of Gallinea.
+This is an incomplete listing of the queens and kings of Gallinea.
 
 Table: Monarchs of Gallinea
 
@@ -11,7 +11,7 @@ Table: Monarchs of Gallinea
 |                 |                                | ...             |                                      |
 | Queen           |                                |                 | Martialla's daughter                 |
 | Queen           |                                |                 | Martialla's granddaughter            |
-| Queen           |                                |                 | Martialla's great-granddaughter      |
+| Queen           | Elian                          |                 | Martialla's great-granddaughter      |
 | Queen           | Jehanne I                      |                 |                                      |
 | King-Regnant    |                                |                 | First king of Gallinea               |
 | Queen           | Jehanne II                     |                 |                                      |
@@ -19,6 +19,7 @@ Table: Monarchs of Gallinea
 | Queen           | Amarante I                     |                 |                                      |
 | King-Regnant    |                                |                 | Second king of Gallinea              |
 |                 |                                | ...             |                                      |
+| Queen           | Prisca                         | 7th century     | Built the walls of Lutetia           |
 | Queen           | Elisse I                       | 9th century     |                                      |
 |                 |                                | ...             |                                      |
 | Queen           | Mariana I                      | 10th century    |                                      |
@@ -34,4 +35,4 @@ Table: Monarchs of Gallinea
 | Queen           | Mariana II                     | 1244 to present |                                      |
 
 
-*descriptions needed*
+[]{.comingsoon}

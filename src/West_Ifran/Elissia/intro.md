@@ -1,9 +1,9 @@
 # Elissia
 
-*introduction needed*
+[]{.comingsoon}
 
 ::::::::::::: country ::::::::::::::::::::::::::::
-:# The Province of Elissia
+:# The Colonial Province of Elissia
 
 |                |                               |
 | -------------- | ----------------------------- |
@@ -18,5 +18,5 @@
 | Major Exports  | Phlogistone, tobacco, cotton  |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 

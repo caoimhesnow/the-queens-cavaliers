@@ -37,7 +37,7 @@ creation.
 | ++               |  Add Charm to Clothing        |
 | ++               |  Increase Charm               |
 | ++++             |  Reduce Material Cost         |
-| ++++++           |  Masterpiece\!                |
+| ++++++           |  Masterpiece!                 |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Article of Clothing (1 unit of fabric):** You create a basic
@@ -60,6 +60,6 @@ specialty ranks you have in Magicks (Weave).
 **Reduce Material Cost:** You reduce the overall cost of this Crafting
 roll by one unit of fabric.
 
-**Masterpiece\!:** You've created an amazing article of apparel that
+**Masterpiece!:** You've created an amazing article of apparel that
 draws everyone's eyes. The article's Charm Die is automatically
 maximized when used in a dice pool.

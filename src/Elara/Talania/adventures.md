@@ -1,29 +1,16 @@
 # Adventures in Talaniana
 
-*introduction needed* blurb
+[]{.comingsoon}
 
 ## The Talanian Campaign
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Talanian Organizations
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Talanian Opponents
 
-*introduction needed*
-
-### Talanian Rabble
-
-*stats needed*
-
-###### Talanian Character
-
-:::::::::::: statblock :::::::::
-**Major Character**
-
-*statblock needed*
-::::::::::::::::::::::::::::::::
-
+[]{.comingsoon}
 

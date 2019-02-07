@@ -32,7 +32,7 @@ creation.
 
 ::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
 | Arts            | (Crafting)                               |
-| --------------- |----------------------------------------- |
+| :-------------- | :--------------------------------------- |
 | Base Time       |  1 hour or 1 day                         |
 | Opposition      |  Automatic Success                       |
 | Item Die        |  Artisan tools or artist's studio        |
@@ -43,7 +43,7 @@ creation.
 | ++              | Improve Artwork                          |
 | ++++            | Reduce Material Cost                     |
 | +++++           | Create Forgery                           |
-| ++++++          | Pièce de Résistance\!                    |
+| ++++++          | Pièce de Résistance!                     |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Artwork (1 unit of art media):** You create a basic item of art.
@@ -69,7 +69,7 @@ roll to detect the work as a forgery is Easy (3D6). For every 2
 additional success points you spend, the difficulty increases by one
 step, limited by your number of ranks in Culture (Arts).
 
-**Pièce de Résistance\!:** You create a work of art that will be spoken
+**Pièce de Résistance!:** You create a work of art that will be spoken
 of for decades, if not centuries. Any Tag Die on the work of art is
 automatically maximized when used as a Bonus Die.
 

@@ -1,6 +1,6 @@
 # Serica
 
-*introduction needed*
+[]{.comingsoon}
 
 ::::::::::::::::::::: country ::::::::::::::::::::::::::
 :# The Heavenly Principalities of Serica and Shan
@@ -20,5 +20,5 @@
 | Major Exports   | Cloth, spices, grains, blackpowder |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*description needed*
+[]{.comingsoon}
 

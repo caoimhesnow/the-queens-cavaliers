@@ -1,9 +1,5 @@
 # Asrianism
 
-:::::::::::::::::::::::::::::::: pic-inside :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Soleil-de-Essere](assets/Symbols/Soleil-de-Eserre.png "Soleil-de-Essere")
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 Originally worshiped as a sun deity by the Qartans, belief in the Goddess-Empress Ashra 
 (known as *Eserre* in Gallinea) has spread throughout Elara. Asrianism is the state religion 
 of Ondala, Gallinea, and Varendia, and the complex hierarchy of the faith is centered in  
@@ -12,14 +8,20 @@ chaplains known as Guardians of the Faith.
 
 ## Symbolism
 
-::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Four soleils-de-essere in the Gallinean flag](assets/Flags/Gallinea.png "Four soleils-de-essere in the Gallinean flag")
+:::::::::::::::::::::::::::::::: pic-right :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Soleil-de-Essere](assets/Symbols/Soleil-de-Eserre.png "Soleil-de-Essere")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 The *soleil-de-eserre* is the symbol of the Asrian church, representing the sun of Ashra.
 
 Four *soleils-de-eserre* appear on the Gallinean flag, and one on the Ondalan flag. 
 A *soleil-de-eserre* is also found on one side of the sol, the Gallinean unit of currency.
 
 ## The Books of the Sun
+
+::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Four soleils-de-essere in the Gallinean flag](assets/Flags/Gallinea.png "Four soleils-de-essere in the Gallinean flag")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 *The Books of the Sun* are a collection of Asrian holy writings penned between 1400 BQ and 300 BQ, 
 centered on the teachings of the goddess Eserre. *The Books* are written in Old Qartan, although a

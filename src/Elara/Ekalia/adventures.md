@@ -1,16 +1,16 @@
 # Adventures in Ekalia
 
-*description needed*
+[]{.comingsoon}
 
 ## Ekalian Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Ekalian Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Ekalian Organizations
 
-*description needed*
+[]{.comingsoon}
 

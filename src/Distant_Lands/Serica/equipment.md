@@ -1,6 +1,6 @@
 # Serican Equipment
 
-*introduction needed*
+[]{.comingsoon}
 
 Table: Serican Equipment
 
@@ -9,5 +9,5 @@ Table: Serican Equipment
 
 ## Serican Weapons
 
-*description needed*
+[]{.comingsoon}
 

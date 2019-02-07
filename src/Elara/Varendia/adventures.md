@@ -1,33 +1,19 @@
 # Adventures in Varendia
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Varendish Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Varendish Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Varendish Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Varendish Opponents
 
-*description needed*
-
-### Varendish Rabble
-
-*description needed*
-
-### Character
-
-*description needed*
-
-::::::::::::::: statblock :::::::::::::::::::
-**Major Character**
-
-*statblock needed*
-:::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}

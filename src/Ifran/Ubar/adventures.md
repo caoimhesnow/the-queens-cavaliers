@@ -1,19 +1,19 @@
 # Adventures in Ubar 
 
-*introduction needed*
+[]{.comingsoon}
 
 ## Ubaran Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Ubaran Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Ubaran Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## Ubaran Opponents
 
-*description needed*
+[]{.comingsoon}

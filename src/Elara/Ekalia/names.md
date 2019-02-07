@@ -9,6 +9,7 @@ or neither.
 
 ## Traditionally female:
 
+:::::::::::::::::::::::::::: columnate :::::::::::::::::::::::::::::::::::::::
 Adalina, Agnola, Alamanna, Alessandra, Alzeiza, Andreola, Anzola,
 Audisia, Aulina, Aymoneta, Baldanca, Betta, Bettina, Cara, Cecilia,
 Certa, Collela, Corsa, Dierna, Domenega, Doviga, Ducle, Eufomia,
@@ -17,9 +18,11 @@ Galiana, Gherarda, Gnesetta, Gniese, Imeldina, Imperaise, Ixabeta, Jema,
 Leni, Lise, Losaneta, Lutia, Manetta, Mirabillis, Momina, Nencia, Oliva,
 Orsina, Pellegrina, Perretta, Piera, Presidia,
 Sassa, Sena, Taddea, Ventura, Verdiana, Viga, Vinca, Ymeldina, Zanobia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Traditionally male:
 
+:::::::::::::::::::::::::::: columnate :::::::::::::::::::::::::::::::::::::::
 Adan, Agnolo, Agostino, Agustin, Albrigo, Allessandro, Ambroxo,
 Antuogno, Averardo, Baldassare, Barixono, Bastian, Cadere, Carlo,
 Cassano, Cecco, Cenzon, Ceseron, Checo, Chimento, Cosimo, Dagnano,
@@ -30,8 +33,9 @@ Lionzo, Lodovigo, Lunardo, Marcuro, Marino, Menego,
 Olivio, Onesto, Orazio, Pagolo, Pantaleo, Perin, Piaton, Piero, Rigo,
 Rudi, Salvestro, Sandro, Slazaro, Strozza, Svetrulio, Tozzo, Tuogno,
 Umberto, Verzilio, Viatti, Zanetto, Zanobi, Zazeron, Zilio, Zuane.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Surnames:
 
-*list needed*
+[]{.comingsoon}
 

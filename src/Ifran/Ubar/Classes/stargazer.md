@@ -13,7 +13,7 @@ movements of the stars, on the development of optics and lenses, on navigation i
 sea, and sky, and other heavenly pursuits.
 
  - **Common Classes:** Alchemist, Chirurgeon, Explorer, Mechanician, Speaker, Visionary
- - **Common Passions:** *description needed*
+ - **Common Passions:** []{.comingsoon}
 
 ## Stargazer Class Traits
 
@@ -26,7 +26,7 @@ sea, and sky, and other heavenly pursuits.
 
 ## Stargazer Maneuvers
 
-*need to be updated to correct maneuver names*
+ []{.comingsoon}
 
  - **Maximize Perceive:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling.
  - **Maximize Calculus:** Spend 2 Style Points to set the value of one Calculus die to its maximum value before rolling.

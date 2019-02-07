@@ -150,24 +150,24 @@ Table: Uncommon Dueling Weapons
 | Truncheon         | D6   | Main           | Cudgel +1D6   | Parry, Lunge, Brawl                                                  |
 | Weighted Net      | D6   | Main (Reach)   | Net +1D6      | Feint (+++: Restrain)                                                |
 
-  - **Backsword:** *description needed*
+  - **Backsword:** []{.comingsoon}
   - **Bayonet:** A bayonet is attached to the barrel of a musket and can be used as a Dueling weapon without having to change weapons.
   - **Bullwhip:** The bullwhip also can be used as a +1D6 Item Die for Husbandry when trying to control domesticated animals or drive off wild animals.
-  - **Cat-O'-Nine-Tails:** *description needed*
-  - **Glaive:** *description needed*
-  - **Halberd:** *description needed*
-  - **Hooked Net:** *description needed*
-  - **Lance:** *description needed*
+  - **Cat-O'-Nine-Tails:** []{.comingsoon}
+  - **Glaive:** []{.comingsoon}
+  - **Halberd:** []{.comingsoon}
+  - **Hooked Net:** []{.comingsoon}
+  - **Lance:** []{.comingsoon}
   - **Longsword:** When used with two hands, the Weapon Die of a longsword increases to +1D10.
-  - **Main Gauche:** *description needed*
-  - **Pike:** *description needed*
-  - **Pollaxe:** *description needed*
-  - **Scourge:** *description needed*
-  - **Spear:** *description needed*
-  - **Swordbreaker:** *description needed*
-  - **Trident Dagger:** *description needed*
-  - **Truncheon:** *description needed*
-  - **Weighted Net:** *description needed*
+  - **Main Gauche:** []{.comingsoon}
+  - **Pike:** []{.comingsoon}
+  - **Pollaxe:** []{.comingsoon}
+  - **Scourge:** []{.comingsoon}
+  - **Spear:** []{.comingsoon}
+  - **Swordbreaker:** []{.comingsoon}
+  - **Trident Dagger:** []{.comingsoon}
+  - **Truncheon:** []{.comingsoon}
+  - **Weighted Net:** []{.comingsoon}
 
 :::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
 :# Foreign Weapons

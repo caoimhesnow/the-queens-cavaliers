@@ -27,18 +27,18 @@ matters of faith.
 Table : Sybils and The Twelve
 
 | Deity          | Area of Influence              | Bonus Specialty or Prowess    |
-| -------------- | ------------------------------ | ----------------------------- |
+| :------------- | :----------------------------- | :---------------------------- |
 | Demith         | The Night Sky; Justice         | Weapon Prowess:         Sword |
-| Dethius        | The Middle Sea; Prosperity     | Nature (Explore)              |
+| Dethius        | The Middle Sea; Prosperity     | Nature      (Explore)         |
 | Jathys         | Craftsmanship; Commerce        | Interaction (Negotiate)       |
-| Keanos         | The Great Sea; Weather         | Nature (Explore)              |
-| Koi            | Exploration; Knowledge         | Culture (Scholarship)         |
-| Nemosei        | Memory; Artistic Inspiration   | Culture (Arts)                |
-| Peryon         | Vigilance; Family              | Initiative (Vigilance)        |
+| Keanos         | The Great Sea; Weather         | Nature      (Explore)         |
+| Koi            | Exploration; Knowledge         | Culture     (Scholarship)     |
+| Nemosei        | Memory; Artistic Inspiration   | Culture     (Arts)            |
+| Peryon         | Vigilance; Family              | Initiative  (Vigilance)       |
 | Reios          | Politics; The Underworld       | Interaction (Deceive)         |
-| Ronu           | Agriculture; Plants and Fruit  | Nature (Husbandry)            |
+| Ronu           | Agriculture; Plants and Fruit  | Nature      (Husbandry)       |
 | Siobe          | The Moon; Portents and Magicks | Observation (Perceive)        |
-| Sybrea         | Motherhood; Animals            | Nature (Husbandry)            |
+| Sybrea         | Motherhood; Animals            | Nature      (Husbandry)       |
 | Teia           | The Sun; Rulership             | Observation (Intuition)       |
 
 ## Sibyl Maneuvers

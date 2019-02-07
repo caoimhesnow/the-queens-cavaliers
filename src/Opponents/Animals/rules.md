@@ -106,7 +106,7 @@ size."
 Table: Scale of Animals
 
 | Scale     | Scale Die | Yield Limit        | Wound Limit                                       |
-| --------- | --------- | ------------------ | ------------------------------------------------- |
+| :-------- | :-------: | ------------------ | :------------------------------------------------ |
 | Pocket    |  --       | 1                  | 1 (Dead)                                          |
 | Pet       | 1D0       | 2 + half Ferocity  | 1 (Dying)                                         |
 | Companion | 1D6       | 3 + half Ferocity  | 2 (Drop 1, Dying)                                 |
@@ -224,34 +224,34 @@ but on a much more primal level.
 
 Impetus types include:
 
-**Curiosity:** The animal just wants to know what's going on over there,
-or across the way, or what's behind the door. And it's not like
-Curiosity ever killed any animals, right?
-
-**Hunger:** All animals are concerned with eating, but those with a
-Hunger Impetus will prioritize food and eating over nearly every other
-activity.
-
-**Loyalty: **An animal with a Loyalty Impetus is a faithful companion to
-a human, usually its trainer or owner. They're a human's best friend.
-
-**Obedience:** A domesticated animal with the Obedience Impetus follows
-commands given to it. Not because it even likes the person giving the
-commands, but rather because it's that well trained.
-
-**Pack:** The Pack Impetus represents those animals that stick together
-as a group, usually in some kind of hierarchy or family units.
-
-**Predatory: **A Predatory animal loves to hunt. Not just because it
-needs food, but because it's actually a vicious hunter that likes to
-track down its prey.
-
-**Survival: **This is the most basic Impetus: the animal wants to stay
-alive. It will take any action necessary to do so, with the only
-exception being if it has a higher rated Impetus of another kind.
-
-**Territory:** A territorial animal will likely attack, or at least
-attempt to frighten off, other creatures that come within its territory.
+  - **Curiosity:** The animal just wants to know what's going on over there,
+    or across the way, or what's behind the door. And it's not like
+    Curiosity ever killed any animals, right?
+    
+  - **Hunger:** All animals are concerned with eating, but those with a
+    Hunger Impetus will prioritize food and eating over nearly every other
+    activity.
+    
+  - **Loyalty: **An animal with a Loyalty Impetus is a faithful companion to
+    a human, usually its trainer or owner. They're a human's best friend.
+    
+  - **Obedience:** A domesticated animal with the Obedience Impetus follows
+    commands given to it. Not because it even likes the person giving the
+    commands, but rather because it's that well trained.
+    
+  - **Pack:** The Pack Impetus represents those animals that stick together
+    as a group, usually in some kind of hierarchy or family units.
+    
+  - **Predatory: **A Predatory animal loves to hunt. Not just because it
+    needs food, but because it's actually a vicious hunter that likes to
+    track down its prey.
+    
+  - **Survival: **This is the most basic Impetus: the animal wants to stay
+    alive. It will take any action necessary to do so, with the only
+    exception being if it has a higher rated Impetus of another kind.
+    
+  - **Territory:** A territorial animal will likely attack, or at least
+    attempt to frighten off, other creatures that come within its territory.
 
 You can use Impetus as you would use Passions -- an animal can use each
 Impetus it possesses once in a story, and then it loses that specific

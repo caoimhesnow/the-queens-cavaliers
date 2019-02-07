@@ -1,7 +1,6 @@
 # Karangan Equipment
 
-*introduction needed*
-
+[]{.comingsoon}
 
 Table: Karangan Equipment
 
@@ -10,5 +9,5 @@ Table: Karangan Equipment
 
 ## Karangan Weapons
 
-*description needed*
+[]{.comingsoon}
 

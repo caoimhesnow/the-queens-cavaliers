@@ -1,4 +1,4 @@
 # Specialty Equipment
 
-*introduction needed*
+[]{.comingsoon}
 

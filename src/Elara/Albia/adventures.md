@@ -1,16 +1,16 @@
 # Adventures in Albia
 
-*description needed*
+[]{.comingsoon}
 
 ## Albian Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The Albian Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## Albian Organizations
 
-*description needed*
+[]{.comingsoon}
 

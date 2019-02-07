@@ -33,7 +33,7 @@ the crafting.
 | Bonus Die           |  Extra time, extra supplies      |
 | +                   |  Draw Plans                      |
 | ++                  |  Design Algorithm                |
-| ++++++              |  Eureka\! Eureka\!               |
+| ++++++              |  Eureka!  Eureka!                |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draw Plans (1 unit of writing materials):** You create plans for a
@@ -51,7 +51,7 @@ food is known as a recipe.) For every 2 success points and 2 units of
 writing materials you spend, the Item Die of the algorithm improves by
 one die size, limited by your ranks in Science (Calculus).
 
-**Eureka\! Eureka\! (6 units of writing materials):** You've derived a
+**Eureka!  Eureka!  (6 units of writing materials):** You've derived a
 completely new theorem or solution to a problem, such as measuring the
 volume of an object by submerging it in water. (You're not required to
 run naked through the streets, though.) You need to have at least +4

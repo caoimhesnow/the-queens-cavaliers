@@ -1,5 +1,4 @@
-# History of Gallinea {.breakbefore}
-
+# History of Gallinea 
 
 Gallinea is a proud nation with a long history going back over two thousand years. Originally
 occupied by a people known as the *Brigue*, the lush farmlands and towering mountains of
@@ -26,7 +25,6 @@ Table: Gallinea's Major Wars
 | First Varendish War            |                 | Varendia              |
 | The Albian War                 |                 | Albia                 |
 | The Patriarch's War            |                 | Ondala                |
-<!-- all these before 699 -->
 | Second Varendish War           |                 | Varendia              |
 | Second War of Succession       |                 | Other Gallineans      |
 | Scanbrian War of Independence  |  986 to 989     | Varendia              |

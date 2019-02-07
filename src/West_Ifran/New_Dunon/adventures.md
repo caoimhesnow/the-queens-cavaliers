@@ -1,20 +1,20 @@
 # Adventures in New Dunon
 
-*introduction needed*
+[]{.comingsoon}
 
 ## New Dunan Story Seeds
 
-*description needed*
+[]{.comingsoon}
 
 ## The New Dunan Campaign
 
-*description needed*
+[]{.comingsoon}
 
 ## New Dunan Organizations
 
-*description needed*
+[]{.comingsoon}
 
 ## New Dunan Opponents
 
-*description needed*
+[]{.comingsoon}
 

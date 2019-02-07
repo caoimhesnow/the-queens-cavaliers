@@ -1,12 +1,13 @@
 # Locations in Pitdah
 
-*introduction needed*
+[]{.comingsoon}
 
 ## The Great Suq
 
-*description needed*
+[]{.comingsoon}
 
 # Houses of the Ifrani Desert
 
-*description needed*
+[]{.comingsoon}
+
 

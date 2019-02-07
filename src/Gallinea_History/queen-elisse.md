@@ -1,9 +1,8 @@
 # The Assassination of Queen Elisse
 
-*description needed*
+[]{.comingsoon}
 
-
-::::::::::::::::::::::::::::::: toolbar :::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::: toolbox :::::::::::::::::::::::::::::::::
 :# Whodunnit?
 
 You'll notice we don't actually tell you who killed Queen Elisse. That's

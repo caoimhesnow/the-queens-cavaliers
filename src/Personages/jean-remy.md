@@ -1,7 +1,7 @@
 # Jean-Remy {.breakbefore}
 
 :::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::
-![Prince Jean-Remy, by Sarah Otterstaetter](assets/Scenes/espionage.jpg "Prince Jean-Remy, by Sarah Otterstaetter")
+![Prince Jean-Remy, by Sarah Otterstaetter](assets/Scenes/Medium/espionage.jpg "Prince Jean-Remy, by Sarah Otterstaetter")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Prince Jean-Remy of Gallinea was born Princess Renee, younger sibling 

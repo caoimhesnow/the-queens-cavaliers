@@ -1,5 +1,7 @@
 # Equipment
 
+[]{.comingsoon}
+
 Table: Dragosan Equipment
 
 | Weapon        | Cost | Hands        | Weapon Die    | Specialties                        |

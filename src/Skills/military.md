@@ -179,10 +179,10 @@ step, with a limit determined by your ranks in Military (Strategy):
 Table: Maximum Bonus Die
 
 | Strategy Ranks | Maximum Bonus Die |
-| -------------- | ----------------- |
-| \+1            | \+1D0             |
-| \+2            | \+1D6             |
-| \+3            | \+1D8             |
-| \+4            | \+1D10            |
-| \+5            | \+1D12            |
+| :------------: | :---------------: |
+|  +1            |  +1D0             |
+|  +2            |  +1D6             |
+|  +3            |  +1D8             |
+|  +4            |  +1D10            |
+|  +5            |  +1D12            |
 
