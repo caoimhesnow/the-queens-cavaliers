@@ -1,0 +1,148 @@
+## All Roads Lead to Lutetia
+
+*introduction needed*
+
+Table: Travel Times to Lutetia
+
+| City of Origin | Walking  | Horse   | Horse, switching | Wagon      |
+| :------------- | :------: | :-----: | :--------------: | :--------: |
+| Valerienne     | 39 days  | 13 days | 2 days, 14 hours | 20 days    |
+| Scanbreille    | 14 days  |  5 days | 21 hours         |  7 days    |
+| Rhodope        | 34 days  | 11 days | 2 days, 5 hours  | 17 days    |
+| Berylle        | 24 days  |  8 days | 1 day, 15 hours  | 12 days    |
+| Montambre      | 52 days  | 18 days | 3 days, 12 hours | 26 days    |
+| Persolei       | 48 days  | 16 days | 3 days, 5 hours  | 24 days    |
+| Verterre       | 24 days  |  8 days | 1 day,  14 hours | 12 days    |
+| Touriel        |  7 days  |  2 days | 10 hours         |  3 days    |
+| Affûtaine      | 20 days  |  7 days | 1 day, 7 hours   | 10 days    |
+| Castenia       |  4 days  |  1 day, 4 hours | 7 hours  |  2 days    |
+| Guéve          |  9 days  |  3 days | 14 hours         |  4 days    |
+| Boussole       | 38 days  | 13 days | 2 days, 12 hours | 19 days    |
+| Sudelune       | 38 days  | 13 days | 2 days, 12 hours | 19 days    |
+| Canard-Noir    | 43 days  | 15 days | 2 days, 21 hours | 22 days    |
+
+## As the Parrot Flies
+
+*introduction needed*
+
+Table: Air Travel from Lutetia
+
+| City of Origin | Distance    | Airship              | Messenger Bird      |
+| :------------- | :---------: | :------------------: | :-----------------: |
+| Valerienne     | 165 leagues | 11 hours             | 5 hours, 30 minutes | 
+| Scanbreille    |  82 leagues |  5 hours, 30 minutes | 3 hours             |
+| Rhodope        | 177 leagues | 12 hours             | 6 hours             |
+| Berylle        | 122 leagues |  8 hours             | 4 hours             |
+| Montambre      | 186 leagues | 12 hours, 30 minutes | 6 hours             |
+| Persolei       | 240 leagues | 16 hours             | 8 hours             |
+| Verterre       | 154 leagues | 10 hours             | 5 hours             |
+| Touriel        |  42 leagues | 3 hours              | 1 hour,  30 minutes |
+| Affûtaine      | 119 leagues | 8 hours              | 4 hours             |
+| Castenia       |  30 leagues | 2 hours              | 1 hour              |
+| Guéve          |  48 leagues | 3 hours              | 1 hour,  30 minutes |
+| Boussole       | 198 leagues | 13 hours             | 6 hours, 30 minutes |
+| Sudelune       | 204 leagues | 14 hours             | 7 hours             |
+| Canard-Noir    | 183 leagues | 12 hours             | 6 hours             |
+
+Airship speed is 15 leagues per hour
+bird speed is 30 leagues per hour
+
+| Valerienne     | 165
+| Scanbreille   1125 = 82
+| Rhodope       2422 = 177
+| Berylle       1669 = 122
+| Montambre     2554 = 186
+| Persolei      3288 = 240
+| Verterre      2104 = 154
+| Touriel       579  = 42
+| Affûtaine     1625 = 119
+| Castenia      408  = 30
+| Guéve         654  = 48
+| Boussole      2712 = 198
+| Sudelune      2796 = 204
+| Canard-Noir   2510 = 183
+| Dunon         2443 = 178
+
+
+Coordinates
+
+| Lutetia       2466, 3002
+
+| Valerienne    2817, 5241
+| Scanbreille   2319, 1887
+| Rhodope       4845, 3458
+| Berylle       3753, 4064
+| Montambre     4791, 1946
+| Persolei      0615, 5720
+| Verterre      0363, 3057
+| Touriel       1887, 2997
+| Affûtaine     1935, 1466
+| Castenia      2787, 2750
+| Guéve         3093, 3188
+| Boussole      0207, 4502
+| Sudelune      0561, 5048
+| Canard-Noir   4956, 2684
+| Dunon         1583,  724
+
+
+
+1366 px = 100 leagues
+13.7 px = 1 league
+
+
+1209 to 2077 = 868
+
+868 px = 300 leagues
+2.9 px = 1 league
+
+
+
+Lutetia = 1834, 1675
+
+Dunon = 1635, 1209 = 507 px = 175
+Cordera = 1406, 2700 = 1111 = 383
+Diega = 890, 2849 = 1506 = 519
+Qarta = 1772, 3079 = 1405 = 485
+Medtken = 2455, 905 = 989 = 341
+Volstok = 2865, 1004 = 1230 = 424
+Dragon Coast = 2983, 1395 = 1183 = 408
+Thedis = 2772, 1880 = 960 = 331
+Pitdah = 2288, 2700 = 1121 = 387
+Ubar = 3170, 2364 = 1503 = 518
+Zamorov = 3480, 333 = 2124 = 732
+Bear Island = 1269, 718 = 1111 = 383
+Nouville = 983, 4885 = 3320 = 1145
+New Cordera = 958, 5883 = 4293 = 1480
+Lost City of Aad = 2946, 3323 = 1988 = 795
+Kamhara = 3769, 5758 = 4518 = 1558
+Great Ifran Ravine = 4316, 2187 = 2534 = 876
+Northern Storm Islands = 477, 527 = 1778 = 613
+
+
+
+
+Lutetia
+Dunon
+Medtken
+Volstok
+Cordera
+Diego
+Qarta
+Pitdah
+Ubar
+Great Ifran Ravine
+Zamorov
+Bear Islands
+Northern Storm Islands
+Nouville
+New Cordera
+Kamhara
+Old Mabwe
+Chapunga Island
+Lost City of Aad
+Thedis
+Dragosa City #1
+Dragosa City #2
+Dragosa City #3
+
+

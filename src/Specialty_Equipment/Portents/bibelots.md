@@ -1,4 +1,0 @@
-## Bibelots
-
-*description needed*
-
