@@ -358,8 +358,6 @@ Table: Ship Speed Modifiers
 | Schiff              | 12.5 Lpd       | x 6         |
 | Schooner            |   50 Lpd       | x 1 &#189;  |
 
-*description needed*
-
 ## As the Parrot Flies
 
 In Ekalia, parroteers train jungle birds to carry messages between fleets
