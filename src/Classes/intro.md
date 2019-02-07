@@ -5,7 +5,9 @@ Each class provides you with half of your starting skill competencies,
 specialties, weapon and armor prowess, social rank, starting gear, and
 style Maneuvers.
 
-
+::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::
+![Cavalier, by Eleanor Ferron](assets/Scenes/Medium/character.jpg "Cavalier, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 The various classes can be divided up into three basic categories:
 skilled classes, social classes, and fighting classes. These are shown
 on the following tables.

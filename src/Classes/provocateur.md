@@ -1,5 +1,8 @@
 ### The Provocateur 
 
+::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::
+![The notorious Provocateur Martine Deveaux, by Joanne Renaud](assets/Scenes/Medium/martine-dress.jpg "The notorious Provocateur Martine Deveaux, by Joanne Renaud")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A revolutionary, a spy, an assassin, a traitor, a conspirator – these
 are terms used to speak of the Provocateur, a shadowy figure enmeshed in
 plots within plots. Provocateurs are used by all nations of Elara,

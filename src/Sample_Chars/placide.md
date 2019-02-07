@@ -7,19 +7,19 @@
 ![Placide, by Eleanor Ferron](assets/Characters/Placide.jpg "Placide, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Placide was orphaned in Ekalia as a young child. By 10, iel had been taken aboard a
-Gallinean vessel as a cabin-keeper. Iel spent the last 16 years either at sea or 
-in a port town learning the craft of alchemy from ier mentor, La Dona Montoya. Iel
-has come a long way since then, and is now a ship's doctor. Placide has garnered
-quite a reputation for keeping a crew safe during a see journey and is thus in
-great demand when free, giving iem a free choice as to which assignments to take.
-
 :::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::
 Placide is an agender individual who doesn't consider ielself to be either
 male or female. Iem uses the *iel / iem / ier / ielself* pronouns instead of
 *she* or *he*. For more on agender characters in world of *The Queen's Cavaliers*, 
 see <a href="#gender" class="xref-inchapter-under"></a>.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Placide was orphaned in Ekalia as a young child. By 10, iel had been taken aboard a
+Gallinean vessel as a cabin-keeper. Iel spent the last 16 years either at sea or 
+in a port town learning the craft of alchemy from ier mentor, La Dona Montoya. Iel
+has come a long way since then, and is now a ship's doctor. Placide has garnered
+quite a reputation for keeping a crew safe during a see journey and is thus in
+great demand when free, giving iem a free choice as to which assignments to take.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D6, Affinity D10, Guile D8

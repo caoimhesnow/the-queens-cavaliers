@@ -1,5 +1,8 @@
 ### The Mechanician 
 
+:::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::
+![A Mechanician in her workshop, by Sarah Otterstaetter](assets/Scenes/Medium/mechanician.jpg "A Mechanician in her Workshop, by Sarah Otterstaetter")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Fantastic clockwork devices are fashioned by Mechanicians, well-trained
 artisans who can engineer complex machinery to accomplish repetitive
 tasks. Their gadgets are in great demand throughout society, although

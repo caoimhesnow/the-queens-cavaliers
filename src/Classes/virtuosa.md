@@ -1,5 +1,8 @@
 ### The Virtuosa
 
+:::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::
+![Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron](assets/Scenes/Medium/scarlet-party.jpg "Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A Virtuosa is a master performer or artist, creating beautiful works of
 art, music, or drama. Virtuosas can be singers, actors, painters,
 playwrights, sculptors, musicians, composers, poets, and other artists.

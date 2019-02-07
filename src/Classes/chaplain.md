@@ -1,5 +1,8 @@
 # The Chaplain 
 
+::::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::
+![A Chaplain meets a Provocateur, by Joanne Renaud](assets/Scenes/Medium/martine-farrazin.jpg "A Chaplain meets a Provocateur, by Joanne Renaud")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A Chaplain is a clergy member of an organized religion, usually Asrian.
 The duties can vary but many times a Chaplain is found serving among
 military members or as a member of the court. Chaplains have minimal

@@ -82,6 +82,7 @@ You probably shouldn't have more than one inverted Passion for a
 starting character, although your Passions may become inverted during
 the course of game play. (See "Changing Passions", below.)
 
+::::::::::::::::::::::::::::::: passions :::::::::::::::::::::::::::::::::::::::::::::::::::
 ## List of Passions
 
 The following is a list of the most common Passions that drive
@@ -117,7 +118,9 @@ a religious institution, most commonly the Asrian church under the
 direction of the Matriarch.
 
 :::::::::::::::::::::::::::::::: example :::::::::::::::::::::::
-High Chaplain Farrazin, Guardian of the Faith of Gallinea,
+![Farrazin, by Eleanor Ferron](assets/Portraits/Small/guardian-farrazin.jpg "Farrazin, by Eleanor Feron")
+
+Arch-Chaplain Farrazin, Guardian of the Faith of Gallinea,
 is a very devout man, yes. But ultimately his loyalty is less to the
 teachings of the goddess Essere than to her church. Raised in an Asrian
 orphanage, Farrazin rose through the ranks to become the most powerful
@@ -161,10 +164,13 @@ because worship of the Desert Mother isn't based around a complex church
 hierarchy as with the Asrians.
 
 :::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::
+![Isabene de la Justicia, by Eleanor Ferron](assets/Portraits/Small/isabene-de-la-justicia.jpg "Isabene de la Justicia, by Eleanor Feron")
+
 Matriarch Isabene de la Justicia, Bride of the Sun, is the
 head of the Asrian church -- some say she practically *is* the church.
 However, her strongest commitment is to her deity and (ceremonial) wife,
-Essere, goddess of the Sun.
+Essere, goddess of the Sun. Unlike some, such as Farrazin, Guardian of the Faith
+for Gallinea, she doesn't put the church hierarchy over her own principles.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Faith, Inverted:** You reject the Faith that once filled your heart
@@ -197,9 +203,12 @@ them – even die for them in some cases. You can decide if this applies
 to all your character's friends or just her closest friends.
 
 ::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::
+![Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/Small/gabriana-secouriste.jpg "Gabriana Secouriste, by Eleanor Feron")
+
 Gabriana Secouriste is a young member of the Queen's
 Cavaliers. Personable and easy-going, she makes friends easily and is
-slow to lose them.
+slow to lose them. Sometimes her loyalty to her friends makes her
+take risks to protect them even if they don't want her help.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Friends, Inverted:** You keep to yourself and don't form any
@@ -280,6 +289,8 @@ if you choose this Passion. You might not actually like the people
 you're loyal to, but this isn't about friendship but honor.
 
 :::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::
+![Martine Deveaux, by Eleanor Ferron](assets/Portraits/Small/martine-deveaux.jpg "Martine Deveaux, by Eleanor Feron")
+
 Martine Deveaux was once a faithful and loyal member of the
 Queen's Cavaliers, willing to die for the organization and those within
 it. After a disastrous mission with the Cavaliers where she was made the
@@ -366,6 +377,8 @@ Personification could be living or dead, an existing NPC or a completely
 new one created by the player.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
+![Queen Mariana personifies Country, by Eleanor Ferron](assets/Portraits/Small/queen-mariana.jpg "Queen Mariana personifies Country, by Eleanor Feron")
+
 Dani has the following Passions: Loyalty D12, Pride D10, Country D8, Love D6.
 
 Her Personification of Loyalty is Sir Pierre du Prowe, an older member
@@ -376,6 +389,22 @@ the Queen of Gallinea herself, Marianna, as embodying all that is good
 and right in her home nation. And for Love, she can't help but think of
 the peasant girl Hersent who she grew up with, her first crush.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Changing Passions
+
+During your character's life experiences, her priorities may change.
+After a game session you can make one of the following changes based on
+what happened during that session:
+
+  - Swap two "adjacent" passions, such as your D12 Passion and your D10 Passion.
+  - Invert one of your Passions.
+  - Revert one of your inverted Passions.
+  - Change out your D6 Passion for a Passion you don't already have.
+
+When you swap, invert, or revert your Passions, your Personifications
+may or may not change; it's up to you to decide.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: toolbox ::::::::::::::::::::::::::::::::::::::
 MJ's Toolbox: Passion Rolls
@@ -424,16 +453,3 @@ die corresponding to whichever Passion came up in the immediately
 previous session. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Changing Passions
-
-During your character's life experiences, her priorities may change.
-After a game session you can make one of the following changes based on
-what happened during that session:
-
-  - Swap two "adjacent" passions, such as your D12 Passion and your D10 Passion.
-  - Invert one of your Passions.
-  - Revert one of your inverted Passions.
-  - Change out your D6 Passion for a Passion you don't already have.
-
-When you swap, invert, or revert your Passions, your Personifications
-may or may not change; it's up to you to decide.

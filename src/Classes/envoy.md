@@ -1,5 +1,8 @@
 ### The Envoy
 
+::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::::::::::::
+![Envoys frequently have heated debates, by Eleanor Ferron](assets/Scenes/Medium/ambassadors.jpg "Envoys frequently have heated debates, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 An Envoy is a diplomatic representative, usually of a country, province,
 or other political group, although some represent religious groups or
 trade unions. An Envoy character should identify who she works for at
