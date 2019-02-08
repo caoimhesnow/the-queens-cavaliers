@@ -14,7 +14,7 @@ Table: Gallinea's Major Wars
 
 | War                            | Years           | Opponent              |
 | :----------------------------- | :-------------: | :-------------------- |
-| The Qartan Conquest            | ~300 to ~400 BQ | The Qartan Empire     |
+| The Qartan Conquest            | ~400 to ~300 BQ | The Qartan Empire     |
 | Martialla's War of Unification | 3 to 7 PQ       | Qartan remnants       |
 | The Valerian War               |                 | Valerian Empire       |
 | The War of the Soleils         |                 | Ondala                |

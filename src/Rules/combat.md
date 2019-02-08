@@ -455,7 +455,7 @@ unconscious for one or more scenes at the MJ's discretion, unless awoken
 by others during or after the combat.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::
-*Example:* You hit with a Lunge attack, with five Success Points. You
+You hit with a Lunge attack, with five Success Points. You
 decide to spend all five points on Yield, inflicting five Yield on your
 opponent. Your opponent has a Yield Limit of four, which means that the
 MJ decides you knock her back against a wall and she hits her head,
@@ -496,7 +496,7 @@ Drop Penalties from Wounds are cumulative with Drop Penalties for combined actio
 - Military (Brawl, Aim)
 
 ::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::
-*Example:* Your character is stabbed by an opponent's Lunge attack and
+Your character is stabbed by an opponent's Lunge attack and
 receives one Wound. You now get a Drop 1 penalty on all applicable
 actions, such as attacking or defending. Later in the fight, you are
 shot for two more Wounds, which increases your penalty to Drop 4 – one
@@ -545,7 +545,7 @@ dying.
 On a failed Survival Roll, the character dies.
 
 ::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
-*Example:* Your character receives a fourth Wound, taking her out of the
+Your character receives a fourth Wound, taking her out of the
 fight. At the end of the fight, you can decide if she dies of her
 injuries, or fights to survive. If you choose the latter, and there's no
 medical aid nearby, you'll need to make a Survival Roll.
