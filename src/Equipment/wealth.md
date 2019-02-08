@@ -84,8 +84,8 @@ her success points on the following success table:
 | Wealth Rolls |                       |
 | ------------ | --------------------- |
 | Opposition   | Cost and availability |
-|  +           | Purchase Item         |
-|  ++++        | No Drop               |
+| [+]          | Purchase Item         |
+| [+][+][+][+] | No Drop               |
 ::::::::::::::::::::::::::::::::::::::::
 
 **Purchase Item:** You can purchase the item or service in question. If

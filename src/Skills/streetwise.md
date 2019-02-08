@@ -44,14 +44,14 @@ a large city.
 ::::::::::::::::: success ::::::::::::::::::::::::::
 | Banter        |                                  |
 | :------------ | :------------------------------- |
-| Time:         | 1 action, 1 hour, or free action |
-| Opposition:   | Target's Banter                  |
-| +:            | Decrease Advantage               |
-| ++:           | Increase Advantage               |
-| +++:          | Gain 1 Style Point               |
-| +++:          | Inflict 1 Yield                  |
-|  +++:         | Spread Rumor                     |
-| ++++:         | Enrage Opponent                  |
+| Time          | 1 action, 1 hour, or free action |
+| Opposition    | Target's Banter                  |
+| [+]           | Decrease Advantage               |
+| [+][+]        | Increase Advantage               |
+| [+][+][+]     | Gain 1 Style Point               |
+| [+][+][+]     | Inflict 1 Yield                  |
+| [+][+][+]     | Spread Rumor                     |
+| [+][+][+][+]  | Enrage Opponent                  |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Decrease Advantage:** If your opponent has Advantage, you can decrease 
@@ -142,20 +142,20 @@ go where everybody knows your name, and they're always glad you came --
 the roll is an automatic success and the success points are used to
 determine how well you performed the task.
 
-::::::::::::::::: success ::::::::::::::::
-| Carouse       |                        |
-| :------------ | :--------------------- |
-| Time:         | 1 Hour                 |
-| Opposition:   | Standard Opposition    |
-| Bonus Die:    | Extra time             |
-| +:            | Hold Your Liquor       |
-| +:            | Learn Common Rumor     |
-| ++:           | Learn Rare Rumor       |
-| +++:          | Find a Companion       |
-| +++:          | Gain 1 Style Point     |
-| ++++:         | Learn Uncommon Secret  |
-| +++++:        | Learn Rare Secret      |
-::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success ::::::::::::::::
+| Carouse         |                        |
+| :-------------- | :--------------------- |
+| Time            | 1 Hour                 |
+| Opposition      | Standard Opposition    |
+| Bonus Die       | Extra time             |
+| [+]             | Hold Your Liquor       |
+| [+]             | Learn Common Rumor     |
+| [+][+]          | Learn Rare Rumor       |
+| [+][+][+]       | Find a Companion       |
+| [+][+][+]       | Gain 1 Style Point     |
+| [+][+][+][+]    | Learn Uncommon Secret  |
+| [+][+][+][+][+] | Learn Rare Secret      |
+::::::::::::::::::::::::::::::::::::::::::::
 
 **Hold Your Liquor:** You don't suffer ill effects from the 
 over-consumption of alcoholic beverages.
@@ -222,14 +222,14 @@ Observation specialty of whomever might see you.
 ::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Larceny       |                                           |
 | :------------ | :---------------------------------------- |
-| Time:         | 1 minute                                  |
-| Opposition:   | Standard Opposition or Observation        |
-| Item Die:     | Repair tools when working with obstacles  |
-| +:            | Case the Joint                            |
-| ++:           | Steal Something                           |
-|  +++:         | Bypass Obstacle                           |
-| +++:          | Gain 1 Style Point                        |
-|  +++:         | Install Obstacle                          |
+| Time          | 1 minute                                  |
+| Opposition    | Standard Opposition or Observation        |
+| Item Die      | Repair tools when working with obstacles  |
+| [+]           | Case the Joint                            |
+| [+][+]        | Steal Something                           |
+| [+][+][+]     | Bypass Obstacle                           |
+| [+][+][+]     | Gain 1 Style Point                        |
+| [+][+][+]     | Install Obstacle                          |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Case the Joint:** You look around your own Area or an adjacent Area 

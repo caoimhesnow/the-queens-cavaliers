@@ -18,14 +18,14 @@ on every creature, object, or other target within that area.
 
 Table: Grenades
 
-| Grenade Type | Cost | Base Damage | Yield | Special                |
-| :----------- | :--: | :---------- | :---: | :--------------------- |
-| Standard     | 1D6  | 1D6 Wounds  | x2    |                        |
-| Alchemical   | 2D6  |   1 Wound   | x4    |   +: Inflict 1 Yield   |
-| Canister     | 2D6  | 1D6 Wounds  | x2    | +++: Inflict 2 Wounds  |
-| Smoke        | 2D6  |     --      | x2    |  ++: Add 1 Area        |
-| Thunder      | 1D6  |   1 Wound   | x3    |  ++: Add 1 Area        |
-| Wildfire     | 2D6  | 1D6 Wounds  | x2    |   +: Add 1 Area        |
+| Grenade Type | Cost | Base Damage | Yield | Special                      |
+| :----------- | :--: | :---------- | :---: | :--------------------------- |
+| Standard     | 1D6  | 1D6 Wounds  | x2    |                              |
+| Alchemical   | 2D6  |   1 Wound   | x4    |       [+]: Inflict 1 Yield   |
+| Canister     | 2D6  | 1D6 Wounds  | x2    | [+][+][+]: Inflict 2 Wounds  |
+| Smoke        | 2D6  |     --      | x2    |    [+][+]: Add 1 Area        |
+| Thunder      | 1D6  |   1 Wound   | x3    |    [+][+]: Add 1 Area        |
+| Wildfire     | 2D6  | 1D6 Wounds  | x2    |       [+]: Add 1 Area        |
 
 
   - **Standard Grenade:** []{.comingsoon}

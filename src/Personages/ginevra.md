@@ -59,7 +59,7 @@ Cavaliers and some of her Ondalan marines.
 - **Weapon Prowess:** knife, sword, cannon, musket, pistol
 - **Armor Prowess:** none
 - **Languages:** Ondalese, Ekalian, Gallinean, Albian
-- **Equipment:** espada ropera (Sword +1D8, Lunge +++: Inflict 4 yield), dagger (Knife +1D6) double pistol (Pistol +1D6; two shots before reload Drop 4); spyglass (Observation +1D6, more than 2 areas away), mariner's astrolabe (Calculus, Explore +1D6, navigation only)
+- **Equipment:** espada ropera (Sword +1D8, Lunge [+][+][+]: Inflict 4 yield), dagger (Knife +1D6) double pistol (Pistol +1D6; two shots before reload Drop 4); spyglass (Observation +1D6, more than 2 areas away), mariner's astrolabe (Calculus, Explore +1D6, navigation only)
     - *Commodore's Uniform:* tricorne, gules casaque (Parry +1D8), pantaloons, black and sanguine boots (Dodge +1D8), sanguine cloth cape
 - **Passions:** 
     Pride                  (D12),

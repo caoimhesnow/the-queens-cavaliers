@@ -433,9 +433,9 @@ fight, but if she does, every attack against her gains the following
 addition to its Success Table:
 
 :::::::::::: success ::::::::::::::::
-|          | (Yielded Out)          |
+|          |  Yielded Out           |
 | :------- | :--------------------- |
-| +:       | Inflict 1 Wound        |
+| [+]:     | Inflict 1 Wound        |
 :::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Wound:** Your opponent takes one Wound. If she takes more Wounds
@@ -525,11 +525,11 @@ Competency Die against Moderate Opposition (3D8).
 ::::::::::::::::: success ::::::::::::::::::::::::::::::
 | Survival Roll |                                      | 
 | :------------ | :----------------------------------- |
-| Pool:         | Verve + Competency Die               | 
-| Opposition:   | Standard Opposition – Moderate (3D8) |
-| +:            | Survive for 8 Hours                  |
-| ++:           | Regain Consciousness                 |
-| ++++:         | Heal 1 Wound                         |
+| Pool          | Verve + Competency Die               | 
+| Opposition    | Standard Opposition – Moderate (3D8) |
+| [+]           | Survive for 8 Hours                  |
+| [+][+]        | Regain Consciousness                 |
+| [+][+][+][+]  | Heal 1 Wound                         |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Survive for 8 Hours:** The dying character doesn't die of her wounds for

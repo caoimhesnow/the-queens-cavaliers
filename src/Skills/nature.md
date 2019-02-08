@@ -32,15 +32,15 @@ difficulty of Easy (3D6) or higher.
 :::::::::::::::: success ::::::::::::::::
 | Explore      |                        |
 | :----------- | :--------------------- |
-| Time:        | 1 Minute or 1 Hour     |
-| Opposition:  | Standard Opposition    |
-| Item Die:    | Map or navigation tool |
-| +:           | Determine Directions   |
-| ++:          | Locate a Landmark      |
-| ++:          | Find Food and Water    |
-| +++:         | Gain 1 Style Point     |
-| +++:         | Find Shelter           |
-| ++++:        | Discover Shortcut      |
+| Time         | 1 Minute or 1 Hour     |
+| Opposition   | Standard Opposition    |
+| Item Die     | Map or navigation tool |
+| [+]          | Determine Directions   |
+| [+][+]       | Locate a Landmark      |
+| [+][+]       | Find Food and Water    |
+| [+][+][+]    | Gain 1 Style Point     |
+| [+][+][+]    | Find Shelter           |
+| [+][+][+][+] | Discover Shortcut      |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Determine Directions:** You know which direction is north, and roughly
@@ -144,15 +144,15 @@ one with D8 Ferocity is Moderate (3D8), and so on.
 ::::::::::::::::: success :::::::::::::
 | Husbandry     |                     |
 | :------------ | :------------------ |
-| Time:         | 1 action or 1 hour  |
-| Opposition:   | Standard Opposition |
-| +:            | Handle Animal       |
-| +:            | Gather Crops        |
-|  +:           | Dairy Farming       |
-| +++:          | Gain 1 Style Point  |
-| +++:          | Veterinary Medicine |
-| +++:          | Butchery            |
-| ++++:         | Teach a New Trick   |
+| Time          | 1 action or 1 hour  |
+| Opposition    | Standard Opposition |
+| [+]           | Handle Animal       |
+| [+]           | Gather Crops        |
+| [+]           | Dairy Farming       |
+| [+][+][+]     | Gain 1 Style Point  |
+| [+][+][+]     | Veterinary Medicine |
+| [+][+][+]     | Butchery            |
+| [+][+][+][+]  | Teach a New Trick   |
 :::::::::::::::::::::::::::::::::::::::
 
 **Handle Animal:** You can make a domesticated animal perform one of its
@@ -232,17 +232,17 @@ circumstances. Increase the standard difficulty by one step for each of
 the following conditions: tracked by animals, bright sunlight, lack of
 cover, quiet location.
 
-::::::::::::::: success :::::::::::::
-| Prowl       |                     |
-| :---------- | :------------------ |
-| Time:       | 1 action            |
-| Opposition: | Standard Opposition |
-| +:          | Hide                |
-| +:          | Lead the Ambush     |
-| ++:         | Increase Advantage  |
-| +++:        | Gain 1 Style Point  |
-| ++++:       | Move Undetected     |
-:::::::::::::::::::::::::::::::::::::
+:::::::::::::::: success :::::::::::::
+| Prowl        |                     |
+| :----------- | :------------------ |
+| Time         | 1 action            |
+| Opposition   | Standard Opposition |
+| [+]          | Hide                |
+| [+]          | Lead the Ambush     |
+| [+][+]       | Increase Advantage  |
+| [+][+][+]    | Gain 1 Style Point  |
+| [+][+][+][+] | Move Undetected     |
+::::::::::::::::::::::::::::::::::::::
 
 **Hide:** You find a place to hide until the end of the scene or you
 move to a different location, whichever comes first. In order to see

@@ -62,7 +62,7 @@ they can't get through other means.
 - **Weapon Prowess:** knife, cudgel
 - **Armor Prowess:** none
 - **Languages:** Gallinean, Ondalese, Ifrani, Old Qartan
-- **Equipment:** *Books of the Sun* (Knowledge +1D6, related to Asrianism), false book of hymns, trident dagger hidden in hymnal (Knife +1D6; Parry ++++: disarm; Parry, Feint only)
+- **Equipment:** *Books of the Sun* (Knowledge +1D6, related to Asrianism), false book of hymns, trident dagger hidden in hymnal (Knife +1D6; Parry [+][+][+]+: disarm; Parry, Feint only)
     - *Priest Outfit*: *Or* clerical skullcap (Arts +1D12), *Or* vestments (Inspire +1D12), *Or* courtier's gloves (Banter +1D12), breeches, sable pantofles (Dodge +1D12)
 - **Passions:** 
     Church                 (D12),

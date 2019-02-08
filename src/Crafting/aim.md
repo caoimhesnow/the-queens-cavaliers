@@ -26,22 +26,22 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::: success ::::::::::::::::::::
-| Aim            | (Crafting)                 |
+| Aim            |  Crafting                  |
 | :------------- | :------------------------- |
 | Base Time      | 1 hour                     |
 | Opposition     | Automatic Success          |
 | Item Die       | Metalworking tools, smithy |
 | Supplies       | Crucible steel             |
 | Bonus Die      | Extra time                 |
-| +              | Craft Short Bow            |
-| ++             | Craft Pistol               |
-| +++            | Craft Heavy Bow            |
-| +++            | Craft Heavy Pistol         |
-| +++            | Craft Light Musket         |
-| +++            | Add Bow Quality            |
-| +++            | Add Pistol Quality         |
-| +++            | Add Musket Quality         |
-| ++++           | Craft Heavy Musket         |
+| [+]            | Craft Short Bow            |
+| [+][+]         | Craft Pistol               |
+| [+][+][+]      | Craft Heavy Bow            |
+| [+][+][+]      | Craft Heavy Pistol         |
+| [+][+][+]      | Craft Light Musket         |
+| [+][+][+]      | Add Bow Quality            |
+| [+][+][+]      | Add Pistol Quality         |
+| [+][+][+]      | Add Musket Quality         |
+| [+][+][+][+]   | Craft Heavy Musket         |
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Short Bow:** You create any bow with a Weapon Die of +1D6.

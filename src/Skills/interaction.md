@@ -34,15 +34,15 @@ the difficulty increases to Easy (3D6) or higher.
 ::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Inspire       |                                           | 
 | :------------ | :---------------------------------------- | 
-| Time:         | 1 action                                  |
-| Opposition:   | Automatic success or standard opposition  |
-| \+:           | Inspiring Speech                          |
-| \++:          | Increase Tag Die                          |
-| ++:           | Reduce an Ally's Yield                    |
-| ++:           | Inflict 1 Yield                           |
-| +++:          | Instill Emotion                           |
-| +++:          | Gain 1 Style Point                        |
-| +++:          | Provoke Reaction                          |
+| Time          | 1 action                                  |
+| Opposition    | Automatic success or standard opposition  |
+| [+]           | Inspiring Speech                          |
+| [+][+]        | Increase Tag Die                          |
+| [+][+]        | Reduce an Ally's Yield                    |
+| [+][+]        | Inflict 1 Yield                           |
+| [+][+][+]     | Instill Emotion                           |
+| [+][+][+]     | Gain 1 Style Point                        |
+| [+][+][+]     | Provoke Reaction                          |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inspiring Speech:** Your words start to sway those who hear them. You
@@ -59,11 +59,11 @@ Table: Maximum Tag Die
 
 | Inspire Rank | Bonus Die |
 | :----------: | :-------: |
-| 1            | \+1D0     |
-| 2            | \+1D6     |
-| 3            | \+1D8     |
-| 4            | \+1D10    |
-| 5            | \+1D12    |
+| 1            |  +1D0     |
+| 2            |  +1D6     |
+| 3            |  +1D8     |
+| 4            |  +1D10    |
+| 5            |  +1D12    |
 
 **Reduce an Ally's Yield:** If an ally who can hear you has taken Yield,
 you can reduce it by spending two Success Points per point of Yield.
@@ -84,11 +84,11 @@ Table: Inspire Results
 
 | Tag Die | Drop Penalty | Bonus Die |
 | :-----: | :----------: | :-------: |
-| \+1D0   | Drop 1       | \+1D6     |
-| \+1D6   | Drop 2       | \+1D8     |
-| \+1D8   | Drop 3       | \+1D10    |
-| \+1D10  | Drop 4       | \+1D12    |
-| \+1D12  | Drop 4       | \+1D12    |
+|  +1D0   | Drop 1       |  +1D6     |
+|  +1D6   | Drop 2       |  +1D8     |
+|  +1D8   | Drop 3       |  +1D10    |
+|  +1D10  | Drop 4       |  +1D12    |
+|  +1D12  | Drop 4       |  +1D12    |
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
 you use the Specialty with style, and you can only have a maximum of
@@ -133,16 +133,16 @@ probably aren't in a negotiation.
 :::::::::::::::::: success :::::::::::::::
 | Negotiate      |                       |
 | :------------- | :-------------------- |
-| Time:          | 1 minute or 1 hour    |
-| Opposition:    | Negotiate             |
-| +:             | Float a Proposal      |
-| \++:           | Refine the Offer      |
-| \++:           | Counter-Offer         |
-| \++:           | Put it in Writing     |
-| ++:            | Reach Compromise      |
-| +++:           | Gain 1 Style Point    |
-| \+++:          | Close the Deal        |
-| \++++:         | Gain the Upper Hand   |
+| Time           | 1 minute or 1 hour    |
+| Opposition     | Negotiate             |
+| [+]            | Float a Proposal      |
+| [+][+]         | Refine the Offer      |
+| [+][+]         | Counter-Offer         |
+| [+][+]         | Put it in Writing     |
+| [+][+]         | Reach Compromise      |
+| [+][+][+]      | Gain 1 Style Point    |
+| [+][+][+]      | Close the Deal        |
+| [+][+][+][+]   | Gain the Upper Hand   |
 ::::::::::::::::::::::::::::::::::::::::::
 
 **Float a Proposal:** You propose a course of action, and create a +1D0
@@ -204,16 +204,16 @@ rolls.
 **Opposition:** Use the Intuition specialty of each person who is
 listening to the lies.
 
-::::::::::::::: success ::::::::::::
-| Deceive     |                    |
-| :---------- | :----------------- |
-| Time:       | Free Roll          |
-| Opposition: | Intuition          |
-| +:          | Think on Your Feet |
-| ++:         | Appear Sincere     |
-| +++:        | Gain 1 Style Point |
-| ++++:       | Appear Trustworthy |
-::::::::::::::::::::::::::::::::::::
+:::::::::::::::: success ::::::::::::
+| Deceive      |                    |
+| :----------  | :----------------- |
+| Time         | Free Roll          |
+| Opposition   | Intuition          |
+| [+]          | Think on Your Feet |
+| [+][+]       | Appear Sincere     |
+| [+][+][+]    | Gain 1 Style Point |
+| [+][+][+][+] | Appear Trustworthy |
+:::::::::::::::::::::::::::::::::::::
 
 **Think on Your Feet:** You come up with something quickly so that you
 don't look like you're obviously making something up. You can create a

@@ -39,18 +39,18 @@ fencing style.
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
 
-::::::::::::::::: success :::::::::::::::::::::::::::::::::
-| Parry         |                                         |
-| :------------ | :-------------------------------------- |
-| Time:         | Free Roll                               |
-| Opposition:   | Incoming Lunge, Feint, or Brawl Attack  |
-| Item Die:     | Weapon or Shield Die                    |
-| +:            | Negate Attack                           |
-| ++:           | Execute a Riposte                       |
-| +++:          | Gain 1 Style Point                      |
-| ++++:         | Increase Advantage                      |
-| +++++:        | Disarm                                  |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success :::::::::::::::::::::::::::::::::
+| Parry           |                                         |
+| :-------------- | :-------------------------------------- |
+| Time            | Free Roll                               |
+| Opposition      | Incoming Lunge, Feint, or Brawl Attack  |
+| Item Die        | Weapon or Shield Die                    |
+| [+]             | Negate Attack                           |
+| [+][+]          | Execute a Riposte                       |
+| [+][+][+]       | Gain 1 Style Point                      |
+| [+][+][+][+]    | Increase Advantage                      |
+| [+][+][+][+][+] | Disarm                                  |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,
@@ -96,13 +96,13 @@ Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.
 ::::::::::::::::: success :::::::::::::::::::::::::::::::::
 | Block         |                                         |
 | :------------ | :-------------------------------------- |
-| Time:         | Free Roll                               |
-| Opposition:   | Incoming Lunge, Riposte, or Aim Attack  |
-| Item Die:     | Armor or Shield Die                     |
-| +:            | Negate Attack                           |
-| ++:           | Reduce Yield Taken                      |
-| +++:          | Gain 1 Style Point                      |
-| ++++:         | Increase Advantage                      |
+| Time          | Free Roll                               |
+| Opposition    | Incoming Lunge, Riposte, or Aim Attack  |
+| Item Die      | Armor or Shield Die                     |
+| [+]           | Negate Attack                           |
+| [+][+]        | Reduce Yield Taken                      |
+| [+][+][+]     | Gain 1 Style Point                      |
+| [+][+][+][+]  | Increase Advantage                      |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
@@ -137,17 +137,17 @@ rolls.
 **Opposition:** A Dodge roll can be used against any incoming attack
 roll.
 
-::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::::::
-| Dodge         |                                                       |
-| :------------ | :---------------------------------------------------- |
-| Time:         | Free Roll                                             |
-| Opposition:   | Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack  |
-| +:            | Negate Attack                                         |
-| ++:           | Increase Advantage                                    |
-| +++:          | Gain 1 Style Point                                    |
-| ++++:         | Reduce Yield Taken                                    |
-| +++++:        | Free Move                                             |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::::::
+| Dodge           |                                                       |
+| :------------   | :---------------------------------------------------- |
+| Time            | Free Roll                                             |
+| Opposition      | Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack  |
+| [+]             | Negate Attack                                         |
+| [+][+]          | Increase Advantage                                    |
+| [+][+][+]       | Gain 1 Style Point                                    |
+| [+][+][+][+]    | Reduce Yield Taken                                    |
+| [+][+][+][+][+] | Free Move                                             |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Negate Attack:** You prevent the attack from doing any damage to you,
 and the attacker from spending her Success Points. If you don't do this,

@@ -24,16 +24,16 @@ the crafting.
 **Opposition:** Unless you are rushing, a crafting roll automatically succeeds. The success points generated determine the quality of the creation.
 
 ::::::::::::::::::::::: success ::::::::::::::::::::::::::
-| Calculus            | (Crafting)                       |
+| Calculus            |  Crafting                        |
 | ------------------- | -------------------------------- |
 | Base Time           |  1 hour                          |
 | Opposition          |  Automatic Success               |
 | Item Die            |  Abacus or other calculation aid |
 | Supplies            |  Supplies (varies)               |
 | Bonus Die           |  Extra time, extra supplies      |
-| +                   |  Draw Plans                      |
-| ++                  |  Design Algorithm                |
-| ++++++              |  Eureka!  Eureka!                |
+| [+]                 |  Draw Plans                      |
+| [+][+]              |  Design Algorithm                |
+| [+][+][+][+][+][+]  |  Eureka!  Eureka!                |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draw Plans (1 unit of writing materials):** You create plans for a

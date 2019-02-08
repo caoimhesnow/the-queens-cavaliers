@@ -24,18 +24,18 @@ fencing style.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
-::::::::::::::::: success ::::::::::::::::::::::::::
-| Lunge         |                                  |
-| :------------ | :------------------------------- |
-| Time:         | 1 action                         |
-| Opposition:   | Target's Parry, Block, or Dodge  |
-| Item Die:     | Weapon Die                       |
-| +:            | Inflict 1 Yield                  |
-| ++:           | Increase Advantage               |
-| +++:          | Gain 1 Style Point               |
-| ++++:         | Inflict 1 Wound                  |
-| +++++:        | Break Weapon                     |
-::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success ::::::::::::::::::::::::::
+| Lunge           |                                  |
+| :-------------- | :------------------------------- |
+| Time            | 1 action                         |
+| Opposition      | Target's Parry, Block, or Dodge  |
+| Item Die        | Weapon Die                       |
+| [+]             | Inflict 1 Yield                  |
+| [+][+]          | Increase Advantage               |
+| [+][+][+]       | Gain 1 Style Point               |
+| [+][+][+][+]    | Inflict 1 Wound                  |
+| [+][+][+][+][+] | Break Weapon                     |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
 Point you spend on Yield. If her Yield equals or exceeds her Yield
@@ -82,14 +82,14 @@ Dodge roll, and not by a Parry roll.
 ::::::::::::::::: success ::::::::::::::::::::
 | Riposte       |                            |
 | :------------ | :------------------------- |
-| Time:         | Free Action                |
-| Requires:     | Successful Parry or Feint  |
-| Opposition:   | Target's Block or Dodge    |
-| Item Die:     | Weapon Die                 |
-| +:            | Inflict 1 Yield            |
-| ++:           | Decrease Advantage         |
-| +++:          | Gain 1 Style Point         |
-| ++++:         | Inflict 1 Woundu           |
+| Time          | Free Action                |
+| Requires      | Successful Parry or Feint  |
+| Opposition    | Target's Block or Dodge    |
+| Item Die      | Weapon Die                 |
+| [+]           | Inflict 1 Yield            |
+| [+][+]        | Decrease Advantage         |
+| [+][+][+]     | Gain 1 Style Point         |
+| [+][+][+][+]  | Inflict 1 Woundu           |
 ::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success
@@ -129,18 +129,18 @@ fencing style.
 **Opposition:** A Feint roll can be defended against with a Parry or
 Dodge roll, but not by a Block roll.
 
-:::::::::::::::::: success ::::::::::::::::::
-| Feint          |                          |
-| :------------  | :----------------------- |
-| Time:          | 1 action                 |
-| Opposition:    | Target's Parry or Dodge  |
-| Item Die:      | Weapon Die               |
-| +:             | Increase Advantage       |
-| ++:            | Inflict 1 Yield          |
-| +++:           | Gain 1 Style Point       |
-| ++++:          | Execute a Riposte        |
-| +++++:         | Disarm                   |
-:::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success ::::::::::::::::::
+| Feint           |                          |
+| :------------   | :----------------------- |
+| Time            | 1 action                 |
+| Opposition      | Target's Parry or Dodge  |
+| Item Die        | Weapon Die               |
+| [+]             | Increase Advantage       |
+| [+][+]          | Inflict 1 Yield          |
+| [+][+][+]       | Gain 1 Style Point       |
+| [+][+][+][+]    | Execute a Riposte        |
+| [+][+][+][+][+] | Disarm                   |
+::::::::::::::::::::::::::::::::::::::::::::::
 
 **Increase Advantage:** You gain a +1D6 Advantage Die if you don't
 already have Advantage, or increase your die size by one step, up to a

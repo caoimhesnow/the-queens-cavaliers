@@ -27,7 +27,7 @@ Table: Poisons
 ::::: success ::::::::::::
 |      |                 |
 | :--: | :-------------- |
-| +++: | Inflict 1 Wound |
+| [+][+][+]: | Inflict 1 Wound |
 ::::::::::::::::::::::::::
 
 **Inflict 1 Wound:** Your opponent takes one Wound. If she takes Wounds
@@ -40,7 +40,7 @@ dying.
 :::::::::::::: success ::::::::
 |      |                      |
 | :--: | :------------------- |
-| +++: | Inflict Drop Penalty |
+| [+][+][+]: | Inflict Drop Penalty |
 :::::::::::::::::::::::::::::::
 
 **Inflict Drop Penalty:** Your opponent gains a Drop penalty on all rolls
@@ -52,7 +52,7 @@ maximum of Drop 4. This impairment lasts for 1 hour.
 :::::::: success :::::::::
 |      |                 |
 | :--: | :-------------- |
-| +:   | Inflict 1 Yield |
+| [+]:   | Inflict 1 Yield |
 ::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for every Success Point

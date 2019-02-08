@@ -24,16 +24,16 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::: success :::::::::::::::::::::
-| Riposte            | (Crafting)                  |
+| Riposte            | Crafting                    |
 | ------------------ | --------------------------- |
 | Base Time          |  1 hour                     |
 | Opposition         |  Automatic Success          |
 | Item Die           |  Metalworking tools, smithy |
 | Supplies           |  Crucible steel             |
 | Bonus Die          |  Extra time                 |
-| +                  |  Craft Light Knife          |
-| ++                 |  Craft Long Knife           |
-| +++                |  Add Knife Quality          |
+| [+]                |  Craft Light Knife          |
+| [+][+]             |  Craft Long Knife           |
+| [+][+][+]          |  Add Knife Quality          |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Knife (1 unit of crucible steel):** You create any knife with the Either Hand quality.

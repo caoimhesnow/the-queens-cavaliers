@@ -30,11 +30,11 @@ act).
 ::::::::::::::::: success :::::::::::::::
 | Impulse       |                       | 
 | :------------ | :-------------------- |
-| Time:         | Free Roll             |
-| Opposition:   | Automatic Success     |
-| +:            | Seize the Initiative  |
-| ++:           | Interpose             |
-| +++:          | Reprise Attack        |
+| Time          | Free Roll             |
+| Opposition    | Automatic Success     |
+| [+]           | Seize the Initiative  |
+| [+][+]        | Interpose             |
+| [+][+][+]     | Reprise Attack        |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Seize the Initiative:** For one round, you jump ahead in the
@@ -71,11 +71,11 @@ act).
 ::::::::::::::::: success :::::::::::::::
 | Vigilance     |                       | 
 | :------------ | :-------------------- |
-| Time:         | Free Roll             |
-| Opposition:   | Automatic Success     |
-| +:            | Interpose             |
-| ++:           | Reprise Attack        |
-| +++:          | Seize the Initiative  |
+| Time          | Free Roll             |
+| Opposition    | Automatic Success     |
+| [+]           | Interpose             |
+| [+][+]        | Reprise Attack        |
+| [+][+][+]     | Seize the Initiative  |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Interpose:** For one attack, you makes yourself the target of someone
@@ -111,11 +111,11 @@ act).
 ::::::::::::::::: success :::::::::::::::
 | Timing        |                       |
 | :------------ | :-------------------- |
-| Time:         | Free Roll             |
-| Opposition:   | Automatic Success     |
-| +:            | Reprise Attack        |
-| ++:           | Seize the Initiative  |
-| +++:          | Interpose             |
+| Time          | Free Roll             |
+| Opposition    | Automatic Success     |
+| [+]           | Reprise Attack        |
+| [+][+]        | Seize the Initiative  |
+| [+][+][+]     | Interpose             |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Reprise Attack:** If you failed on an attack roll, you can repeat the

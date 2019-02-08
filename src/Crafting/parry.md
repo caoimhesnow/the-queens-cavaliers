@@ -24,18 +24,18 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::: success :::::::::::::::::::::
-| Parry            | (Crafting)                  |
-| ---------------- | --------------------------- |
-| Base Time        |  1 hour                     |
-| Opposition       |  Automatic Success          |
-| Item Die         |  Metalworking tools, smithy |
-| Supplies         |  Crucible steel             |
-| Bonus Die        |  Extra time                 |
-| +                |  Craft Light Shield         |
-| ++               |  Shield Spike               |
-| +++              |  Craft Standard Shield      |
-| +++++            |  Craft Heavy Shield         |
-| ++++++           |  Perfectly Balanced         |
+| Parry              |  Crafting                   |
+| ------------------ | --------------------------- |
+| Base Time          |  1 hour                     |
+| Opposition         |  Automatic Success          |
+| Item Die           |  Metalworking tools, smithy |
+| Supplies           |  Crucible steel             |
+| Bonus Die          |  Extra time                 |
+| [+]                |  Craft Light Shield         |
+| [+][+]             |  Shield Spike               |
+| [+][+][+]          |  Craft Standard Shield      |
+| [+][+][+][+][+]    |  Craft Heavy Shield         |
+| [+][+][+][+][+][+] |  Perfectly Balanced         |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Shield (1 unit of crucible steel):** You create any shield with an Item Die of +1D6.

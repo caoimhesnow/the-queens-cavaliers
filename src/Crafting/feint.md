@@ -22,16 +22,16 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::: success ::::::::::::
-| Feint            | (Crafting)         |
+| Feint            |  Crafting          |
 | ---------------- | ------------------ |
 | Base Time        |  1 hour            |
 | Opposition       |  Automatic Success |
 | Supplies         |  Fabric            |
 | Bonus Die        |  Extra time        |
-| +                |  Craft Net         |
-| +                |  Craft Whip        |
-| +++              |  Add Net Quality   |
-| +++              |  Add Whip Quality  |
+| [+]              |  Craft Net         |
+| [+]              |  Craft Whip        |
+| [+][+][+]        |  Add Net Quality   |
+| [+][+][+]        |  Add Whip Quality  |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Craft Net (1 unit of fabric):** You create any net. 

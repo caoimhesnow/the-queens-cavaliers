@@ -21,18 +21,18 @@ Table: Placed Bombs
 
 Table: Bomb Effects
 
-| Bomb Type  | Radius Steps            | Special                |
-| :--------- | :---------------------- | :--------------------- |
-| Alchemical | Close, Adjacent, Short  |  +: Inflict 1 Yield    |
-| Canister   | Adjacent, Short, Medium |  +++: Inflict 2 Wounds |
-| Heavy      | Medium, Long            |                        |
-| Mining     | Adjacent, Close         |                        |
-| Powderhorn | Close                   |                        |
-| Powderkeg  | Close, Adjacent         |                        |
-| Smoke      | Short, Medium           |                        |
-| Structure  | Short, Medium, Long     |                        |
-| Thunder    | Close, Adjacent, Short  |                        |
-| Wildfire   | Adjacent, Short, Medium |  ++: Step-Up Radius    |
+| Bomb Type  | Radius Steps            | Special                      |
+| :--------- | :---------------------- | :--------------------------- |
+| Alchemical | Close, Adjacent, Short  |  [+]: Inflict 1 Yield        |
+| Canister   | Adjacent, Short, Medium |  [+][+][+]: Inflict 2 Wounds |
+| Heavy      | Medium, Long            |                              |
+| Mining     | Adjacent, Close         |                              |
+| Powderhorn | Close                   |                              |
+| Powderkeg  | Close, Adjacent         |                              |
+| Smoke      | Short, Medium           |                              |
+| Structure  | Short, Medium, Long     |                              |
+| Thunder    | Close, Adjacent, Short  |                              |
+| Wildfire   | Adjacent, Short, Medium |  [+][+]: Step-Up Radius      |
 
   - **Alchemical Bomb:** []{.comingsoon}
   - **Canister   Bomb:** []{.comingsoon}

@@ -24,16 +24,16 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::: success :::::::::::::::::::::
-| Brawl            | (Crafting)                  |
+| Brawl            |  Crafting                   |
 | ---------------- | --------------------------- |
 | Base Time        |  1 hour                     |
 | Opposition       |  Automatic Success          |
 | Item Die         |  Metalworking tools, smithy |
 | Supplies         |  Crucible steel             |
 | Bonus Die        |  Extra time                 |
-| +                |  Craft Light Cudgel         |
-| ++               |  Craft Heavy Cudgel         |
-| +++              |  Add Cudgel Quality         |
+| [+]              |  Craft Light Cudgel         |
+| [+][+]           |  Craft Heavy Cudgel         |
+| [+][+][+]        |  Add Cudgel Quality         |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Cudgel:** You create any cudgel with a Weapon Die of +1D6.

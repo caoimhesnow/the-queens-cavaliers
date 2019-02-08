@@ -30,11 +30,11 @@ Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Specialty Rank Required |
 | :---------------: | :-------: | :---------------------: |
-| 2 hours           | 1D0       | \+1                     |
-| 4 hours           | 1D6       | \+2                     |
-| 8 hours (1 day)   | 1D8       | \+3                     |
-| 16 hours (2 days) | 1D10      | \+4                     |
-| 32 hours (4 days) | 1D12      | \+5                     |
+| 2 hours           | 1D0       |  +1                     |
+| 4 hours           | 1D6       |  +2                     |
+| 8 hours (1 day)   | 1D8       |  +3                     |
+| 16 hours (2 days) | 1D10      |  +4                     |
+| 32 hours (4 days) | 1D12      |  +5                     |
 
 **Extra Supplies: **You can use extra medicine during surgery to add a
 Bonus Die to your dice pool. The size of that die is limited by your
@@ -44,28 +44,28 @@ Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
 | :---------------: | :-------: | :---------------------: |
-| 2                 | 1D0       | \+1                     |
-| 3                 | 1D6       | \+2                     |
-| 4                 | 1D8       | \+3                     |
-| 6                 | 1D10      | \+4                     |
-| 8                 | 1D12      | \+5                     |
+| 2                 | 1D0       |  +1                     |
+| 3                 | 1D6       |  +2                     |
+| 4                 | 1D8       |  +3                     |
+| 6                 | 1D10      |  +4                     |
+| 8                 | 1D12      |  +5                     |
 
 **Opposition:** Healing wounds or minor surgeries are Easy (3D6)
 standard difficulty. Major surgeries are Moderate (3D8) or higher.
 
-:::::::::::::::::: success ::::::::::::::::::::::::::::::::::
-| Surgery        |                                          |
-| :------------- | :--------------------------------------- | 
-| Time:          | 1 Hour                                   |
-| Opposition:    | Standard Opposition                      |
-| Item Die:      | Chirurgeon's Knives or Surgical Theatre  |
-| Bonus Die:     | Extra time, extra supplies               |
-| +:             | Patient Survives                         |
-| ++:            | Heal 1 Wound                             |
-| +++:           | Minor Surgical Procedure                 |
-| +++:           | Gain 1 Style Point                       |
-| +++++:         | Major Surgical Procedure                 |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
+| Surgery         |                                          |
+| :-------------  | :--------------------------------------- | 
+| Time            | 1 Hour                                   |
+| Opposition      | Standard Opposition                      |
+| Item Die        | Chirurgeon's Knives or Surgical Theatre  |
+| Bonus Die       | Extra time, extra supplies               |
+| [+]             | Patient Survives                         |
+| [+][+]          | Heal 1 Wound                             |
+| [+][+][+]       | Minor Surgical Procedure                 |
+| [+][+][+]       | Gain 1 Style Point                       |
+| [+][+][+][+][+] | Major Surgical Procedure                 |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Patient Survives:** Despite the relatively advanced state of Elaran
 medicine, surgery remains a risky proposition. If you don't spend one
@@ -115,21 +115,21 @@ Table: Extra Time for a One-Minute Task
 
 | Completion Time | Bonus Die | Treat Rank Required |
 | :-------------: | :-------: | :-----------------: |
-| 2 minutes       | 1D0       | \+1                 |
-| 5 minutes       | 1D6       | \+2                 |
-| 15 minutes      | 1D8       | \+3                 |
-| 1 hour          | 1D10      | \+4                 |
-| 4 hours         | 1D12      | \+5                 |
+| 2 minutes       | 1D0       |  +1                 |
+| 5 minutes       | 1D6       |  +2                 |
+| 15 minutes      | 1D8       |  +3                 |
+| 1 hour          | 1D10      |  +4                 |
+| 4 hours         | 1D12      |  +5                 |
 
 Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Treat Rank Required |
 | :---------------: | :-------: | :-----------------: |
-| 2 hours           | 1D0       | \+1                 |
-| 4 hours           | 1D6       | \+2                 |
-| 8 hours (1 day)   | 1D8       | \+3                 |
-| 16 hours (2 days) | 1D10      | \+4                 |
-| 32 hours (4 days) | 1D12      | \+5                 |
+| 2 hours           | 1D0       |  +1                 |
+| 4 hours           | 1D6       |  +2                 |
+| 8 hours (1 day)   | 1D8       |  +3                 |
+| 16 hours (2 days) | 1D10      |  +4                 |
+| 32 hours (4 days) | 1D12      |  +5                 |
 
 **Extra Supplies: **You can use extra medicine during treatment to add a
 Bonus Die to your dice pool. The size of that die is limited by your
@@ -139,11 +139,11 @@ Table: Extra Supplies
 
 | Units of medicine | Bonus Die | Specialty Rank Required |
 | :---------------: | :-------: | :---------------------: |
-| 2                 | 1D0       | \+1                     |
-| 3                 | 1D6       | \+2                     |
-| 4                 | 1D8       | \+3                     |
-| 6                 | 1D10      | \+4                     |
-| 8                 | 1D12      | \+5                     |
+| 2                 | 1D0       |  +1                     |
+| 3                 | 1D6       |  +2                     |
+| 4                 | 1D8       |  +3                     |
+| 6                 | 1D10      |  +4                     |
+| 8                 | 1D12      |  +5                     |
 
 **Rushing: **You can reduce the time to treat a patient by taking a Drop
 penalty on your die roll. You can't rush a job that you're taking extra
@@ -177,13 +177,13 @@ the severity of the disease.
 ::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Treat         |                                           |
 | :------------ | :---------------------------------------- |
-| Time:         | 1 minute or 1 hour                        |
-| Opposition:   | Standard Opposition                       |
-| Item Die:     | Chirurgeon's Knives or Surgical Theatre   |
-| +:            | Reduce Patient's Yield                    |
-| ++:           | Heal 1 Wound                              |
-| +++:          | Gain 1 Style Point                        |
-| ++++:         | Reduce Disease Severity                   |
+| Time          | 1 minute or 1 hour                        |
+| Opposition    | Standard Opposition                       |
+| Item Die      | Chirurgeon's Knives or Surgical Theatre   |
+| [+]           | Reduce Patient's Yield                    |
+| [+][+]        | Heal 1 Wound                              |
+| [+][+][+]     | Gain 1 Style Point                        |
+| [+][+][+][+]  | Reduce Disease Severity                   |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Reduce Patient's Yield:** If someone in the same area as you has taken
@@ -237,13 +237,13 @@ the poison.
 :::::::::::::::::: success :::::::::::::::::::::::::::::::::::
 | Poison         |                                           |
 | :------------- | :---------------------------------------- |
-| Time:          | 1 action                                  |
-| Opposition:    | Standard opposition or Automatic Success  |
-| +:             | Poison Your Victim                        |
-| +:             | Poisoned Weapon                           |
-| ++:            | Administer Antidote                       |
-| ++:            | Avoid Notice                              |
-| +++:           | Gain 1 Style Point                        |
+| Time           | 1 action                                  |
+| Opposition     | Standard opposition or Automatic Success  |
+| [+]            | Poison Your Victim                        |
+| [+]            | Poisoned Weapon                           |
+| [+][+]         | Administer Antidote                       |
+| [+][+]         | Avoid Notice                              |
+| [+][+][+]      | Gain 1 Style Point                        |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Poisoned Weapon:** You can add expend one dose of poison and apply it

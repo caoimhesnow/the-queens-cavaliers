@@ -13,9 +13,9 @@
 - **Ferocity:** Inspire +1 (2D8), Lunge +1 (2D8+1D6)
 - **Training:** Block +1 (2D10+1D8), Husbandry (1D10), Perceive (1D10)
 - **Barding:** Block +1d8
-- **Hooves:** Lunge +1D6, +++: Knockdown
+- **Hooves:** Lunge +1D6, [+][+][+]: Knockdown
 - **Maneuver:** Trample (when attacking a smaller scale creature with
-hooves, add Scale +1D10 to Lunge)\
+hooves, add Scale +1D10 to Lunge)
 - **Impetus:** Obedience (D6)
 
 A warhorse is specifically trained for battle. It usually will wear

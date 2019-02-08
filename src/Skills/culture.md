@@ -33,18 +33,18 @@ succeed and the success points will determine the quality of the
 performance. Under less than ideal circumstances, Standard Opposition of
 Easy (3D6) or higher may be required.
 
-::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
-| Arts          |                                            |
-| :------------ | :----------------------------------------- |
-| Time:         | 1 minute or longer                         |
-| Opposition:   | Automatic Success, or Standard Opposition  |
-| Item Die:     | Musical instrument                         |
-| Bonus Die:    | Tag Die                                    |
-| +:            | Successful Performance                     |
-| ++:           | Increase Tag Die                           |
-| +++:          | Gain 1 Style Point                         |
-| ++++++:       | Encore, Encore\!                           |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
+| Arts                |                                            |
+| :------------------ | :----------------------------------------- |
+| Time                | 1 minute or longer                         |
+| Opposition          | Automatic Success, or Standard Opposition  |
+| Item Die            | Musical instrument                         |
+| Bonus Die           | Tag Die                                    |
+| [+]                 | Successful Performance                     |
+| [+][+]              | Increase Tag Die                           |
+| [+][+][+]           | Gain 1 Style Point                         |
+| [+][+][+][+][+][+]  | Encore, Encore!                            |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Successful Performance:** You give a successful performance of a work,
 be it already prepared or an improvisational performance. You can create
@@ -61,17 +61,17 @@ Table: Maximum Tag Die
 
 | Arts Rank | Bonus Die |
 | :-------: | :-------: |
-| 1         | \+1D0     |
-| 2         | \+1D6     |
-| 3         | \+1D8     |
-| 4         | \+1D10    |
-| 5         | \+1D12    |
+| 1         |  +1D0     |
+| 2         |  +1D6     |
+| 3         |  +1D8     |
+| 4         |  +1D10    |
+| 5         |  +1D12    |
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
 you use the Specialty with style, and you can only have a maximum of
 three Style Points at any time.
 
-**Encore, Encore\!:** You give such a successful performance that no one
+**Encore, Encore! :** You give such a successful performance that no one
 in the audience will ever forget it, or you. Any Tag Dice from this
 performance last for 24 hours and are automatically maximized.
 
@@ -103,14 +103,14 @@ making an Etiquette roll.
 ::::::::::::::::: success ::::::::::::::::::::::::::::::::::::
 | Etiquette     |                                            |
 | :------------ | :----------------------------------------- |
-| Time:         | 1 Minute or more                           |
-| Opposition:   | Automatic Success, or Standard Opposition  |
-| Bonus Die:    | Your Social Rank Die                       |
-| +:            | Avoid Faux Pas                             |
-| ++:           | Impress an Audience                        |
-| ++:           | Improve Impression                         |
-| +++:          | Gain 1 Style Point                         |
-| ++++:         | Pass as Different Social Rank              |
+| Time          | 1 Minute or more                           |
+| Opposition    | Automatic Success, or Standard Opposition  |
+| Bonus Die     | Your Social Rank Die                       |
+| [+]           | Avoid Faux Pas                             |
+| [+][+]        | Impress an Audience                        |
+| [+][+]        | Improve Impression                         |
+| [+][+][+]     | Gain 1 Style Point                         |
+| [+][+][+][+]  | Pass as Different Social Rank              |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Avoid Faux Pas:** You communicate what you are trying to say without
@@ -130,11 +130,11 @@ Table: Maximum Tag Die
 
 | Etiquette Ranks | Maximum Tag Die |
 | :-------------: | :-------------: |
-| \+1             | \+1D0           |
-| \+2             | \+1D6           |
-| \+3             | \+1D8           |
-| \+4             | \+1D10          |
-| \+5             | \+1D12          |
+|  +1             |  +1D0           |
+|  +2             |  +1D6           |
+|  +3             |  +1D8           |
+|  +4             |  +1D10          |
+|  +5             |  +1D12          |
 
 
 **Gain 1 Style Point:** You gain one Style Point; you must describe how
@@ -178,25 +178,25 @@ Table: Extra Time for a One-Hour Task
 
 | Completion Time   | Bonus Die | Scholarship Rank Required |
 | :---------------- | :-------: | :-----------------------: |
-| 2 hours           | 1D0       | \+1                       |
-| 4 hours           | 1D6       | \+2                       |
-| 8 hours (1 day)   | 1D8       | \+3                       |
-| 16 hours (2 days) | 1D10      | \+4                       |
-| 32 hours (4 days) | 1D12      | \+5                       |
+| 2 hours           | 1D0       |  +1                       |
+| 4 hours           | 1D6       |  +2                       |
+| 8 hours (1 day)   | 1D8       |  +3                       |
+| 16 hours (2 days) | 1D10      |  +4                       |
+| 32 hours (4 days) | 1D12      |  +5                       |
 
 **Opposition:** Use Easy (3D6) in most circumstances.
 
-:::::::::::::::: success :::::::::::::::::::::::::::::::::::::
-| Scholarship   |                                            |
-| :------------ | :----------------------------------------- |
-| Time:         | 1 Hour                                     |
-| Opposition:   | Automatic Success, or Standard Opposition  |
-| Item Die:     | Book, report, or library                   |
-| Bonus Die:    | Extra time                                 |
-| +:            | Research                                   |
-| +++:          | Gain 1 Style Point                         |
-| +++++:        | Teach a Lesson                             |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::: success :::::::::::::::::::::::::::::::::::::
+| Scholarship     |                                            |
+| :-------------- | :----------------------------------------- |
+| Time            | 1 Hour                                     |
+| Opposition      | Automatic Success, or Standard Opposition  |
+| Item Die        | Book, report, or library                   |
+| Bonus Die       | Extra time                                 |
+| [+]             | Research                                   |
+| [+][+][+]       | Gain 1 Style Point                         |
+| [+][+][+][+][+] | Teach a Lesson                             |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Research:** You gain in-depth knowledge about one specific person,
 place, thing, group, or event for each Success Point you spend. You can

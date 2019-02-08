@@ -20,16 +20,16 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 ::::::::::::::::::::::: success :::::::::::::::
-| Strategy            | (Crafting)            |
+| Strategy            |  Crafting             |
 | ------------------- | --------------------- |
 | Base Time           |  1 hour               |
 | Opposition          |  Automatic Success    |
 | Supplies            |  writing materials    |
 | Bonus Die           |  Extra time           |
-| +                   |  Draft Battle Plans   |
-| ++                  |  Improve Battle Plans |
-| ++                  |  Issue Orders         |
-| +++++               |  Forge Orders         |
+| [+]                 |  Draft Battle Plans   |
+| [+][+]              |  Improve Battle Plans |
+| [+][+]              |  Issue Orders         |
+| [+][+][+][+][+]     |  Forge Orders         |
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draft Battle Plans (1 unit of writing materials):** You create a basic

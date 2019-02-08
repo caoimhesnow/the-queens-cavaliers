@@ -77,7 +77,7 @@ the Crown.
   - *Streetwise:*     Carouse +4, 1D10 + 5D8; Larceny +1, 3D10
 - **Weapon Prowess:** knife, sword, cudgel, bow, pistol, musket
 - **Armor Prowess:** flexible armor
-- **Equipment:** custom designed swordbreaker (Knife +1D6; Parry +++++: Break weapon; Parry, Riposte, Feint only), various disguises
+- **Equipment:** custom designed swordbreaker (Knife +1D6; Parry [+][+][+][+][+]: Break weapon; Parry, Riposte, Feint only), various disguises
     - *Spymaster outfit:* black cavalier hat with carnation plume (Riposte +1D10), black doublet, brown soldier's gloves, black breeches, brown boots, sable cape (Deceive +1D10)
     - *Helpless old granny outfit:* gray shift, brown breeches, brown sandals
     - *Ekalian pirate outfit:* sanguine headscarf, celeste doublet, sanguine soldier gloves (Prowl +1D10), sanguine pantaloons, brown and celeste boots

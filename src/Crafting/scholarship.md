@@ -32,18 +32,18 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::::::: success ::::::::::::::::::::::
-| Scholarship            | (Crafting)                   |
+| Scholarship            |  Crafting                    |
 | ---------------------- | ---------------------------- |
 | Base Time              |  1 hour                      |
 | Opposition             |  Automatic Success           |
 | Item Die               |  Books, library              |
 | Supplies               |  Writing materials materials |
 | Bonus Die              |  Extra time                  |
-| +                      |  Craft Report                |
-| ++                     |  Improve Writing             |
-| +++                    |  Translate a Passage         |
-| +++                    |  Craft Book Chapter          |
-| ++++++                 |  Eureka!                     |
+| [+]                    |  Craft Report                |
+| [+][+]                 |  Improve Writing             |
+| [+][+][+]              |  Translate a Passage         |
+| [+][+][+]              |  Craft Book Chapter          |
+| [+][+][+][+][+][+]     |  Eureka!                     |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Report (1 unit of writing materials):** You create a basic

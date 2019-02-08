@@ -25,17 +25,17 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::: success :::::::::::::::::::::
-| Block            | (Crafting)                  |
+| Block            |  Crafting                   |
 | ---------------- | --------------------------- |
 | Base Time        |  1 day                      |
 | Opposition       |  Automatic Success          |
 | Item Die         |  Metalworking tools, smithy |
 | Supplies         |  Crucible steel             | 
 | Bonus Die        |  Extra time                 |
-| +                |  Craft Metal Item           |
-| +                |  Craft Rigid Armor          |
-| +++              |  Improved Rigid Armor       |
-| +++++            |  Superior Rigid Armor       |
+| [+]              |  Craft Metal Item           |
+| [+]              |  Craft Rigid Armor          |
+| [+][+][+]        |  Improved Rigid Armor       |
+| [+][+][+][+][+]  |  Superior Rigid Armor       |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Metal Item (1 or more units of crucible steel):** You create a metal item such as tailoring tools.

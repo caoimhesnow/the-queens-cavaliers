@@ -25,19 +25,19 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-:::::::::::::::::::: success :::::::::::::::::::::::
-| Weave            | (Crafting)                    |
-| ---------------- | ----------------------------- |
-| Base Time        |  1 hour                       |
-| Opposition       |  Automatic Success            |
-| Item Die         |  Tailoring tools or workshop  |
-| Supplies         |  Fabric                       |
-| Bonus Die        |  Extra time or extra supplies |
-| +                |  Craft Article of Clothing    |
-| ++               |  Add Charm to Clothing        |
-| ++               |  Increase Charm               |
-| ++++             |  Reduce Material Cost         |
-| ++++++           |  Masterpiece!                 |
+:::::::::::::::::::::: success :::::::::::::::::::::::
+| Weave              |  Crafting                     |
+| ------------------ | ----------------------------- |
+| Base Time          |  1 hour                       |
+| Opposition         |  Automatic Success            |
+| Item Die           |  Tailoring tools or workshop  |
+| Supplies           |  Fabric                       |
+| Bonus Die          |  Extra time or extra supplies |
+| [+]                |  Craft Article of Clothing    |
+| [+][+]             |  Add Charm to Clothing        |
+| [+][+]             |  Increase Charm               |
+| [+][+][+][+]       |  Reduce Material Cost         |
+| [+][+][+][+][+][+] |  Masterpiece!                 |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Article of Clothing (1 unit of fabric):** You create a basic

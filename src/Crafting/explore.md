@@ -21,19 +21,19 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::: success :::::::::::::::
-| Explore            | (Crafting)            |
+| Explore            |  Crafting             |
 | ------------------ | --------------------- |
 | Base Time          |  1 hour or 1 day      |
 | Opposition         |  Automatic Success    |
 | Item Die           |  Varies               |
 | Supplies           |  Varies               |
 | Bonus Die          |  Extra Time           |
-| +                  |  Craft Map            |
-| +                  |  Prepare Rations      |
-| ++                 |  Improve Map or Globe |
-| +++                |  Craft Globe          |
-| ++++               |  Build Shelter        |
-| +++++              |  Build Raft           |
+| [+]                |  Craft Map            |
+| [+]                |  Prepare Rations      |
+| [+][+]             |  Improve Map or Globe |
+| [+][+][+]          |  Craft Globe          |
+| [+][+][+][+]       |  Build Shelter        |
+| [+][+][+][+][+]    |  Build Raft           |
 ::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Map (1 unit of writing materials):** You create a map of either

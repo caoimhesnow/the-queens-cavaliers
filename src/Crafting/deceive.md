@@ -20,18 +20,18 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::: success ::::::::::::::::::::::::
-| Deceive            | (Crafting)                     |
+| Deceive            | Crafting                       |
 | ------------------ | ------------------------------ |
 | Base Time          |  1 day                         |
 | Opposition         |  Automatic Success             |
 | Supplies           |  Fabric, alchemical components |
 | Bonus Die          |  Extra Time                    |
-| +                  |  Craft Identity                |
-| +                  |  Make a Connection             |
-| +                  |  Maintain Identity             |
-| ++                 |  Improve Identity              |
-| +++++              |  Assume Someone's Identity     |
-| ++++++             |  Persistent Identity           |
+| [+]                |  Craft Identity                |
+| [+]                |  Make a Connection             |
+| [+]                |  Maintain Identity             |
+| [+][+]             |  Improve Identity              |
+| [+][+][+][+][+]    |  Assume Someone's Identity     |
+| [+][+][+][+][+][+] |  Persistent Identity           |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Identity (1 unit of fabric):** You create an alternate identity.

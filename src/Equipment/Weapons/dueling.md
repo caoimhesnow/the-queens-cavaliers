@@ -128,27 +128,27 @@ one exception is that a bullwhip always has an availability of
 
 Table: Uncommon Dueling Weapons
 
-| Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                          |
-| :---------------- | :--: | :------------- | :------------ | :------------------------------------------------------------------- |
-| Backsword         | D6   | Main           | Sword +1D8    | Parry, Lunge, Riposte, Feint                                         |
-| Bayonet           | D6   |                | Polearm +1D6  | Lunge, Feint                                                         |
-| Bullwhip          | D0   | Main (Reach)   | Whip +1D6     | Riposte, Feint (+++: Knockdown, +++++: Grab)                         |
-| Cat-O'-Nine-Tails | D6   | Main           | Whip +1D8     | Riposte, Feint (+++: Knockdown)                                      |
-| Glaive            | D8   | Both (Reach)   | Polearm +1D10 | Parry, Lunge, Feint                                                  |
-| Halberd           | D8   | Both (Reach)   | Polearm +1D10 | Lunge (+++: Unhorse), Feint                                          |
-| Hooked Net        | D0   | Either (Reach) | Net +1D6      | Feint (++++: Knockdown)                                              |
-| Lance             | D6   | Main (Cavalry) | Polearm +1D10 | Lunge (+++: Unhorse)                                                 |
-| Longsword         | D8   | Main or Both   | Sword +1D8    | Parry, Lunge, Riposte, Feint                                         |
-| Mace              | D8   | Main           | Cudgel +1D8   | Parry, Lunge                                                         |
-| Main Gauche       | D6   | Either         | Knife +1D6    | Parry (+: Execute a Riposte), Riposte (+: Decrease Advantage), Feint |
-| Pike              | D8   | Both (Reach)   | Polearm +1D12 | Lunge                                                                |
-| Pollaxe           | D8   | Both (Reach)   | Polearm +1D8  | Parry, Lunge, Feint                                                  |
-| Scourge           | D6   | Main (Reach)   | Whip +1D6     | Riposte, Feint (++++: Inflict 1 Wound)                               |
-| Spear             | D6   | Main           | Polearm +1D6  | Lunge, Feint, Aim                                                    |
-| Swordbreaker      | D6   | Either         | Knife +1D6    | Parry (+++++: Break Weapon), Riposte, Feint                          |
-| Trident Dagger    | D6   | Either         | Knife +1D6    | Parry (++++: Disarm), Feint                                          |
-| Truncheon         | D6   | Main           | Cudgel +1D6   | Parry, Lunge, Brawl                                                  |
-| Weighted Net      | D6   | Main (Reach)   | Net +1D6      | Feint (+++: Restrain)                                                |
+| Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                              |
+| :---------------- | :--: | :------------- | :------------ | :----------------------------------------------------------------------- |
+| Backsword         | D6   | Main           | Sword +1D8    | Parry, Lunge, Riposte, Feint                                             |
+| Bayonet           | D6   |                | Polearm +1D6  | Lunge, Feint                                                             |
+| Bullwhip          | D0   | Main (Reach)   | Whip +1D6     | Riposte, Feint ([+][+][+]: Knockdown, [+][+][+][+][+]: Grab)             |
+| Cat-O'-Nine-Tails | D6   | Main           | Whip +1D8     | Riposte, Feint ([+][+][+]: Knockdown)                                    |
+| Glaive            | D8   | Both (Reach)   | Polearm +1D10 | Parry, Lunge, Feint                                                      |
+| Halberd           | D8   | Both (Reach)   | Polearm +1D10 | Lunge ([+][+][+]: Unhorse), Feint                                        |
+| Hooked Net        | D0   | Either (Reach) | Net +1D6      | Feint ([+][+][+][+]: Knockdown)                                          |
+| Lance             | D6   | Main (Cavalry) | Polearm +1D10 | Lunge ([+][+][+]: Unhorse)                                               |
+| Longsword         | D8   | Main or Both   | Sword +1D8    | Parry, Lunge, Riposte, Feint                                             |
+| Mace              | D8   | Main           | Cudgel +1D8   | Parry, Lunge                                                             |
+| Main Gauche       | D6   | Either         | Knife +1D6    | Parry ([+]: Execute a Riposte), Riposte ([+]: Decrease Advantage), Feint |
+| Pike              | D8   | Both (Reach)   | Polearm +1D12 | Lunge                                                                    |
+| Pollaxe           | D8   | Both (Reach)   | Polearm +1D8  | Parry, Lunge, Feint                                                      |
+| Scourge           | D6   | Main (Reach)   | Whip +1D6     | Riposte, Feint ([+][+][+][+]: Inflict 1 Wound)                           |
+| Spear             | D6   | Main           | Polearm +1D6  | Lunge, Feint, Aim                                                        |
+| Swordbreaker      | D6   | Either         | Knife +1D6    | Parry ([+][+][+][+][+]: Break Weapon), Riposte, Feint                    |
+| Trident Dagger    | D6   | Either         | Knife +1D6    | Parry ([+][+][+][+]: Disarm), Feint                                      |
+| Truncheon         | D6   | Main           | Cudgel +1D6   | Parry, Lunge, Brawl                                                      |
+| Weighted Net      | D6   | Main (Reach)   | Net +1D6      | Feint ([+][+][+]: Restrain)                                              |
 
   - **Backsword:** []{.comingsoon}
   - **Bayonet:** A bayonet is attached to the barrel of a musket and can be used as a Dueling weapon without having to change weapons.

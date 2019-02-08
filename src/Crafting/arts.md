@@ -30,21 +30,21 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
-| Arts            | (Crafting)                               |
-| :-------------- | :--------------------------------------- |
-| Base Time       |  1 hour or 1 day                         |
-| Opposition      |  Automatic Success                       |
-| Item Die        |  Artisan tools or artist's studio        |
-| Supplies        |  art media or Writing materials supplies |
-| Bonus Die       |  Extra Time                              |  
-| +               | Craft Artwork                            |
-| +               | Add a Tag                                |
-| ++              | Improve Artwork                          |
-| ++++            | Reduce Material Cost                     |
-| +++++           | Create Forgery                           |
-| ++++++          | Pièce de Résistance!                     |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
+| Arts               |  Crafting                                |
+| :----------------- | :--------------------------------------- |
+| Base Time          |  1 hour or 1 day                         |
+| Opposition         |  Automatic Success                       |
+| Item Die           |  Artisan tools or artist's studio        |
+| Supplies           |  art media or Writing materials supplies |
+| Bonus Die          |  Extra Time                              |  
+| [+]                | Craft Artwork                            |
+| [+]                | Add a Tag                                |
+| [+][+]             | Improve Artwork                          |
+| [+][+][+][+]       | Reduce Material Cost                     |
+| [+][+][+][+][+]    | Create Forgery                           |
+| [+][+][+][+][+][+] | Pièce de Résistance!                     |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Artwork (1 unit of art media):** You create a basic item of art.
 Choose a one-word Tag, usually associated with an emotion, place, or

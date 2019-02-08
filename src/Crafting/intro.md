@@ -352,15 +352,15 @@ indicated success table.
 ::::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::
 | Weapon Qualities                |                                   |
 | ------------------------------- | --------------------------------- |
-|  +                              |  Basket Hilt (Decrease Advantage) |
-|  +                              |  Retort (Execute a Riposte)       |
-|  +++                            |  Entangling                       |
-|  +++                            |  Tripping (Knockdown)             |
-|  +++                            |  Unhorse                          |
-|  +++                            |  Wounding (Inflict 1 Wound)       |
-|  +++                            |  Yielding (Inflict 4 Yield)       |
-|  ++++                           |  Disarming                        |
-|  +++++                          |  Weapon-Breaking                  |
+|  [+]                            |  Basket Hilt (Decrease Advantage) |
+|  [+]                            |  Retort (Execute a Riposte)       |
+|  [+][+][+]                      |  Entangling                       |
+|  [+][+][+]                      |  Tripping (Knockdown)             |
+|  [+][+][+]                      |  Unhorse                          |
+|  [+][+][+]                      |  Wounding (Inflict 1 Wound)       |
+|  [+][+][+]                      |  Yielding (Inflict 4 Yield)       |
+|  [+][+][+][+]                   |  Disarming                        |
+|  [+][+][+][+][+]                |  Weapon-Breaking                  |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Basket Hilt:** If your opponent has Advantage, you can decrease her

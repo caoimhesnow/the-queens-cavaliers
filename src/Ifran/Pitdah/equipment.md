@@ -16,9 +16,9 @@ Table: Pitdahr Equipment
 
 Table: Pitdahr Weapons
 
-| Weapon          | Cost | Hands        | Weapon Die   | Specialties                                            |
-| :-------------- | :--: | :----------- | :----------- | :----------------------------------------------------- |
-| Shamshir        | D6   | Cavalry      | Sword +1D6   | Parry (+++: Unhorse), Lunge, Riposte, Feint            |
+| Weapon          | Cost | Hands        | Weapon Die   | Specialties                                                  |
+| :-------------- | :--: | :----------- | :----------- | :----------------------------------------------------------- |
+| Shamshir        | D6   | Cavalry      | Sword +1D6   | Parry ([+][+][+]: Unhorse), Lunge, Riposte, Feint            |
 
   - **Shamshir (Northern Ifran):** []{.comingsoon}
 

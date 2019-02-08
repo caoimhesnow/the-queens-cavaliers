@@ -14,7 +14,7 @@
 - **Training:** Block (1D10+1D6), Perceive +2 (3D10+1D8)
 - **Senses:** Smell +1D8, Hearing +1D8
 - **Bite:** Lunge +1D6, +++: Knockdown
-- **Spiked Collar:** Block +1D6, +++++: Inflict 1 Wound
+- **Spiked Collar:** Block +1D6, [+][+][+][+][+]: Inflict 1 Wound
 - **Impetus:** Obedience (D6)
 
 A guard dog is a larger canine that's been trained not just to make

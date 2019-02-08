@@ -24,16 +24,16 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::: success :::::::::::::::::::::
-| Carouse            | (Crafting)                  |
+| Carouse            |  Crafting                   |
 | ------------------ | --------------------------- |
 | Base Time          |  1 day                      |
 | Opposition         |  Automatic Success          |
 | Supplies           |  Foodstuffs                 |
 | Bonus Die          |  Extra time, extra supplies |
-| +                  |  Craft Brewed Alcohol       |
-| ++                 |  Craft Wine                 |
-| ++                 |  Improved Alcohol           |
-| +++                |  Craft Spirits              |
+| [+]                |  Craft Brewed Alcohol       |
+| [+][+]             |  Craft Wine                 |
+| [+][+]             |  Improved Alcohol           |
+| [+][+][+]          |  Craft Spirits              |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Brewed Alcohol (1 unit of foodstuffs):** You create a night's

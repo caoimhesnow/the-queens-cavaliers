@@ -26,18 +26,18 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::::: success ::::::::::::::::::
-| Husbandry            | (Crafting)               |
+| Husbandry            |  Crafting                |
 | -------------------- | ------------------------ |
 | Base Time            |  1 hour                  |
 | Opposition           |  Automatic Success       |
 | Item Die             |  Tools (varies)          |
 | Supplies             |  Supplies (varies)       |
 | Bonus Die            |  Extra Time              |
-| +                    |  Craft Flexible Armor    |
-| +                    |  Craft Leather Item      |
-| +                    |  Prepare Food            |
-| +++                  |  Improved Flexible Armor |
-| +++++                |  Superior Flexible Armor |
+| [+]                  |  Craft Flexible Armor    |
+| [+]                  |  Craft Leather Item      |
+| [+]                  |  Prepare Food            |
+| [+][+][+]            |  Improved Flexible Armor |
+| [+][+][+][+][+]      |  Superior Flexible Armor |
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Flexible Armor (1 unit of fabric):** You create any flexible armor with a +1D6 Armor Die.

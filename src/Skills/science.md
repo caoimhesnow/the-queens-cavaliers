@@ -34,14 +34,14 @@ Dodge roll, a target gains one less point of Yield, and for three
 successes she takes one less Wound.
 
 :::::::::::::::::: success :::::::::::::::::::::::::::::::::
-| Block or Dodge | (Explosion)                             |
+| Block or Dodge |  Explosion                              |
 | :------------- | :-------------------------------------- |
-| Time:          | Free roll                               |
-| Opposition:    | Automatic success                       |
-| Item Die:      | Armor die or Shield die for Block rolls |
-| +:             | Take 1 Less Yield                       |
-| +++:           | Take 1 Less Wound                       |
-| +++:           | Gain 1 Style Point                      |
+| Time           | Free roll                               |
+| Opposition     | Automatic success                       |
+| Item Die       | Armor die or Shield die for Block rolls |
+| [+]            | Take 1 Less Yield                       |
+| [+][+][+]      | Take 1 Less Wound                       |
+| [+][+][+]      | Gain 1 Style Point                      |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Knowledge Rolls:** Evaluate the quality of a cannon or grenade,
@@ -76,7 +76,7 @@ Table: Extra Time for a One-Minute Task
 | 1 hour          | 1D10      |  +4                       |
 | 4 hours         | 1D12      |  +5                       |
 
-**Rushing: **You can reduce the time to set or disarm a bomb by taking a
+**Rushing:** You can reduce the time to set or disarm a bomb by taking a
 Drop penalty on your die roll. You can't rush a job that you're taking
 extra time on. The size of the Drop penalty depends on how much you rush
 the task, as shown on the following table:
@@ -96,21 +96,20 @@ used to select a target area and set the base damage of the explosion.
 For setting or disarming explosives, the standard opposition is based on
 the bomb's Explosion Dice.
 
-
 ::::::::::::::::: success :::::::::::::::::::::
 | Blackpowder   |                             |
 | :------------ | :-------------------------- |
-| Time:         | 1 action, or 1 minute       |
-| Opposition:   | Standard Opposition         |
-| Item Die:     | Weapon die or repair tools  |
-| Bonus Die:    | Extra time                  |
-|  +:           | Hit An Area                 |
-|  ++:          | Base Damage +1 Wound        |
-| ++:           | Set Timed Fuse              |
-| ++:           | Detonate Charges            |
-| +++:          | Expand Radius               |
-| +++:          | Gain 1 Style Point          |
-| ++++:         | Disarm Explosives           |
+| Time          | 1 action, or 1 minute       |
+| Opposition    | Standard Opposition         |
+| Item Die      | Weapon die or repair tools  |
+| Bonus Die     | Extra time                  |
+| [+]           | Hit An Area                 |
+| [+][+]        | Base Damage +1 Wound        |
+| [+][+]        | Set Timed Fuse              |
+| [+][+]        | Detonate Charges            |
+| [+][+][+]     | Expand Radius               |
+| [+][+][+]     | Gain 1 Style Point          |
+| [+][+][+][+]  | Disarm Explosives           |
 :::::::::::::::::::::::::::::::::::::::::::::::
 
 **Hit An Area:** You fire an explosive weapon into an area adjacent to
@@ -228,16 +227,16 @@ in a device that is beyond your ability to create, based on your Science
 ::::::::::::::::: success :::::::::::::::::::::::
 | Clockworks    |                               |
 | :------------ | :---------------------------- |
-| Time:         | 1 action, 1 minute, or 1 hour |
-| Opposition:   | Standard Opposition           |
-| Item Die:     | Tools or Workshop Die         |
-| Bonus Die:    | Plans, extra time             |
-| +:            | Keep It Together              |
-|  ++:          | We Need More Power            |
-|  ++:          | Repair 1 Malfunction          |
-| ++:           | Salvage a Component           |
-| +++:          | Gain 1 Style Point            |
-|  ++++:        | Sabotage Device               |
+| Time          | 1 action, 1 minute, or 1 hour |
+| Opposition    | Standard Opposition           |
+| Item Die      | Tools or Workshop Die         |
+| Bonus Die     | Plans, extra time             |
+| [+]           | Keep It Together              |
+| [+][+]        | We Need More Power            |
+| [+][+]        | Repair 1 Malfunction          |
+| [+][+]        | Salvage a Component           |
+| [+][+][+]     | Gain 1 Style Point            |
+| [+][+][+][+]  | Sabotage Device               |
 :::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Keep It Together:** You manage to patch the device together long
@@ -292,13 +291,13 @@ calculations in your head is Hard (3D10).
 ::::::::::::::::: success :::::::::::::::
 | Calculus      |                       |
 | :------------ | :-------------------- |
-| Time:         | 1 minute or 1 hour    |
-| Opposition:   | Standard Opposition   |
-| Item Die:     | Tools or Workshop Die |
-| +:            | Simple Calculation    |
-|  ++:          | Analysis              |
-| +++:          | Gain 1 Style Point    |
-| ++++:         | Complex Calculation   |
+| Time          | 1 minute or 1 hour    |
+| Opposition    | Standard Opposition   |
+| Item Die      | Tools or Workshop Die |
+| [+]           | Simple Calculation    |
+| [+][+]        | Analysis              |
+| [+][+][+]     | Gain 1 Style Point    |
+| [+][+][+][+]  | Complex Calculation   |
 :::::::::::::::::::::::::::::::::::::::::
 
 **Simple Calculation:** You perform a simple calculation such as

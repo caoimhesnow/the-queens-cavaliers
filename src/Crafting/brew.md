@@ -26,20 +26,20 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-::::::::::::::::::: success :::::::::::::::::::::::
-| Brew            | (Crafting)                    |
-| --------------- | ----------------------------- |
-| Base Time       |  1 hour                       |
-| Opposition      |  Automatic Success            |
-| Item Die        |  Alchemy tools or workshop    |
-| Supplies        |  Alchemical ingredients       |
-| Bonus Die       |  Extra time or extra supplies |
-| +               |  Brew Alchemical Substance    |
-| +               |  Create medicine              |
-| +               |  Increase Quantity            |
-| ++              |  Increase Potency             |
-| ++++            |  Reduce Material Cost         |
-| ++++++          |  Eureka!                      |
+:::::::::::::::::::::: success :::::::::::::::::::::::
+| Brew               | Crafting                      |
+| ------------------ | ----------------------------- |
+| Base Time          |  1 hour                       |
+| Opposition         |  Automatic Success            |
+| Item Die           |  Alchemy tools or workshop    |
+| Supplies           |  Alchemical ingredients       |
+| Bonus Die          |  Extra time or extra supplies |
+| [+]                |  Brew Alchemical Substance    |
+| [+]                |  Create medicine              |
+| [+]                |  Increase Quantity            |
+| [+][+]             |  Increase Potency             |
+| [+][+][+][+]       |  Reduce Material Cost         |
+| [+][+][+][+][+][+] |  Eureka!                      |
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Brew Alchemical Substance (1 unit of alchemical ingredients):** You

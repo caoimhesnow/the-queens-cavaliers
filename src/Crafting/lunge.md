@@ -24,20 +24,20 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::: success :::::::::::::::::::::
-| Lunge            | (Crafting)                  |
+| Lunge            |  Crafting                   |
 | ---------------- | --------------------------- |
 | Base Time        |  1 hour                     |
 | Opposition       |  Automatic Success          |
 | Item Die         |  Metalworking tools, smithy |
 | Supplies         |  Crucible steel             |
 | Bonus Die        |  Extra time                 |
-| +                |  Craft Light Sword          |
-| ++               |  Craft Long Sword           |
-| ++++             |  Craft Great Sword          |
-| +                |  Craft Short Polearm        |
-| +++              |  Craft Long Polearm         |
-| +++              |  Add Sword Quality          |
-| +++              |  Add Polearm Quality        |
+| [+]              |  Craft Light Sword          |
+| [+][+]           |  Craft Long Sword           |
+| [+][+][+][+]     |  Craft Great Sword          |
+| [+]              |  Craft Short Polearm        |
+| [+][+][+]        |  Craft Long Polearm         |
+| [+][+][+]        |  Add Sword Quality          |
+| [+][+][+]        |  Add Polearm Quality        |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Light Sword (1 unit of crucible steel):** You create any sword that has the Either Hand quality.

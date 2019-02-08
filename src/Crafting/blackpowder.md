@@ -55,20 +55,20 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::::::: success ::::::::::::::::::::::::::::::::::
-| Blackpowder            | (Crafting)                               |
+| Blackpowder            |  Crafting                                |
 | ---------------------- | ---------------------------------------- |
 | Base Time              |  1 hour, or 1 day (varies)               |
 | Opposition             |  Automatic Success                       |
 | Item Die               |  Metalworking tools, smithy, or workshop |
 | Supplies               |  Blackpowder charges and crucible steel  |
 | Bonus Die              |  Extra Time                              |
-| +                      |  Craft Fireworks                         |
-| +                      |  Craft Grenade                           |
-| ++                     |  Craft Bomb                              |
-| ++                     |  Craft Cannon Shot                       |
-| +++                    |  Craft Cannon                            |
-| +++++                  |  Craft Heavy Cannon                      |
-| ++++++                 |  Create Phlogistone Furnace              |
+| [+]                    |  Craft Fireworks                         |
+| [+]                    |  Craft Grenade                           |
+| [+][+]                 |  Craft Bomb                              |
+| [+][+]                 |  Craft Cannon Shot                       |
+| [+][+][+]              |  Craft Cannon                            |
+| [+][+][+][+][+]        |  Craft Heavy Cannon                      |
+| [+][+][+][+][+][+]     |  Create Phlogistone Furnace              |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Fireworks (1 unit of blackpowder charges):** You create a number of fireworks equal to your ranks in Science (Blackpowder).

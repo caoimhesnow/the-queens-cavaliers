@@ -132,6 +132,6 @@ musket, Drop 4 for the rapier.
 
 **Success Table Additions:** Some weapons have additions to the success
 tables for specific specialties, such as Knockdown or additional damage.
-These are represented by the + notation for success points, such as
-Lunge (+++: Unhorse).
+These are represented by the [+] notation for success points, such as
+Lunge ([+][+][+]: Unhorse).
 

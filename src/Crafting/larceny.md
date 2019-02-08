@@ -25,17 +25,17 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 :::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::
-| Larceny            | (Crafting)                                        |
+| Larceny            |  Crafting                                         |
 | ------------------ | ------------------------------------------------- |
 | Base Time          |  1 hour                                           |
 | Opposition         |  Automatic Success                                |
 | Item Die           |  Repair tools or workshop for obstacles           |
 | Supplies           |  Clockwork gears, writing materials, or art media |
 | Bonus Die          |  Extra time                                       |
-| +                  |  Craft Obstacle                                   |
-| ++                 |  Improve Obstacle Quality                         |
-| +++++              |  Forge Document                                   |
-| +++++              |  Duplicate Jewelry                                |
+| [+]                |  Craft Obstacle                                   |
+| [+][+]             |  Improve Obstacle Quality                         |
+| [+][+][+][+][+]    |  Forge Document                                   |
+| [+][+][+][+][+]    |  Duplicate Jewelry                                |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Obstacle (1 unit of clockwork gears):** You create a simple

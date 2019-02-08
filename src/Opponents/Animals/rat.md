@@ -11,7 +11,7 @@
 - **Run:** 2 Areas, Climb 2 Areas, Swim 2 Areas
 - **Instinct:** Dodge +1 (2D8), Perceive (1D8+1D6), Prowl +1 (2D8)
 - **Senses:** Smell +1D6, Hearing +1D6
-- **Bite:** Feint +1D6, ++++: Inflict 1 Wound
+- **Bite:** Feint +1D6, [+][+][+][+]: Inflict 1 Wound
 - **Impetus:** Hunger (D8), Survival (D6)
 
 Here's that single rat by itself. You probably won't get hurt by it.

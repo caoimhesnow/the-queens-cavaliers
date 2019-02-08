@@ -25,25 +25,25 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-::::::::::::::::::::: success ::::::::::::::::::::::
-| Poison            | (Crafting)                   |
-| ----------------- | ---------------------------- |
-| Base Time         |  1 hour                      |
-| Opposition        |  Automatic Success           |
-| Item Die          |  Alchemy tools or laboratory |
-| Supplies          |  Alchemical ingredients      |
-| Bonus Die         |  Extra time, extra supplies  |
-| +                 |  Craft Standard Poison       |
-| +                 |  Craft Antidote              |
-| +                 |  Increase Quantity           |
-| +                 |  Add Time Delay              |
-|  ++               |  Add Stage                   |
-| ++                |  Improve Potency             |
-| +++               |  Craft Exotic Poison         |
-| +++               |  Craft Exotic Antidote       |
-| ++++              |  Reduce Material Cost        |
-| +++++             |  Develop Antidote            |
-| ++++++            |  Eureka!                     |
+:::::::::::::::::::::: success ::::::::::::::::::::::
+| Poison             |  Crafting                    |
+| ------------------ | ---------------------------- |
+| Base Time          |  1 hour                      |
+| Opposition         |  Automatic Success           |
+| Item Die           |  Alchemy tools or laboratory |
+| Supplies           |  Alchemical ingredients      |
+| Bonus Die          |  Extra time, extra supplies  |
+| [+]                |  Craft Standard Poison       |
+| [+]                |  Craft Antidote              |
+| [+]                |  Increase Quantity           |
+| [+]                |  Add Time Delay              |
+| [+][+]             |  Add Stage                   |
+| [+][+]             |  Improve Potency             |
+| [+][+][+]          |  Craft Exotic Poison         |
+| [+][+][+]          |  Craft Exotic Antidote       |
+| [+][+][+][+]       |  Reduce Material Cost        |
+| [+][+][+][+][+]    |  Develop Antidote            |
+| [+][+][+][+][+][+] |  Eureka!                     |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Standard Poison (1 unit of alchemical ingredients):** You create

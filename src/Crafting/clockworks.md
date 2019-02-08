@@ -26,18 +26,18 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 ::::::::::::::::::::::::: success ::::::::::::::::::::::::::::
-| Clockworks            | (Crafting)                         |
+| Clockworks            | Crafting                           |
 | --------------------- | ---------------------------------- |
 | Base Time             |  1 hour                            |
 | Opposition            |  Automatic Success                 |
 | Item Die              |  Repair tools or workshop          |
 | Supplies              |  Clockwork gears or crucible steel |
 | Bonus Die             |  Extra time, plans                 |
-| +                     |  Craft Component                   |
-| \+                    |  Craft Clockwork Gears             |
-| \+                    |  Craft Casing                      |
-| \++                   |  Assemble Device                   |
-| +++++                 |  Duplicate A Device                |
+| [+]                   |  Craft Component                   |
+| [+]                   |  Craft Clockwork Gears             |
+| [+]                   |  Craft Casing                      |
+| [+][+]                |  Assemble Device                   |
+| [+][+][+][+][+]       |  Duplicate A Device                |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft Component (1 or more units of clockwork gears):** You create a

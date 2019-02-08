@@ -32,14 +32,14 @@ Charm Die, Moderate (3D8) for a +1D8 Charm Die, and so on.
 :::::::::::::::::: success :::::::::::::::::::::::
 | Weave          |                               | 
 | :------------- | :---------------------------- |
-| Time:          | 1 action                      |
-| Opposition:    | Standard Opposition           |
-| Item Die:      | Tailoring Tools or Workshop   |
-|  +:            | Sense Charm                   |
-| ++:            | Suppress Charm Die            |
-|  +++:          | Bolster Charm Die             |
-| +++:           | Gain 1 Style Point            |
-|  ++++:         | Restore Charm Die             |
+| Time           | 1 action                      |
+| Opposition     | Standard Opposition           |
+| Item Die       | Tailoring Tools or Workshop   |
+| [+]            | Sense Charm                   |
+| [+][+]         | Suppress Charm Die            |
+| [+][+][+]      | Bolster Charm Die             |
+| [+][+][+]      | Gain 1 Style Point            |
+| [+][+][+][+]   | Restore Charm Die             |
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Sense Charm: **You can sense charms woven into clothing that are in
@@ -91,12 +91,12 @@ or salve. Mixing a concoction has a standard difficulty of Easy (3D6).
 :::::::::::::::::: success ::::::::::::::::::::::::
 | Brew           |                                |
 | :------------- | :----------------------------- |
-| Time:          | 1 action                       |
-| Opposition:    | Standard Opposition            |
-| Item Die:      | Alchemy tools or laboratory    |
-| +:             | Mix a Concoction               |
-|  ++:           | Apply a Concoction             |
-| +++:           | Gain 1 Style Point             |
+| Time           | 1 action                       |
+| Opposition     | Standard Opposition            |
+| Item Die       | Alchemy tools or laboratory    |
+| [+]            | Mix a Concoction               |
+| [+][+]         | Apply a Concoction             |
+| [+][+][+]      | Gain 1 Style Point             |
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Mix a Concoction:** You hastily mix together volatile chemicals and
@@ -142,15 +142,15 @@ better for the subject.
 :::::::::::::::::: success ::::::::::::::::::::::::::::::::
 | Portents       |                                        |
 | :------------- | :------------------------------------- |
-| Time:          | 1 Minute                               |
-| Opposition:    | Standard Opposition                    |
-| Item Die:      | Divination tools, astrological charts  |
-| +:             | Read Portents                          |
-| ++:            | Increase Accuracy                      |
-| ++:            | Increase Precision                     |
-| ++:            | Increase Specificity                   |
-| +++:           | Gain 1 Style Point                     |
-| ++++:          | Cast a Hex                             |
+| Time           | 1 Minute                               |
+| Opposition     | Standard Opposition                    |
+| Item Die       | Divination tools, astrological charts  |
+| [+]            | Read Portents                          |
+| [+][+]         | Increase Accuracy                      |
+| [+][+]         | Increase Precision                     |
+| [+][+]         | Increase Specificity                   |
+| [+][+][+]      | Gain 1 Style Point                     |
+| [+][+][+][+]   | Cast a Hex                             |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Read Portents:** You make a general prediction about the next 24

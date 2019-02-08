@@ -331,14 +331,14 @@ the Success Table for Deceive looks like:
 | :---------- | :----------------- |
 | Time:       | Free Roll          |
 | Opposition: | Intuition          |
-| +           | Think on Your Feet |
-| ++          | Appear Sincere     |
-| +++         | Gain 1 Style Point |
-| ++++        | Appear Trustworthy |
+| [+]         | Think on Your Feet |
+| [+][+]      | Appear Sincere     |
+| [+][+][+]   | Gain 1 Style Point |
+| [+][+][+][+]| Appear Trustworthy |
 ::::::::::::::::::::::::::::::::::::
 
 You can spend your Success Points and achieve the desired results. Each
-“+” indicates the expenditure of one Success Point. 
+[+] indicates the expenditure of one Success Point. 
 
 The results you can achieve are dependent upon the shared reality of the
 fictional world. In other words, if there's no way you can convince the
@@ -360,8 +360,8 @@ You decide to spend your Success Points as follows:
 
 |      |                          |
 | :--- | :----------------------- |
-| +    | **Think on Your Feet**  -- you quickly come up with a good lie.  "I'm the ... inspector!  I'm here to inspect ... all the things!" |
-| ++   |  Appear Sincere -- you don't seem like you're obviously lying, so the guard believes you. |
+| [+]  | **Think on Your Feet**  -- you quickly come up with a good lie.  "I'm the ... inspector!  I'm here to inspect ... all the things!" |
+| [+][+] |  Appear Sincere -- you don't seem like you're obviously lying, so the guard believes you. |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Style Points
@@ -376,11 +376,11 @@ a maximum of three Style Points at any time.
 You score six Success Points on a Deceive roll, and spend your Success
 Points like this:
 
-|      |                     |
-| :--- | :------------------ |
-| +    | Think on Your Feet  |
-| ++   | Appear Sincere      |
-| +++  | Gain 1 Style Point  |
+|           |                     |
+| :-------- | :------------------ |
+| [+]       | Think on Your Feet  |
+| [+][+]    | Appear Sincere      |
+| [+][+][+] | Gain 1 Style Point  |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Every time you gain a Style Point, you are required to describe what

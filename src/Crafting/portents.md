@@ -23,17 +23,17 @@ succeeds. The success points generated determine the quality of the
 creation.
 
 ::::::::::::::::::::::: success ::::::::::::::::::::::
-| Portents            | (Crafting)                   |
+| Portents            |  Crafting                    |
 | ------------------- | ---------------------------- |
 | Base Time           |  1 hour or 1 day             |
 | Opposition          |  Automatic Success           |
 | Item Die            |  Artisan tools, seance room  |
 | Supplies            |  Art media                   |
 | Bonus Die           |  Extra Time                  |
-| +                   |  Draw Astrological Charts    |
-| ++                  |  Improve Astrological Charts |
-| +++                 |  Encharm Bibelot             |
-| +++++               |  Create Divination Cards     |
+| [+]                 |  Draw Astrological Charts    |
+| [+][+]              |  Improve Astrological Charts |
+| [+][+][+]           |  Encharm Bibelot             |
+| [+][+][+][+][+]     |  Create Divination Cards     |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Draw Astrological Charts (1 unit of art media):** You create a set of

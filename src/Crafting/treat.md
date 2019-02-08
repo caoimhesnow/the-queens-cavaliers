@@ -25,19 +25,19 @@ the crafting.
 succeeds. The success points generated determine the quality of the
 creation.
 
-:::::::::::::::::::: success :::::::::::::::::::::::::::::
-| Treat            | (Crafting)                          |
-| ---------------- | ----------------------------------- |
-| Base Time        | 1 hour or 1 day                     |
-| Opposition       | Automatic Success                   |
-| Item Die         |  Alchemy tools or laboratory        |
-| Supplies         |  medicine or alchemical ingredients |
-| Bonus Die        |  Extra Time                         |
-| +                |  Craft medicine                     |
-| ++               |  Craft Known Cure                   |
-| ++++             |  Reduce Material Cost               |
-| +++++            |  Duplicate Cure                     |
-| ++++++           |  Eureka!                            |
+:::::::::::::::::::::: success :::::::::::::::::::::::::::::
+| Treat              |  Crafting                           |
+| ------------------ | ----------------------------------- |
+| Base Time          | 1 hour or 1 day                     |
+| Opposition         | Automatic Success                   |
+| Item Die           |  Alchemy tools or laboratory        |
+| Supplies           |  medicine or alchemical ingredients |
+| Bonus Die          |  Extra Time                         |
+| [+]                |  Craft medicine                     |
+| [+][+]             |  Craft Known Cure                   |
+| [+][+][+][+]       |  Reduce Material Cost               |
+| [+][+][+][+][+]    |  Duplicate Cure                     |
+| [+][+][+][+][+][+] |  Eureka!                            |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Craft medicine (1 unit of alchemical ingredients):** You create two
