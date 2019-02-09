@@ -1,6 +1,6 @@
 # Organizations # {.breakbefore}
 
-[]{.coming soon]
+[]{.comingsoon}
 
 ## Organization Traits
 
@@ -27,15 +27,18 @@
 
 ### Assets
 
-  - **Alliances**
-  - **Command**
-  - **Intrigue**
-  - **Authority**
-  - **Holdings**
-  - **Mysteries**
-  - **Popularity**
-  - **Revenue**
-  - **Technology**
+  - **Prestige Assets**
+    - **Authority**
+    - **Popularity**
+    - **Command**
+  - **Resources Assets**
+    - **Alliances**
+    - **Revenue**
+    - **Holdings**
+  - **Secrets Assets**
+    - **Intrigue**
+    - **Technology**
+    - **Mysteries**
 
 ### GXP & Advancement
 

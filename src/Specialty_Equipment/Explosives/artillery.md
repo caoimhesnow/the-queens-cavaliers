@@ -40,7 +40,7 @@ Table: Artillery Range
 Table: Cannon Shot
 
 | Shot Type   | Cost       | Extra Damage | Yield | Radius Steps            | Special                      |
-| :---------- | :--------: | :----------- | :---: | :---------------------- | :-----------------======---- |
+| :---------- | :--------: | :----------- | :---: | :---------------------- | :--------------------------- |
 | Alchemical  | 1D10, bulk |    +1 Wound  | x3    | Close, Adjacent, Short  |  [+]: Inflict 1 Yield        |
 | Canister    | 1D10, bulk |  +1D8 Wounds | x2    | Adjacent, Short, Medium |  [+][+][+]: Inflict 2 Wounds |
 | Blackpowder |  1D8, bulk |  +1D6 Wounds | x2    | Adjacent, Short         |                              |

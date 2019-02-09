@@ -16,7 +16,7 @@ Clockwork Weapon Bonus Die cannot exceed the Weapon Die of the device.
 Table: Clockwork Weapon Component
 
 | Space | Cost  | Supplies | Power | Bonus Die  |
-| :---: | ;---: | :------: | :---: | :--------: |
+| :---: | :---: | :------: | :---: | :--------: |
 | 1     | 1D6   | 1 gear   | 1     | D6         |
 | 1     | 1D8   | 2 gears  | 1     | D8         |
 | 2     | 1D10  | 3 gears  | 2     | D10        |
