@@ -1,0 +1,75 @@
+  - **Admiral Hopkin, Viscount Norfolk:**                            Courtier/Veteran,       Major  D8,    D8/D6/D10,    Nobility,            Country/Pride
+  - **Aimery de Canard,          Minister of Fashion:**              Charmweaver,            Minor  D8,    D10/D6/D8,    Nobility/Artisan,    Artistry/Loyalty
+  - **Andre du Corbier,          Queen's Cavalier:**                 Duelist,                Minor  D6,    D10/D8/D6,    Soldier,             Loyalty/Lust
+  - **Ariadne Sul, heretic speaker:**                                Charlatan,              Minor  D6,    D6/D10/D8,    Artisan,             Loyalty/Wealth
+  - **Author M.E. Labouret:** (presumed)                             Virtuosa,               Minor  D8,    D8/D6/D10,    Artisan,             Artistry/Pride
+  - **Baron Vichy, assistant to Jean-Remy:**                         Provocateur,            Minor  D8,    D6/D10/D8,    Soldier,             Loyalty/Country
+  - **Baroness Marjorie Lemain:**                                    Courtier,               Minor  D0,    D10/D6/D8,    Nobility,            Lust/Wealth
+  - **Baronetta Giavanna Morel, Cavalier Lieutenant:**               Constable,              Minor  D8,    D10/D8/D6,    Soldier,             Country/Loyalty
+  - **Bridlin von Wolkenburg:**                                      Mountaineer,            Minor  D8,    D10/D6/D8,    Nobility,            Pride/Wealth
+  - **Calipha Aswani bint Nura of Ubar:**                            Stargazer,              Minor D10,    D10/D6/D8,    Royalty,             Country/Faith
+  - **Captain Caudry,            Bedyngford's Lieutenant:**          Dogsbody,               Minor  D6,    D8/D10/D6,    Soldier,             Loyalty/Country
+  - **Captain Jossete Laffite:**                                     Moon-Curser/Privateer,  Major  D8,    D8/D6/D10,    Artisan,             Wealth/Country
+  - **Captain Morgan Bosevell:**                                     Peer/Privateer,         Major  D6,    D10/D8/D6,    Royalty,             Family/Country
+  - **Captain Salina of Talania:**                                   Privateer/Witch,        Major  D8,    D6/D8/D10,    Artisan,             Knowledge/Pride
+  - **Cartographer S.A. Piento:**                                    Virtuosa,               Minor  D8,    D10/D8/D6,    Artisan,             Artistry/Knowledge
+  - **Collaye Deverterre,        Minister of Health:**               Chirurgeon,             Minor  D8,    D8/D10/D6,    Nobility/Artisan,    Artistry/Knowledge
+  - **Comodora Ginevra de Hiedra y Obispo:**                         Fusilier/Explorer,      Major  D8,    D10/D6/D8,    Soldier,             Pride/Loyalty
+  - **Comodoro Pero de Cordera y Ramos:**                            Explorer/Privateer,     Major  D8,    D10/D8/D6,    Artisan,             Loyalty/Wealth
+  - **Comtess Gurlois Balmains:**                                    Courtier,               Minor  D6,    D8/D6/D10,    Nobility,            Wealth/Pride
+  - **Crown Princess Amarante:**                                     Peer,                   Minor  D0,    D8/D10/D6,    Royalty,             Family/Artistry
+  - **Don Rodolfo, Majordomo of Ondala:**                            Courtier,               Minor D10,    D6/D8/D10,    Nobility,            Country/Loyalty
+  - **Duchess Arynne Aubene:**                                       Envoy/Chirurgeon,       Major D10,    D6/D10/D8,    Nobility,            Loyalty/Country
+  - **Duchess Jennevive d'Angelet:**                                 Veteran/Charmweaver,    Major  D8,    D10/D6/D8,    Nobility,            Wealth/Loyalty  
+  - **Duthas Brothers:**                                             Dogsbody,               Minor  D8,    D10/D8/D8,    Commoner/Soldier,    Wealth/Family
+  - **Edine du Chevalier,        Retired Cavalier:**                 Duelist,                Minor D10,    D8/D10/D6,    Soldier,             Country/Love
+  - **Esdeline Bissete:**                                            Charlatan,              Minor  D6,    D6/D8/D10,    Artisan,             Wealth/Lust
+  - **Gabriana Secouriste:**                                         Duelist,                Minor  D6,    D10/D8/D6,    Soldier,             Friends/Justice
+  - **Guardian Farrazin:**                                           Chaplain/Visionary,     Major D12,    D6/D10/D8,    Nobility/Artisan,    Church/Pride
+  - **Hans von Stimmt of Varendia:**                                 Engineer,               Minor  D0,    D6/D8/D10,    Nobility,            Love/Knowledge
+  - **Haulduine Lachaput,        Minister of Diplomacy:**            Envoy,                  Minor  D8,    D8/D10/D6,    Nobility,            Country/Knowledge
+  - **Heinrich von Stimmt of Varendia:**                             Veteran,                Minor  D8,    D10/D6/D8,    Nobility,            Family/Wealth
+  - **Herbert Georges, Shipping Company Owner:**                     Explorer,               Minor  D0,    D8/D6/D10,    Artisan,             Knowledge/Wealth
+  - **High Elector Andreos Grimani:**                                Barrister,              Minor D10,    D6/D10/D8,    Royalty,             Justice/Family
+  - **Jacquine Sud,              Minister of Agriculture:**          Provincial,             Minor  D8,    D8/D10/D6,    Nobility/Commoner,   Country/Loyalty
+  - **Jeanne Antoinette Poisson, Minister of Theater and Arts:**     Virtuosa,               Minor  D8,    D8/D6/D10,    Nobility/Artisan,    Artistry/Love
+  - **Josette de Canard-Noir:**                                      Envoy,                  Minor  D6,    D6/D8/D10,    Nobility,            Wealth/Pride
+  - **Keth Blazenniere,          Minister of Teaching:**             Visionary,              Minor  D8,    D6/D10/D8,    Nobility/Artisan,    Knowledge/Loyalty
+  - **Khedive Tannous al Ghibr of Pitdah:**                          Faris,                  Minor  D8,    D10/D8/D6,    Royalty,             Wealth/Country
+  - **King Edgar II of Albia:**                                      Peer,                   Minor D10,    D10/D6/D8,    Royalty,             Country/Pride
+  - **Lady Pruneau, Mistress of the Royal Stables:**                 Explorer,               Minor  D6,    D10/D8/D6,    Artisan,             Country/Artistry
+  - **Lady-Mayor Lucienne Castenia:**                                Visionary/Courtier,     Major  D8,    D10/D8/D6,    Nobility,            Artistry/Pride
+  - **Lord Gerhardt of Scanbria:**                                   Mountaineer,            Minor  D8,    D8/D10/D6,    Nobility,            Pride/Country
+  - **Lord Moineau:**                                                Courtier,               Minor  D0,    D6/D8/D10,    Nobility,            Love/Pride
+  - **Lord-Ambassador Bedyngford:**                                  Courtier/Envoy,         Major D10,    D6/D8/D10,    Nobility,            Pride/Country
+  - **Madame Felina Porvore, Ballooneer:**                           Mechanician,            Minor  D8,    D8/D10/D6,    Artisan,             Knowledge/Artistry
+  - **Maiden Chaplain Kilara:**                                      Chaplain/Theologian,    Major  D6,    D6/D8/D10,    Artisan,             Faith/Loyalty
+  - **Marguerite,                Queen's Handmaiden:**               Courtier,               Minor  D6,    D6/D8/D10,    Nobility,            Love/Loyalty
+  - **Marquise Deina de Montambre:**                                 Courtier,               Minor  D8,    D8/D10/D6,    Nobility,            Loyalty/Family
+  - **Martine Deveaux:**                                             Provocateur/Duelist,    Major D10,    D8/D6/D10,    Artisan,             Loyalty (Inverted)/Wealth
+  - **Matriarch Isabene de la Justicia:**                            Chaplain/Provincial,    Major D10,    D10/D8/D6,    Royalty/Commoner,    Faith/Justice
+  - **Olyna de Savonniere,       Minister of Finance and Trade:**    Courtier,               Minor  D8,    D6/D8/D10,    Nobility,            Justice/Wealth
+  - **Othilia von Stimmt of Varendia:**                              Courtier,               Minor  D6,    D8/D10/D6,    Nobility,            Family/Pride
+  - **Piers de Montambre:**                                          Virtuosa,               Minor  D0,    D10/D8/D6,    Nobility,            Love/Justice
+  - **Prince Aron Dragosa:**                                         Peer,                   Minor  D8,    D8/D6/D10,    Royalty,             Knowledge/Country
+  - **Prince Jean-Remy:**                                            Peer/Provocateur,       Major D10,    D6/D8/D10,    Royalty/Soldier,     Family/Country
+  - **Prince Jehan:**                                                Peer,                   Minor  D0,    D8/D6/D10,    Royalty,             Family/Loyalty
+  - **Prince Philippe:**                                             Peer,                   Minor  D0,    D10/D6/D8,    Royalty,             Pride/Country
+  - **Prince-Consort Carolus:**                                      Peer/Huntsman,          Major  D8,    D8/D10/D6,    Royalty,             Country/Love
+  - **Prince-Father Michel:**                                        Duelist/Courtier,       Major D12,    D10/D8/D6,    Royalty/Nobility,    Love/Family
+  - **Princess Clarisse:**                                           Peer,                   Minor  D0,    D10/D8/D6,    Royalty,             Country/Loyalty
+  - **Princess Dyann:**                                              Peer,                   Minor  D8,    D8/D10/D6,    Royalty,             Family/Country
+  - **Queen Fionna of Albia:**                                       Courtier,               Minor  D8,    D6/D10/D8,    Royalty,             Country/Family
+  - **Queen Mariana II:**                                            Peer/Mechancian,        Major  D8,    D6/D8/D10,    Royalty,             Knowledge/Family
+  - **Queen Ximena IV of Ondala:**                                   Peer,                   Minor  D8,    D10/D6/D8,    Royalty,             Lust/Country
+  - **Queen of Rats:**                                               Charlatan/Provocateur,  Major D10,    D6/D8/D10,    Commoner,            Knowledge/Wealth
+  - **Rein Baerenlied of Varendia:**                                 Courtier,               Minor  D6,    D10/D6/D8,    Nobility,            Lust/Pride
+  - **Rossignol the Chanteur:**                                      Virtuosa,               Minor  D6,    D10/D6/D8,    Artisan,             Artistry/Faith
+  - **Savain Delariviere,        Minister of Waterways:**            Explorer,               Minor  D8,    D10/D6/D8,    Nobility/Soldier,    Knowledge/Lust
+  - **Sir Gerard,                Elderly Cavalier:**                 Veteran,                Minor  D8,    D10/D8/D6,    Soldier,             Country/Loyalty
+  - **Sky-Captain Greta Valliken:**                                  Privateer,              Minor  D8,    D10/D6/D8,    Soldier,             Pride/Loyalty
+  - **Sveinn Dunord,             Minister of Science:**              Mechanician,            Minor  D8,    D6/D10/D8,    Nobility/Artisan,    Pride/Artistry
+  - **Symmone Dargy,             Marechal de Gallinea:**             Veteran,                Minor D10,    D10/D8/D6,    Nobility/Soldier,    Country/Loyalty
+  - **Toussaine Lente,           Minister of Foreigners:**           Explorer,               Minor  D8,    D10/D8/D6,    Nobility/Soldier,    Justice/Faith
+  - **Viscountess Magdalene LaBeau:**                                Courtier/Provocateur,   Major D10,    D6/D8/D10,    Nobility,            Artistry/Pride
+  - **Walther Cousturiere,       Minister of Succession:**           Courtier,               Minor  D8,    D8/D10/D6,    Nobility,            Knowledge/Country
