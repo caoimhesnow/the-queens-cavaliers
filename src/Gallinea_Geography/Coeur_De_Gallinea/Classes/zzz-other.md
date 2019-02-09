@@ -2,7 +2,6 @@ These standard classes are especially appropriate for characters from Coeur de G
 
   - Brigand
   - Chaplain
-  - Chirurgeon
   - Constable
   - Dragoon
   - Duelist

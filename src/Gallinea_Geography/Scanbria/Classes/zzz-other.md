@@ -2,7 +2,6 @@
 These standard classes are especially appropriate for characters from Scanbria.
 
   - Charmweaver
-  - Chirurgeon
   - Dragoon
   - Explorer
   - Fusilier
