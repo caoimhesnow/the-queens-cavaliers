@@ -5,6 +5,8 @@
 :::::::::::::::::::: country :::::::::::::::::::::
 :# The Holy Crown Colony of Nueva Cordera
 
+![Map of New Cordera, by Robert Altbauer](assets/Maps/Details/World/New_Cordera.jpg "Map of New Cordera, by Robert Altbauer")
+
 |                |                               |
 | -------------- | ----------------------------- |
 | Government     | Colony of Ondala              |

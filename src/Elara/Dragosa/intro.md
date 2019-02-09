@@ -3,7 +3,9 @@
 :::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::::::::::
 :# The Principality of Dragosa
 
-![Flag of Dragosa](assets/Flags/Dragosa.png "Flag of Dragosa")
+![Flag of Dragosa, by Robert P. Stefko](assets/Flags/Dragosa.png "Flag of Dragosa, by Robert P. Stefko")
+
+![Map of Dragosa, by Robert Altbauer](assets/Maps/Details/World/Dragosa.jpg "Map of Dragosa, by Robert P. Stefko")
 
 |                 |                                        |
 | --------------- | -------------------------------------- |

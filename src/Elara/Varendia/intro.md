@@ -3,7 +3,9 @@
 ::::::::::::::::::::::::::::::: country ::::::::::::::::::::::::::::::::
 :# The High Kingdom of Varendia
 
-![Flag of Varendia](assets/Flags/Varendia.png "Flag of Varendia")
+![Flag of Varendia, by Robert P. Stefko](assets/Flags/Varendia.png "Flag of Varendia, by Robert P. Stefko")
+
+![Map of Varendia, by Robert Altbauer](assets/Maps/Details/World/Varendia.jpg "Map of Varendia, by Robert Altbauer")
 
 |                 |                                               |
 | --------------- | --------------------------------------------- |

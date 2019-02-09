@@ -1,12 +1,8 @@
-# History of the Qartan Empire
+# History of Ubar
 
 []{.comingsoon}
 
 ## The Fall of Qarta
-
-[]{.comingsoon}
-
-## Qarta's Legacy
 
 []{.comingsoon}
 

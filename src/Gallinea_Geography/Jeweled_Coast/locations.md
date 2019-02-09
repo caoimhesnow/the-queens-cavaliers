@@ -1,4 +1,9 @@
 # Locations
+
+::::::::::::::::::::: pic-right :::::::::::::::::::::::::
+![Map of the eastern Jeweled Coast, by Robert Altbauer](assets/Maps/Details/Gallinea/Eastern_Jeweled_Coast.jpg "Map of the eastern Jeweled Coast")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 The major cities on the Jeweled Coast include Berylle, Canard-Noir, Montambre, Persolei, Rhodope, and Valerienne
 
 The Rue de la Mar connects all of the Jeweled Cities together, although there is also frequent traffic by sea between the cities as well.

@@ -1,5 +1,9 @@
 # The Countries of Ifran
 
+:::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::
+![The Ifrani Desert, by Robert Altbauer](assets/Maps/Details/World/Ifrani_Desert.jpg "The Ifrani Desert, by Robert Altbauer")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Elara's neighbor to the south of the Middle Sea was the original home of the Qartan Empire.
 
 In modern times, most of northern Ifran is a vast desert, although this was not always the

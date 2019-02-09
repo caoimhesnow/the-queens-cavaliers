@@ -5,6 +5,8 @@
 :::::::::::::::::: country ::::::::::::::::::::::::
 :# The Grand Duchy of New Dunon
 
+![Map of New Dunon, by Robert Altbauer](assets/Maps/Details/World/New_Dunon.jpg "Map of New Dunon, by Robert Altbauer")
+
 |                |                                 |
 | -------------- | ------------------------------- |
 | Government     | Colony of Albia                 |

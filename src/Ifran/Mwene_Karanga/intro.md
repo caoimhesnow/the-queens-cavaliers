@@ -4,6 +4,8 @@
 :::::::::::::::::::: country ::::::::::::::::::::::::::::
 :# Empire of Great Karanga
 
+![Map of Mwene Karanga, by Robert Altbauer](assets/Maps/Details/World/Mwene_Karanga.jpg "Map of Mwene Karanga, by Robert Altbauer")
+
 |                 |                                     |
 | --------------- | ----------------------------------- |
 | Government      | Hereditary Monarchy                 |

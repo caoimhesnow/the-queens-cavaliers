@@ -3,7 +3,9 @@
 ::::::::::::::::::: country ::::::::::::::::::::::::::::::::::::::::::
 :# The Kingdom of Albia
 
-![The flag of Albia](assets/Flags/Albia.png "The flag of Albia")
+![The flag of Albia, by Robert P. Stefko](assets/Flags/Albia.png "The flag of Albia, by Robert P. Stefko")
+
+![Map of Albia, by Robert Altbauer](assets/Maps/Details/World/Albia.jpg "Map of Albia, by Robert Altbauer")
 
 |                 |                                 |
 | :-------------- | :------------------------------ |

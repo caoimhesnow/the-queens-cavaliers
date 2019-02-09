@@ -3,7 +3,9 @@
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The Talanian Empire
 
-![Flag of Talania](assets/Flags/Talania.png "Flag of Talania")
+![Flag of Talania, by Robert P. Stefko](assets/Flags/Talania.png "Flag of Talania, by Robert P. Stefko")
+
+![Map of Talania, by Robert Altbauer](assets/Maps/Details/World/Talania.jpg "Map of Talania, by Robert Altbauer")
 
 |                 |                                        |
 | --------------- | -------------------------------------- |

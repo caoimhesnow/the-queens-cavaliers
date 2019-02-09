@@ -3,7 +3,9 @@
 :::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::::::::
 :# Ondala
 
-![Flag of Ondala](assets/Flags/Ondala.png "Flag of Ondala")
+![Flag of Ondala, by Robert P. Stefko](assets/Flags/Ondala.png "Flag of Ondala, by Robert P. Stefko")
+
+![Map of Ondala, by Robert Altbauer](assets/Maps/Details/World/Ondala.jpg "Map of Ondala, by Robert Altbauer")
 
 |                 |                                                      |
 | --------------- | ---------------------------------------------------- |

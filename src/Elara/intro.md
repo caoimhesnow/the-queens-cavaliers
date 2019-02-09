@@ -1,5 +1,9 @@
 # The Countries of Elara
 
+:::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::
+![Map of Elara, by Robert Altbauer](assets/Maps/Details/World/Elara.jpg "Map of Elara, by Robert Altbauer")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Elara is the northern continent that borders the Middle Sea.
 Technically it is part of the same continent upon which much of 
 Serica is located, but traditional Elaran cartography considers

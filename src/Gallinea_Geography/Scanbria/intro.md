@@ -1,5 +1,9 @@
 # Scanbria {.breakbefore}
 
+::::::::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::::
+![Map of Scanbria by Robert Altbauer](assets/Maps/Details/Gallinea/Scanbria.jpg "Map of Scanbria, by Robert Altbauer")
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Many Scanbrians are of Varendish ancestry, and the lands of Scanbria were 
 once a separate nation. After several wars with both Varendia and Albia, 
 Scanbria was incorporated into Gallinea and has been loyal to the throne 

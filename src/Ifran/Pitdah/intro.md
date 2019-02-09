@@ -3,6 +3,8 @@
 :::::::::::::: country ::::::::::::::::::::::::::::::
 :# The Free City-State of Pitdah
 
+![Map of Pitdah, by Robert Altbauer](assets/Maps/Details/World/Pitdah.jpg "Map of Pitdah, by Robert Altbauer")
+
 |                 |                                 |
 | --------------- | ------------------------------- |
 | Government      | Meritocratic Oligarchy          |

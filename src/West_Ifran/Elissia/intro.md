@@ -5,6 +5,8 @@
 ::::::::::::: country ::::::::::::::::::::::::::::
 :# The Colonial Province of Elissia
 
+![Map of Elissia, by Robert Altbauer](assets/Maps/Details/World/Elissia.jpg "Map of Elissia, by Robert Altbauer")
+
 |                |                               |
 | -------------- | ----------------------------- |
 | Government     | Colony of Gallinea            |

@@ -5,6 +5,8 @@
 
 ![Flag of Ekalia, by Robert P. Stefko](assets/Flags/Ekalia_Alt.png "Flag of Ekalia, by Robert P. Stefko")
 
+![Map of Ekalia, by Robert Altbauer](assets/Maps/Details/World/Ekalia.jpg "Map of Ekalia, by Robert Altbauer")
+
 |                 |                                     |
 | --------------- | ----------------------------------- |
 | Formal Name     | The Ekalian Republic                |
