@@ -1,4 +1,4 @@
-# Bibelots
+# Bibelots {.breakbefore}
 
 Bibelots are trinkets created by using the Portents specialty, meant to ward off bad luck or
 malicious hexes.

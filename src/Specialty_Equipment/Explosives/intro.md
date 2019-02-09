@@ -1,4 +1,4 @@
-# Explosive Weapons
+# Explosives {.breakbefore}
 
 Unlike conventional weapons, which use Dueling or Military (Aim) rolls
 for attack, explosive weapons affect an entire area and inflict damage

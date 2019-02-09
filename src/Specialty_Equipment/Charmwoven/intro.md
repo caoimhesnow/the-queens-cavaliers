@@ -1,4 +1,4 @@
-# Charmweaving
+# Charmweaving {.breakbefore}
 
 "Clothes make the woman," or so the old Lutetian maxim claims. Certainly
 this is true in Gallinea's capital city as well as the rest of Elara;
