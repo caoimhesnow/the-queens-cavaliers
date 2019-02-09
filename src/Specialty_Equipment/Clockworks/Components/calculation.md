@@ -32,12 +32,12 @@ Table: Calculation Component
 | 8     | 1D12  | 4 gears  | 1     | Analytics              | Calculus +4  |
 
 
-   - **Timekeeping:** [].{comingsoon}
+   - **Timekeeping:** []{.comingsoon}
 
-   - **Calendar:** [].{comingsoon}
+   - **Calendar:** []{.comingsoon}
 
-   - **Navigation:** [].{comingsoon}
+   - **Navigation:** []{.comingsoon}
 
-   - **Polynomials:** [].{comingsoon}
+   - **Polynomials:** []{.comingsoon}
 
-   - **Analytics:** [].{comingsoon}
+   - **Analytics:** []{.comingsoon}

@@ -1,13 +1,13 @@
 # Aimed Weapon Component
 
-A Aimed Weapon component fires a bullet, dart, arrow, quarrel,
+An Aimed Weapon component fires a bullet, dart, arrow, quarrel,
 cannonball, or other Aimed at a target. Most devices use the
 Military (Aim) specialty to attack, and gain a Weapon Die when doing so.
 As with other missile weapons in *The Queen's Cavaliers*, it's not
 necessary to track ammunition carried, but it is necessary to know
 whether or not the weapon is loaded.
 
-**Magazine:** A Aimed Weapon can optionally be fitted with a magazine
+**Magazine:** An Aimed Weapon can optionally be fitted with a magazine
 component to increase the number of times it can be fired without
 reloading. In such a situation, the Aimed Weapon component loses
 its reload quality and uses the reload time of the magazine instead.

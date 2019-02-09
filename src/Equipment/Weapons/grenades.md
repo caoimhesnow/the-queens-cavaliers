@@ -43,6 +43,6 @@ Table: Grenade Attacks
 | Mortar, hand       | 1D8  | Both  | Cannon  +1D10 | Drop 2 | Drop 2 | Drop 0 | Drop 0 | Drop 2 |
 | Arrow, fired       |      | Both  | Bow      +1D6 | Drop 4 | Drop 3 | Drop 1 | Drop 3 | Drop 3 |
 
-  - **Thrown Grenade:** []{.comingsoon]
+  - **Thrown Grenade:** []{.comingsoon}
   - **Hand Mortar:** []{.comingsoon}
   - **Explosive Arrow:** []{.comingsoon}
