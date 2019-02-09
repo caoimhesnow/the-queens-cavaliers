@@ -51,7 +51,7 @@ While Lutetia seems to be rather crime-free, the truth is that criminals in
 the city have learned to keep their heads down and work within the system.
 
 A few notorious art thieves work the city, with one of the most famous being
-the Shadow Fox. Smugglers regularly bring goods in and out of Lutetia, usually
+the Shadow Cat. Smugglers regularly bring goods in and out of Lutetia, usually
 with the tacit or direct involvement of the region's River Guard who are known
 to be easier to bribe than the Lutetian city watch or the Holy Guardsmen.
 
