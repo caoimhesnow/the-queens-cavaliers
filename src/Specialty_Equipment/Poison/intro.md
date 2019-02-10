@@ -1,5 +1,6 @@
 # Poisons {.breakbefore}
 
+:::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::
 Poisons in *The Queen's Cavaliers* are tracked in the abstract, without
 having to choose a specific poison type until you use it. For example,
 you may have 6 vials of poison, and when you use lethal poison, you
@@ -70,4 +71,29 @@ yellow-bellied scorpion venom. For those, a specific antidote for
 each exotic poison is needed. 
 
 For exact details on using antidotes, see []{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Poisons are typically used by adding them to food, by injecting them into an unsuspecting victim,
+or by stabbing someone with a poisoned knife.
 
+There are several different types of poison, each one causing a different effect. These standard
+poisons are listed in the following table.
+
+Table: Standard Poisons
+
+| Poison Type | Intended Effect      |
+| :---------- | :------------------- |
+| Amnesia     | Memory loss          |
+| Aphasic     | Speaking problems    |
+| Banality    | Lack of creativity   |
+| Delirium    | Hallucinations       |
+| Enfeebling  | Weakened muscles     |
+| Lassitude   | Drowsiness           |
+| Lethal      | Cause death          |
+| Nausea      | Queasy stomach       |
+| Perplexity  | Brain fogginess      |
+| Temerarious | Poor impulse control |
+| Verity      | Truth serum          |
+| Vertigo     | Dizziness            |
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

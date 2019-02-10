@@ -1,5 +1,10 @@
-# Classes
+# [Classes]{.gamestats} [Character Archetypes]{.sourcebook}
 
+::::::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::
+The following are common character archetypes in Gallinea and neighboring nations.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::
 Your character in *The Queen's Cavaliers* is a composite of two classes.
 Each class provides you with half of your starting skill competencies,
 specialties, weapon and armor prowess, social rank, starting gear, and
@@ -70,3 +75,4 @@ Table: Social Classes
 | 7   | Provocateur | Mysterious spy with hidden motives               |
 | 8   | Speaker     | Zealous demagogue of the Desert Mother           |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

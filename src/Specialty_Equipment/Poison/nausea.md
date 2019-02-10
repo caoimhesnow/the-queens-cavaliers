@@ -3,6 +3,7 @@
 A victim of nausea poison feels queasy and may throw up. Her stomach
 rumbles ominously and everything smells and tastes terrible.
 
+:::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::: success :::::::
 | Nausea Poison |                  |
 | :--:          | :--------------- |
@@ -14,3 +15,4 @@ Culture (Etiquette) rolls, and Magicks (Brew) rolls
 equal to one die for every two Success Points you spend, up to a
 maximum of Drop 4. This impairment lasts until the end of the scene or
 for one hour, whichever comes first.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

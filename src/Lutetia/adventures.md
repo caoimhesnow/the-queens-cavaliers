@@ -70,6 +70,7 @@ For this reason, the common folk believe it is bad luck to kill a wild rat,
 and many will seek to simply catch and release the rodents if discovered, rather
 than kill them with traps.
 
+:::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 # Lutetian Adventures
 
 Adventures in and around Lutetia can take several forms. With every social rank
@@ -123,4 +124,4 @@ the way that they have to overcome. One of the best ways to handle this is by us
 the optional rules on Passions to randomly determine which player characters'
 passions are tested, and possibly even have an appearance by one or more of the
 characters' personifications of said passions.
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

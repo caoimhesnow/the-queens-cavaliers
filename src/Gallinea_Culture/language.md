@@ -20,7 +20,6 @@ and thus the only language one need to know, Gallinea's constant interactions wi
 neighboring countries means the most practical Gallineans will speak and read at least
 one additional languages.
 
-
 The languages commonly known in Gallinea are listed on the following table. Those considered
 "dead languages" are shown in italics.
 

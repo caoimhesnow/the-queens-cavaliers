@@ -14,6 +14,7 @@ other lands of the Middle Sea. Unfortunately, the nobility outside of
 Talania lack a cultural tradition of tolerating the dancers' antics,
 leading to many troubles for skomorokhs outside of their homeland.
 
+::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Charlatan, Charmweaver, Courtier, Dogsbody, Provincial, Provocateur, Virtuosa, Witch
 - **Suggested Passions:** Country, Justice, Love, Loyalty
 
@@ -34,4 +35,4 @@ leading to many troubles for skomorokhs outside of their homeland.
 - **Combat Pantomime:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Block roll
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Savvy Reliability:** Spend 1 Style Point to reroll a Streetwise roll
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

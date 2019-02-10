@@ -5,12 +5,13 @@
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 An Envoy is a diplomatic representative, usually of a country, province,
 or other political group, although some represent religious groups or
-trade unions. An Envoy character should identify who she works for at
-the start of the game (although her allegiance may change during play).
+trade unions. [An Envoy character should identify who she works for at
+the start of the game (although her allegiance may change during play).]{.gamestats}
 
 Envoys are usually well-traveled and skilled at reading people and
 reaching compromises.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Provocateur, Speaker
 - **Suggested Passions:** Church, Country, Knowledge, Loyalty -
 
@@ -32,3 +33,4 @@ reaching compromises.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

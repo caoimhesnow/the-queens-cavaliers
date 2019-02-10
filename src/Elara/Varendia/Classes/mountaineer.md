@@ -11,6 +11,7 @@ loyalty to "Flachlanders" and their petty squabbles -- although it's not
 uncommon for them to hire themselves out as mercenaries when the heated
 politics boil over into warfare.
 
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Chirurgeon, Constable, Dogsbody, Fusilier, Provincial, Veteran
 - **Suggested Passions:** Country, Friends, Love, Loyalty
 
@@ -35,4 +36,4 @@ politics boil over into warfare.
 - **Practiced Remedy:** Spend 2 Style Points to set the value of one Treat die to its maximum value before rolling 
 - **Rural Reliabiity:** Spend 1 Style Point to reroll a Nature roll
 - **Yodeler:**  When working with domesticated animals, spend 1 Style Point to add Arts dice to a Husbandry roll
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

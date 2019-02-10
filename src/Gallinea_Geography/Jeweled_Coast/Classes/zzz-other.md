@@ -1,4 +1,9 @@
+::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 These standard classes are especially appropriate for characters from the Jeweled Coast.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+These standard archetypes are especially common in the Jeweled Coast.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
    - Charmweaver
    - Constable
@@ -8,4 +13,3 @@ These standard classes are especially appropriate for characters from the Jewele
    - Mechanician
    - Privateer
    - Visionary
-

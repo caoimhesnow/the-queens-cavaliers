@@ -3,6 +3,7 @@
 Someone affected by this type of poison becomes foolhardy and brash,
 taking unnecessary risks due to a feeling of invincibility.
 
+:::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::
 ::::::::::::::::::: success ::::::::::::
 | Temerarious Poison |                 |
 | :--:               | :-------------- |
@@ -13,3 +14,4 @@ taking unnecessary risks due to a feeling of invincibility.
 Culture (Etiquette), and Military (Strategy) rolls equal to one die for every two Success Points you spend, up to a
 maximum of Drop 4. This impairment lasts until the end of the scene or
 for one hour, whichever comes first.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

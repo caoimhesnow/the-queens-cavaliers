@@ -1,3 +1,4 @@
+:::::::::::::: gamestats ::::::::::::::::::::::::::::::::
 # Ekalian Equipment
 
 Table: Ekalian Equipment
@@ -13,4 +14,4 @@ Table: Ekalian Equipment
 - **Kykeon:** []{.comingsoon}
 - **Messenger parrot:** []{.comingsoon}
 - **Thedan water dog:** []{.comingsoon}
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::

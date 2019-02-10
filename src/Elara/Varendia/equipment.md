@@ -1,3 +1,4 @@
+:::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::
 # Varendish Equipment
 
 []{.comingsoon}
@@ -19,3 +20,4 @@ Table: Varendish Equipment
 - **Skis:**[]{.comingsoon}
 - **Varendish Mountain Dog:** []{.comingsoon}
 - **Varendish Forest Cat:** []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

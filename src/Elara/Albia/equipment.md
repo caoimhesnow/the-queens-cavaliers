@@ -1,7 +1,7 @@
+:::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 # Albian Equipment
 
 []{.comingsoon}
-
 Table: Albian Equipment
 
 | Item                    | Cost      | Item Die          | Notes                                                               |
@@ -73,3 +73,4 @@ Table: Albian Greatbow
   (white, brown, black, or grey).
  
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

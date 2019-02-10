@@ -1,3 +1,4 @@
+::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::
 # Ondalan Equipment
 
 []{.comingsoon}
@@ -17,3 +18,4 @@ Table: Ondalan Equipment
 - **Diegan Fishing Dog:** []{.comingsoon}
 - **Espada ropera:** []{.comingsoon}
 - **Rolling pin:** []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,3 +1,4 @@
+::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Option: Creating a Custom Class ## {.breakbefore}
 
 If only one of the classes appeals to you, you can create a custom class
@@ -59,3 +60,4 @@ ranks in Initiative, and a class shouldn't have more than 8 style
 maneuvers.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

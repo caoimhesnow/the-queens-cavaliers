@@ -10,6 +10,7 @@ their patients; many of these are charmwoven to improve their surgical
 skills. Chirurgeons are not adverse to using magicks when appropriate,
 including alchemical remedies.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Courtier, Mechanician, Visionary
 - **Suggested Passions:** Artistry, Faith, Pride, Wealth
 
@@ -33,3 +34,4 @@ including alchemical remedies.
 - **Scalpel's Cut:** When using a knife or chirurgeon's knives, spend 1 Style Point to add Surgery dice to a Lunge roll
 - **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

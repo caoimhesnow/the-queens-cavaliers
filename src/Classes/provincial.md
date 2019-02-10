@@ -10,6 +10,7 @@ when dealing with residents of the capital city; it's not uncommon for
 brawls to break out in bars because someone's clothes or horse was
 insulted.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 A few Provincials are minor nobles and choose the Courtier co-class,
 although they rarely are afforded the respect given to their urban
 cousins.
@@ -34,3 +35,4 @@ cousins.
 - **Street Fighting:** When using a knife or a cudgel, spend 1 Style Point to add Brawl dice to a Lunge roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

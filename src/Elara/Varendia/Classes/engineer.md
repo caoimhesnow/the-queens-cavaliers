@@ -10,6 +10,7 @@ military use, as well as constructing and repairing other types of siege
 engines. They can usually find regular employ in Varendia or beyond,
 with such skills being in higher demand during a state of open warfare.
 
+:::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Brigand, Constable, Explorer, Fusilier, Mechanician, Privateer, Provocateur, Veteran, Visionary
 - **Suggested Passions:** Artistry, Country, Loyalty, Pride
 
@@ -34,4 +35,4 @@ with such skills being in higher demand during a state of open warfare.
 - **Powdersmith:** When creating a device with a blackpowder flintlock power
   source, a phlogistone furnace power source, or an explosion component,
   spend 1 Style Point to add Blackpowder dice to a Clockworks roll
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

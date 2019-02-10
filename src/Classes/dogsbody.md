@@ -6,6 +6,7 @@ A Dogsbody is often overlooked by those of higher social rank, and other
 servants and lower-class commoners are more likely to talk to a Dogsbody
 openly than to the manservant's master.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Charlatan, Courtier, Dragoon, Privateer, Provincial, Veteran
 - **Suggested Passions:** Family, Friends, Loyalty, Wealth
 
@@ -26,3 +27,4 @@ openly than to the manservant's master.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **The Underground Economy:** When buying or selling on the black market, spend 1 Style Point to add Carouse dice to a Larceny roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

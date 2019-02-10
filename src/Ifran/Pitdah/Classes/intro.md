@@ -1,3 +1,8 @@
-# Pitdahr Classes
+::::: gamestats ::::::::::::
+# Classes
+::::::::::::::::::::::::::::
+::::: sourcebook :::::::::::
+# Archetypes
+::::::::::::::::::::::::::::
 
 

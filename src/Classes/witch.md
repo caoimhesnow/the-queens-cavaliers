@@ -9,6 +9,7 @@ absolutely necessary.
 Some Witches are publicly known as such, but most keep their rituals
 secret from the authorities, remembering past periods of persecution.
 
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Provincial, Virtuosa
 - **Suggested Passions:** Faith, Family, Friends, Love
 
@@ -28,4 +29,5 @@ secret from the authorities, remembering past periods of persecution.
 - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
 - **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
 - **Uncanny Prediction:** Spend 2 Style Points to set the value of one Portents die to its maximum value before rolling
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

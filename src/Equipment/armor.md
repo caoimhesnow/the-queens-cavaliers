@@ -1,5 +1,6 @@
-## Armor
+# Armor
 
+:::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Armor is any kind of clothing or shield used to protect the wearer from
 attacks. Unlike normal clothing, most types of armor can't be enchanted
 by charmweaving. Armor provides an item die, also known as an Armor Die,
@@ -75,4 +76,7 @@ Table: Uncommon Armor
 
   - **Plate armor:** The knights of Varendia are famous for their heavy plate armor, which does provide superior protective ability albeit at the expense of mobility. While you are wearing plate armor, you take a Drop 2 penalty on Dodge, Feint, and Prowl rolls. In addition, you can't wear any additional articles of clothing save for shoulder items such as cloaks or tabards.
   - **Valmain-rivet:** Originally created in Varendia ("valmain" references an older Albian term meaning "Varendish"), these are cheap, easily constructed suits of partial plate armor used for equipping large armies. There's nothing glamorous about them; they're simply functional.  You can't wear torso, head, or arm clothing items while wearing valmain-rivet.
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

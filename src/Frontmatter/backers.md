@@ -1,4 +1,4 @@
-## Kickstarter Backers {.breakbefore}
+## Kickstarter Backers 
 
 We would like to extend our gratitude to the following people who backed our project on Kickstarter.
 

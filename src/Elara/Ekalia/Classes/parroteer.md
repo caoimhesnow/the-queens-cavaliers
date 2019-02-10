@@ -6,6 +6,7 @@ cities. A Parroteer learns not only the ability to train these
 intelligent, colorful birds, but also to decode the cryptography used to
 protect the messages from being intercepted. 
 
+::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Dogsbody, Explorer, Fusilier, Mechanician, Privateer, Provocateur
 - **Suggested Passions:** Country, Friends, Loyalty, Love
 
@@ -22,4 +23,4 @@ Parrot
 ## Parroteer Maneuvers
 
 *list needed*
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

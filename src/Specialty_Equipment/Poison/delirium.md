@@ -1,8 +1,9 @@
 # Delirium Poison 
 
-This poison causes the victim to see hallucinations of people, things, or colors
+This poison causes the victim to see distracting hallucinations of people, things, or colors
 that aren't really there.
 
+::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::: success ::::::::::::
 | Delirium Poison |                      |
 | :--:            | :------------------- |
@@ -13,3 +14,4 @@ that aren't really there.
 and Military (Aim) equal to one die for every two Success Points you spend, up to a
 maximum of Drop 4. This impairment lasts until the end of the scene or
 for one hour, whichever comes first.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

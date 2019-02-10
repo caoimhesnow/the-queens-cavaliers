@@ -9,7 +9,7 @@ or neither.
 
 ## Traditionally female:
 
-:::::::::::::::::::::::::::: columnate :::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: columnated :::::::::::::::::::::::::::::::::::::::
 Adalina, Agnola, Alamanna, Alessandra, Alzeiza, Andreola, Anzola,
 Audisia, Aulina, Aymoneta, Baldanca, Betta, Bettina, Cara, Cecilia,
 Certa, Collela, Corsa, Dierna, Domenega, Doviga, Ducle, Eufomia,
@@ -22,7 +22,7 @@ Sassa, Sena, Taddea, Ventura, Verdiana, Viga, Vinca, Ymeldina, Zanobia.
 
 ## Traditionally male:
 
-:::::::::::::::::::::::::::: columnate :::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: columnated :::::::::::::::::::::::::::::::::::::::
 Adan, Agnolo, Agostino, Agustin, Albrigo, Allessandro, Ambroxo,
 Antuogno, Averardo, Baldassare, Barixono, Bastian, Cadere, Carlo,
 Cassano, Cecco, Cenzon, Ceseron, Checo, Chimento, Cosimo, Dagnano,

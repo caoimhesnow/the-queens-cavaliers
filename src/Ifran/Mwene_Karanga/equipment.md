@@ -1,3 +1,4 @@
+::::::::::::::::: gamestats :::::::::::::::::::
 # Karangan Equipment
 
 []{.comingsoon}
@@ -10,4 +11,5 @@ Table: Karangan Equipment
 ## Karangan Weapons
 
 []{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::
 

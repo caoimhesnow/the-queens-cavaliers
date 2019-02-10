@@ -6,6 +6,7 @@ rival organization, or may be a freelance fencer who runs her own
 dueling school. Quite a few actors have been known to take up dueling as
 well.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 Duelist is appropriate to accompany any other class in *The Queen's
 Cavalier.* As swordfighting is so prevalent in the game, the Duelist
 class is a natural choice for most appropriate character concepts.
@@ -31,4 +32,5 @@ In other words, if you can't decide on a second class, choose Duelist.
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 - **Practiced Retort:** Spend 2 Style Points to set the value of one Riposte die to its maximum value before rolling
 - **Precise Swordplay: **Spend 2 Style Points to set the value of one Sword weapon die to its maximum value before rolling
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

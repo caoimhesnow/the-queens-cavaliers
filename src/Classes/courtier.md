@@ -13,6 +13,7 @@ Magicks and the sciences are a draw to the Courier, as well as some
 martial pursuits; nobles often have time to develop such skills at their
 leisure. 
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Barrister, Chaplain, Charmweaver, Chirurgeon, Duelist, Envoy, Provocateur, Veteran, Virtuosa, Visionary
 - **Suggested Passions:** Country, Friends, Lust, Pride
 
@@ -35,3 +36,4 @@ leisure.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **There's No Need for Violence:** When unarmed and facing an armed opponent, spend 1 Style Point to add Inspire dice to a Dodge roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -14,6 +14,7 @@ neighbors, as they rarely compete with any local industries. Toymakers
 are usually among the richest within a given Talanian enclave, and often
 become leaders within their communities.
 
+::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Envoy, Mechanician, Provincial, Visionary
 - **Suggested Passions:** Artistry, Family, Friends, Love
 
@@ -37,4 +38,4 @@ become leaders within their communities.
 - **Practiced Crafting:** Spend 2 Style Points to set the value of one Clockworks die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

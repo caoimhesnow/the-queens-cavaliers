@@ -2,6 +2,7 @@
 
 The following items can usually be easily found in a large city such as Lutetia.
 
+:::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 See <a href="#clockworks-2" class="xref-inchapter-under"></a> for rules on how to
 create your own devices using the Science (Clockworks) Specialty.
 
@@ -24,9 +25,14 @@ Table: Common Clockwork Items
   - **Pocketwatch:** Reliably tells time
   - **Wing-glider, Folding:** Fits in a backpack; slows descent
   - **Wrist Holster (Pistol):** Reduce Drop penalty by 1 when drawing pistol
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Clockwork Weapons
 
+::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 []{.comingsoon}
 
 Table: Clockwork Weapons
@@ -49,3 +55,7 @@ Table: Details for Aimed Clockwork Weapons
   - **Clockbow:** can fire 4 times before reloading; Drop 4 to reload.
   - **Clockwork Pistol:** No gunpowder; quieter than a normal pistol
   - **Gearsword:** Spend 1 Turn to add D6 Weapon die until the end of the scene.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

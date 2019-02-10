@@ -8,6 +8,7 @@ A Visionary may be a leader, or she may be a quiet follower who only
 seeks to pursue her life's work. Visionaries are usually well-educated
 and can speak confidently on a variety of topics.
 
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Explorer, Mechanician, Virtuosa
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
 
@@ -27,4 +28,5 @@ and can speak confidently on a variety of topics.
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Tactical Retreat:** When unarmed and facing an armed opponent, spend 1 Style Point to add Strategy dice to a Dodge roll
 - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

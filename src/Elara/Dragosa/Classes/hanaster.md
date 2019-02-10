@@ -12,6 +12,7 @@ at any given location and where it can be acquired for the cheapest.
 Most train in the basics of self defense, if just to protect themselves
 from thievery.
 
+::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Charlatan, Constable, Courtier, Envoy, Explorer, Privateer, Provincial, Provocateur, Visionary
 - **Suggested Passions:** Family, Knowledge, Loyalty, Wealth
 
@@ -34,4 +35,4 @@ from thievery.
 - **Practiced Diplomacy:** Spend 2 Style Points to set the value of one Negotiate die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

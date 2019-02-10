@@ -12,9 +12,9 @@ Most Chaplains in Gallinea follow the Asrian faith, devoted to the
 goddess-empress Eserre. Dodekan priests from Achalia are also found as
 Chaplains, although rarely outside of the Achalian Islands. Devraist
 priests are known as Speakers, and it's rare to meet a Devraist
-Chaplain. Dualitarian Chaplains are sometimes co-classed as Speakers,
-however.
+Chaplain. 
 
+:::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chirurgeon, Courtier, Envoy, Explorer, Provincial, Veteran, Virtuoso, Visionary
 - **Suggested Passions:** Church, Faith, Justice, Knowledge
 
@@ -37,3 +37,4 @@ however.
 - **Honed Instincts:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -8,6 +8,7 @@ artisans who can engineer complex machinery to accomplish repetitive
 tasks. Their gadgets are in great demand throughout society, although
 usually only the wealthy can afford the most advanced items.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Fusilier, Privateer, Visionary
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth 
 
@@ -31,3 +32,4 @@ usually only the wealthy can afford the most advanced items.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Standing on the Shoulders of Giants:** When inventing a device in a well-equipped workshop, spend 1 Style Point to add Scholarship dice to a Clockworks roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

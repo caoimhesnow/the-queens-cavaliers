@@ -1,4 +1,4 @@
-#### The Huntsman
+# The Huntsman
 
 The hunters of Albia are known for their mounted hunting parties,
 usually with the aid of hunting dogs such as the Albian spaniel. Bows
@@ -9,6 +9,7 @@ Many huntsmen of the lower social ranks hunt for food or for a
 profession, while those from the nobility hunt for sport and for
 bragging ranks.
 
+:::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Charlatan, Chirurgeon, Constable, Courtier, Dogsbody, Dragoon, Envoy, Fusilier, Provincial, Veteran, Virtuosa
 - **Suggested Passions:** Country, Family, Friends, Pride
 
@@ -31,4 +32,4 @@ bragging ranks.
 - **Practiced Sharpshooting:** Spend 2 Style Points to set the value of one Aim die to its maximum value before rolling
 - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
 - **Watchful Reliability:** Spend 1 Style Point to reroll an Observation roll
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

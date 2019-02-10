@@ -12,6 +12,7 @@ can be found Stargazers focused on astronomical science, on reading the omens in
 movements of the stars, on the development of optics and lenses, on navigation in land, 
 sea, and sky, and other heavenly pursuits.
 
+::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  - **Common Classes:** Alchemist, Chirurgeon, Explorer, Mechanician, Speaker, Visionary
  - **Common Passions:** []{.comingsoon}
 
@@ -34,3 +35,4 @@ sea, and sky, and other heavenly pursuits.
  - **Reroll Science:** Spend 1 Style Point to reroll a Science roll.
  - **Add Calculus to Portents:** When you know the subject's date of birth, spend 1 Style Point to add Calculus dice to a Portents roll.
  - **Add Clockworks to Perceive:** When using a device to assist with seeing something, spend 1 Style Point to add Clockworks dice to a Perceive roll.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

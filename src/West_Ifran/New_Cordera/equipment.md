@@ -1,3 +1,5 @@
+::::::::::::::: gamestats ::::::::::::::::
+
 # Nuevan Equipment
 
 []{.comingsoon}
@@ -10,3 +12,4 @@ Table: Nuevan Equipment
 ## Nuevan Weapons
 
 []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::

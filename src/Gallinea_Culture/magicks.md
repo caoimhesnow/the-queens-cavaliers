@@ -4,6 +4,7 @@ Elara is a world of relatively subtle magicks; there are no balls of fire being 
 shapechanging, no glowing swords of light, no necromancers raising the walking dead. Instead, the primary magickal abilities are
 reading portents, brewing draughts with alchemy, and weaving charms into clothing.
 
+::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::: sidebar ::::::::::::::::::::::::::::::
 :# Why Subtle Magicks?
 
@@ -25,6 +26,7 @@ you feel like in your own game, but our recommendation is to keep the
 most powerful magicks either off-screen entirely or only in the hands
 of very special opponents.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Witchcraft
 
@@ -44,6 +46,7 @@ Witchcraft can be used to do three related things:
   - Cast a hex on someone
   - Create a bibelot
 
+:::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ### Answering Questions
 
 The basic act of reading portents generally requires that the subject of your portents is
@@ -58,6 +61,7 @@ duration.
 A given person can only have one such prediction in effect on them at a time; further
 attempts to do a reading on them don't actually give answers until the first prediction
 is either resolved or expires.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::: toolbox :::::::::::::::::::::
 :# Giving Answers
@@ -99,6 +103,10 @@ You can throw a hex on someone you dislike. This is sometimes called an *evil ey
 although again that's a misnomer based on misunderstand. Instead, a so-called "hex" works to
 manipulate probability to the detriment of the subject.
 
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Each hex is a drop penalty on a given skill and its specialties. For example, you could hex
 someone's Defense, and it would apply to Defense (Parry), Defense (Block), and Defense (Dodge)
 rolls. The initial penalty is Drop 1, but with higher skill ranks you can increase the
@@ -109,9 +117,14 @@ the roll. So if you throw a Drop 2 hex on Defense, that gives a Drop 2 penalty o
 Defense roll made, and a Drop 1 penalty on the second. When a hex reaches Drop 0, it ends; otherwise,
 a hex lasts up to 24 hours. As with asking questions, a skilled practitioner of witchcraft can
 increase this duration.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Creating Bibelots
 
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A bibelot is a type of charm that provides protection against hexes and against bad luck.
 These are created with the Magicks (Portents) specialty<a href="#crafting" class="xref-asdesc-insection"></a>.
 Bibelots are often crafted from glass, copper, pottery, carved gems, or leaves.
@@ -120,9 +133,14 @@ You use a bibelot by wearing it on your person, in contact with your skin, altho
 be openly displayed. You can only wear one bibelot at a time; touching a second bibelot with your bare
 skin causes the first one to shatter. You can carry additional bibelots as long as you don't touch them;
 for example, in a pocket or belt pouch. For a list of bibelots, see <a href="#bibelots" class="xref-inchapter-under"></a>.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Alchemy 
 
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Alchemy was codified during the days of the Qartan Empire, although the general principles had been known for
 centuries before. Each salve, poultice, or draught is brewed according to a specific recipe, using the 
 Magicks (Brew) specialty<a href="#crafting" class="xref-asdesc-insection"></a>. 
@@ -134,19 +152,30 @@ Alchemical supplies are used to create alchemical items; once created, an item c
 Most Alchemy items bestow a Charm die upon the recipient. As you can only include one Charm
 Die in any dice pool, this means that you can't get the benefit of both charmwoven apparel
 and a draught or salve in the same dice pool.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Draughts 
 
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Draughts are used by drinking them, although a draught can also be given to a willing, yielded-out,
 unconscious, or dying character as a Drop 4 combined action.
 
 Forcing a draught down someone's throat requires that a hold be made with Brawl, and then 
 four success points can be used to make them drink the draught.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Salves
 
+::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Salves, balms, unguents, oils, unctions, and lotions are applied externally, usually to the hands or face.
 Applying one to a willing, yielded-out, unconscious, or dying character is a Drop 4 combined action.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Charmweaving
 
@@ -182,6 +211,8 @@ how things are rather than how they should be.
   - The Law of Station: "Outfits of mismatched attire produce dissonance."
   - The Law of *Dernier Cri*: "Dated fashions generate dissonance."
 
+:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 <a href="#charmweaving" class="xref-see-charmweaving"></a>.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 

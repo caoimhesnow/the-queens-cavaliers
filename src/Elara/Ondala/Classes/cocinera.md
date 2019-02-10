@@ -1,4 +1,4 @@
-#### The Cocinera
+# The Cocinera
 
 Intrigue and betrayal are a national pastime in Ondala, particularly in
 the capital city of Diega. As such, most wary nobles, wealthy merchants,
@@ -10,10 +10,11 @@ poisons away from an important person's plate, after all? A Cocinera
 lives or dies on the trustworthiness of her reputation, and she'd really
 rather live than die.
 
+:::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Courtier, Provocateur, Virtuosa, Visionary, Witch
 - **Suggested Passions:** Artistry, Family, Loyalty, Pride
 
-##### Cocinera Class Traits
+## Cocinera Class Traits
 
 - **Skill Competency:** Culture, Medicine, Nature, Science
 - **Specialties:** Culture (Arts, Etiquette), Interaction (Negotiate), Medicine (Poison), Nature (Husbandry), Science (Calculus)
@@ -23,7 +24,7 @@ rather live than die.
 - **Bonus Gear:** Crafter outfit (artisan's beret, smock, craftsman's gloves, breeches, buckled shoes), 5 knives (kitchen cutlery), rolling pin,
 foodstuffs (8 units), cookbook, choice of 6 barnyard fowl, 1 dairy animal, or 1 livestock animal
 
-##### Cocinera Maneuvers
+## Cocinera Maneuvers
 
 *correct names needed*
 
@@ -33,4 +34,4 @@ foodstuffs (8 units), cookbook, choice of 6 barnyard fowl, 1 dairy animal, or 1 
 - **Reroll Interaction:** Spend 1 Style Point to reroll an Interaction roll.
 - **Add Husbandry to Poison:** When dealing with ingested toxins, spend 1 Style Point to add Husbandry dice to a Poison roll.
 - **Add Calculus to Arts:** When following a recipe to create food, spend 1 Style Point to add Calculus dice to an Arts roll.
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

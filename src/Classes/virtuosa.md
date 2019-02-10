@@ -11,6 +11,7 @@ Being an effective Virtuosa requires training in the arts and history,
 plus a great degree of innate talent. Virtuosas are well-respected
 throughout society, especially among the upper classes.
 
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Chaplain, Charmweaver, Courtier, Envoy, Privateer, Visionary
 - **Suggested Passions:** Artistry, Friends, Pride, Wealth
 
@@ -30,4 +31,5 @@ throughout society, especially among the upper classes.
 - **In Costume:** When wearing a disguise or costume, spend 1 Style Point to add Arts dice to a Deceive roll
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

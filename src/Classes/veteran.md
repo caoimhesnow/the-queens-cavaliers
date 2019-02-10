@@ -10,6 +10,8 @@ Veterans of that and other wars are well-trained in the art of battle,
 and if not currently part of a military unit, often join mercenary
 companies or guard regiments rather than settle down into a civilian
 lifestyle.
+
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Provincial
 - **Suggested Passions:** Country, Family, Friends, Loyalty
 
@@ -29,4 +31,5 @@ lifestyle.
 - **Reconnaissance:** When trying to spot other people, spend 1 Style Point to add Explore dice to a Perceive roll
 - **(subsection) Strategic Maneuvers:** When commanding at least 3 troops, spend 1 Style Point to add Explore dice to a Strategy roll
 - **Trained Endurance:** Spend 2 Style Points to set the value of one Block die to its maximum value before rolling
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

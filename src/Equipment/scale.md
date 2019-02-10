@@ -72,4 +72,3 @@ building-scale object is usually divided into multiple Areas.
 
 When talking about animals this large, such as giant squids or great
 whales, the term behemoth scale is used.
-

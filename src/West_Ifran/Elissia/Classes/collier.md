@@ -14,6 +14,7 @@ hopes of making it rich. Most return penniless after a few months in the humid h
 manage to cope with the sweltering heat and become professional Colliers. It may be dangerous work, 
 but unlike most professions in Elissia, it does pay well.
 
+::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
   - **Suggested Classes:** Dogsbody, Dragoon, Explorer, Fusilier, Mechanician, Provincial, Veteran
   - **Suggested Passions:** []{.comingsoon}
 
@@ -37,3 +38,4 @@ but unlike most professions in Elissia, it does pay well.
   - Add Blackpowder to Explore: When exploring caves or prospecting, spend 1 Style Point to add Blackpowder dice to an Explore roll.
   - Add Carouse to Brawl: When you've been drinking, spend 1 Style Point to add Carouse dice to a Brawl roll.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

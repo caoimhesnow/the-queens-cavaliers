@@ -1,5 +1,6 @@
 # Tools of the Trade
 
+::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::
 Tools are sets of objects that grant you an Item Die on one or more dice rolls. You only get this
 Item Die if you are using the tools in way they were intended to be used (as listed below).
 
@@ -42,3 +43,7 @@ Table: Tools
   - **Repair Tools:** []{.comingsoon}
   - **Spyglass:** []{.comingsoon}
   - **Tailoring Tools:** []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

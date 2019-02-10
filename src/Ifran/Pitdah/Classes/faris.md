@@ -10,6 +10,7 @@ trained in matters of etiquette and peace as well as war. A number of Faris have
 or nearby Pitdah where they serve as light cavalry for the khedive -- himself a former Faris -- 
 and guards for caravans though the desert wastes.
 
+::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
  - **Suggested Classes:** Brigand, Courtier, Dragoon, Duelist, Explorer, Fusilier, Provincial, Speaker, Veteran
  - **Suggested Passions:** []{.comingsoon}
 
@@ -32,3 +33,4 @@ and guards for caravans though the desert wastes.
  - Reroll Military: Spend 1 Style Point to reroll a Military roll.
  - Add Husbandry to Parry: When fighting on a camel or a horse, spend 1 Style Point to add Husbandry dice to a Parry roll.
  - Add Explore to Aim: When firing a bow outdoors, spend 1 Style Point to add Explore dice to an Aim roll.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

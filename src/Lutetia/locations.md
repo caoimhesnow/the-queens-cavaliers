@@ -262,16 +262,16 @@ the Luisante north of the city.
 
 On 1st *sur le pont*, you may find:
 
-  - clean inns (Soldier D6 social rank)
-  - The Northern Span, a decent tavern (Soldier D6 social rank)
+  - clean inns [(Soldier D6 social rank)]{.gamestats}
+  - The Northern Span, a decent tavern [(Soldier D6 social rank)]{.gamestats}
   - travelers from Scanbria and Albia
   - off-duty river guards
 
 In 1st *rive ouest*, you may find:
 
   - river sailors
-  - hostels and flop houses (Commoner D0 social rank)
-  - many cheap bars (Commoner D0 social rank)
+  - hostels and flop houses [(Commoner D0 social rank)]{.gamestats}
+  - many cheap bars [(Commoner D0 social rank)]{.gamestats}
   - pickpockets
   - travelers from Scanbria and Albia
   - shady individuals
@@ -280,8 +280,8 @@ In 1st *rive ouest*, you may find:
 
 In 1st *rive est*, you may find:
 
-  - comfortable inns (Artisan D8 social rank)
-  - two quality restaurants (Artisan D8 social rank)
+  - comfortable inns [(Artisan D8 social rank)]{.gamestats}
+  - two quality restaurants [(Artisan D8 social rank)]{.gamestats}
   - travelers from Scanbria and Albia
 
 ## 2nd Bridge, Pont de Scanbria
@@ -292,22 +292,22 @@ This is the main approach to the Royal Palace. It's also known as the Diplomat's
 On 2nd *sur le pont*, you may find:
 
   - the Queen's Elite Guards on watch
-  - expensive inns and taverns (Nobility D10 social rank)
+  - expensive inns and taverns [(Nobility D10 social rank)]{.gamestats}
   - foreign visitors
 
 In 2nd *travers le pont*, you may find:
 
   - customs inspectors
-  - expensive inns and taverns (Nobility D10 social rank)
-  - a few private residences (Nobility D10 social rank)
+  - expensive inns and taverns [(Nobility D10 social rank)]{.gamestats}
+  - a few private residences [(Nobility D10 social rank)]{.gamestats}
 
 In 2nd *dela du mur*, you may find:
 
-  - private residences (Soldier D6 social rank)
+  - private residences [(Soldier D6 social rank)]{.gamestats}
   - small marketplaces
   - merchants providing metalworking services
   - soldiers from La Guette
-  - a few inns and taverns (Soldier D6 social rank)
+  - a few inns and taverns [(Soldier D6 social rank)]{.gamestats}
   - Prince Jean-Remy in disguise as a commoner
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
@@ -341,7 +341,7 @@ although the shadier businesses usually find a way around around these legalitie
 
 On 3rd *sur le pont*, you may find: 
 
-  - expensive apartments (Nobility D10 social rank)
+  - expensive apartments [(Nobility D10 social rank)]{.gamestats}
   - trade ministry inspectors
   - tradespeople, waiting in line
   - stabling for horses
@@ -349,15 +349,15 @@ On 3rd *sur le pont*, you may find:
 In 3rd *travers le pont*, you may find:
 
   - a pleasant riverfront park
-  - some private residences (Artisan D8 social rank)
+  - some private residences [(Artisan D8 social rank)]{.gamestats}
   - public offices for most trade guilds
-  - comfortable inns and taverns (Artisan D8 social rank)
+  - comfortable inns and taverns [(Artisan D8 social rank)]{.gamestats}
   - relatively inexpective fashions
 
 In 3rd *dela du mur*, you may find:
 
   - cadets and teachers from l'Academie
-  - private residences (Artisan D8 and Soldier D6 social ranks)
+  - private residences (Artisan D8 and [Soldier D6 social rank]{.gamestats}s)
   - fencing schools and private fencing tutors
   - gunsmiths
 
@@ -380,14 +380,14 @@ is the main thoroughfare for prisoners taken from the Royal Palace to the Palais
 
 On 4th *sur le pont*, you may find:
 
-  - apartments for judges and crown barristers (Nobility D10 social rank)
-  - The Hangman's Noose, an expensive tavern (Nobility D10 social rank)
+  - apartments for judges and crown barristers [(Nobility D10 social rank)]{.gamestats}
+  - The Hangman's Noose, an expensive tavern [(Nobility D10 social rank)]{.gamestats}
   - Holy Guardsmen
 
 In 4th *travers le pont*, you may find:
 
   - Lutetia city watch 
-  - housing for Lutetia city watch officers (Artisan D8 social rank)
+  - housing for Lutetia city watch officers [(Artisan D8 social rank)]{.gamestats}
   - barristers hurrying to court
   - nobles, guildmasters, or senior veterans leaving a meeting in the Central Chamber
   - off-duty constables
@@ -422,15 +422,15 @@ was able to stay in a more central and easily accessible location.
 
 On 5th *sur le pont*, you may find:
 
-  - apartments for senior and honorably retired Cavaliers (Artisan D8 social rank)
+  - apartments for senior and honorably retired Cavaliers [(Artisan D8 social rank)]{.gamestats}
   - off-duty Cavaliers
   - the Queen's Elite Guard
 
 In 5th *travers le pont*, you may find:
 
   - Cavaliers
-  - off-Citadel housing for Cavaliers (Soldier D6 social rank)
-  - decent inns and taverns (Soldier D6 social rank)
+  - off-Citadel housing for Cavaliers [(Soldier D6 social rank)]{.gamestats}
+  - decent inns and taverns [(Soldier D6 social rank)]{.gamestats}
   - a small park
   - a few shops offering weapon and armor repair
 
@@ -458,20 +458,20 @@ bookbinders, and printing companies abound.
 
 On 6th *sur le pont*, you may find:
 
-  - expensive apartments (Nobility D10 social rank)
-  - a decent but overpriced inn (Nobility D10 social rank)
+  - expensive apartments [(Nobility D10 social rank)]{.gamestats}
+  - a decent but overpriced inn [(Nobility D10 social rank)]{.gamestats}
 
 In 6th *travers le pont*, you may find:
 
   - bookstores
-  - coffee houses full of would-be authors (Artisan D8 social rank)
+  - coffee houses full of would-be authors [(Artisan D8 social rank)]{.gamestats}
   - librarians
   - scholars from the Universities
 
 In 6th *dela du mur*, you may find:
 
-  - private homes (Artisan D8 social rank)
-  - decent inns and taverns (Artisan D8 social rank)
+  - private homes [(Artisan D8 social rank)]{.gamestats}
+  - decent inns and taverns [(Artisan D8 social rank)]{.gamestats}
   - librarians
   - printing-press shops
   - notaries
@@ -498,8 +498,8 @@ small clockwork shops around the Mechanicians' Guild.
 
 On 7th *sur le pont*, you may find:
 
-  - affordable apartments reserved for Cavaliers (Soldier D6 social rank)
-  - The Laughing Blade, a tavern popular with the Cavaliers (Soldier D6 social rank)
+  - affordable apartments reserved for Cavaliers [(Soldier D6 social rank)]{.gamestats}
+  - The Laughing Blade, a tavern popular with the Cavaliers [(Soldier D6 social rank)]{.gamestats}
   - stables for horses
   - off-duty cavaliers
 
@@ -510,18 +510,18 @@ In 7th *travers le pont*, you may find:
   - private tutors
   - mechanicians and repair shops
   - bookstores
-  - fine dormitories (Artisan D8 social rank)
-  - a few private dwellings (Artisan D8 social rank)
+  - fine dormitories [(Artisan D8 social rank)]{.gamestats}
+  - a few private dwellings [(Artisan D8 social rank)]{.gamestats}
   - the *Delphine*, a chaloupe sailing ship owned by the Queen's Cavaliers
   - cartographers and globemakers
   - historians
 
 In 7th *dela du mur*, you may find:
 
-  - boarding houses for students (Commoner D0 social rank)
-  - private residences (Artisan D8 social rank)
-  - small taverns and restaurants (Artisan D8 social rank)
-  - small marketplaces selling local produce (Commoner D0 social rank)
+  - boarding houses for students [(Commoner D0 social rank)]{.gamestats}
+  - private residences [(Artisan D8 social rank)]{.gamestats}
+  - small taverns and restaurants [(Artisan D8 social rank)]{.gamestats}
+  - small marketplaces selling local produce [(Commoner D0 social rank)]{.gamestats}
   - students and instructors
   - foreign scholars
   - locksmiths
@@ -576,14 +576,14 @@ In 8th *sur l'ile*, you may find:
 
 On 8th *sur le pont*, you may find:
 
-  - pricy lodging for visiting worshipers (Artisan D8 social rank)
+  - pricy lodging for visiting worshipers [(Artisan D8 social rank)]{.gamestats}
   - shops selling religious items (*Books of the Sun*, *soleils-de-essere*, etc.)
 
 In 8th *travers le pont*, you may find:
 
   - chirurgeons in training
   - sick people on their way to the hospital
-  - a few inns (Artisan D8 social rank)
+  - a few inns [(Artisan D8 social rank)]{.gamestats}
   - apothecary shops
   - hospices for the dying
   - charlatans hawking cure-alls
@@ -594,9 +594,9 @@ In 8th *dela du mur*, you may find:
 
   - astronomers and astrologers
   - optics shops selling spectacles or looking lenses
-  - simple personal dwellings (Commoner D0 social rank)
+  - simple personal dwellings [(Commoner D0 social rank)]{.gamestats}
   - followers of Devranism
-  - a few typical inns and taverns (Commoner D0 social rank)
+  - a few typical inns and taverns [(Commoner D0 social rank)]{.gamestats}
   - small marketplaces selling local produce and meats
 
 ::::::::::::::::::::: location ::::::::::::::::::::::::::
@@ -675,17 +675,17 @@ On 9th *sur le pont*, you may find:
 
 In 9th *travers le pont*, you may find:
 
-  - above average inns and taverns (Soldier D6 social rank)
-  - a few personal homes (Artisan D8 social rank)
+  - above average inns and taverns [(Soldier D6 social rank)]{.gamestats}
+  - a few personal homes [(Artisan D8 social rank)]{.gamestats}
   - merchants selling banners
   - florists and nurseries
 
 In 9th *dela du mur*, you may find:
 
   - gunsmiths, powdersmiths, and blacksmiths
-  - private homes (Soldier D6 social rank)
+  - private homes [(Soldier D6 social rank)]{.gamestats}
   - off-duty soldiers
-  - taverns frequented by off-duty soldiers (Soldier D6 social rank)
+  - taverns frequented by off-duty soldiers [(Soldier D6 social rank)]{.gamestats}
   - shooting clubs
   - mercenaries and guards for hire
 
@@ -723,7 +723,7 @@ In 10th *sur l'ile*, you may find:
   - pickpockets
   - skilled artisans
   - travelers from distant lands (Pitdah, Dragosa, Serica, ...)
-  - food hawkers (Common D0 social rank)
+  - food hawkers [(Common D0 social rank)]{.gamestats}
   - Lutetia city watch patrols
 
 On 10th *sur le pont*, you may find:
@@ -736,11 +736,11 @@ On 10th *sur le pont*, you may find:
 In 10th *travers le pont*, you may find:
 
   - more established merchants
-  - inns for travelers (Artisan D8 social rank)
-  - respectable restaurants employing out-of-work actors (Artisan D8 social rank)
+  - inns for travelers [(Artisan D8 social rank)]{.gamestats}
+  - respectable restaurants employing out-of-work actors [(Artisan D8 social rank)]{.gamestats}
   - famous actors trying to appear incognito
   - travelers from distant lands (Pitdah, Dragosa, Serica, ...)
-  - a few private homes (Artisan D8 social rank)
+  - a few private homes [(Artisan D8 social rank)]{.gamestats}
   - ticket hawkers with forged tickets to the Du Monde
   - crowds lining up to buy real Du Monde tickets
   - haughty nobles slumming it up at the Du Monde
@@ -748,8 +748,8 @@ In 10th *travers le pont*, you may find:
 
 In 10th *dela du mur*, you may find;
 
-  - simple homes (Commoner D0 social rank)
-  - small marketplaces selling Ifrani-style foods (Commoner D0 social rank)
+  - simple homes [(Commoner D0 social rank)]{.gamestats}
+  - small marketplaces selling Ifrani-style foods [(Commoner D0 social rank)]{.gamestats}
   - Devran worshipers heading to the Temple of the Moon
   - a xenophobic angry mob heading to the Temple of the Moon
   - empty warehouses converted to flop houses
@@ -836,16 +836,16 @@ On 11th *sur le pont*, you may find:
 
 In 11th *travers le pont*, you may find:
 
-  - decent inns and taverns (Artisan D8 social rank)
-  - exclusive apartments and private homes (Artisan D8 social rank)
+  - decent inns and taverns [(Artisan D8 social rank)]{.gamestats}
+  - exclusive apartments and private homes [(Artisan D8 social rank)]{.gamestats}
   - private guard patrols
   - drunken revelers raving about the latest show at the Du Monde
 
 In 11th *dela du mur*, you may find:
 
   - sailors
-  - boarding houses (Commoner D0 social rank)
-  - waterfront dives (Commoner D0 social rank)
+  - boarding houses [(Commoner D0 social rank)]{.gamestats}
+  - waterfront dives [(Commoner D0 social rank)]{.gamestats}
   - ships for hire
   - warehouses filled with bulk cargo
   - pickpockets
@@ -880,14 +880,14 @@ This is the only bridge with no shops or public spaces.
 In 12th *sur l'ile*, you may find:
 
    - the public offices of the Lutetian city watch
-   - constables discussing cases at a nearby bar (Soldier D6 social rank)
+   - constables discussing cases at a nearby bar [(Soldier D6 social rank)]{.gamestats}
    - bail bondsmen
    - licenced bounty hunters
    - defense barristers
    - surly members of the Lutetian city watch
-   - a flophouse for paroled or released criminals (Commoner D0 social rank)
+   - a flophouse for paroled or released criminals [(Commoner D0 social rank)]{.gamestats}
    - someone looking to pass a secret note into La Roche
-   - Dela the Twelfth, a seedy bar where someone claims to know how to escape from La Roche (Commoner D0 social rank)
+   - Dela the Twelfth, a seedy bar where someone claims to know how to escape from La Roche [(Commoner D0 social rank)]{.gamestats}
 
 On 12th *sur le pont*, you may find:
 
@@ -937,9 +937,9 @@ castle of Le Puissant.
 In 13th *sur l'ile*, you may find:
 
   - Lusienne Castenia herself, the Lady-Mayor of Lutetia, and her retinue
-  - an overpriced inn catering to nobles (Nobility D10 social rank)
-  - small boutique restaurants with weeks-long reservation lists (Nobility D10 social rank)
-  - a few expensive, Palais-adjacent mansions (Nobility D10 social rank)
+  - an overpriced inn catering to nobles [(Nobility D10 social rank)]{.gamestats}
+  - small boutique restaurants with weeks-long reservation lists [(Nobility D10 social rank)]{.gamestats}
+  - a few expensive, Palais-adjacent mansions [(Nobility D10 social rank)]{.gamestats}
   - the River Park, full of colorful blooms year-round
   - domestic staff getting off work
   - Lutetian city watch patrols
@@ -947,13 +947,13 @@ In 13th *sur l'ile*, you may find:
 
 On 13th *sur le pont*, you may find:
 
-  - elite apartments with a park view (Nobility D10 social rank)
-  - less elite apartments with a view of La Roche (Artisan D8 social rank)
+  - elite apartments with a park view [(Nobility D10 social rank)]{.gamestats}
+  - less elite apartments with a view of La Roche [(Artisan D8 social rank)]{.gamestats}
   - handbills advertising an upcoming performance at the Rive
 
 In 13th *travers le pont*, you may find:
 
-  - expensive mansions (Nobility D10 social rank)
+  - expensive mansions [(Nobility D10 social rank)]{.gamestats}
   - horse-driven carriages of nobles
   - Lutetian city watch patrols
 
@@ -961,7 +961,7 @@ In 13th *dela du mur*, you may find:
 
   - off-duty soldiers
   - farmers who came to Lutetia to sell their goods
-  - inns and taverns (Soldier D6 social rank)
+  - inns and taverns [(Soldier D6 social rank)]{.gamestats}
   - locals complaining about "the big gray eyesore"
   - armorsmiths
 
@@ -1012,9 +1012,9 @@ and, beyond the wall, to the rough-and-tumble airship crews of Lutetia.
 In 14th *sur l'ile*, you may find:
 
   - noble carriages on their way to the Rive
-  - expensive riverfront homes (Nobility D10 social rank)
+  - expensive riverfront homes [(Nobility D10 social rank)]{.gamestats}
   - actors arguing with playwrights
-  - small, cozy, and expensive restaurants (Nobility D10 social rank)
+  - small, cozy, and expensive restaurants [(Nobility D10 social rank)]{.gamestats}
 
 On 14th *sur le pont*, you may find:
 
@@ -1026,20 +1026,20 @@ On 14th *sur le pont*, you may find:
 
 In 14th *travers le pont*, you may find:
 
-  - comfortable apartments occupied by successful actors (Artisan D8 social rank)
+  - comfortable apartments occupied by successful actors [(Artisan D8 social rank)]{.gamestats}
   - nobles' river-yachts docked at the riverfront
-  - expensive hotels and restaurants (Nobility D0 social rank)
+  - expensive hotels and restaurants [(Nobility D0 social rank)]{.gamestats}
 
 In 14th *dela du mur*, you may find:
 
   - off-duty airship crew
   - mechanicians
   - airships for hire
-  - boarding houses for airship crew (Soldier D6 social rank)
-  - inns and taverns (Soldier D6 social rank)
+  - boarding houses for airship crew [(Soldier D6 social rank)]{.gamestats}
+  - inns and taverns [(Soldier D6 social rank)]{.gamestats}
   - soldiers from Le Puissant
   - foreign ambassadors and their retinue leaving the airship tower
-  - private homes (Soldier D6 social rank)
+  - private homes [(Soldier D6 social rank)]{.gamestats}
   - Asrian street preachers
   - phlogistone cargo wagons
 
@@ -1103,13 +1103,13 @@ In 15th *sur l'ile*, you may find:
   - statues of Lutetia's heroes
   - clandestine meetings down winding park paths
   - grand parades on Gallinean holidays
-  - street vendors selling crepes (Commoner D0 social rank)
+  - street vendors selling crepes [(Commoner D0 social rank)]{.gamestats}
   - mimes
 
 On 15th *sur le pont*, you may find:
 
-  - creperies (Soldier D0 social rank)
-  - expensive apartments (Artisan D0 social rank)
+  - creperies [(Soldier D0 social rank)]{.gamestats}
+  - expensive apartments [(Artisan D0 social rank)]{.gamestats}
   - pickpockets
   - hat shops with jaunty berets for sale
   - so many mimes
@@ -1119,7 +1119,7 @@ In 15th *travers le pont*, you may find:
   - people complaining about the smell of sulfur
   - small shops selling alchemical supplies and draughts
   - streetside hawkers enticing passers-by to come inside a shop to try a new miracle salve
-  - a few private homes (Artisan D8 social rank)
+  - a few private homes [(Artisan D8 social rank)]{.gamestats}
   - officials of the Alchemists' Guild on their way to important business
   - a light haze permeating the area
   - shops specializing in selling firefly lamps
@@ -1129,11 +1129,11 @@ In 15th *dela du mur*, you may find:
   - devout Asrians
   - a peaceful park with lush gardens
   - marketplaces where local farmers sell produce and meat
-  - decent inns and taverns (Artisan D8 social rank)
-  - boarding houses (Commoner D0 social rank)
-  - neighborhood taverns (Commoner D0 social rank)
-  - private homes (Artisan D8 social rank)
-  - parkside restaurant (Artisan D8 social rank)
+  - decent inns and taverns [(Artisan D8 social rank)]{.gamestats}
+  - boarding houses [(Commoner D0 social rank)]{.gamestats}
+  - neighborhood taverns [(Commoner D0 social rank)]{.gamestats}
+  - private homes [(Artisan D8 social rank)]{.gamestats}
+  - parkside restaurant [(Artisan D8 social rank)]{.gamestats}
   - silent mendicants tending to the park gardens
   - horticulturists
 
@@ -1214,38 +1214,38 @@ In 16th *sur l'ile*, you may find:
 
    - bureaucratic offices
    - a small park with off-duty government officials
-   - pricy restaurants and taverns (Artisan D8 social rank)
-   - an expensive inn with a view of the Royal Palace (Nobility D10 social rank)
+   - pricy restaurants and taverns [(Artisan D8 social rank)]{.gamestats}
+   - an expensive inn with a view of the Royal Palace [(Nobility D10 social rank)]{.gamestats}
    - Lutetian city watch patrols
 
 On 16th *sur le pont*, you may find:
 
-   - expensive apartments with a palace view (Nobility D10 social rank)
-   - affordable apartments without a palace view (Artisan D8 social rank)
+   - expensive apartments with a palace view [(Nobility D10 social rank)]{.gamestats}
+   - affordable apartments without a palace view [(Artisan D8 social rank)]{.gamestats}
    - royal inspectors hassling passers-by
-   - small, exclusive restaurant (Nobility D10 social rank)
+   - small, exclusive restaurant [(Nobility D10 social rank)]{.gamestats}
 
 In 16th *travers le pont*, you may find:
 
    - models wearing the latest fashions
    - fashion designers with heavy books of their designs
-   - boarding houses (Artisan D8 social rank)
-   - a few personal homes (Artisan D8 social rank)
+   - boarding houses [(Artisan D8 social rank)]{.gamestats}
+   - a few personal homes [(Artisan D8 social rank)]{.gamestats}
    - tailoring shops
    - the well-to-do with their noses in the air
-   - restaurants catering to the rich (Nobility D10 social rank)
-   - affordable taverns frequented by charmweavers (Artisan D8 social rank)
+   - restaurants catering to the rich [(Nobility D10 social rank)]{.gamestats}
+   - affordable taverns frequented by charmweavers [(Artisan D8 social rank)]{.gamestats}
 
 In 16th *dela du mur*, you may find:
 
    - horse appraisers and breeders
    - stabling
-   - private homes (Soldier D6 social rank)
+   - private homes [(Soldier D6 social rank)]{.gamestats}
    - blacksmiths offering shoeing services
-   - comfortable inns (Soldier D6 social rank)
+   - comfortable inns [(Soldier D6 social rank)]{.gamestats}
    - veterinarian offices
-   - park-adjacent taverns and inns (Artisan D8 social rank)
-   - taverns frequented by jockets (Soldier D8 social rank)
+   - park-adjacent taverns and inns [(Artisan D8 social rank)]{.gamestats}
+   - taverns frequented by jockets [(Soldier D8 social rank)]{.gamestats}
    - someone offering a "slightly used" horse for sale
    - Prince Carolus and Ambassador Bedyngford, badly disguised, out for a drink
    - rowdy cadets from l'Academie spoiling for a fight

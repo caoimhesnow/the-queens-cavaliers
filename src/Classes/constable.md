@@ -10,6 +10,7 @@ capturing those who commit criminal acts.
 Most Constables are employed by the Crown or a local province, while a
 few have retired and ply their trade as investigators for private hire.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Dragoon, Duelist, Provincial, Veteran
 - **Suggested Passions:** Country, Justice, Knowledge, Loyalty
 
@@ -32,3 +33,4 @@ few have retired and ply their trade as investigators for private hire.
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

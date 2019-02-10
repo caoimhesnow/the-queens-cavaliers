@@ -1,5 +1,9 @@
 # Aimed Weapons
 
+::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
 :# Maximum Range?
 
@@ -78,23 +82,25 @@ Table: Aimed Weapons
 | Rifled Musket    | D8   | Both           | Musket +1D10 | Drop 4 | Drop 1 | Drop 0 | Drop 0 | Drop 1 |
 | Thrown Dagger    | D0   | Either         | Knife +1D6   |        | Drop 0 | Drop 0 |        |        |
 | Thrown Spear     | D6   | Main           | Polearm +1D6 |        | Drop 1 | Drop 0 | Drop 1 |        |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - **Arbalest:** Also known as a heavy crossbow, the arbalest is harder to use than a common crossbow but packs a larger punch.
   - **Arquebus:** A smaller and lighter musket with shorter range and less firepower.
   - **Blunderbuss:** The flared barrel of this musket makes it easier to reload, but also reduces its effective range.
-  - **Caliver:** Another type of musket that can reload faster without the reduced range of the blunderbuss, but with a smaller Weapon Die.
+  - **Caliver:** Another type of musket that can reload faster without the reduced range of the blunderbuss[, but with a smaller Weapon Die]{.gamestats}.
   - **Composite Bow:** A heavier bow with longer effective range and pull.  
   - **Crossbow:** The crossbow uses stored mechanical power to fire bolts, instead of relying upon personal muscle power as a normal bow does.
-  - **Double Musket:** The primary advantage of this double-barreled musket is the ability to fire twice, once per barrel, without reloading. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D12, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double musket with a Drop 3 action.
-  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.
+  - **Double Musket:** The primary advantage of this double-barreled musket is the ability to fire twice, once per barrel, without reloading. [If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D12, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double musket with a Drop 3 action.]{.gamestats}
+  - **Double Pistol:** Like the double musket, the double pistol allows one shot per barrel without having to reload. [If you choose to fire both barrels in the same shot, the Weapon Die increases to 1D8, but you take a Drop 1 penalty because it's harder to aim. You can reload just one barrel of a double pistol with a Drop 2 action.]{.gamestats}
   - **Dragon:** This heavier version of a pistol is favored by cavalry -- especially Dragoons, who take their name from the use of this large pistol.
   - **Flintlock Musket:** This is a standard musket used by infantry throughout Elara.
   - **Flintlock Pistol:** A single-barrel pistol found all over Elara and Ifran.
   - **Hunting Bow:** This standard bow, also called a shortbow or flatbow, has been used for millennia in pretty much every nation.
   - **Rifled Musket:** With a rifled barrel to provide better accuracy at long range, this musket is the favored weapon of snipers.
-  - **Thrown Dagger:** A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.
-  - **Thrown Spear:** Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.
+  - **Thrown Dagger:** [A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.]{.gamestats} [The biggest problem with throwing a dagger is that once you throw it, you don't have it any more.]{.sourcebook}
+  - **Thrown Spear:** [Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.]{.gamestats} [Like a thrown dagger, throwing away your spear effectively disarms you.]{.sourcebook}
 
+:::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::
 :# Ammunition
 
@@ -112,4 +118,4 @@ This applies even if you use someone else's weapon, or a
 weapon you just picked up -- you just don't track ammo for Aimed weapons
 in *The Queen's Cavaliers*. Except, of course, for explosive weapons.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

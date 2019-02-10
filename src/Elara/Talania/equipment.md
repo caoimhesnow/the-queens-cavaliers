@@ -1,3 +1,4 @@
+:::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::
 # Talanian Equipment
 
 []{.comingsoon}
@@ -186,3 +187,4 @@ Table: Talanian Devices
 - **Complexity:** []{.comingsoon}
 
 []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -10,4 +10,3 @@
 | Vexillography                          | Robert P. Stefko                                 |
 | Backer Wrangling                       | Rachel Tolliver                                  |
 | Editing                                | Kristine Chester, Caoimhe Ora Snow               |
-

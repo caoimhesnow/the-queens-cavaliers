@@ -1,3 +1,4 @@
+:::::::::::::: gamestats :::::::::::::::
 # Serican Equipment
 
 []{.comingsoon}
@@ -10,4 +11,5 @@ Table: Serican Equipment
 ## Serican Weapons
 
 []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::
 

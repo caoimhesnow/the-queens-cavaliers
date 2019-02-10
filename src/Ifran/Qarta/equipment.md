@@ -1,3 +1,4 @@
+::::::::::::::::: gamestats ::::::::::::::
 # Qartan Equipment
 
 []{.comingsoon}
@@ -10,3 +11,4 @@ Table: Qartan Equipment
 ## Qartan Weapons
 
 []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::

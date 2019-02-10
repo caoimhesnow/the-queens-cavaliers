@@ -59,6 +59,7 @@ Table: Monthly Calendar
 | 25       | 26       | 27      | 28      | 29        | 30      | Fifth Week  |
 
 
+:::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Random Dates
 
 The structure of the Gallinean calendar makes it very easy to create a random date.
@@ -88,3 +89,4 @@ rolls 1D10 and 1D6, getting 7 and 3 respectively.
 This corresponds to the 21st. Therefore, her character
 was born on 21 Prairial, which was a Thirday.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

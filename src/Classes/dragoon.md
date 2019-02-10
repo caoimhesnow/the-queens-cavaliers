@@ -5,6 +5,7 @@ Dragoons are found throughout Elara and beyond; they are usually more
 serious and less flashy than the swashbuckling Cavaliers. Dragoons
 usually wear heavier armor in the field.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Constable, Duelist, Dogsbody, Provincial, Veteran.
 - **Suggested Passions:** Country, Justice, Loyalty, Pride
 
@@ -26,3 +27,4 @@ usually wear heavier armor in the field.
 - **Ubiquitous Shield:** Spend 2 Style Points to set the value of one Rigid Armor or Shield item die to its maximum value before rolling
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

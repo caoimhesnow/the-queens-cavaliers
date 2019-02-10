@@ -1,5 +1,6 @@
 # Wealth   {#anchor-wealth}
 
+:::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::
 In *The Queen's Cavaliers*, money is treated as an abstract resource
 rather than counting the exact number of Crowns, Sols, and Lunes that
 your character is carrying. Your character's ability to purchase items
@@ -181,6 +182,31 @@ dice in their Wealth pool. Additional Rewards should be granted by the
 MJ. A typical good deed may net a Reward equal to the player characters'
 Competency die, while capturing a fugitive could earn a Reward equaling
 the criminal's Competency die.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::
+There are five basic social classes in Gallinean society.
+
+At the very bottom, **commoners** are the most numerous and also the least
+privileged. Most commoners do unskilled labor of some kind.
+
+The next social rank up is the **soldiers**. Military service of any kind
+is considered a respectable occupation by most Gallineans, and for many
+of the poorest people, enlistment is one of the only paths they have out
+of poverty.
+
+Highly skilled **artisans** sell their talents to those who can afford
+their prices, and often organize into guilds. This social rank can also
+be thought of as a merchant class, as most artisans sell their own wares.
+
+Near the top of the social hierarchy are the **nobility** -- scions of families
+with land and sols beyond the imagining of most commoners. These priviliged
+inheritors have done little to earn their wealth save for being born.
+
+Finally, at the absolute top of the social order are **royalty**. It's said
+that the wealth of the queen and her family exceed that of a typical noble by
+as much as that noble's wealth exceeds the beggar outside her mansion.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Gallinean Currency
 
@@ -191,6 +217,7 @@ roughly analogous to a modern dollar. A Lune is a copper coin equal to
 Crowns are stamped with a portrait of the current monarch. Sols have a
 sun pattern, and Lunes show a crescent moon.
 
+::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::
 The approximate values of an item, Barter die, or Reward are shown on
 the following table.
 
@@ -209,7 +236,9 @@ values except for description. For example, the MJ might say, “She
 plunks down a small sack of Crowns on the table” to represent a D8
 reward, or state that an airship (cost 4D12) is worth nearly 5,000
 Crowns.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Gallinea's neighboring countries have their own currencies but they are
 usually interchangeable with Gallinean coins as they're based on the
 ancient Qartan money system.
+

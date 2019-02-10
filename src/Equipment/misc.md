@@ -1,5 +1,9 @@
 ## Living Expenses
 
+::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 Characters in *The Queen's Cavaliers* are assumed to have their housing
 and daily nutritional needs met by their Social Rank scores without
 having to make Wealth rolls or spend Rewards for normal daily living.
@@ -38,6 +42,7 @@ Table: Living Expenses
 | Round on the house, watered down      | 1D6  |
 | Stabling for one night                | 1D0  |
 | Stabling for one week                 | 1D6  |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
  - **Drinks, good:** []{.comingsoon} 
  - **Drinks, private reserve:** []{.comingsoon} 
@@ -63,6 +68,10 @@ Each Gallinean league is equal to approximately 2 miles. An average person on fo
 
 ### Vehicles
 
+::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 []{.comingsoon}
 
 Table: Vehicles
@@ -79,6 +88,7 @@ Table: Vehicles
 | Sailing Ship | 2D12 | --         | 2 Areas   | 6 leagues per hour  | 
 | Velocipede   | 1D8  | 1 Area     | 3 Areas   | 3 leagues per hour  | 
 | Wagon        | 1D6  | 1 Area     | 2 Areas   | 3 leagues per hour  | 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
  - **Airship:** []{.comingsoon} Actual speed will vary depending on wind and weather conditions.
  - **Carriage:** []{.comingsoon} Carriage and wagon speed is limited by the speed of the horses, and is reduced if going off of roads.
@@ -93,6 +103,11 @@ Table: Vehicles
   
 ### Mounts
 
+::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
+
 []{.comingsoon}
 
 Table: Mounts
@@ -102,6 +117,7 @@ Table: Mounts
 | Draft Horse  | 1D6  | 1 Area     | 2 Areas   | 2 leagues per hour | Husbandry +1D6 |
 | Riding Horse | 1D8  | 2 Areas    | 3 Areas   | 6 leagues per hour | Cavalry +1D6   |
 | Warhorse     | 1D10 | 1 Areas    | 3 Areas   | 4 leagues per hour | Cavalry +1D10  |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
  - **Draft Horse:** []{.comingsoon}
  - **Riding Horse:** []{.comingsoon} 
@@ -112,6 +128,11 @@ Table: Mounts
 []{.comingsoon}
 
 ### Pets and Farm Animals
+
+::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
@@ -140,8 +161,9 @@ Table: Pets and Farm Animals
 | Reptile, small    | 1D0  | Snake, box turtle                  |
 | Rodent            | 1D0  | Mouse, rat                         |
 | Rabbit            | 1D0  | Bunny, hare                        |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
- - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. They have an Item Die of Husbandry +1D6 when used for this purpose. 
+ - **Beast of Burden (domesticated):** These are strong animals used for pulling plows, pulling wagons, and other farming chores. [They have an Item Die of Husbandry +1D6 when used for this purpose.]{.gamestats}
  - **Bird, Messenger (domesticated):** []{.comingsoon} 
  - **Bird, Song:** []{.comingsoon}
  - **Cat, Common:** []{.comingsoon}

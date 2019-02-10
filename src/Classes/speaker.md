@@ -6,9 +6,7 @@ is in conflict with the majority Asrian religion. For this reason,
 Speakers usually keep a low profile while spreading their messages of
 stoic living and opposition to secular authorities.
 
-Few, if any, Speakers are loyal to the Gallinean crown; Speakers are
-usually opponents for the Queen's Cavaliers rather than allies. 
-
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chirurgeon, Envoy, Explorer, Privateer, Provocateur, Virtuosa, Visionary
 - **Suggested Passions:** Faith, Family, Justice, Loyalty
 
@@ -29,3 +27,4 @@ usually opponents for the Queen's Cavaliers rather than allies.
 - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
 - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

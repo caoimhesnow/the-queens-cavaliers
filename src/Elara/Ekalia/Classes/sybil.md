@@ -13,6 +13,7 @@ matters of faith.
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Chirurgeon, Envoy, Explorer, Provincial, Virtuosa, Visionary
 - **Suggested Passions:** Faith, Justice, Knowledge, Love
 
+::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Sibyl Class Traits
 
 - **Skill Competency:** Culture, Magicks, Nature 
@@ -52,3 +53,4 @@ Table : Sybils and The Twelve
 - **Add Portents to Inspire:** When dealing with someone of the same faith, spend 1 Style Point to add Portents dice to an Inspire roll.
 - **Add Intuition to Dodge:** When unarmed and facing an armed opponent, spend 1 Style Point to add Intuition dice to a Dodge roll.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

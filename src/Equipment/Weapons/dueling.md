@@ -1,5 +1,6 @@
 # Dueling Weapons
 
+::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Dueling weapons are, by definition, weapons that can be used with the
 Dueling skill and its specialties -- Lunge, Riposte, Feint, and Defense
 (Parry). Not all weapons can be used with all specialties, however.
@@ -194,4 +195,7 @@ is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
 In far-distant countries, the availability increases to 1D8 in a capital
 city, 1D12 in any other city, and unavailable in smaller settlements.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+[]{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

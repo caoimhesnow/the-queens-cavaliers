@@ -10,6 +10,7 @@ Field researchers from the Institute range far and wide throughout
 Elara, Ifran, and beyond -- seeking to capture jkkke in the wild and
 bind it into book form, for storage in their guild's libraries.
 
+:::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chaplain, Charlatan, Courtier, Envoy, Explorer, Provocateur, Virtuosa, Visionary
 - **Suggested Passions:** Artistry, Country, Knowledge, Loyalty
 
@@ -34,4 +35,4 @@ bind it into book form, for storage in their guild's libraries.
 - **Add Explore to Scholarship:** When trying to understand something in a language in which you are not fluent, spend 1 Style Point to add Explore
   dice to a Scholarship roll.
 - **Add Scholarship to Perceive:** When listening to spoken words, spend 1 Style Point to add Scholarship dice to a Perceive roll.
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

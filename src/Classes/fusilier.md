@@ -5,6 +5,7 @@ musket and other ranged firearms, including clockwork muskets and
 pistols. A Fusilier can usually load, disassemble, and reassemble her
 weapon while blindfolded.
 
+:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Duelist, Mechanician, Provincial, Privateer, Veteran
 - **Suggested Passions:** Artistry, Country, Loyalty, Pride
 
@@ -26,3 +27,4 @@ weapon while blindfolded.
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 - **Sniper:** When attacking from at least 3 areas away, spend 1 Style Point to add Prowl dice to an Aim roll
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

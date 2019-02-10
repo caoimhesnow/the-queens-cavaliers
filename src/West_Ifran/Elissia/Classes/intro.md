@@ -1,2 +1,7 @@
-# Elissian Classes
+:::::::::: gamestats :::::::
+# Classes
+::::::::::::::::::::::::::::
+::::::::: sourcebook :::::::
+# Archetypes
+::::::::::::::::::::::::::::
 

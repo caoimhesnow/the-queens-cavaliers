@@ -11,6 +11,7 @@ While most travel by sea, dodging the fleets of Gallinea, Ondala, and Albia,
 a few take overland routes into or out of Elissia. Their name derives from the 
 fact that a full moon is a smuggler's worst when trying to remaining hidden from the authorities.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
   - **Suggested Classes:** Alchemist, Brigand, Charlatan, Envoy, Explorer, Privateer, Provincial, Provocateur, Veteran
   - **Suggested Passions:** *description needed*
 
@@ -33,3 +34,4 @@ fact that a full moon is a smuggler's worst when trying to remaining hidden from
   - **Reroll Nature:** Spend 1 Style Point to reroll a Nature roll.
   - **Add Explore to Deceive:** When trying to pass yourself off as someone of a different national origin, spend 1 Style Point to add Explore dice to a Deceive roll.
   - **Add Larceny to Prowl:** When hiding at night or in darkness, spend 1 Style Point to add Larceny dice to a Prowl roll.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

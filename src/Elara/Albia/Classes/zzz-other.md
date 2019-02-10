@@ -1,6 +1,13 @@
+::::::::::: gamestats :::::::::::::
 # Other Classes
 
 These standard classes are especially appropriate for characters from Albia.
+:::::::::::::::::::::::::::::::::::
+::::::::::::::: sourcebook ::::::::
+# Other Archetypes
+
+These standard archetypes are especially common in Albia.
+:::::::::::::::::::::::::::::::::::
 
   - Barrister
   - Brigand
@@ -13,4 +20,3 @@ These standard classes are especially appropriate for characters from Albia.
   - Provincial
   - Veteran
   - Visionary
-

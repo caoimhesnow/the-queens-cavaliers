@@ -1,4 +1,4 @@
-#### The Theologian
+# The Theologian
 
 The theologians in Cordera, center of the Asrian faith, all agree on one
 thing: the other theologians are wrong. Cloistered in their numerous
@@ -12,10 +12,11 @@ instead conduct ritualized duels with knives hidden within their robes.
 Such knife-fights are, by tradition, rarely fatal; most theologians bear
 numerous scars on their hands and arms.
 
+:::::::::::::::: gamestats :::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chaplain, Chirurgeon, Constable, Courtier, Provocateur, Visionary
 - **Suggested Passions:** Church, Justice, Knowledge, Pride
 
-##### Theologian Class Traits
+## Theologian Class Traits
 
 - **Skill Competency:** Culture, Dueling, Military, Streetwise
 - **Specialties:** Culture (Arts, Scholarship), Defense (Parry), Dueling (Lunge), Military (Brawl), Streetwise (Banter)
@@ -27,7 +28,7 @@ numerous scars on their hands and arms.
 gloves, breeches, pantofles), dagger, spring sheath, 6 books (2 copies
 of *Books Of The Sun*, 2 psalters, 1 liturgical almanac, 1 atlas)
 
-##### Theologian Maneuvers
+## Theologian Maneuvers
 
 - **Aggressive Fisticuffs:** Spend 2 Style Points to set the value of one Brawl die to its maximum value before rolling
 - **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
@@ -36,4 +37,4 @@ of *Books Of The Sun*, 2 psalters, 1 liturgical almanac, 1 atlas)
 - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
 - **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a
 Lunge roll
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::

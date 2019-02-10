@@ -1,4 +1,9 @@
+:::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 These standard classes are especially appropriate for characters from the Lowlands.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+These standard archetypes are especially common in the Lowlands.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - Brigand
   - Chaplain
@@ -8,4 +13,3 @@ These standard classes are especially appropriate for characters from the Lowlan
   - Provincial
   - Veteran
   - Witch
-

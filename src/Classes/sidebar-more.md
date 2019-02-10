@@ -1,3 +1,4 @@
+:::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
 :# Additional Classes
 
@@ -21,3 +22,27 @@ Each of these classes adds a specific cultural flavor. If your character
 is not from the listed country, talk to the MJ to see if you can still
 choose one of these classes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::
+:# National Archetypes
+
+<a href="#the-countries-of-elara" class="xref-capital-inchapter"></a>, additional archetypes common to 
+each of Gallinea's neigbhors are described. Those are:
+
+Table: National Archetypes
+
+| Country        | Archetype               |
+| :------------- | :---------------------- |
+| Albia          | Huntsman, Pilgrim       |
+| Dragosa        | Hanaster, Lexicographer |
+| Ekalia         | Parroteer, Sybil        |
+| Ondala         | Cocinera, Theologian    |
+| Talania        | Skomorokh, Toymaker     |
+| Varendia       | Engineer, Mountaineer   |
+| Northern Ifran | Faris, Stargazer        |
+| Western Ifran  | Collier, Moon-Curser    |
+
+Each of these archeyptes adds a specific cultural flavor. 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -3,6 +3,7 @@
 Sometimes called "truth serum", the effect of this poison is to make
 it harder for the victim to lie. 
 
+:::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::
 ::::::::::::::::::: success ::::::::::::
 | Verity Poison |                      |
 | :--:          | :------------------- |
@@ -13,3 +14,4 @@ it harder for the victim to lie.
 Streetwise (Banter) rolls equal to one die for every two Success Points you spend, up to a
 maximum of Drop 4. This impairment lasts until the end of the scene or
 for one hour, whichever comes first.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -65,6 +65,7 @@ have had higher profile performances -- although none in front of a royal audien
 Alais de Neversette: Alais de Neversette and the Hidden Reef" is one of the largest crowd-pleasers, 
 and has given young Lutetians the idea that all pirates are singing pirates.
 
+:::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :# Random Alais de Neversette Book Title Generator
 
 Nearly all of the Alias stories follow this naming pattern:
@@ -186,4 +187,5 @@ could be *"The Revenge of the Noble Priestess."* Who is the priestess? Who is
 the target of her revenge? Is she called "noble" because she's of high birth
 or because her cause is just? You get to decide!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

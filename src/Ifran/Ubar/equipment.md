@@ -1,3 +1,4 @@
+:::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::
 # Ubaran Equipment
 
 []{.comingsoon}
@@ -21,3 +22,4 @@ Table: Ubaran Weapons
     Northern Ifran, and can inflict nasty wounds if it gets past a target's
     defenses.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
