@@ -105,8 +105,8 @@ teaching at the theological seminary.
 
 Chaplains who are ordained without the requisite training are expected to report to Cordera as soon
 as they able to able to do so. The current matriarch of the church, Isabene de la Justicia, was ordinained
-as a chaplain before attenting the seminary; to many of the more conservative arch-chaplaiera this was
-eraugh to later disqualify her from ascension as the Bride of the Sun.
+as a chaplain before attenting the seminary; to many of the more conservative arch-chaplains this was
+enough to later disqualify her from ascension as the Bride of the Sun.
 
 ## Private Tutoring
 

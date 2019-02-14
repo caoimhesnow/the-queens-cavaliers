@@ -4,13 +4,34 @@
 ![Prince-Consort Carolus, by Eleanor Ferron](assets/Portraits/Medium/prince-carolus.jpg "Prince-Consort Carolus, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Most Lutetians would describe Carolus, prince-consort of Gallinea and husband to 
+Queen Mariana, as hopelessly befuddled. They're not really wrong. 
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+As the youngest son of King Edgar and Queen Fionna of Albia, he was told it was
+his duty to marry the younger daughter of Queen Elisse of Gallinea. His parents
+were never the type to take no for an answer, and at their insistence -- plus
+that of his older brother, Crown-Prince Edmund -- he agreed to the political
+marriage and ended the disastrous Twenty Years' War.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+Carolus was totally unprepared for the death of Queen Elisse, and even less for
+the expectation that the new Queen's consort was expected to move to Lutetia.
+Gallinea's matriarchal, progressive views clashed with those of his upbringing
+and his poor proficiency in the Gallinean language made Lutetia seem bewilderingly
+alien.
+
+It was during this time that Lord-Ambassador Bedyngford befriended Carolus, as the
+only other Albian in courtly circles. Bedyngford serves as a proxy older brother
+for the young princeling, and the two are frequent drinking and hunting partners.
+
+Upon become prince-consort, Carolus also learned he was now the honorary
+leader of the Queen's Cavaliers. It's an honor he barely understands, and prefers
+to spend his time away from Cavaliers if possible. Instead, he spends most of his
+time as a patron of the arts, something Mariana has little interest in.
+
+The big tragedy of Carolus's marriage is not the arranged nature of it, but
+rather that the prince-consort has fallen in love with the young queen -- and
+the love is apparently not reciprocated.
 
 :::::::::::::::::::::::::::::::::::: using :::::::::::::::::::::::::::::::
 :::::::::::::::::::: ally :::::::::::::::::::

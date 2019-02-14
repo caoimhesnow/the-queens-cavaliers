@@ -4,13 +4,41 @@
 ![Farrazin, Guardian of the Faith, by Eleanor Ferron](assets/Portraits/Medium/guardian-farrazin.jpg "Farrazin, Guardian of the Faith, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+Arch-Chaplain Farrazin, Guardian of the Faith of Gallinea, is proof that a man
+can ascend from lowly beginnings to the highest positions, if that man has the
+ambition to see it through. One of Lutetia's foundlings, Farrazin was raised
+by the Church in their orphanages and abbeys. Even from a young age he showed
+a keen intellect as well as a willingness to push aside others to get what he
+wanted.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Determined to better himself, Farrazin requested an early appointment to study
+as a Chaplain in Cordera, Ondala. Young Farrazin made quite an impression at the
+seminary due to his sharp tongue, brilliant rhetoric, and fierce loyalty to
+Gallinea. When he graduated and was appointed to a small chapel in Scanbria, the
+theologians of Cordera were more than happy to see him gone.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+Starting in Affutaine, chaplain Farrazin worked his way up the hierarchy of Gallinea's
+Asrian church, finally ascending to arch-chaplain of Lutetia and Guardian of the Faith
+upon the death of his predecessor. In public he presents an air of polite concern and
+caring for all he meets, while in private he is more than willing to use duplicitous
+means to get what he wants.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+What he wants is twofold: He wants to increase the power of Gallinea throughout the
+world, and he wants to increase his personal authority. During Queen Elisse's reign,
+he "kindly volunteered" to be her interim Minister of Justice, a position he continues
+to hold under Queen Marianna. He is a major proponent of expansionist foreign
+policy, and doesn't fear provoking a war with any of Gallinea's neighbors.
+
+Guardian Farrazin has a small army of church soldiers, meant to be ceremonial temple
+guards but highly militarized under his watch; most are retired soldiers or mercenaries.
+These Holy Guardsmen are often in direct conflict with the Queen's Cavaliers, 
+a jealous rivalry that sometimes flares into outright dueling. In addition to the
+Holy Guardsmen, Farrazin has close ties to Martine Deveaux, notorious ex-Cavalier,
+although those ties are not common knowledge.
+
+Farrazin isn't all bad, though. He likes cats, sometimes petting them as he sits at
+his desk in the Grand Cathedral of the Sun, speaking to those to whom he grants an
+audience.
 
 :::::::::::::::::::: using ::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::: enemy ::::::::::::::::::::::::::

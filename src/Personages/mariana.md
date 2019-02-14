@@ -4,13 +4,33 @@
 ![Queen Mariana II, by Eleanor Ferron](assets/Portraits/Medium/queen-mariana.jpg "Queen Mariana II, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+She never asked for any of this. All Princess Mari wanted to do was study science, and
+possibly even become guildmistress of the Mechanicians' Guild. Her older sister Jehanne had
+been trained from birth to succeed their mother Elisse as queen of Gallinea, freeing
+Mari to work on her clockworks and calculations.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+When the Albians proposed a political marriage as an end to the Twenty Years' War, 
+Mari was skeptical but was reassured that she wouldn't have to deal much with the
+young prince Carolus, who barely spoke Gallinean and resided in Dunon. "As long as I can
+ignore him and get back to my research, I don't care," she told her mother, the Queen.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+Then both the future of the Gallinean Queendom and Mari's life changed in an instant.
+As she smoke cleared, Mari found her mother dead and her sister dying. When the crown princess
+died, the throne passed to Mari, Elisse's only other daughter. Although token protest was
+raised in the Parliament of Nobles, Gallineans mourning their beloved Queen Elisse supported
+Princess Mari, now Queen Mariana II, taking the throne when she came of age. Her father, 
+former prince-consort Michel Aubene, served as regent for a year until that happened.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+Political scheming never interested Mariana, although as a princess in the Royal Palace
+she had an extensive cultural education and could speak intelligently on Gallinea's issues.
+Queen Elisse was a reformer, who had a grand vision for changing the Queendom in ways
+that would benefit all of Gallinea; Mariana's style may be different, but she is no less
+dedicated to progressive reform than her mother. Queen Mariana sees Gallinea as a riddle to be solved:
+a giant clockwork puzzle-box with interlocking gears that must be carefully calibrated and maintained.
+
+Queen Mariana and her husband, prince-consort Carolus, have no children at present, a cause of
+concern among some Traditionalist nobles. It's said that Mariana tolerates Carolus but does not
+love him; he, on the other hand, seems absolutely smitten with his brilliant Gallinean wife.
 
 :::::::::::::::::::::: using ::::::::::::::::::::::::::::::::::::
 

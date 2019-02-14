@@ -4,15 +4,22 @@
 ![Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron](assets/Portraits/Medium/ginevra-de-hiedra-y-obispo.jpg "Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Comodora Ginevra de Hiedra y Obispo is the fleet captain of the New Corderan Colonial Fleet. She is the youngest fleet captain in the Holy Navy of Ondala and is a loyal supporter of Queen Ximena.
+Comodora Ginevra de Hiedra y Obispo is the fleet captain of the New Corderan Colonial Fleet. She is the youngest 
+fleet captain in the Holy Navy of Ondala and is a loyal supporter of Queen Ximena. Some say her loyalty is more ... personal
+than mere patriotism, intimating that the naval officer's meteoric rise through the ranks was the result of sexual
+liaisons between her and the Ondalan Queen.
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+Her current assignment has her as the primary military commander of the Ondalan forces in Nueva Cordera, with an
+authority that threatens the colonial governor. Ginevra has the absolute power to shut down any colony port in 
+West Ifran, both in New Cordera and in neighboring Elissia and New Dunon.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Ginevra's primary charge is to protect Ondalan trade from piracy and smugglers, although she operates with a
+loose definition of piracy that changes to justify nearly any order she issues. While some may question her
+methods, none can doubt her results, as pirate attacks on Ondalan ships have drastically decreased since the
+arrival of the Colonial Fleet, with a corresponding increase in New Dunon and Elissia.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
-
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+Despite her prideful ambition, Ginevra is a reliable military commander with a solid grasp of naval tactics
+and a strong loyalty toward those who serve under her. That is, as long as they don't betray her.
 
 :::::::::::::::::::::::: using ::::::::::::::::::::::::::::::
 

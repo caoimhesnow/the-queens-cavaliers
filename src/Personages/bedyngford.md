@@ -4,13 +4,30 @@
 ![Lord-Ambassador Bedyngford, by Eleanor Ferron](assets/Portraits/Medium/lord-bedyngford.jpg "Lord-Ambassador Bedyngford, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+Lord Richard of Bedyngford comes from a long and and distinguished line of Albian
+aristrocrats. The younger of the Duke of Bedyngford, he was appointed to
+an Ambassadorship to give him something to do. And, some say, to get him out
+of Albia where his scandalous behaviour would have fewer consequences for the
+Duchy.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Lord-Ambassador Bedyngford is a tall, handsome man with black hair and mustache.
+He is usually impeccably dressed and groomed, but he prefers to avoid affairs of
+state and other formal affairs. Instead, he would rather go somewhere that he
+can be the most attractive, most fabulously dressed, most important person in
+the room. His favored haunts in Lutetia are the bars and pubs of the common
+parts of town, where he usually spends extravagantly on buying drinks on the house.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+Unlike Prince-Consort Carolus, Bedyngford's Gallinean is impeccably proper, 
+with barely a hint of an accent. When Carolus arrived in Gallinea, Bedyngford
+had been in place for a few years, and took the young Albian prince under his
+wing. The two formed a friendship of sorts, with Bedyngford dragging 
+Carolus with him on his tavern crawls.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+Bedyngford is competitive, vain, and promiscuous; he'll flirt and bed people
+of any gender or social class. Although he proudly proclaims his loyalty toward
+the patriarchal Albia, he steadfastly refuses any opportunity to return to the
+country of his birth, offering as many excuses as necessary. The worldly life
+of Lutetia suits him better than the stark moralism of Dunon, Albia's capital.
 
 ::::::::::::::::::::::::::::::::::::: using :::::::::::::::::::::::::::::::
 :::::::::::::: enemy ::::::::::::::::::::

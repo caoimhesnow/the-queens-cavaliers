@@ -1,12 +1,32 @@
 # Duthas {.breakbefore}
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+Mother Duthas was cursed. That's the only conclusion, she felt. Time after time she
+bore sons; sons, who could never hope to become anything great, just manual
+laborers. Many of her neighbors in the Lowlands considered it a blessing 
+when she finally was unable to have further children.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Unwanted as they are, each from a different father they never knew, the 
+brothers Duthas grew up together with no one trust save themselves. This
+bitterness led them to lash out, becoming a gang of cruel bullies as children.
+This continued into adulthood, taking up careers in banditry and extortion,
+all under the thumb of Mother Duthas.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+The brothers proudly boast that no Duthas has ever served in the Queen's
+Army, with all of them having refused an order of enlistment during the
+Twenty Years' War. While their countrymen were dying, they were smuggling
+weapons and contraband in Dunon, Albingia, and even Elissia.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+On a smuggling run to Nouville, the Duthas brothers met Martine Deveaux,
+a notorious spy who had been expelled from the Queen's Cavaliers some
+years before. Martine did a great favor the Brothers that they could not
+do themselves; Mother Duthas died peacefully in her sleep. From that time,
+the brothers Duthas were free from one master but had taken on a new one.
+Martine has proven herself to be less abusive and demanding of the brothers.
+
+Each Duthas brother is a large mountain of a man, with a shrewd cunning in
+matters of bandritry that is belied by their brutish appearance and Lowlander
+demeanor. Many have underestimated one of the brothers Duthas, and few have
+survived to regret it.
 
 ::::::::::::::: using ::::::::::::::::::::::::::::::::::::
 :::::::::::::::: enemy ::::::::::::::::::::::
@@ -34,7 +54,7 @@ the players by revealing that scheme and helping them put a stop to it.
 [Minor Character(s)]{.opptype}
 
 - **Competency Die:** D8
-- **Attributes:** Verve D10, Affinity D8, Guile D8
+- **Attributes:** Verve D10, Affinity D8, Guile D6
 - **Social Rank:** Commoner D0 / Soldier D6
   - *Wealth:* 1D8 + 1D6 + 1D0
 - **Yield Limit:** 11

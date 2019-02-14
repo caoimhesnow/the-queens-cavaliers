@@ -1,12 +1,18 @@
 # Lusienne Castenia {.breakbefore}
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+The current Lady-Mayor of Lutetia is Lusienne, Contessa of Castenia, a province directly adjacent to
+Lutetia. Her younger brother, Lord Landiere, is currently the castellan of Castenia and manages the
+family fortunes while his sister is away in the captial.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Lusienne Castenia is a flamboyant figure in the court, to say the least; she is well-known for throwing
+the grandest parties in Lutetia and of wearing the most outrageous *haute couture*. She is also known
+for backroom deals in Parliament and complicated schemes in the streets, with the ultimate goal of 
+aiding the crown; Lusienne has been a strong supporter of Queen Mariana. Many suspect that her
+over-the-top public persona is a cover for her even bolder political moves.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
-
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+The Lady-Mayor's patronage of the arts is well-documented, and she regularly opens Palais de Lutetia
+for plays and receptions. The people of Lutetia find her to be amusingly entertaining, an enjoyable
+alternative to the usually stuffy Royal Family.
 
 :::::::::::::::::::::::: using ::::::::::::::::::::::::::::::::::::::::
 

@@ -1,12 +1,21 @@
 # Jennevive d'Angelet {.breakbefore}
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+The Duchess of Scanbreille, Jennevive d'Angelet, has traceable descent from the line of Scanbrin queens going
+back to just after the fall of Qarta, and claims unverifiable ancestry of pre-Qartan kings from long ago.
+She certainly looks the part of a Scanbrian battle-maiden of old; thick red hair, ruddy Varendish features, broad shoulders,
+and an air of confident authority. On the wall behind her throne hangs a massive sword of Varendish make, within
+arm's reach of the Duchess.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+While Jennevive may dress like an 8th century warlady, she is no mere northern barbarian. Scanbreille is well-known for
+its embrace of magicks and is a center of charmweaving; Duchess d'Angelet is herself a skilled charmweaver. This seems
+to serve her well in politics also, as she has woven the provinces of Scanbria into a tight tapestry that owes more 
+loyalty to her personally than to the Pegasus Throne in Lutetia. The Duchess was an outspoken opponent of the Elissian
+Reforms, and continues to oppose Elisse's daughter Queen Mariana as the head of the Traditionalist faction in the
+Parliament of Nobles.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
-
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+Duchess d'Angelet is beloved in the north of Gallinea and in Varendia, the country of her husband, Lord Gerhardt von
+Schnabelburg, but is mistrusted by many in the south, especially in Lutetia. Many Gallineans, both northerners and
+southerners, feel it's only a matter of time before the Scanbreille duchess begins to openly defy the Queen.
 
 :::::::::::::::::::::::::::: using :::::::::::::::::::::::::::::::::::
 

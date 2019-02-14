@@ -4,13 +4,34 @@
 ![Matriarch Isabene de la Justicia, by Eleanor Ferron](assets/Portraits/Medium/isabene-de-la-justicia.jpg "Matriarch Isabene de la Justicia, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+The life of Isabene de la Justicia, Matriarch of the Asrian Church, has certain parallels with those
+of Arch-Chaplain Farrazin. Both rose from lowly beginnings to a place of prominence in the Church.
+However, when it comes to personality, the two clerics couldn't be more different.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Isabene was born to Ondalan subsistence farmers in the Fuenta province, near Diega. When a neighbor's
+child was gored by a rampaging bull, her herbal medicines and prayers to Ashra were credited with saving the
+boy's life. Held up as an exemplar of the faith and gifted by the Sun, she was annointed as a priestess 
+before she turned 17. Her compassion for the poor endeared her to the people of Fuenta, but won her no
+friends in nearby Diega.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+In several passionate sermons to growing crowds at the Fuentan Temple of the Sun, Isabene laid out the
+case against the debauched hedonism of Diegan culture and the inherent injustice of the Ondalan social
+hierarchy. These sermons, and her writings on the same theme, earned her the sobriquet of "de la Justicia."
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+When her name was pushed forward as the new Guardian of the Faith of the Fuenta province, the theologians
+in Cordera protested her lack of formal education, unwilling to overlook it as the Fuentan clergy had done.
+This led to Isabene taking several years off from her ministry to the poor of Fuenta. Her
+writings continued with the same fiery passion as before, but now expressed in the formalized language
+and strict theological underpinnings demanded by the seminarians.
+
+When the Guardians of the Faith gathered to determine Ashra's will for the next Bride of the Sun 12 years
+ago, no one was as surprised as Isabene when she was selected. She almost turned it down, but then her 
+old village chaplain convinced her that Ashra had chosen her for a reason and she should accept the position.
+
+Isabene's tenure has been marked by an increased focus on helping the poor and disenfranchised; the Matriarch
+and late Queen Elisse had mutual respect for each other, to the chagrin of Arch-Chaplain Farrazin. Isabene is
+humble while Farrazin is ostentatious; she is apolitical while he is blatantly nationalistic; she is a voice for
+justice with compassion, while he is a notorious legalist. 
 
 :::::::::::::::::::::::::: using ::::::::::::::::::::::::::::::::
 
