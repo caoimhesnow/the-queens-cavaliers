@@ -16,8 +16,8 @@ but unlike most professions in Elissia, it does pay well.
 
 ::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
   - **Suggested Classes:** Dogsbody, Dragoon, Explorer, Fusilier, Mechanician, Provincial, Veteran
-  - **Suggested Passions:** []{.comingsoon}
-
+  - **Suggested Passions:** Country, Family, Friends, Justice, Lust, Pride, Pride, Wealth 
+  
 ## Collier Class Traits
 
   - **Skill Competency:** Military, Nature, Science, Streetwise

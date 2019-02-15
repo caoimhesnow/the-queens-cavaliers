@@ -13,8 +13,8 @@ fact that a full moon is a smuggler's worst when trying to remaining hidden from
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
   - **Suggested Classes:** Alchemist, Brigand, Charlatan, Envoy, Explorer, Privateer, Provincial, Provocateur, Veteran
-  - **Suggested Passions:** []{.comingsoon}
-
+  - **Suggested Passions:** Artistry, Family, Friends, Justice, Love, Loyalty, Lust, Wealth
+  
 ## Moon-Curser Class Traits
 
   - **Skill Competency:** Military, Nature, Streetwise
