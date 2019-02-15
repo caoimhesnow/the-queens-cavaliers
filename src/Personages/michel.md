@@ -1,12 +1,28 @@
 # Michel {.breakbefore}
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Michel Aubene, the prince-father, is the younger brother of Arynne Aubene, the
+Duchess of Valerienne. As a young man, he left behind a commission in the Gallinean
+navy to join the Queen's Cavaliers. He distinguished himself as a skiled swordsman,
+dedicated to the service of the Queen in a way that was uncommon among the Cavaliers of the time.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+While assigned as a bodyguard to crown princess Elisse, the dashing duelist caught the
+eye of the young princess and a clandestine romance began. Their love didn't stay secret
+very long, obvious to the entire court. Eventually, Queen Amarante gave her blessing to
+the relationship, to the surprise of Elisse and Michel. 
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+When Elisse became queen herself, that made Michel the prince-consort; and by tradition,
+the honorary head of the Queen's Cavaliers. Under Aubene's predecessors, princes-consort Côme and Henri,
+this was a ceremonial position; however, Michel was cut from the same mold as princess-consort Clarisse,
+the war-heroine wife of Elisse's great-grandmother and namesake, Queen Elisse II. 
+Michel is more responsible than anyone for the transformation of the Queen's Cavaliers from
+a club of aging veterans to a thriving, diverse organization with myriad skills to support the crown.
+
+Elisse and Michel had two daughters, crown princess Jehanne and princess Mari. In 1243, an
+assassin's bomb killed Elisse and Jehanne, and seriously injured Michel as well. While he
+recovered, he blamed himself for not protecting his wife and eldest daughter. During the
+year after the assassination, Aubene was prince-regent for the new Queen Mariana II, and is
+now the prince-father.
 
 :::::::::::::::::::::::::::::::: using :::::::::::::::::::::::::::::::
 

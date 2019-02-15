@@ -4,19 +4,34 @@
 ![Martine Deveaux, by Eleanor Ferron](assets/Portraits/Medium/martine-deveaux.jpg "Martind Deveaux, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Eu nostrud reformidans eos, no sed prima theophrastus, ius te novum possit euripidis. Ne dolore imperdiet mea, vim augue accusata te. Mea at diam erant, soleat dissentias complectitur in eam, in vel quod autem molestiae. Brute inani eos no, vel cu nonumy forensibus. Sea mutat ridens perfecto ad, nam et persius diceret euismod.
+Martine Deveaux, once known as La Chevalier Rouge, is a former member of the Queen's Cavaliers. By all
+accounts she was one of the most promising young members under
+Captain Michel Aubene's tutelage. In addition to using her fencing
+skills in defense of the queen, she also developed a talent for 
+disguise. On several occasions, Deveaux impersonated Mariana as a
+decoy for those who would harm the young queen.
 
-Homero apeirian legendos eu nam, semper gubergren democritum sea in, ut consul scaevola nec. Sed ad feugiat ancillae, in eos discere luptatum imperdiet. Et duis summo dolorum eum, ridens erroribus accommodare mei eu. Aperiri nonumes facilisis duo an, sed elitr affert nominavi ei. An vix scaevola vulputate. An euismod omittam appetere vis, cu vis erant audiam. Ex docendi quaerendum pro.
+Five years ago, something changed. The one-loyal Martine betrayed the
+Cavaliers during a disastrous mission, and then disappeared for nearly
+a year. When she resurfaced, she was now selling her services as an
+assassin and spy, gaining a reputation as one of the most dangerous mercenaries
+in Gallinea.
 
-An usu porro omnium nusquam, dicam philosophia sed ut, modo iuvaret ei eos. Nulla aliquip molestie mei ex, in duo alii salutatus. Id vel modus complectitur, congue ridens ex nam. Ea est bonorum maluisset definiebas, vitae efficiantur ea pro.
+Deveaux has had clandestine dealings with arch-chaplain Farrazin.
+The Guardian of the Faith uses her services for missions that cannot
+be assigned to his Holy Guardsmen nor can they be linked back to the Cathedral.
+In these missions, she often works with the Brothers Duthas, a family of brutish
+siblings with a sense of loyalty to the provocateur.
 
-An causae insolens qui, cu aliquando definitiones nec, ius ex soluta fabulas abhorreant. Nec affert inimicus et, duo eu nobis dolores, qui ad deserunt delicatissimi. Dicta nominati delicatissimi pri ne. Sale deseruisse percipitur an est, qui in illum nobis suscipit. No vel graeci constituto mnesarchum, docendi fabellas ocurreret et eum, eu ius tantas sensibus.
+While her loyalties last only as long as the gold holds out, she does take a
+special relish in tasks that bring her in conflict with her former compatriots
+in the Queen's Cavaliers.
 
 :::::::::::::::::::::::: using :::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::: enemy :::::::::::::::::::::
 Martine can be either a master schemer or a deadly combatant. With her brutal
-henchmen, her clandestine ties to Farrazin, and her inside knowledge
+henchmen, her conspiratorial ties to Farrazin, and her inside knowledge
 of the Queen's Cavaliers, she can present any number of challenges to
 player characters. If you want to keep Martine alive in the face of
 determinedly murderous Cavaliers, borrow a trick from old movie serials
