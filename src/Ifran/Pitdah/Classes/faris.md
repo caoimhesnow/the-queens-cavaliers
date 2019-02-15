@@ -25,12 +25,10 @@ and guards for caravans though the desert wastes.
 
 ## Faris Maneuvers
 
- []{.comingsoon}
-
- - Maximize Sword: Spend 1 Style Point to set the value of one sword weapon die to its maximum value before rolling.
- - Maximize Explore: Spend 1 Style Point to set the value of one Explore die to its maximum value before rolling.
- - Reroll Nature: Spend 1 Style Point to reroll a Nature roll.
- - Reroll Military: Spend 1 Style Point to reroll a Military roll.
- - Add Husbandry to Parry: When fighting on a camel or a horse, spend 1 Style Point to add Husbandry dice to a Parry roll.
- - Add Explore to Aim: When firing a bow outdoors, spend 1 Style Point to add Explore dice to an Aim roll.
+  - **Furusiyya:** When fighting while mounted, spend 1 Style Point to add Husbandry dice to a Parry roll
+  - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
+  - **Nomadic Archery:** When firing a bow, spend 1 Style Point to add Perceive dice to an Aim roll
+  - **Precise Swordplay:** Spend 2 Style Points to set the value of one Sword weapon die to its maximum value before rolling
+  - **Relentless Pathfinding:** Spend 2 Style Points to set the value of one Explore die to its maximum value before rolling
+  - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -13,7 +13,7 @@ fact that a full moon is a smuggler's worst when trying to remaining hidden from
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
   - **Suggested Classes:** Alchemist, Brigand, Charlatan, Envoy, Explorer, Privateer, Provincial, Provocateur, Veteran
-  - **Suggested Passions:** *description needed*
+  - **Suggested Passions:** []{.comingsoon}
 
 ## Moon-Curser Class Traits
 
@@ -26,12 +26,12 @@ fact that a full moon is a smuggler's worst when trying to remaining hidden from
 
 ## Moon-Curser Maneuvers
 
-*need to add correct names for these style maneuvers*
 
-  - **Maximize Deceive:** Spend 1 Style Point to set the value of one Deceive die to its maximum value before rolling.
-  - **Maximize Prowl:** Spend 1 Style Point to set the value of one Prowl die to its maximum value before rolling.
-  - **Reroll Interaction:** Spend 1 Style Point to reroll an Interaction roll.
-  - **Reroll Nature:** Spend 1 Style Point to reroll a Nature roll.
-  - **Add Explore to Deceive:** When trying to pass yourself off as someone of a different national origin, spend 1 Style Point to add Explore dice to a Deceive roll.
-  - **Add Larceny to Prowl:** When hiding at night or in darkness, spend 1 Style Point to add Larceny dice to a Prowl roll.
+  - **Cunning Camouflage:** Spend 2 Style Points to set the value of one Prowl die to its maximum value before rolling
+  - **Cunning Prevarication:** Spend 2 Style Points to set the value of one Deceive die to its maximum value before rolling
+  - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
+  - **Smuggler's Moon:** When in darkness or at night, spend 1 Style Point to add Larceny dice to a Prowl roll
+  - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
+  - **Student of Accents:** When trying to pass yourself off as someone from another nation, spend 1 Style Point to add Explore dice to a Deceive roll
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

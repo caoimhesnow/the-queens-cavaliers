@@ -27,12 +27,10 @@ sea, and sky, and other heavenly pursuits.
 
 ## Stargazer Maneuvers
 
- []{.comingsoon}
-
- - **Maximize Perceive:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling.
- - **Maximize Calculus:** Spend 2 Style Points to set the value of one Calculus die to its maximum value before rolling.
- - **Reroll Observation:** Spend 1 Style Point to reroll an Observation roll.
- - **Reroll Science:** Spend 1 Style Point to reroll a Science roll.
- - **Add Calculus to Portents:** When you know the subject's date of birth, spend 1 Style Point to add Calculus dice to a Portents roll.
- - **Add Clockworks to Perceive:** When using a device to assist with seeing something, spend 1 Style Point to add Clockworks dice to a Perceive roll.
+  - **Astrological Charts:** When you know the date and location of a subject's birth, spend 1 Style Point to add Calculus dice to a Portents roll
+  - **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
+  - **Inventive Mathematics:** Spend 2 Style Points to set the value of one Calculus die to its maximum value before rolling
+  - **Optical Focus:** When using a device to help you see, spend 1 Style Point to add Clockworks dice to a Perceive roll
+  - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
+  - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

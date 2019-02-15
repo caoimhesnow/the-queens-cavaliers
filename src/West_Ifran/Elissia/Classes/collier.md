@@ -29,13 +29,10 @@ but unlike most professions in Elissia, it does pay well.
 
 ## Collier Maneuvers
 
-[]{.comingsoon}
-
-  - Maximize Blackpowder: Spend 1 Style Point to set the value of one Blackpowder die to its maximum value before rolling.
-  - Maximize Brawl: Spend 1 Style Point to set the value of one Brawl die to its maximum value before rolling.
-  - Reroll Nature: Spend 1 Style Point to reroll a Nature roll.
-  - Reroll Streetwise: Spend 1 Style Point to reroll a Streetwise roll.
-  - Add Blackpowder to Explore: When exploring caves or prospecting, spend 1 Style Point to add Blackpowder dice to an Explore roll.
-  - Add Carouse to Brawl: When you've been drinking, spend 1 Style Point to add Carouse dice to a Brawl roll.
-
+  - **Aggressive Fisticuffs:** Spend 2 Style Points to set the value of one Brawl die to its maximum value before rolling
+  - **Aggressive Fulmination:** Spend 2 Style Points to set the value of one Blackpowder die to its maximum value before rolling
+  - **Drowning My Sorrows:** When fighting in a tavern or while drunk, spend 1 Style Point to add Carouse dice to a Brawl roll
+  - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
+  - **Speleology:** When prospecting or exploring in caves, spend 1 Style Point to add Blackpowder dice to an Explore roll
+  - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

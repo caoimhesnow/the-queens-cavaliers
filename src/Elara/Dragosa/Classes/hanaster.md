@@ -27,8 +27,6 @@ from thievery.
 
 ## Hanaster Maneuvers
 
-*these need to be updated to the correct names*
-
 - **A Mind for Money:** When sums of at least 1 crown are at stake, spend 1 Style Point to add Calculus dice to a Negotiate roll
 - **Cunning Thievery:** Spend 2 Style Points to set the value of one Larceny die to its maximum value before rolling
 - **International Trade:** When buying or selling wares that have been imported or exported, spend 1 Style Point to add Explore dice a Negotiate roll

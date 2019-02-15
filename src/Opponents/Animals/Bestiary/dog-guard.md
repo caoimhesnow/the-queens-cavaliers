@@ -10,10 +10,10 @@
 - **Walk:** 1 Area
 - **Run:** 2 Areas
 - **Instinct:** Dodge (1D6), Explore +2 (3D8)
-- **Ferocity:** Brawl +1 (2D8), Inspire +1 (2D8), Lunge+ +1 (2D8)
+- **Ferocity:** Brawl +1 (2D8), Inspire +1 (2D8), Lunge +1 (2D8)
 - **Training:** Block (1D10+1D6), Perceive +2 (3D10+1D8)
 - **Senses:** Smell +1D8, Hearing +1D8
-- **Bite:** Lunge +1D6, +++: Knockdown
+- **Bite:** Lunge +1D6, [+][+][+]: Knockdown
 - **Spiked Collar:** Block +1D6, [+][+][+][+][+]: Inflict 1 Wound
 - **Impetus:** Obedience (D6)
 

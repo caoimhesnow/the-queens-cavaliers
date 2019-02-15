@@ -26,13 +26,10 @@ bind it into book form, for storage in their guild's libraries.
 
 ## Lexicographer Maneuvers
 
-*correct names needed* 
-
-- **Maximize Scholarship:** Spend 1 Style Point to set the value of one Scholarship die to its maximum value before rolling.
-- **Maximize Perceive:** Spend 1 Style Point to set the value of one Perceive die to its maximum value before rolling.
-- **Reroll Culture:** Spend 1 Style Point to reroll a Culture roll.
-- **Reroll Observation:** Spend 1 Style Point to reroll an Observation roll.
-- **Add Explore to Scholarship:** When trying to understand something in a language in which you are not fluent, spend 1 Style Point to add Explore
-  dice to a Scholarship roll.
-- **Add Scholarship to Perceive:** When listening to spoken words, spend 1 Style Point to add Scholarship dice to a Perceive roll.
+- **Cunning Erudition:** Spend 2 Style Points to set the value of one Scholarship die to its maximum value before rolling
+- **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
+- **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
+- **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
+- **Linguistics:** When trying to understand something in a language you don't know, spend 1 Style Point to add Explore dice to a Scholarship roll
+- **Trained Ear:** When listening to other people speaking, spend 1 Style Point to add Scholarship dice to a Perceive roll
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

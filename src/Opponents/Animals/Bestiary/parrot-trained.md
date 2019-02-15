@@ -13,7 +13,7 @@
 - **Training:** Arts +1 (2D6), Larceny +1 (2D6)
 - **Senses:** Vision +1D6
 - **Maneuver:** Distraction (when mimicking a sound, add Arts +1D6 to
-Feint)\
+Feint)
 - **Impetus:** Loyalty (D6)
 
 Pirates love these things. Originally from the jungles of the Farthest

@@ -22,5 +22,10 @@ Parrot
 
 ## Parroteer Maneuvers
 
-*list needed*
+  - **Bird Calls:** When working with birds, spend 1 Style Point to add Arts dice to a Husbandry roll
+  - **Inventive Mathematics:** Spend 2 Style Points to set the value of one Calculus die to its maximum value before rolling
+  - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
+  - **Parrot's Nest:** When looking at things more than one area away, spend 1 Style Point to add Explore dice to a Perceive roll
+  - **Practiced Cultivation:** Spend 2 Style Points to set the value of one Husbandry die to its maximum value before rolling
+  - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

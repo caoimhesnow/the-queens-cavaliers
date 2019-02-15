@@ -26,12 +26,10 @@ foodstuffs (8 units), cookbook, choice of 6 barnyard fowl, 1 dairy animal, or 1 
 
 ## Cocinera Maneuvers
 
-*correct names needed*
-
-- **Maximize Poison:** Spend 1 Style Point to set the value of one Poison die to its maximum value before rolling.
-- **Maximize Arts:** Spend 1 Style Point to set the value of one Arts die to its maximum value before rolling.
-- **Reroll Culture:** Spend 1 Style Point to reroll a Culture roll.  
-- **Reroll Interaction:** Spend 1 Style Point to reroll an Interaction roll.
-- **Add Husbandry to Poison:** When dealing with ingested toxins, spend 1 Style Point to add Husbandry dice to a Poison roll.
-- **Add Calculus to Arts:** When following a recipe to create food, spend 1 Style Point to add Calculus dice to an Arts roll.
+  - **Boundless Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling
+  - **Deadly Toxicology:** Spend 2 Style Points to set the value of one Poison die to its maximum value before rolling
+  - **Measuring is Everything:** When following a recipe or a cookbook while cooking, spend 1 Style Point to add Calculus dice to an Arts roll
+  - **Natural Flavorings:** When using or neutralizing ingested toxins, spend 1 Style Point to add Husbandry dice to a Poison roll
+  - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
+  - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

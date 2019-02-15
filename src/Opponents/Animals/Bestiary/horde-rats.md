@@ -10,7 +10,7 @@
 - **Walk:** 0 Areas
 - **Run:** 1 Area, Climb 1 Area
 - **Instinct:** Dodge (Horde + 1D8), Perceive (Horde + 2D8), Prowl +1
-(Horde + 2D8)\
+(Horde + 2D8)
 - **Ferocity:** Brawl (Horde + 1D8), Lunge (Horde + 2D8)
 - **Training:** Block (Horde)
 - **Senses:** Smell +1D8

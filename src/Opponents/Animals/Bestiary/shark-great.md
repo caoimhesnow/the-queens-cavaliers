@@ -16,7 +16,7 @@
 - **Teeth:** Lunge +1D10
 - **Rough Hide:** Block +2D8
 - **Maneuver:** Blood in the Water (when attacking a target with at least
-1 wound, add Perceive +1D12 to Lunge)\
+1 wound, add Perceive +1D12 to Lunge)
 - **Impetus:** Predatory (D8), Hunger (D6)
 
 Huge, hungry sharks are a great reason to stay out of the ocean. Many

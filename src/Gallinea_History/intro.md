@@ -6,30 +6,28 @@ Gallinea later were conquered and colonized by the Qartan Empire. When that empi
 all do, the following centuries saw the former Qartan marches coming together to create a
 Gallinean queendom.
 
-The history of Gallinea is marked by a tradition of warfare, both with its neighbors and in
-civil wars where Gallinean fought Gallinean. Prior to the start of the Twenty Years' War with
-Albia, the queendom had only a few years of peace since the previous war.
+## Timeline
 
-Table: Gallinea's Major Wars
+This is an incomplete timeline of Gallinean history.
 
-| War                            | Years           | Opponent              |
-| :----------------------------- | :-------------: | :-------------------- |
-| The Qartan Conquest            | ~400 to ~300 BQ | The Qartan Empire     |
-| Martialla's War of Unification | 3 to 7 PQ       | Qartan remnants       |
-| The Valerian War               |                 | Valerian Empire       |
-| The War of the Soleils         |                 | Ondala                |
-| The Green War                  |                 | Queendom of Verterre  |
-| The Sea War                    |                 | Ekalia                |
-| The Corderan War               |                 | Ondala                |
-| First War of Succession        |                 | Other Gallineans      |
-| First Varendish War            |                 | Varendia              |
-| The Albian War                 |                 | Albia                 |
-| The Patriarch's War            |                 | Ondala                |
-| Second Varendish War           |                 | Varendia              |
-| Second War of Succession       |                 | Other Gallineans      |
-| Scanbrian War of Independence  |  986 to 989     | Varendia              |
-| The Albingian War              |                 | Albia, Varendia       |
-| Third Varendish War            |      to 1123    | Varendia              |
-| The Channel War                |                 | Ondala                |
-| Twenty Years' War              | 1221 to 1241    | Albia                 |
+| Year | Event                                                                  | Date         |
+| ---: | :--------------------------------------------------------------------- | :----------- |
+| 1    | Fall of the Qartan Empire                                              |              |
+| 3    | The start of priestess Martialla's revolt against the Legions          |              |
+| 7    | Martialla Conquestus declares herself first queen of Galinia           |              |
+| 11   | Valerian Empire falls to Galinia                                       |              |
+| 20   | The queen of Verterre pledges fealty to Queen Martialla                |              |
+| 44   | Martialla I dies, having conquered most of modern Coeur de Gallinea    |              |
+| 986  | Start of the Scanbrian War of Independence                             | Fructidor 30 |
+| 989  | Gallinea annexes Scanbria, ending the Scanbrian War                    | Pluviose 14  |
+| 1123 | End of the 3rd Varendish War                                           | Prairial 7   |
+| 1194 | Birth of future queen Elisse III                                       | Floreal 21   |
+| 1219 | Birth of future prince-consort Carolus                                 | Frimaire 14  |
+| 1221 | Start of the Twenty Years' War between Gallinea and Albia              |              |
+| 1222 | Birth of crown princess Jehanne                                        | Fervidor 1   |
+| 1225 | Birth of future queen Mariana II                                       | Fructidor 19 |
+| 1241 | Treaty of Scanbreille signed, ending the Twenty Years' War             | Nivose 21    |
+| 1242 | Marriage of Princess Mariana to Prince Carolus of Albia                | Floreal 16   |
+| 1243 | Assassination of Elisse III and crown princess Jehanne                 | Frimaire 22  |
 
+[]{.comingsoon}

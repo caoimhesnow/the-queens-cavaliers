@@ -10,7 +10,7 @@
 - **Walk:** Walk 1 Area
 - **Run:** 2 Areas
 - **Instinct:** Dodge +1 (2D6), Explore +1 (2D6), Perceive (2D6), Prowl +1
-(2D6)\
+(2D6)
 - **Ferocity:** Lunge (2D6)
 - **Senses:** Smell +1D6, Hearing +1D6
 - **Bite:** Lunge +1D6

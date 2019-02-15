@@ -10,10 +10,10 @@ representational government structure -- a Sibyl is expected to remain
 apart from the secular politics of the land, although they may advise on
 matters of faith.
 
+::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Chirurgeon, Envoy, Explorer, Provincial, Virtuosa, Visionary
 - **Suggested Passions:** Faith, Justice, Knowledge, Love
 
-::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Sibyl Class Traits
 
 - **Skill Competency:** Culture, Magicks, Nature 
@@ -46,11 +46,10 @@ Table : Sybils and The Twelve
 
 *correct names needed*
 
-- **Maximize Portents:** Spend 2 Style Points to set the value of one Portents die to its maximum value before rolling.
-- **Maximize Intuition:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling.
-- **Reroll Magicks:** Spend 1 Style Point to reroll a Magicks roll.  
-- **Reroll Observation:** Spend 1 Style Point to reroll an Observation roll.
-- **Add Portents to Inspire:** When dealing with someone of the same faith, spend 1 Style Point to add Portents dice to an Inspire roll.
-- **Add Intuition to Dodge:** When unarmed and facing an armed opponent, spend 1 Style Point to add Intuition dice to a Dodge roll.
-
+  - **Honed Instincts:** Spend 2 Style Points to set the value of one Intuition die to its maximum value before rolling
+  - **Oracle of the Twelve:** When dealing with someone of the Dodekarian faith or someone from Ekalia, spend 1 Style Point to add Portents dice to an Inspire roll
+  - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
+  - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
+  - **Saw That Coming:** When unarmed and facing an armed opponent, spend 1 Style Point to add Portents dice to a Dodge roll
+  - **Uncanny Prediction:** Spend 2 Style Points to set the value of one Portents die to its maximum value before rolling
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

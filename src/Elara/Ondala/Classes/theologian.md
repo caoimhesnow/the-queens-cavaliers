@@ -35,6 +35,5 @@ of *Books Of The Sun*, 2 psalters, 1 liturgical almanac, 1 atlas)
 - **Learned Reliability:** Spend 1 Style Point to reroll a Knowledge roll
 - **Melee Reliability:** Spend 1 Style Point to reroll a Dueling roll
 - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
-- **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a
-Lunge roll
+- **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a Lunge roll
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
