@@ -1,5 +1,6 @@
 # Item Die Component
 
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::
 The item die component allows you to add an Item Die for one specialty
 to a device. For example, a spyglass could provide an Item Die on
 Observation (Perceive) rolls, or a tricked-out screwdriver could provide
@@ -24,3 +25,4 @@ Table: Item Die Component
 | 4     | 1D8   | 2 gears  | 1     | *Specialty* +1D10 |
 | 8     | 1D10  | 3 gears  | 2     | *Specialty* +1D12 |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

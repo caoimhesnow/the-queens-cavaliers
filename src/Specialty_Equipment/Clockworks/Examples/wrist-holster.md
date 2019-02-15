@@ -1,5 +1,6 @@
 ## Wrist Holster
 
+::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::
 - **Casing Size:** Pocket (space 1)
 - **Power Source:** Tension Trigger (space 0, power supply 1, reset Drop 2,
 duration 1 use)
@@ -7,4 +8,4 @@ duration 1 use)
 - **Construction Cost:** D6 (1)
 - **List Cost:** 
 - **Complexity:** 2
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

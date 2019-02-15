@@ -2,6 +2,7 @@
 
 The movement component gives the device the ability to move itself.
 
+::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Carry Component:** A device with a movement component must have a carry component of at least the same size as the device's casing.
 
 Table: Movement Component
@@ -40,3 +41,4 @@ Table: Movement Component Options
 
 **Fly:** The device can fly through the air. Unless it is powered by a Phlogistone Furnace, the device must maintain a minimum of Walk speed in order to stay aloft.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

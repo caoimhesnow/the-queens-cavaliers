@@ -1,5 +1,6 @@
 # Articulation Component
 
+::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::
 Clockwork devices are inherently clumsy; if used as replacements for a
 human's natural ability, they take a Drop 4 penalty on associated
 actions. This is primarily the case when someone replaces part of her
@@ -27,4 +28,4 @@ Table: Articulation Component
 | 0     | 1D8   | 2 gears  | Drop 1   | Surgery +1   |
 | 1     | 1D8   | 2 gears  | Drop 0   | Surgery +2   |
 | 0     | 1D10  | 3 gears  | Drop 0   | Surgery +2   |
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

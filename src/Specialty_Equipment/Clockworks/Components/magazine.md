@@ -1,5 +1,6 @@
 # Magazine Component
 
+:::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::
 A magazine component holds multiple shots of ammunition (bullets and
 powder or quarrels, for example) for a device with the Aimed Weapon
 component. The amount held in each magazine, and the time required to
@@ -17,3 +18,4 @@ Table: Magazine Component
 | 4     | D10  | 3 gears  | 16    | 3 Turns   |
 | 8     | D12  | 4 gears  | 32    | 4 Turns   |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

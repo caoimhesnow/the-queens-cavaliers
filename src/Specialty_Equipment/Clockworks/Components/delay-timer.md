@@ -10,6 +10,7 @@ Delay timers are most frequently used with blackpowder flintlock or
 tension trigger power sources, and often trigger projectile weapon traps
 or bombs.
 
+:::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::
 **Power:** Delay timers don't require additional power to operate.
 
 **Combined Timers:** If you want to extend the delay duration with more
@@ -36,3 +37,4 @@ Table: Delay Timer Component
 | 1     | 1D10  | 3 gears  | 1 minute | 1 Hour to 8 Hours      |
 | 1     | 1D12  | 4 gears  | 1 minute | 1 Day to 6 Days        |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

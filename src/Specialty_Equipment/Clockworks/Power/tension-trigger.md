@@ -1,5 +1,6 @@
 # Tension Trigger
 
+::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::
 A tension trigger stores energy for use and then releases it. To reset a
 tension trigger, you need to take a reset action, which is a combined
 action with a penalty of Drop 1 to Drop 4. Unlike gear trains, tension
@@ -20,4 +21,4 @@ Table: Tension Trigger Power Source
 | 1     | D10  | 3 gears  | 2              | Drop 1 |
 | 1     | D10  | 3 gears  | 3              | Drop 2 |
 | 1     | D12  | 4 gears  | 3              | Drop 1 |
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

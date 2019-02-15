@@ -1,12 +1,13 @@
 # Gear Train
 
+:::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::
 A gear train is used to transmit mechanical energy to a device as part
 of the same action that uses the device; this mechanical energy is
 supplied by the muscular activity of the device's user. This activity is
 a combined action that imposes a Drop 4 to Drop 0 penalty on that
 action. The power thus supplied is only good for that specific action.
 
-For example, a velocipede might have a Drop1 penalty required to provide
+For example, a velocipede might have a Drop 1 penalty required to provide
 3 units of power, which can then be used to power the carry and movement
 components of the velocipede. This imposes that Drop 1 penalty on
 actions undertaken by the rider of the velocipede during the turn in
@@ -41,3 +42,4 @@ Table: Gear Train Power Source
 | 4     | 1D10  | 3 gears    | 4              | Drop 1 |
 | 8     | 1D12  | 4 gears    | 4              | Drop 0 |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

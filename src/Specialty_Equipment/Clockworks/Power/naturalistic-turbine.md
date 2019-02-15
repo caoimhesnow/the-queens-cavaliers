@@ -3,11 +3,9 @@
 A naturalistic turbine is one that is hooked up to a source of power
 that exists in the natural world – running water, winds, or tidal flow.
 Naturalistic turbines produce a steady but low amount of power, without
-requiring any special actions or fuel to make them function. Setting up
-a naturalistic turbine to use any given natural energy supply requires
-one hour per power unit produced, so most are installed in permanent
-locations such as windmills or watermills.
+requiring any special actions or fuel to make them function. [Setting up a naturalistic turbine to use any given natural energy supply requires one hour per power unit produced, so most are installed in permanent locations such as windmills or watermills]{.gamestats}.
 
+:::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Natural Limits:** A stream can produce up to 2 power units, while larger
 rivers can supply up to 4. Wind power varies between 0 and 3 power units
 in most situations. Tidal flow usually only can provide 1 power unit.
@@ -29,3 +27,4 @@ Table: Naturalistic Turbine Power Source
 | 3     | 1D10  | 3 gears, 3 fabric  | 3, movement only |
 | 4     | 1D12  | 4 gears, 4 fabric  | 4, movement only |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

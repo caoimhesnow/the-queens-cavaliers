@@ -4,6 +4,7 @@ A phlogistone furnace burns the rare mineral phlogistone to use for
 generating lift and propulsion. It is primarily used in airships and can
 be prohibitively expensive for other uses.
 
+:::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Limited Power:** Power units produced by a phlogistone furnace can only be
 used to power carry and movement components.
 
@@ -32,3 +33,4 @@ Table: Phlogistone Furnace Power Source
 | :-----------: | :-----------: | :---------------: | :----------- |
 | +1D10         | 10            | 3 fabric          | Weave +3     |
 | +1D12         | 20            | 4 fabric          | Weave +5     |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,5 +1,6 @@
 ## Gearsword
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::
 - **Casing Size:** Handheld (space 2)
 - **Power Source:** Mainspring (space 1, power supply 1, wind 1 turn, duration
   + uses)
@@ -8,5 +9,5 @@
   Miniaturization (space +2)
 - **Construction Cost:** D10 (3)
 - **List Cost:** 
-- **Complexity:** 
-
+- **Complexity:** 4
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

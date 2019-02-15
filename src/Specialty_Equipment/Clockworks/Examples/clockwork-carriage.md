@@ -1,5 +1,6 @@
 ## Clockwork Carriage
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::
 - **Casing Size:** Carriage (space 16)
 - **Power Source:** Mainspring (space 4, power supply 4, wind 10 minutes,
   duration 1 hour)
@@ -7,4 +8,5 @@
   power 2, carriage)
 - **Construction Cost:** 3D10 (9)
 - **Complexity:** 3
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

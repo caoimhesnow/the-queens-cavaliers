@@ -1,6 +1,7 @@
 # Clockwork Weapon Component
 
-A Clockwork Weapon is a melee weapon that has been modified with moving
+::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::
+A Clockwork Weapon is a dueling weapon that has been modified with moving
 parts to make it even more deadly – for example, a rotating flail or a
 chain-toothed sword. The Clockwork Weapon component grants a bonus die
 that can be used whenever the device's Weapon Die is used, including
@@ -21,4 +22,4 @@ Table: Clockwork Weapon Component
 | 1     | 1D8   | 2 gears  | 1     | D8         |
 | 2     | 1D10  | 3 gears  | 2     | D10        |
 | 4     | 1D12  | 4 gears  | 3     | D12        |
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -4,6 +4,7 @@ Components provide the basic functionality of a clockwork device, and
 are rated by how much space they take up inside a casing, by how much
 power require to run, and by the effects the component can produce.
 
+::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::
 **Purchasing a Component:** A component can be purchased, pre-assembled, for
 the cost shown on the table for that component type. The availability is
 equal to the highest cost die of the component.
@@ -27,6 +28,7 @@ Drop 1); carry (space 2, power 1, person); projectile weapon (space 3,
 power 1, weapon die d8, close Drop 0, short Drop 0, medium Drop 0, long
 Drop 2).
 
+
 Table: Standard Clockwork Components
 
 | Component          | Function                                                           |
@@ -36,7 +38,7 @@ Table: Standard Clockwork Components
 | Articulation       | Has moving parts approximating human articulation                  |
 | Calculation        | Computes numbers and makes decisions                               |
 | Carry              | Has a carrying capacity                                            |
-| Clockwork Weapon   | Provides a Weapon die and Bonus die                                |
+| Clockwork Weapon   | Provides a Bonus die for a dueling weapon                          |
 | Delay Timer        | Activates after time has passed                                    |
 | Dueling Weapon     | Has a Weapon die that can be used with Dueling specialties         |
 | Efficiency         | Reduces the time of completing a repetitive task                   |
@@ -47,4 +49,4 @@ Table: Standard Clockwork Components
 | Measurement        | Measures physical phenomena around it                              |
 | Miniatuization     | Fits more components than most casings of its size                 |
 | Movement           | Moves under its own power                                          |
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,5 +1,6 @@
 ## Airship
 
+::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::
 - **Casing Size:** Building (space 64)
 - **Power Sources:** Mainspring (space 8, power supply 6, wind 10 minutes, duration 24 hours), Phlogistone Furnace (space 8, power supply 10,
   movement and carry only), Gear Train x4 (space 1, power 5, Drop 4)
@@ -10,4 +11,4 @@
 - **List Cost:** 4d12
 - **Complexity:** 10
 - **Design Note:** This airship definitely needs to be recalculated. 
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

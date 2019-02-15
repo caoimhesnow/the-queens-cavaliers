@@ -1,5 +1,6 @@
 # Dueling Weapon Component
 
+:::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::
 The Dueling Weapon component gives a device the ability to be used
 as a weapon by granting it a Weapon Die, and assigning it a Weapon
 Prowess category. Choose one option from each of the following tables to
@@ -32,3 +33,4 @@ Table: Dueling Weapon Component Options
 | +2          | Portable    | Cudgel         | +1D12          |
 |             | Portable    | Pike           | +1D12          |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

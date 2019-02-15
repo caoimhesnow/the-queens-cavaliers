@@ -4,6 +4,7 @@ A mainspring is a complex clockwork spring used to store power until it
 needs to be released. The initial power is put into the mainspring by
 winding it and then is released by a mechanical flywheel.
 
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 The capabilities of a mainspring are measured in both how much power is
 provided and how that power is stored and released; each factor is
 purchased separately as shown on the tables below. To design a
@@ -55,3 +56,4 @@ Table: Mainspring Power Source Options
 | 10 minutes | 1 hour                     | +1D6       | 1 gear         |
 | 10 minutes | 24 hours                   | +1D8       | 2 gears        |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

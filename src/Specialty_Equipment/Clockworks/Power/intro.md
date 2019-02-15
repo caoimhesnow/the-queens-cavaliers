@@ -4,6 +4,7 @@ Power sources are rated by how much space they take up inside a casing,
 by how much power they can provide, and by how that power is activated
 to enable components.
 
+:::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Purchasing a Power Source:** A power source can be purchased,
 pre-assembled, for the cost shown on the table for that power source.
 The availability is equal to the highest cost die of the power source.
@@ -45,3 +46,4 @@ Table: Clockwork Power Sources
 | Phlogistone Furnace      | Lighter-than-air gases       | 10        | 20        |
 | Tension Trigger          | Resettable "snap" trigger    |  1        |  3        |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

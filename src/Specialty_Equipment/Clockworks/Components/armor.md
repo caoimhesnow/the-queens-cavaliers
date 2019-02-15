@@ -1,5 +1,6 @@
 # Armor Component
 
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 Armor plating protects both the device itself and anyone using or within
 the device. The armor component grants an Armor Die that can be used for
 Defense (Block) rolls.
@@ -15,4 +16,4 @@ Table: Armor Component
 | 2     | 1D8   | 2 gears  | Rigid Armor +1D8 or Shield +1D6    |
 | 4     | 1D10  | 3 gears  | Rigid Armor +1D10                  |
 | 8     | 1D12  | 4 gears  | Rigid Armor +1D12                  |
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

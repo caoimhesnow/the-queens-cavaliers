@@ -5,6 +5,7 @@ capture, and store electrical energy through alchemical means. A crude
 electromechanical interface allows the energy of the capacitor to be
 released and used over an extended period of time.
 
+::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 **Duration:** Each alchemical capacitor functions for 24 hours before needing to be
 replaced and reinstalled in a device. The power supply's duration is the
 same if it is used once during that time period or used repeatedly.
@@ -24,3 +25,4 @@ Table: Alchemical Capacitor Power Source
 | 8     | 1D10  | 3 alchemical supplies | 3              | Brew +3      |
 | 16    | 1D12  | 4 alchemical supplies | 4              | Brew +4      |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,5 +1,6 @@
 ## Clockwork Limb (leg)
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::
 - **Casing Size:** Portable (space 4)
 - **Power Source:** Gear Train (space 1, power supply 1, Drop 0)
 - **Components:** Carry (space 2 power 1, person), Articulation (space 0,
@@ -7,4 +8,4 @@
 - **Construction Cost:** 
 - **List Cost:** 
 - **Complexity:** 4
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -11,6 +11,7 @@ pressure.
 A measurement component is often tied to a calculation component to
 allow the device to process the information that it measures.
 
+::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::
 Table: Measurement Component
 
 | Space | Cost | Supplies | Power | Qualities Measured |
@@ -24,4 +25,4 @@ Table: Measurement Component
 | 2     | D10  | 3 gears  | 2     | 8                  |
 | 4     | D12  | 4 gears  | 0     | 8                  |
 | 4     | D12  | 4 gears  | 4     | 16                 |
-
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

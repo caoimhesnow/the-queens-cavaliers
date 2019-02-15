@@ -15,6 +15,7 @@ input for all appropriate information, such as the longitude and
 latitude, the weather conditions, and so on. Faulty data can lead to
 faulty calculations.
 
+::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::
 **Creating a Calculation Component:** The Science (Calculus) specialty is
 required to create a calculation component and it requires the use of
 clockwork gears to do so. The maximum number of clockwork gears that can
@@ -41,3 +42,4 @@ Table: Calculation Component
    - **Polynomials:** []{.comingsoon}
 
    - **Analytics:** []{.comingsoon}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

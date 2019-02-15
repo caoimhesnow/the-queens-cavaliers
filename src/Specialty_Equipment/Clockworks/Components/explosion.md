@@ -3,6 +3,7 @@
 This component produces a loud and potentially deadly explosion. It's
 used in creating bombs or grenades.
 
+:::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Power Requirement:** An explosion component can only be powered by a
 blackpowder flintlock or an alchemical capacitor. Note that blackpowder
 flintlocks are a lot more effective at powering an explosion than an
@@ -33,3 +34,4 @@ Table: Explosion Component
 | 4     | 1D10 | 4 blackpowder charges | 8     | 3D12 (3D8)                             |
 | 8     | 1D12 | 5 blackpowder charges | 10    | 5D12 (3D10, 3D6)                       |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

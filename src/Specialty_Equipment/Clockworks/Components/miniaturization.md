@@ -1,5 +1,6 @@
 # Miniaturization Component
 
+::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::
 The miniaturization component doesn't actually add any capabilities to a
 device, but it makes it easier to fit more into the casing of the
 device. The component makes space in the device by reducing the size of
@@ -22,3 +23,4 @@ Table: Miniaturization Component
 | 1D10  | 3 gears  | +6                    |
 | 1D12  | 4 gears  | +8                    |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

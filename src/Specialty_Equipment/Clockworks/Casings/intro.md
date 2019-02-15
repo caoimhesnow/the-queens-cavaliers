@@ -3,6 +3,7 @@
 Casings are measured by their physical size, which determines the amount
 of gear space within the casing.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 **Purchasing a Casing:** Casings are either purchased at the cost shown
 below or constructed by the clockworker for no cost. The availability of
 a casing is always D0. Gear supplies cannot be spent on casing costs.
@@ -52,3 +53,4 @@ Table: Casings
   - **Building Size:** Devices the size of a building are usually as large as a two or three
     story building with a half-dozen rooms. Examples include airships and clock towers.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

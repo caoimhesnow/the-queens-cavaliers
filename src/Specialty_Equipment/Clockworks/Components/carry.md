@@ -5,6 +5,7 @@ weight. Most devices with the movement component have enough carrying
 capacity to lift themselves, including a normal load; some have even
 greater capacity depending on their use.
 
+::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::
 Table: Carry Component
 
 | Space | Cost  | Supplies | Power | Carrying Capacity |
@@ -17,3 +18,4 @@ Table: Carry Component
 | 8     | 1D10  | 3 gears  | 4     | Room              |
 | 16    | 1D12  | 4 gears  | 8     | Building          |
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

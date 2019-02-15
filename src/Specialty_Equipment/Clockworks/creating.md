@@ -1,7 +1,9 @@
 # Constructing a Device
 
+:::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::
 **Note: These rules are obsolute and this section needs to be rewritten to 
 reflect the current crafting rules.**
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 There are five steps to creating a device:
 
@@ -19,6 +21,7 @@ what capabilities it will have by the components you choose to install,
 and make sure that you have a strong enough power source to provide
 power to those components.
 
+:::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::
 Once you have the device planned out, you can spend four hours to make a
 Science (Calculus) roll to draft a set of plans for building the device.
 This is optional, but is highly recommended as it gives you an
@@ -59,6 +62,7 @@ Table: Maximum Die
 created by yourself or by someone else, you gain a bonus D6 die on the
 roll to draw plans. The prototype does not need to be currently
 functional for you to gain this bonus.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Purchase the Supplies
 
@@ -66,6 +70,7 @@ There are three ways to acquire the parts needed for constructing a
 device: build them yourself, buy them from another clockworker, or
 salvage the parts from another device.
 
+:::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::
 If you are going to build your own parts, you will need to buy gear
 supplies. Make a Wealth roll against the cost and availability of gear
 supplies – D8 for the cost, and D6 availability unless you are in a
@@ -82,9 +87,11 @@ highest die of their costs.
 
 For details on salvaging parts and supplies, see the later section on
 Salvage.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Build the Parts
 
+:::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::
 You can save money by building your own casing, although this does
 consume more time. A roll is not necessary, although you must have
 competency in the Science (Clockworks) specialty to construct a usable
@@ -113,9 +120,11 @@ instead.
 
 **Prototype:** You gain no bonus for having a prototype of the device when
 making this roll.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Install the Parts
 
+::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::
 Installing a power source or component in a casing requires a Science
 (Clockworks) roll (or series of rolls). The difficulty is Easy (3D6) if
 you are in a workshop, or Hard (3D10) if you are not. Each roll takes
@@ -132,10 +141,13 @@ the quality of the plans when making this roll.
 **Prototype:** If you have a prototype of the device, you gain a bonus D6
 die on this roll. The prototype does not need to be currently functional
 for you to gain this bonus.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Complete the Device
 
+:::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::
 Once all the components have been successfully installed, the device
 needs to be completed. This requires no roll, but does require one hour
 of work per point of complexity of the device. 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

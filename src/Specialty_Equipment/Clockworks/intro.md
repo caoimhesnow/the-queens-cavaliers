@@ -8,6 +8,7 @@ Each device consists of the following:
 - 1 or more Power Sources
 - 1 or more Components
 
+::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 **Gear Space:** Each casing has a certain amount of gear space available,
 depending upon its size. The power source and the components use up that
 space once installed. A miniaturization component can be installed in a
@@ -21,4 +22,4 @@ is measured in power units.
 
 **Complexity:** The complexity of a device is equal to the number of power
 sources plus the number of components.
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
