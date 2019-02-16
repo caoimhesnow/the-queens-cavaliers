@@ -7,6 +7,7 @@ the Jeweled Coast tends to be warmer. The west coast of Gallinea, from
 Affûtaine to Persolei, is often hit by cold storms from the northwest that
 sweep in over Albia, originating in the Storm Islands.
 
+::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::
 To randomly determine the weather on any particular day in Gallinea, look up the
 nearest major city on the following table. Then roll for both the temperature and
 the precipitation, and look them up in the subsequent tables.
@@ -30,6 +31,7 @@ Table: Weather in Gallinea
 | Touriel     | 1D6  + 4    | 1D8           | 1D6        | 1D10 + 1       |
 | Valerienne  | 1D8  + 6    | 1D8 + 1       | 1D8 + 2    | 1D12 + 1       |
 | Verterre    | 1D10 + 1    | 1D8 + 2       | 1D6 + 5    | 1D6  + 6       |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Gallineans measure temperature in terms of *décigrees* -- each of which
 is equal to one tenth of the span between the freezing point and the boiling
@@ -50,6 +52,7 @@ The descriptions are how the typical Gallinean would view each temperature,
 and -- as most commoners don't have thermometers -- how they speak of the day's
 weather in casual conversation.
 
+::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::
 Compare the temperature roll to the table below to determine the high
 temperature for any given day. The low temperature will be 1 décigree
 less than the high, except in winter when it's only half a décigree lower.
@@ -111,6 +114,7 @@ Table: Wind Speeds in Gallinea
 | 10       | Gale   | Strong | Strong | Strong |
 | 11       | Strong | Strong | Gale   | Gale   |
 | 12       | Gale   | Gale   | Gale   | Gale   |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Wind speed can affect travel by ship (including airships), as the next table indicates.
 Wind speeds are rated in leagues per hour. If a ship is heading perpendicular to the wind
@@ -126,6 +130,7 @@ Table: Effects of wind on ship speed
 | Strong        |  9 to 12 Lph | +25%          | -75%             |
 | Gale          | 13+      Lph | +25%          | -100%            |
 
+::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::
 On the following table, simply look up the wind direction roll.
 
 Table: Wind Direction in Gallinea
@@ -146,3 +151,4 @@ Table: Wind Direction in Gallinea
 | 12       | West      |
 | 13       | East      |
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

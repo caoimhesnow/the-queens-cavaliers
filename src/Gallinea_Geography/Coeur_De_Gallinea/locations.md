@@ -1,4 +1,7 @@
-The Rue de Coeur runs through the region, which contains the cities of Castenia, Guéve, Lutetia and Touriel.
+# Locations in Coeur de Gallinea
+
+The **Rue de Coeur**, an old stone-paved Qartan via, runs through Coeur de Gallinea, which contains the cities of Castenia, Guéve, Lutetia and Touriel. In addition,
+there are numerous small towns and farming hamlets throughout the region.
 
 The Lente river joins the Luisante in Coeur de Gallinea.
 

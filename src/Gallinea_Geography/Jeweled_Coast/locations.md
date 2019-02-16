@@ -6,32 +6,31 @@
 
 The major cities on the Jeweled Coast include Berylle, Canard-Noir, Montambre, Persolei, Rhodope, and Valerienne
 
-The Rue de la Mar connects all of the Jeweled Cities together, although there is also frequent traffic by sea between the cities as well.
+The **Rue de la Mar** connects all of the Jeweled Cities together, although there is also frequent traffic by sea between the cities as well.
 
 ## Berylle
 
-The closest of the Jeweled Cities to Lutetia, Berylle is located in the middle of the Jeweled Coast near the site of an old
+The closest of the Jeweled Cities to Lutetia, **Berylle** is located in the middle of the Jeweled Coast near the site of an old
 Qartan mining town and natural spring. Rue de Berylle connects the seaport of 100,000 with the capital, and is the only major roadway
 in Gallinea built after the fall of the Qartan Empire.
 
 ## Canard-Noir
 
-The unfortunately named Canard-Noir is the smallest of the large cities on the Jeweled Coast, with a permanent population of
+The unfortunately named **Canard-Noir** is the smallest of the large cities on the Jeweled Coast, with a permanent population of
 only 50,000. Located on the banks of the Canard river, Canard-Noir is known for its blacksmithing and metalworking.
 The young comtesse Josette de Canard-Noir makes no secret of her desire to expand her city's influence, nor her
 disdain for the rest of the Jeweled Cities.
 
 ## Montambre
 
-
-Montambre is the northernmost of the Jeweled Cities, and accordingly trades extensively with Varendia as well as Ekalia to the
+**Montambre** is the northernmost of the Jeweled Cities, and accordingly trades extensively with Varendia as well as Ekalia to the
 east. Most of the population of 90,000 work in the mines and smelteries of Montambre, creating weapons that are of high quality
 and even higher demand.
 
 
 ## Persolei
 
-It's said that Persolei is the farthest you can go in Gallinea and still be in Gallinea. While that's technically accurate in only about
+It's said that **Persolei** is the farthest you can go in Gallinea and still be in Gallinea. While that's technically accurate in only about
 half the provinces of Gallinea, it's true that Persolei is located far to the southwest of the country. The people of Persolei are
 almost as much Ondalan as they are Gallinean; on a clear day, they can see across the channel to Puerto Salida. With architecture heavily
 influenced by Diegan styles and a populace of 85,000, most of whom are bilingual, Marquis Gaspar de Persolei hopes to keep Lutetia on
@@ -40,7 +39,7 @@ the war before *that* ...
 
 ## Rhodope
 
-Rhodope is a seaport of 125,000 people located on the easternmost coast of Gallinea. Their
+**Rhodope** is a seaport of 125,000 people located on the easternmost coast of Gallinea. Their
 major export is clockwork machinery, and they trade extensively with their Ekalian neighbors.
 Along with Persolei, Rhodope is notable for having a male duchess, known as a "duke," a man
 named Baudouin de Longpre. It's said that Baudoin would love to step down in favor of his
@@ -49,7 +48,7 @@ with the Queen's Cavaliers ... and fooling around with any pretty face that catc
 
 ## Valerienne
 
-Valerienne is the second-largest city in Gallinea and called the "Jewel of Gallinea" -- 
+**Valerienne** is the second-largest city in Gallinea and called the "Jewel of Gallinea" -- 
 primarily by its residents and never by the people of Lutetia.  The current Duchess is 
 Arynne Aubene, older sister of Prince-Father Michel.
 

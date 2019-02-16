@@ -29,7 +29,7 @@ number of Kings Regnant in Gallinea.
 
 Located on the Albian peninsula, Albia has had periodic times of
 isolationism and expansionism. In past centuries, Albia has controlled
-land in both Scanbreille and Albingia in Varendia. The latter has always
+land in both Scanbria and Albingia in Varendia. The latter has always
 been a sticking point, with both nations claiming sovereignty over the
 north-facing coast.
 

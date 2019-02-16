@@ -2,7 +2,7 @@
 
 First names in the Heart follow the same patterns as elsewhere in the country. 
 
-## Surnames
+Some of the surnames found in Coeur de Gallinea are listed below.
 
 :::::::::::::::::::::::::::::::::: columnated ::::::::::::::::::::::::::::::::
 Amiraude, Avocate, Barbiere, Castenia, Chamberiere, Championne, Chauciere, Chevaliere, Coeur, Cornette, de Castenia, de Gueve, de la Lente, de la Luisante, de Lutetia,

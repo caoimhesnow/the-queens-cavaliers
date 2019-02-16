@@ -1,5 +1,4 @@
-::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:# The Amazing Adventures of Alais de Neversette
+# The Amazing Adventures of Alais de Neversette
 
 In the year 1199 PQ, a previously unknown writer named M.E. Labouret published a 
 novel called *The Laughing Blade* that introduced a new character, Alais de Neversette.
@@ -8,7 +7,7 @@ novel called *The Laughing Blade* that introduced a new character, Alais de Neve
 been at least one book published in the official line, *The Various Adventures of Alais Neversette* -- and many
 other knock-off novels -- save for the darkest year of 1244.
 
-:# Alais de Neversette
+## Alais de Neversette
 
 Alais lives in the first half of the reign of Queen Delphine -- usually said to be 
 the 1150s to 1160s -- and is the daughter of a minor noblewoman who snuck out from 
@@ -32,7 +31,7 @@ and *The Wartime Adventures of Alais de Neversette.* Each series takes a differe
 *Wartime* is about her fictional exploits published during the 20 Years War, 
 for example, while *Erotic* is decidedly not for children.
 
-:# Authorship
+## Authorship
 
 The exact identity of M.E. Labouret is unknown, and it's said that even her -- or his, or their -- publishers 
 don't know her true identity. The leading theory held by Alais scholars is that Labouret is a pen named 
@@ -48,7 +47,7 @@ Highly popular among the common people, Alais is dismissed as dreadfully overwri
 prose among those who fancy themselves more educated -- although the enduring popularity 
 of the character and her books have led a minority of scholars to take a greater interest in the books.
 
-:# Reception
+## Reception
 
 The *Alais* books are reviled by many of the older members of the Queen's Cavaliers as they present a 
 wholly unrealistic and slightly ridiculous view of life in the Queen's service, 
@@ -187,5 +186,4 @@ could be *"The Revenge of the Noble Priestess."* Who is the priestess? Who is
 the target of her revenge? Is she called "noble" because she's of high birth
 or because her cause is just? You get to decide!
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

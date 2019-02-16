@@ -1,11 +1,11 @@
-## Medicine ## {.breakbefore}
+# Medicine ## {.breakbefore}
 
 Medical science is relatively advanced in Elara, thanks to both a long
 history of witch-midwives and alchemy, and recent advances in science.
 The Medicine skill is used to treat minor injuries, perform major
 surgery, and work safely with poisonous toxins.
 
-### Surgery
+## Surgery
 
 *Verve Specialty*
 
@@ -90,7 +90,7 @@ the appendix. The patient must rest for 1 week (six days) or else gain
 one Wound the first time each day that she engages in physical activity.
 A major procedure expends 5 units of medicine.
 
-### Treat
+## Treat
 
 *Affinity Specialty*
 
@@ -203,12 +203,81 @@ three Style Points at any time.
 the last hour. This consumes one unit of medicine for each Wound healed,
 and requires one minute of time.
 
-**Reduce Disease Severity:** The severity of the disease decreases by
-one step, or is eliminated if the disease is already of the weakest
-severity. This consumes one unit of medicine for each severity level
-decreased. 
+**Reduce Disease Severity:** The disease progresses to the next entry on the Illness Track, 
+or regresses to the previous entry. If the disease moves off the Illness Track, it is
+eliminated.  This consumes one unit of medicine for each entry moved on the Illness Track.
 
-### Poison
+::::::::::::::::::::::::::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:# Diseases
+
+Every disease in *The Queen's Cavaliers* has a table that's called an **Illness Track**. This displays the
+normal course of the disease over a period of several days -- or, sometimes, hours -- and shows the increase
+or decrease of the symptoms over time. At the start of each time period after infection occurs, the patient makes
+a special Medicine (Treat) roll against the severity of the disease, representing her body's natural ability
+to fight off disease.
+
+If the patient succeeds on the Treat roll, she can spend her success points on the following
+success table.
+
+::::::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::
+| Treat                 | Recovery                                      |
+| :-------------------- | :-------------------------------------------- |
+| Time                  | Free roll, once per time period               |
+| Opposition            | Standard Opposition, based on illness track   |
+| [+]                   | Arrest Progress                               |
+| [+][+][+][+]          | Reduce Severity                               |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Arrest Progress:** The disease does not progress to the next step on the Illness Track.
+**Reduce Severity:** The disease progresses to the next entry on the Illness Track, 
+or regresses to the previous entry. If the disease moves off the Illness Track, it is
+eliminated.
+
+If the patient fails on the Treat roll, the MJ can spend the disease's success points on
+the following success table. Italicized results can only be chosen if the result appears
+on the current symptoms on the Illness Track.
+
+::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::::::
+| Disease               |                                               |
+| :-------------------- | :-------------------------------------------- |
+| Time                  | Free roll, once per time period               |
+| Opposition            | Medicine (Treat)                              |
+| [+]                   | Disease progression                           |
+| [+]                   | *Reduce yield limit*                          |
+| [+][+]                | *Drop penalty*                                |
+| [+][+]                | Linger                                        |
+| [+][+][+]             | Relapse                                       |
+| [+][+][+][+]          | *Inflict 1 wound*                             |
+| [+][+][+][+]          | *Complications*                               |
+| [+][+][+][+][+][+]    | *Death*                                       |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Disease Progression:** The disease advances to the next entry on the Illness Track. Each additional
+three success points spent advances the disease an additional entry.
+**Reduce Yield Limit (Symptom):** The patient's yield limit is reduced by 1 until the next Disease roll.
+**Drop Penalty (Symptom):** The patient takes a Drop 1 penalty on all rolls until the next Disease roll. Each
+additional two success points spent increases this penalty by 1, to a maximum of Drop 4.
+**Linger:** The disease does not progress to the next entry on the Illness Track.
+**Relapse:** The disease regresses to the previosu entry on the Illness Track.
+**Inflict 1 Wound (Symptom):** The patient takes 1 wound.
+**Complications (Symptom):** The patient receives a complication as described for the disease.
+**Death (Symptom):** The patient dies.
+
+The following table describes *la grippe*, a disease with flu-like symptoms.
+
+Table: La Grippe Illness Track
+
+| Day  | Severity | Symptoms                                            |
+| :--: | :------: | :-------------------------------------------------- |
+| 1    | 3D8      | None                                                |
+| 2    | 3D8      | Reduce yield limit                                  |
+| 3    | 3D10     | Reduce yield limit, Inflict 1 wound                 |
+| 4    | 3D8      | Drop penalty, Inflict 1 wound                       |
+| 5    | 3D8      | Drop penalty                                        |
+| 6    | 3D6      | Drop penalty                                        |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Poison
 
 *Guile Specialty*
 

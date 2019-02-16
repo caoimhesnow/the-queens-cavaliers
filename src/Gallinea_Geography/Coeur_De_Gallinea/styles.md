@@ -2,8 +2,7 @@
 # Style Maneuvers
 
 The following style maneuvers can be taken by any character from Lutetia or Coeur de Gallinea,
-or by any character who has spent an extensive amount of
-time in Lutetia studying the people and the culture.
+or by any character who has spent an extensive amount of time in Lutetia studying the people and the culture.
 
 - **Aggressive Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling.
 - **Refined Reliability:** Spend 1 yStyle Point to reroll a Culture roll.

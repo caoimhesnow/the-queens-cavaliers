@@ -16,5 +16,6 @@
 
 ## Qartan Opponents
 
-[]{.comingsoon}
+The opponents you may face in and around Ubar include:
 
+  - *none*

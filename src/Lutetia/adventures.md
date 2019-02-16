@@ -70,7 +70,6 @@ For this reason, the common folk believe it is bad luck to kill a wild rat,
 and many will seek to simply catch and release the rodents if discovered, rather
 than kill them with traps.
 
-:::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 # Lutetian Adventures
 
 Adventures in and around Lutetia can take several forms. With every social rank
@@ -90,9 +89,7 @@ need to clear their names.
 adventure, although there is less emphasis on solving a mystery and more on
 gaining an upper hand over one's opponents. This is a good storyline to involve
 players who are nobles or chaplains, especially as arch-chaplain Farrazin has
-any number of schemes going at any time. Expect to use the Deceive and
-Etiquette specialties as much, or more than, any Dueling or Defense specialites
-are used.
+any number of schemes going at any time. [Expect to use the Deceive and Etiquette specialties as much, or more than, any Dueling or Defense specialites are used.]{.gamestats}
 
 **Heist Adventure:** This is the reverse of a crime-solving adventure, as the
 players are committing a crime instead of solving one! A heist adventure needs
@@ -120,8 +117,37 @@ opponents usually have a group of henchpeople to run interference for them.
 **Slice-of-Life Adventure:** This adventure type is less concerned with plots and
 more with personalities. The archetypal slice-of-life adventure follows the
 cavaliers through an average day or week, with complications being thrown in along
-the way that they have to overcome. One of the best ways to handle this is by using
-the optional rules on Passions to randomly determine which player characters'
-passions are tested, and possibly even have an appearance by one or more of the
-characters' personifications of said passions.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+the way that they have to overcome. [One of the best ways to handle this is by using the optional rules on Passions to randomly determine which player characters' passions are tested, and possibly even have an appearance by one or more of the characters' personifications of said passions.]{.gamestats}
+
+
+## Lutetian Opponents
+
+The opponents you may face in Lutetia include:
+
+  - Angry Mob Members (rabble)
+  - Bedraggled Urchins (rabble)
+  - a Beleaguered Speaker (minor character)
+  - a Boorish Fop (stock character)
+  - a Brash Fencer (stock character)
+  - Cats (animals)
+  - City Watch Grunts (rabble)
+  - a City Watch Officer (stock character)
+  - a City Watch Patrol (group)
+  - Common dogs (animals)
+  - a Den of Thieves (group)
+  - a Dishonest Mechanician (minor character)
+  - Drunken Brawlers (rabble)
+  - Gossipping Courtiers (rabble)
+  - a Gregarious Barkeep (stock character)
+  - a Horde of Rats (animals)
+  - a Moralistic Mob (group)
+  - a Noble Entourage (group)
+  - a Petty Noble (minor character)
+  - Rats (animals)
+  - Riding horses (animals)
+  - a Small Marketplace (group)
+  - Street Toughs (rabble)
+  - a Tavern Brawl (group)
+  - a Treasonous Conspiracy (group)
+  - Unemployed Thespians (rabble)
+  - a Wary Shopkeep (stock character)

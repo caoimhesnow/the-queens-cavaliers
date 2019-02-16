@@ -2,7 +2,7 @@
 
 First names in the Jeweled Coast follow the same patterns as elsewhere in Gallinea
 
-## Surnames
+Some of the more common surnames that are distinctly from the Jeweled Coast region are shown below.
 
 :::::::::::::::::::::::::::::::::: columnated ::::::::::::::::::::::::::::::::
 Aneliere, Armeuriere, Barquaresse, Berylle, Boucliere, Canard, Canard, Chandeliere, de Berylle, de Canard, de la Canard, de la Mar, de Montambre, de Persolei, de Rhodope,

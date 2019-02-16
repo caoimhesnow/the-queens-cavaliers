@@ -15,7 +15,7 @@ Pegasus Throne.
 ## The Queen and Royal Family
 
 ::::::::::::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::
-:# "The Queen's Consent or Assent"
+:# The Queen's Consent or Assent
 
 For a proposal of any kind to become a law, it must be written down and conveyed
 in writing to the Queen. In theory, any resident of Gallinea can send a proposal

@@ -18,8 +18,7 @@ Table: Overland Travel Methods
 Factors that affect speed include:
 
    - People and horses can't generally walk more than eight hours a day.
-     After that, they gain a Drop 1 penalty on all actions from exhaustion.
-     Every two hours, the Drop penalty increases by 1, to maximum of Drop 4.
+     [After that, they gain a Drop 1 penalty on all actions from exhaustion.  Every two hours, the Drop penalty increases by 1, to maximum of Drop 4.]{.gamestats}
 
    - Ships, including riverboats and airships, are crewed in shifts and are 
      usually sailed 24 hours every day.
