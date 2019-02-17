@@ -30,4 +30,3 @@ This is an incomplete timeline of Gallinean history.
 | 1242 | Marriage of Princess Mariana to Prince Carolus of Albia                | Floreal 16   |
 | 1243 | Assassination of Elisse III and crown princess Jehanne                 | Frimaire 22  |
 
-[]{.comingsoon}
