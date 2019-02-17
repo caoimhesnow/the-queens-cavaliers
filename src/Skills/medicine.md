@@ -222,59 +222,75 @@ success table.
 ::::::::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::
 | Treat                 | Recovery                                      |
 | :-------------------- | :-------------------------------------------- |
-| Time                  | Free roll, once per time period               |
-| Opposition            | Standard Opposition, based on illness track   |
-| [+]                   | Arrest Progress                               |
+| Time                  | Once per time period                          |
+| Opposition            | Standard Opposition, based on Illness Track   |
+| [+][+]                | Arrest Progress                               |
 | [+][+][+][+]          | Reduce Severity                               |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Arrest Progress:** The disease does not progress to the next step on the Illness Track.
+
 **Reduce Severity:** The disease progresses to the next entry on the Illness Track, 
 or regresses to the previous entry. If the disease moves off the Illness Track, it is
 eliminated.
 
 If the patient fails on the Treat roll, the MJ can spend the disease's success points on
-the following success table. Italicized results can only be chosen if the result appears
-on the current symptoms on the Illness Track.
+the following success table.  If at least two success points are achieved, either Progression or Linger must be chosen.
 
 ::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::::::
 | Disease               |                                               |
 | :-------------------- | :-------------------------------------------- |
-| Time                  | Free roll, once per time period               |
+| Time                  | Once per time period                          |
 | Opposition            | Medicine (Treat)                              |
-| [+]                   | Disease progression                           |
-| [+]                   | *Reduce yield limit*                          |
-| [+][+]                | *Drop penalty*                                |
+| [+]                   | Progression                                   |
 | [+][+]                | Linger                                        |
 | [+][+][+]             | Relapse                                       |
-| [+][+][+][+]          | *Inflict 1 wound*                             |
-| [+][+][+][+]          | *Complications*                               |
-| [+][+][+][+][+][+]    | *Death*                                       |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-**Disease Progression:** The disease advances to the next entry on the Illness Track. Each additional
-three success points spent advances the disease an additional entry.
-**Reduce Yield Limit (Symptom):** The patient's yield limit is reduced by 1 until the next Disease roll.
-**Drop Penalty (Symptom):** The patient takes a Drop 1 penalty on all rolls until the next Disease roll. Each
-additional two success points spent increases this penalty by 1, to a maximum of Drop 4.
-**Linger:** The disease does not progress to the next entry on the Illness Track.
-**Relapse:** The disease regresses to the previosu entry on the Illness Track.
-**Inflict 1 Wound (Symptom):** The patient takes 1 wound.
-**Complications (Symptom):** The patient receives a complication as described for the disease.
-**Death (Symptom):** The patient dies.
+**Progression:** The disease advances to the next entry on the Illness Track. Each additional
+three success points spent advances the disease an additional entry. 
 
-The following table describes *la grippe*, a disease with flu-like symptoms.
+**Linger:** The disease does not progress to the next entry on the Illness Track.
+
+**Relapse:** The disease regresses to the previous entry on the Illness Track.
+
+Certain diseases have additional symptoms as shown on their Illness Tracks.
+These can be selected if the current entry on the Illness Track contains
+the given symptom.
+
+::::::::::::::::::::::::::::::::: success :::::::::::::::::::::::::::::::
+| Disease               | Additional Symptoms                           |
+| :-------------------- | :-------------------------------------------- |
+| [+]                   | Reduce yield limit                            |
+| [+][+]                | Drop penalty                                  |
+| [+][+][+][+]          | Inflict 1 wound                               |
+| [+][+][+][+]          | Complications                                 |
+| [+][+][+][+][+][+]    | Death                                         |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+**Reduce Yield Limit:** The patient's yield limit is reduced by 1 until the next Disease roll.
+
+**Drop Penalty:** The patient takes a Drop 1 penalty on all rolls until the next Disease roll. Each
+additional two success points spent increases this penalty by 1, to a maximum of Drop 4.
+
+**Inflict 1 Wound:** The patient takes 1 wound.
+
+**Complications:** The patient receives a complication as described for the disease.
+
+**Death:** The patient dies.
+
+The following table describes *la grippe*, a disease with flu-like symptoms. The progression rate is daily rolls.
 
 Table: La Grippe Illness Track
 
-| Day  | Severity | Symptoms                                            |
-| :--: | :------: | :-------------------------------------------------- |
-| 1    | 3D8      | None                                                |
-| 2    | 3D8      | Reduce yield limit                                  |
-| 3    | 3D10     | Reduce yield limit, Inflict 1 wound                 |
-| 4    | 3D8      | Drop penalty, Inflict 1 wound                       |
-| 5    | 3D8      | Drop penalty                                        |
-| 6    | 3D6      | Drop penalty                                        |
+| Severity | Additional Symptoms                                       |
+| :------: | :-------------------------------------------------------- |
+| 3D6      | None                                                      |
+| 3D8      | [+][+]: Reduce yield limit                                |
+| 3D10     | [+][+]: Reduce yield limit, [+][+][+][+]: Inflict 1 wound |
+| 3D8      | [+][+]: Drop penalty, [+][+][+][+]: Inflict 1 wound       |
+| 3D8      | [+][+]: Drop penalty                                      |
+| 3D6      | [+][+]: Drop penalty                                      |
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Poison

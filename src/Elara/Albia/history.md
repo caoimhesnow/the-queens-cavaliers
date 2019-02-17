@@ -31,6 +31,18 @@ cycles of disunity, the Albians were able to claim **Albingia** with minimal
 military force, holding it against the scheming Varendish nobles for
 over a century.
 
+:::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
+:# A Uniquely Albian Heresy
+
+Dualiatarian is a religious philosophy developed in the last two
+centuries, holding that the Goddess-Empress and the Desert Mother are
+the same being. Dualitarians keep the hierarchical structure of the
+Asrian church while adopting the stern moralism of the Devrans.
+Dualitarian clergy are known as Pilgrims.
+
+For more details, <a href="#dualitarianism" class="xref-inchapter-under"></a>.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Albia faced more resistance when expanding into Gallinea; **the First
 Albian War** led to a complete rout of the Albian armies, driven back deep
 into their home peninsula. This would be the first of many wars between
@@ -62,21 +74,46 @@ rivalries die hard, and old war injuries even harder.
 as they envision a Greater Albia that stretches from the tip of the
 Storm Islands to the Jeweled Coast. Under Albian rule, of course.
 
-:::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
-:# A Uniquely Albian Heresy
+::::::::::::::::::::::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::::::::
+:# Elaran Plague
 
-Dualiatarian is a religious philosophy developed in the last two
-centuries, holding that the Goddess-Empress and the Desert Mother are
-the same being. Dualitarians keep the hierarchical structure of the
-Asrian church while adopting the stern moralism of the Devrans.
-Dualitarian clergy are known as Pilgrims.
+About 17 years into the Second Albian War, the first signs of plague 
+appeared in Albia. While there had been previous outbreaks across the
+continent in the centuries prior to the war, this was the first time 
+that it struck Albia, and was the deadliest pandemic to date. The
+combination of wartime conditions and food shortages contributed to
+the lethality of the plague.
 
-For more details, <a href="#dualitarianism" class="xref-inchapter-under"></a>.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Elaran plague infects the lymphatic system first, causing large,
+painfully swollen buboes to appear on the patient's body. Within a
+few days, the disease progresses to the lungs, and the patient usually
+dies soon afterward.
 
-## Elaran Plague
+:::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::
+The Illness Track for Elaran plague progresses in steps of one day. For more
+details on Illness Tracks, <a href="#treat" class="xref-seesection"></a>.
 
-[]{.comingsoon}
+Table: Elaran Plague Illness Track
+
+| Severity | Symptoms                                                             |
+| :------: | :------------------------------------------------------------------- |
+| 3D8      | None                                                                 |
+| 3D10     | None                                                                 |
+| 3D10     | [+][+]: Drop Penalty                                                 |
+| 3D10     | [+][+]: Drop Penalty                                                 |
+| 3D10     | [+][+]: Drop Penalty, [+][+][+][+]: Complication (scarring)          |
+| 3D10     | [+][+][+][+]: Complication (scarring), [+][+][+][+]: Inflict 1 wound |
+| 3D12     | [+][+][+][+]: Inflict 1 wound, [+][+][+][+][+][+]: Death             |
+| 3D10     | [+][+][+][+]: Inflict 1 wound, [+][+][+][+][+][+]: Death             |
+| 3D8      | [+][+][+][+]: Inflict 1 wound, [+][+][+][+][+][+]: Death             |
+| 3D6      | [+][+][+][+]: Inflict 1 wound, [+][+][+][+][+][+]: Death             |
+
+**Complication (scarring)**: At this stage, the disease causes visible, permanent 
+scars on the patient's face, neck, or hands. These scars cause a Drop 1 penalty
+on Interaction rolls if seen, due to the widespread stigma against Elaran
+plague scars.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::
 ![King Edgar II of Albia, by Eleanor Ferron](assets/Portraits/Medium/king-edgar.jpg "King Edgar II of Albia, by Eleanor Ferron")
