@@ -33,7 +33,7 @@ city, 1D12 in any other city, and unavailable in smaller settlements.
 
 []{.comingsoon}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Foreign Dueling Weapons
 
 | Weapon          | Cost | Hands        | Weapon Die   | Specialties                                                    |
@@ -41,6 +41,7 @@ Table: Foreign Dueling Weapons
 | Brandestoc      | D8   | Both         | Polearm +1D8 | Parry, Lunge, Riposte, Feint                                   |
 | Cinquedea       | D6   | Main         | Knife +1D8   | Parry, Lunge, Riposte, Feint                                   |
 | Claymore        | D10  | Both         | Sword +1D10  | Parry, Lunge (7[+]: Inflict 2 Wounds, [+][+][+]: Break Weapon) |
+| Colichedemarde  |      |              |              |                                                                |
 | Dirk            | D6   | Main         | Knife +1D6   | Parry, Lunge, Riposte ([+][+][+]: Inflict 1 Wound), Feint      |
 | Espada Ropera   | D6   | Main         | Sword +1D8   | Parry, Lunge ([+][+][+]: Inflict 4 Yield), Riposte, Feint      |
 | Hook Prosthesis | D6   | (Either)     | Knife +1D6   | Parry, Lunge, Riposte, Feint                                   |
@@ -52,10 +53,10 @@ Table: Foreign Dueling Weapons
 | Szabla          | D6   | Cavalry      | Sword +1D8   | Parry, Lunge, Feint                                            |
 | Tuck            | D8   | Main or Both | Sword +1D8   | Parry, Lunge, Riposte, Feint                                   |
 | Zweihander      | D10  | Both         | Sword +1D10  | Parry, Lunge (6[+]: Inflict 2 Wounds)                          |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 []{.comingsoon}          
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - **Brandestoc (Ekalia):** This pole weapon can be mistaken for a
     quarterstaff at first glance, but when the wielder gives a sharp thrust,

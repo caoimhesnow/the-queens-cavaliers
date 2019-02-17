@@ -1,28 +1,59 @@
-:::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::
 # Talanian Equipment
 
-[]{.comingsoon}
+Items in the following table originate in Talania.
 
+:::::::::::::::::: gamestats ::::::::::::::::::
 Table: Talanian Equipment
 
-| Item                | Cost   | Item Die    | Notes                  |
-| :------------------ | :----: | :---------- | :--------------------- |
-| Arcanimation Engine | Varies |  --         | Clockwork power supply |
-| Charmwoven Doll     | Varies | Varies      |                        |
-| Harmonicon          | Varies | Varies      | Clockwork component    |
-| Kalambur Sobaka     | D6     | Banter +1D6 | Talanian pun dog       |
-| Mechanical Toy      | Varies | Varies      |                        |
-| Mummer's Outfit     |        |             |                        |
-| Szabla              |        |             |                        |
-| Talanian Blue       | D6     |  --         | Purebred cat           |
+| Item            | Cost   | Notes            |
+| :-------------- | :----: | :--------------- |
+| Charmwoven Doll | Varies |                  |
+| Kalambur Sobaka | 1D6    | Talanian pun dog |
+| Mechanical Toy  | Varies |                  |
+| Mummer's Outfit |        |                  |
+| Talanian Blue   | 1D6    | Purebred cat     |
+:::::::::::::::::::::::::::::::::::::::::::::::
+::::::: sourcebook ::::::::::::::::::::::::::::::::
+Table: Talanian Equipment
 
-- **Arcanimation Engine:**  []{.comingsoon}
-- **Charmwoven Doll:**  []{.comingsoon}
-- **Harmonicon:**  []{.comingsoon}
-- **Kalambur Sobaka:**  []{.comingsoon}
-- **Mechanical Toy:**  []{.comingsoon}
-- **Mummer's Outfit:**  []{.comingsoon}
-- **Talanian Blue:**  []{.comingsoon}
+| Item            | Cost       | Notes            |
+| :-------------- | :--------: | :--------------- |
+| Charmwoven Doll | Varies     |                  |
+| Kalambur Sobaka |            | Talanian pun dog |
+| Mechanical Toy  |            |                  |
+| Mummer's Outfit |            |                  |
+| Talanian Blue   |            | Purebred cat     |
+:::::::::::::::::::::::::::::::::::::::::::::::::::
+
+  - **Charmwoven Doll:**  []{.comingsoon}
+  - **Kalambur Sobaka:**  []{.comingsoon}
+  - **Mechanical Toy:**   []{.comingsoon}
+  - **Mummer's Outfit:**  []{.comingsoon}
+  - **Talanian Blue:**    []{.comingsoon}
+
+## Talanian Weapons
+
+These weapons are strongly identified with Talania.
+
+:::::::::::::::::::::::::::::::::::: gamestats :::::::::::::::::
+Table: Talanian Weapons
+
+| Weapon  | Cost | Hands   | Weapon Die  | Specialties         |
+| :------ | :--: | :------ | :---------- | :------------------ |
+| Koncerz | D8   | Cavalry | Sword +1D10 | Lunge, Feint        |
+| Szabla  | D6   | Cavalry | Sword +1D8  | Parry, Lunge, Feint |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::: sourcebook ::::::::::::::::::
+Table: Talanian Weapons
+
+| Weapon  | Cost       | Weapon Type         |
+| :------ | :--------: | :------------------ |
+| Koncerz |            | Sword (great sabre) |
+| Szabla  |            | Sword (sabre)       |
+::::::::::::::::::::::::::::::::::::::::::::::
+
+  - **Koncerz:** []{.comingsoon}
+  - **Szbala:**  []{.comingsoon}
 
 ## Talanian Clockworks
 
@@ -33,7 +64,14 @@ before the Shattering Frost. Newer devices are made with just as much
 skill, but the talents of contemporary refugee clockworkers are not
 valued in most of Elara.
 
-### Arcanimation Engine (power source)
+Table: Talanian Clockworks
+
+| Item                | Cost   | Type                   |
+| :------------------ | :----: | :--------------------- |
+| Arcanimation Engine | Varies | Clockwork power supply |
+| Harmonicon          | Varies | Clockwork component    |
+
+### Arcanimation Engine
 
 Comprised of charms and clockworks woven together in a cloth-driven
 miniature turbine, arcanimation engines are the preferred power source
@@ -45,6 +83,7 @@ dolls. An arcanimation engine supplies power for one hour, then the
 charms shut down to recover that power back over the next six hours.
 After six hours, the arcanimation engine can provide power again.
 
+::::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::
 The power supplied by an arcanimation engine can be only be used to run
 Articulation, Calculation, Carry, Efficiency, Harmonicon, Measurement,
 Miniaturization, or Movement components. In addition, the specific
@@ -65,8 +104,9 @@ Table: Arcanimation Engines
 | 1     | D8 (1, 1)            | Clockworks +3, Weave +3 | 3              |
 | 1     | D10 (1, 1)           | Clockworks +4, Weave +4 | 4              |
 | 1     | D12 (1, 1)           | Clockworks +5, Weave +5 | 5              |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-### Harmonicon (component)
+### Harmonicon
 
 A harmonicon component plays predefined music when activated. A more
 complex harmonicon can play more than one composition, and a Computation
@@ -78,6 +118,7 @@ harps and music boxes), membranophones (drums), chordophones (string
 instruments and harpsichords), and aerophones (wind instruments).
 Harmonicons can't reproduce human voices or any kind of speech.
 
+:::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::
 **Creating a Harmonicon Component:** The Culture (Arts) and Science
 (Clockworks) specialties are both required to create a harmonicon. You
 are limited by your lowest rank number of each specialty, as shown on
@@ -106,11 +147,13 @@ Table: Harmonicon Instrument Types
 | 8     | 5           | 15             | 2 hours      | Long (5-6)   |
 | 16    | 6           | 20             | 3 hours      | Village-wide |
 | 32    | 7           | 25             | 4 hours      | City-wide    |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Talanian Devices
 
 []{.comingsoon}
 
+::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::
 Table: Talanian Devices
 
 | Item                | Construction Cost | List Cost | Size     | Complexity |
@@ -121,70 +164,94 @@ Table: Talanian Devices
 | Music Box           |                   |           | Handheld |            |
 | Tiny Dancer         |                   |           | Pocket   |            |
 | Wind-Up Wagon       |                   |           | Person   |            |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::: sourcebook :::::::::
+Table: Talanian Devices
+
+| Item                | Cost       |
+| :------------------ | :--------- |
+| Action Doll         |            |
+| Automatonic Dog     |            |
+| Mechanical Songbird |            |
+| Music Box           |            |
+| Tiny Dancer         |            |
+| Wind-Up Wagon       |            |
+::::::::::::::::::::::::::::::::::::
 
 ### Action Doll
 
-- **Casing Size:** Handheld (gear space 2)
-- **Power Source:** Arcanimation engine (space 1, power supply 1)
-- **Components:** Articulation (space 1, Drop 2), Carry (space 0, handheld, power 1), Miniaturization (gear space +1), Movement (
+::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Handheld (gear space 2)
+- **Power Source:**      Arcanimation engine (space 1, power supply 1)
+- **Components:**        Articulation (space 1, Drop 2), Carry (space 0, handheld, power 1), Miniaturization (gear space +1), Movement (
 - **Construction Cost:** 3D0 (1)
-- **List Cost:** 1D6
-- **Complexity:** 4
+- **List Cost:**         1D6
+- **Complexity:**        4
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
 ### Automatonic Dog
 
-- **Casing Size:** Portable (gear space []{.comingsoon})
-- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
-- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Portable (gear space []{.comingsoon})
+- **Power Source:**      []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:**        []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
 - **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
-- **List Cost:** []{.comingsoon} ([]{.comingsoon})
-- **Complexity:** []{.comingsoon}
+- **List Cost:**         []{.comingsoon} ([]{.comingsoon})
+- **Complexity:**        []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
 ### Mechanical Songbird
 
-- **Casing Size:** Pocket (gear space []{.comingsoon})
-- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
-- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Pocket (gear space []{.comingsoon})
+- **Power Source:**      []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:**        []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
 - **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
-- **List Cost:** []{.comingsoon} ([]{.comingsoon})
-- **Complexity:** []{.comingsoon}
+- **List Cost:**         []{.comingsoon} ([]{.comingsoon})
+- **Complexity:**        []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
 ### Music Box
 
-- **Casing Size:** Handheld (gear space []{.comingsoon})
-- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
-- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+:::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Handheld (gear space []{.comingsoon})
+- **Power Source:**      []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:**        []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
 - **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
-- **List Cost:** []{.comingsoon} ([]{.comingsoon})
-- **Complexity:** []{.comingsoon}
+- **List Cost:**         []{.comingsoon} ([]{.comingsoon})
+- **Complexity:**        []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
 ### Tiny Dancer
 
-- **Casing Size:** Pocket (gear space []{.comingsoon})
-- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
-- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Pocket (gear space []{.comingsoon})
+- **Power Source:**      []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:**        []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
 - **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
-- **List Cost:** []{.comingsoon} ([]{.comingsoon})
-- **Complexity:** []{.comingsoon}
+- **List Cost:**         []{.comingsoon} ([]{.comingsoon})
+- **Complexity:**        []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
 
 ##### Wind-Up Wagon
 
-- **Casing Size:** Person (gear space []{.comingsoon})
-- **Power Source:** []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
-- **Components:** []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
+::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+- **Casing Size:**       Person (gear space []{.comingsoon})
+- **Power Source:**      []{.comingsoon} (space []{.comingsoon}, power supply []{.comingsoon})
+- **Components:**        []{.comingsoon}, Miniaturization (gear space +[]{.comingsoon})
 - **Construction Cost:** []{.comingsoon} ([]{.comingsoon})
-- **List Cost:** []{.comingsoon} ([]{.comingsoon})
-- **Complexity:** []{.comingsoon}
+- **List Cost:**         []{.comingsoon} ([]{.comingsoon})
+- **Complexity:**        []{.comingsoon}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 []{.comingsoon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
