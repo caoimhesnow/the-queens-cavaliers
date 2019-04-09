@@ -7,7 +7,16 @@
 ![Jean-Paul du Chevalier, by Eleanor Ferron](assets/Characters/Jean-Paul-du-Chevalier.jpg "Jean-Paul du Chevalier, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[]{.comingsoon}
+Coming from a long line of Gallinean knights and soldiers, Jean-Paul has always felt that patriotism is in his blood. 
+His particular talents have always run toward both sharpshooting and horsemanship, so he was quickly 
+assigned to a horse artillery unit upon enlisting in the Queen’s Army. As his grandmother was a famous 
+general, he was quickly promoted to an officer position.
+
+As a strict by-the-books capitaine in the Armée du Nord, Jean-Paul isn’t an inspiring leader but is a reliable 
+one; his superiors know that he will always obey orders to the best of his ability.
+
+Proud as Jean-Paul is of his family history, he’s even more proud of Gallinea, which he considers to be the 
+greatest country in all of Elara – and beyond.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D8, Affinity D10, Guile D6

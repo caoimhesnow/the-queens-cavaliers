@@ -7,7 +7,28 @@
 ![Valero de Diega, by Eleanor Ferron](assets/Characters/Valero-de-Diega.jpg "Valero de Diega, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[]{.comingsoon}
+Valero de Diega is a bold and daunting Ondalan, with big shoulders and a great smile, who seduces the 
+ladies with his tanned skin and robust build. He has a full oblong face and likes to wear a 
+well-trimmed beard and mustache. Valero keeps his wavy auburn hair short, because it kept 
+strangling on the mechanical tools of his invention. He usually wears his swashbuckling outfit 
+form-fitting with his rapier gearsword, "La Inquieta", at his left side, one dagger at the 
+right and a second dagger in his left boot.
+
+Born in a hard working family, his mother spent the family's money on Valero's education. 
+That was a double-edged sword; in one hand Valero grew as a fabulous clockwork mechanician 
+under the tutelage of Alonso Mesarede, one of the most brilliant Ondalan clockworks mechanicians, 
+though underrated and misunderstood. On the other hand, his extended family took a vow on destroying 
+him and his works because they wanted the money for themselves.
+
+As a direct cause of this intention, Valero has developed a strange but effective dueling 
+technique; he mixed the classic Ondalan dexterity with his own knowledge of gearsword maneuvers. 
+This strange mismatch of styles made his reputation as a cunning opponent.
+
+Valero has a strong sense of justice developed by the assassination of his mother at the hands of 
+his family, a matter he never could prove; as an Asrian devotee he took inspiration on the works 
+and deeds of Matriarch Isabine and based his own honor on her figure. That made his reputation 
+as an honorable and loyal companion. Under the service of Queen Mariana II he meet his peers and 
+his true love, Florinda Leren, a young and noble mistress of black hair, sheep-like gaze and grey eyes.
 
 - **Competency Die:** D6
 - **Attributes:** Verve D8, Affinity D6, Guile D10

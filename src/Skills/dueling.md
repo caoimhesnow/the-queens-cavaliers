@@ -89,7 +89,7 @@ Dodge roll, and not by a Parry roll.
 | [+]           | Inflict 1 Yield            |
 | [+][+]        | Decrease Advantage         |
 | [+][+][+]     | Gain 1 Style Point         |
-| [+][+][+][+]  | Inflict 1 Woundu           |
+| [+][+][+][+]  | Inflict 1 Wound            |
 ::::::::::::::::::::::::::::::::::::::::::::::
 
 **Inflict 1 Yield:** Your opponent takes one Yield for each Success

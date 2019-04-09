@@ -61,7 +61,7 @@
 | Dodge           |                                                       |
 | :-------------- | :---------------------------------------------------- |
 | Time            | Free Roll                                             |
-| Opposition      | Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack  |
+| Opposition      | Incoming Lunge, Riposte, Feint, or Aim Attack         |
 | [+]             | Negate Attack                                         |
 | [+][+]          | Increase Advantage                                    |
 | [+][+][+]       | Gain 1 Style Point                                    |
@@ -90,7 +90,7 @@
 | [+]           | Inflict 1 Yield            |
 | [+][+]        | Decrease Advantage         |
 | [+][+][+]     | Gain 1 Style Point         |
-| [+][+][+][+]  | Inflict 1 Woundu           |
+| [+][+][+][+]  | Inflict 1 Wound            |
 ::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::: success ::::::::::::::::::
 | Feint           |                          |
@@ -242,7 +242,7 @@
 | Brawl           |                                 |
 | :-------------  | :------------------------------ |
 | Time            | 1 action or Free Roll           |
-| Opposition      | Target's Brawl, Parry, or Dodge |
+| Opposition      | Target's Brawl or Parry         |
 | [+]             | Inflict 1 Yield                 |
 | [+]             | Negate Brawl Attack             |
 | [+][+]          | Achieve or Break Hold           |

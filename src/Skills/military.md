@@ -29,7 +29,7 @@ watching her brawl, recall the names of famous pugilists.
 | Brawl           |                                 |
 | :-------------  | :------------------------------ |
 | Time            | 1 action or Free Roll           |
-| Opposition      | Target's Brawl, Parry, or Dodge |
+| Opposition      | Target's Brawl or Parry         |
 | [+]             | Inflict 1 Yield                 |
 | [+]             | Negate Brawl Attack             |
 | [+][+]          | Achieve or Break Hold           |

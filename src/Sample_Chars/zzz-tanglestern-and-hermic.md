@@ -6,7 +6,13 @@
 ![Hermic and Tanglestern, by Eleanor Ferron](assets/Characters/Tanglestern-and-Hermic.jpg "Hermic and Tanglestern, by Eleanor Ferron")
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[]{.comingsoon}
+Hermic (pictured on the left) is always the brains of any operation. She runs a gang of mostly 
+female bandits (Tanglestern is the only male one). In true Robin Hood style, they rob from the 
+rich and give to the less fortunate…minus operating costs of course. She fights best with her crossbow.
+
+Tanglestern (on the right) is the mouthpiece and general distraction for the group’s work. He 
+is brazen and smarmy, and thinks himself oh-so-handsome and dashing. He fights best with his 
+sword and words… so very, very many words.
 
 [Tanglestern]{.boxh2 .breakbefore}
 

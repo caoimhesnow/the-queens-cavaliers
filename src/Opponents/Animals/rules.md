@@ -78,7 +78,7 @@ that are actually wearing some kind of armor, from horse barding to
 spiked collars. The animal can add the shell or armor's Armor Die to its
 Block pool.
 
-**Guard (Initiative):** For 1 Initiative Point, the animal can Interpose
+**Protect (Initiative):** For 1 Initiative Point, the animal can Interpose
 itself to prevent a creature from entering its area. For 2 Initiative
 Points, the animal can make a Lunge, Brawl, or Feint attack against a
 creature that enters its area. The animal can't spend its Initiative

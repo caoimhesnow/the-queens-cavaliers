@@ -134,14 +134,14 @@ to defend against any type of attack.
 **Knowledge Rolls:** This Specialty is not often used to make knowledge
 rolls.
 
-**Opposition:** A Dodge roll can be used against any incoming attack
-roll.
+**Opposition:** A Dodge roll can be used to defend against an attacker's
+Lunge, Riposte, Feint, or Aim roll, but not against a Brawl attack.
 
 ::::::::::::::::::: success :::::::::::::::::::::::::::::::::::::::::::::::
 | Dodge           |                                                       |
 | :------------   | :---------------------------------------------------- |
 | Time            | Free Roll                                             |
-| Opposition      | Incoming Lunge, Riposte, Feint, Aim, or Brawl Attack  |
+| Opposition      | Incoming Lunge, Riposte, Feint, or Aim Attack         |
 | [+]             | Negate Attack                                         |
 | [+][+]          | Increase Advantage                                    |
 | [+][+][+]       | Gain 1 Style Point                                    |
