@@ -1,4 +1,4 @@
-## Living Expenses
+## Living Expenses {.cbreakbefore}
 
 ::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 []{.comingsoon}
@@ -60,7 +60,7 @@ Table: Living Expenses
 
 []{.comingsoon}
 
-## Transportation and Animals
+## Transportation and Animals {.cbreakbefore}
 
 []{.comingsoon}
 

@@ -1,4 +1,4 @@
-# Arynne Aubene {.breakbefore}
+# Arynne Aubene {.cbreakbefore}
 
 House Aubene is nearly royalty in southern Gallinea, and Duchess Arynne is the
 latest of Aubene to lead the richest city in the queendom. At least,

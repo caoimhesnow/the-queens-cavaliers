@@ -1,4 +1,4 @@
-### The Provocateur 
+### The Provocateur  {.cbreakbefore}
 
 ::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::
 ![The notorious Provocateur Martine Deveaux, by Joanne Renaud](assets/Scenes/Medium/martine-dress.jpg "The notorious Provocateur Martine Deveaux, by Joanne Renaud")
@@ -8,12 +8,18 @@ are terms used to speak of the Provocateur, a shadowy figure enmeshed in
 plots within plots. Provocateurs are used by all nations of Elara,
 although they are rarely trusted even among those who employ them.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 A typical Provocateur does not advertise her profession, so she will
 usually rely on her co-class for her public persona. 
 
 - **Suggested Classes:** Charlatan, Courtier, Duelist, Envoy, Speaker, Visionary
 - **Suggested Passions:** Church, Country, Love, Wealth
+
+:::::::: sidebar :::::::::::::
+- Poisons
+- Nations of Elara
+- Medicine (Poison)
+- Martine Deveaux
+::::::::::::::::::::::::::::::
 
 #### Provocateur Qualities
 
@@ -32,5 +38,4 @@ usually rely on her co-class for her public persona.
 - **Shady Negotiations:** When dealing with criminals or conspirators, spend 1 Style Point to add Larceny dice to a Negotiate roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -1,4 +1,4 @@
-### The Speaker
+### The Speaker {.cbreakbefore}
 
 A Speaker is an adherent of the Desert Mother, Devra, whose purpose in
 Gallinea is to convert the masses. Devraism is legal within Gallinea but
@@ -6,9 +6,16 @@ is in conflict with the majority Asrian religion. For this reason,
 Speakers usually keep a low profile while spreading their messages of
 stoic living and opposition to secular authorities.
 
-::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chirurgeon, Envoy, Explorer, Privateer, Provocateur, Virtuosa, Visionary
 - **Suggested Passions:** Faith, Family, Justice, Loyalty
+
+::::::::::: sidebar :::::::::::::
+- Devranism
+- Devran Holy Days
+- The Temple of the Moon
+- Pitdah
+- Ubar
+:::::::::::::::::::::::::::::::::
 
 #### Speaker Qualities
 
@@ -27,4 +34,3 @@ stoic living and opposition to secular authorities.
 - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
 - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

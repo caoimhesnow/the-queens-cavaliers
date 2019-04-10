@@ -1,4 +1,4 @@
-# The Alchemist 
+# The Alchemist {.cbreakbefore}
 
 Using techniques perfected in the old Qartan Empire, Alchemists brew
 potions, poisons, and antidotes based on scientific principles. They can
@@ -7,9 +7,18 @@ produce a variety of effects, ranging from healing to magical abilities.
 Most Alchemists are successful merchants, many running small
 apothecaries to vend their wares. 
 
-:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Charlatan, Chirurgeon, Mechanician, Visionary, Witch
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
+
+:::::::::::: sidebar ::::::::
+- Magicks (Brew)
+- Concoctions
+- Draughts
+- Salves
+- Poisons
+- Alchemy in Gallinea
+- The Alchemists' Guildhall  
+:::::::::::::::::::::::::::::
 
 ## Alchemist Qualities
 
@@ -32,4 +41,3 @@ apothecaries to vend their wares.
 - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

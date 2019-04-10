@@ -1,4 +1,4 @@
-### The Veteran 
+### The Veteran  {.cbreakbefore}
 
 Gallinea and its neighbors maintain standing armies, composed of
 professional soldiers who fight in their wars at home and abroad. The
@@ -11,9 +11,14 @@ and if not currently part of a military unit, often join mercenary
 companies or guard regiments rather than settle down into a civilian
 lifestyle.
 
-::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Provincial
 - **Suggested Passions:** Country, Family, Friends, Loyalty
+
+:::::::::: sidebar :::::::::::::::::
+- Weapons
+- Military skill
+- Gallinean Military
+::::::::::::::::::::::::::::::::::::
 
 #### Veteran Qualities
 - **Skill Competency:** Dueling, Military, Nature, Streetwise
@@ -31,5 +36,4 @@ lifestyle.
 - **Reconnaissance:** When trying to spot other people, spend 1 Style Point to add Explore dice to a Perceive roll
 - **(subsection) Strategic Maneuvers:** When commanding at least 3 troops, spend 1 Style Point to add Explore dice to a Strategy roll
 - **Trained Endurance:** Spend 2 Style Points to set the value of one Block die to its maximum value before rolling
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

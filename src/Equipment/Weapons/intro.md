@@ -1,9 +1,5 @@
-# Weapons
+# Weapons {.cbreakbefore}
 
-::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-[]{.comingsoon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 While *The Queen's Cavaliers* is not entirely focused around combat,
 it's still a swashbuckling game -- so swords, muskets, and cannons play
 a role in the stories being told.
@@ -138,4 +134,3 @@ musket, Drop 4 for the rapier.
 tables for specific specialties, such as Knockdown or additional damage.
 These are represented by the [+] notation for success points, such as
 Lunge ([+][+][+]: Unhorse).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

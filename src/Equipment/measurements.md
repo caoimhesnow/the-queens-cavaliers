@@ -1,4 +1,4 @@
-# Units of Measure {.breakbefore}
+# Units of Measure {.cbreakbefore}
 
 Various units of measurement are used throughout Elara and Ifran, most of which are based on the Qartan Empire's standardized units. 
 These units are those used in Gallinea, although there are equivalent units in most other countries descended from Qarta.
@@ -14,6 +14,7 @@ Table: Units of Weight
 | *once* or ounce        | 1/16           | 30.6 g    |
 | *marc* or half pound   | 1/2            | 245 g     |
 | *livre* or pound       | 1              | 490 g     |
+| *dekalivre* or *deka*  | 10             | 4.9 kg    |
 | *quintal*              | 100            | 49 kg     |
 
 A *quintal* is just over 100 real-world pounds.

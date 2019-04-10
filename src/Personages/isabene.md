@@ -1,4 +1,4 @@
-# Isabene de la Justicia {.breakbefore}
+# Isabene de la Justicia {.cbreakbefore}
 
 :::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::
 ![Matriarch Isabene de la Justicia, by Eleanor Ferron](assets/Portraits/Medium/isabene-de-la-justicia.jpg "Matriarch Isabene de la Justicia, by Eleanor Ferron")

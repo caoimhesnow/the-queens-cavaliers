@@ -1,4 +1,4 @@
-# Poisons {.breakbefore}
+# Poisons {.cbreakbefore}
 
 :::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::
 Poisons in *The Queen's Cavaliers* are tracked in the abstract, without

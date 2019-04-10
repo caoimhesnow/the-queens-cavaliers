@@ -1,4 +1,4 @@
-:::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::
 :# The Elissian Reforms 
 
 Queen Elisse's controversial reforms included:

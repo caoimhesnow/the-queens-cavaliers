@@ -1,4 +1,4 @@
-# Gallinean Holidays ## {.breakbefore}
+# Gallinean Holidays ## {.cbreakbefore}
 
 Gallineans love holidays. After all, what is a holiday if not an
 excuse to throw a party?

@@ -1,4 +1,4 @@
-### The Mechanician 
+### The Mechanician  {.cbreakbefore}
 
 :::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::
 ![A Mechanician in her workshop, by Sarah Otterstaetter](assets/Scenes/Medium/mechanician.jpg "A Mechanician in her Workshop, by Sarah Otterstaetter")
@@ -8,9 +8,15 @@ artisans who can engineer complex machinery to accomplish repetitive
 tasks. Their gadgets are in great demand throughout society, although
 usually only the wealthy can afford the most advanced items.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Fusilier, Privateer, Visionary
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth 
+
+::::::::: sidebar ::::::::::::::
+- Creating Clockwork Devices
+- Science (Clockworks)
+- Clockworks in Gallinea
+- Mechanicians' Guildhall
+::::::::::::::::::::::::::::::::
 
 #### Mechanican Qualities 
 
@@ -32,4 +38,3 @@ usually only the wealthy can afford the most advanced items.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Standing on the Shoulders of Giants:** When inventing a device in a well-equipped workshop, spend 1 Style Point to add Scholarship dice to a Clockworks roll
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

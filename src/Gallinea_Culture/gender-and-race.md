@@ -68,7 +68,7 @@ at birth. Gender roles have become understood as a question of
 self-identification, including people who exist outside of a strict
 binary as well as those who are comfortable within it.
 
-:::::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::::::
 :# Gender Terminology
 
 - **Clarissic:** An adjective describing someone whose gender is not that
@@ -127,7 +127,6 @@ provide the equivalent of hormone replacement to those who wish it, and
 a number of medical procedures exist that can provide further changes to
 bring one's body into conformance with their stated gender.
 
-
 ## Sexuality
 
 The concept of "homosexuality" and "heterosexuality" as distinct sexual
@@ -136,7 +135,7 @@ bisexual and one's preference for specific genders is considered a
 personal matter. No one cares whether this is an inborn preference or a
 matter of choice; you love who you love, and that's what matters. 
 
-:::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::::::::::::
 :# Sexuality Terminology
 
 - **Jathyc:** An adjective describing a sexual or romantic relationship between two men, named after the Ekalian deity Jathys, god of craftsmanship and commerce.
@@ -145,9 +144,12 @@ matter of choice; you love who you love, and that's what matters.
   feel sexual attraction, or sometimes, romantic attraction. Named after
   the Ekalian deity Reios, god of politics and the underworld.
 - **Reian (n)**. Someone whose sexuality is *reian (adj)*.
-- **Sapphique:** An adjective describing a sexual or romantic relationship between two women, named after Safira, the first Bride of the Sun according to Asrian theology.
+- **Safique:** An adjective describing a sexual or romantic relationship between two women, named after Safira, the first Bride of the Sun according to Asrian theology.
+- **Typique:** An adjective for a "normal" sexuality, i.e., not based on strictly gendered attraction.
 
-There are no particular terms for being a bisexual person, a lesbian, or a gay man in Gallinean. Such concepts don't exist in Elaran cultures.
+There are no particular terms for being a bisexual person, a lesbian, or a gay man in Gallinean. Such concepts don't exist in Elaran cultures, although
+sometimes an otherwise *typique* man who is primarily but not exclusively interested in men may be described as *jathyc (typique)*, while a woman who is
+similarly drawn mostly to women could be considered *safique (typique)*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The second Profession of Asrianism states that love is a gift from

@@ -1,4 +1,4 @@
-# Bodies of Water
+# Bodies of Water {.cbreakbefore}
 
 Gallinea is a large peninsula, surrounded by water on three sides. In addition, rivers play a major
 role in travel and trade.

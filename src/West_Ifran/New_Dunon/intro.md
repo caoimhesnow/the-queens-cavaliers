@@ -1,4 +1,4 @@
-# New Dunon {.breakbefore}
+# New Dunon {.cbreakbefore}
 
 []{.comingsoon}
 

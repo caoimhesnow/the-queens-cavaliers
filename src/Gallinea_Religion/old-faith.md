@@ -1,4 +1,4 @@
-# The Old Faith {.breakbefore}
+# The Old Faith {.cbreakbefore}
 
 The Old Faith is the modern name given to the ancient religion of pre-Qartan
 Gallinea. Although thought of now as just folk traditions and superstitions,

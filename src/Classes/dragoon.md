@@ -1,13 +1,20 @@
-### The Dragoon 
+### The Dragoon  {.cbreakbefore}
 
 A Dragoon is a professional soldier, usually a member of the cavalry.
 Dragoons are found throughout Elara and beyond; they are usually more
 serious and less flashy than the swashbuckling Cavaliers. Dragoons
 usually wear heavier armor in the field.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chaplain, Constable, Duelist, Dogsbody, Provincial, Veteran.
 - **Suggested Passions:** Country, Justice, Loyalty, Pride
+
+:::::::::::::: sidebar ::::::::::::::
+- Gallinean Military
+- Warhorse 
+- Cavalry quality of weapons
+- Nature (Husbandry)
+- The Royal Stables
+:::::::::::::::::::::::::::::::::::::
 
 #### Dragoon Qualities
 

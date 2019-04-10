@@ -1,4 +1,4 @@
-# Dragosa #                                                 {.breakbefore}
+# Dragosa #                                                 {.cbreakbefore}
 
 :::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::::::::::
 :# The Principality of Dragosa

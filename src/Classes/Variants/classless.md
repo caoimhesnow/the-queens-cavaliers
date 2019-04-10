@@ -1,5 +1,5 @@
 ::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::
-## Option: Playing Without Classes ## {.breakbefore}
+## Option: Playing Without Classes ## 
 
 You don't even have to play with classes (or backstories) at all. The MJ
 might allow this option if she wants everyone to have the most
@@ -78,7 +78,7 @@ maintain, Morgan pushes her social ranks up to the maximum of Noble
 (D10)/Artisan (D8). This uses five of her customizations, and she's only
 got two left from the original 30.
 
-**Style Maneuvers:** Looking over the list of style maneuvers<a href="#style-maneuvers" class="xref-inchapter"></a>, 
+**Style Maneuvers:** Looking over the list of style maneuvers<a href="#style-maneuvers" class="xref-inchapter">Style Maneuvers</a>, 
 Morgan finds two that thinks will be most appropriate for a future
 air-captain like herself. She selects Powdersmith (when creating or
 repairing a device with a blackpowder flintlock power source, a

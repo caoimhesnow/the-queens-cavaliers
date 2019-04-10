@@ -1,4 +1,4 @@
-### The Envoy
+### The Envoy {.cbreakbefore}
 
 ::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::::::::::::
 ![Envoys frequently have heated debates, by Eleanor Ferron](assets/Scenes/Medium/ambassadors.jpg "Envoys frequently have heated debates, by Eleanor Ferron")
@@ -11,9 +11,15 @@ the start of the game (although her allegiance may change during play).]{.gamest
 Envoys are usually well-traveled and skilled at reading people and
 reaching compromises.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Provocateur, Speaker
-- **Suggested Passions:** Church, Country, Knowledge, Loyalty -
+- **Suggested Passions:** Church, Country, Knowledge, Loyalty 
+
+:::::::::::: sidebar ::::::::::::
+- International travel
+- Nations of Elara
+- Nations of Ifran 
+- Lord-Ambassador Bedyngford
+:::::::::::::::::::::::::::::::::
 
 #### Envoy Qualities
 
@@ -33,4 +39,3 @@ reaching compromises.
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

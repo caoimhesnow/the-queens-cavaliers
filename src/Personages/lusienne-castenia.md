@@ -1,4 +1,4 @@
-# Lusienne Castenia {.breakbefore}
+# Lusienne Castenia {.cbreakbefore}
 
 The current Lady-Mayor of Lutetia is Lusienne, Contessa of Castenia, a province directly adjacent to
 Lutetia. Her younger brother, Lord Landiere, is currently the castellan of Castenia and manages the

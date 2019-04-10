@@ -1,4 +1,4 @@
-## Military ## {.breakbefore}
+## Military ## {.cbreakbefore}
 
 The Military skill includes training in ranged combat and unarmed
 combat, plus strategic planning. A character with Competency in the
@@ -20,7 +20,7 @@ Parry, and Aim rolls, and cannot Dodge, Run, or Move. The penalty starts
 at Drop 1 when a hold is first achieved, and increases by 1 every time
 the hold is increased (see below).
 
-**Crafting:** Quarterstaves, clubs, and other bludgeons<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Quarterstaves, clubs, and other bludgeons<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Knowledge Rolls:** Evaluate someone's unarmed fighting technique after
 watching her brawl, recall the names of famous pugilists.
@@ -83,7 +83,7 @@ against an Aim attack, and not Parry.
 the type of weapon used to cause a wound, recall the names of famous
 marksmen.
 
-**Crafting: **Bows, crossbows, muskets, and pistols<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting: **Bows, crossbows, muskets, and pistols<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 :::::::::::::::: success :::::::::::::::::
 | Aim          |                         |
@@ -130,7 +130,7 @@ during combat and reading the way a fight is going.
 plan to discover weaknesses, organize a supply line, recall the names of
 famous generals.
 
-**Crafting:** Battle plans, tactical maps, and military orders<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Battle plans, tactical maps, and military orders<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition: **Use the Military (Strategy) roll of your enemy's leader.
 If there's no leader, your roll is an automatic success and the success

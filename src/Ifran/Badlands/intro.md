@@ -1,4 +1,4 @@
-# The Badlands {.breakbefore}
+# The Badlands {.cbreakbefore}
 
 []{.comingsoon}
 

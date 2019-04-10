@@ -1,9 +1,8 @@
-# Alchemy Items
+# Alchemy Items {.cbreakbefore}
 
-::::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::
 The most common items created using the Magicks (Brew) specialty are shown below.
 For a more complete list and rules on using Brew to create your own draughts,
-salves, and other alchemy items, see <a href="#alchemical-items" class="xref-inchapter-under"></a>.
+salves, and other alchemy items, see <a href="#alchemical-items" class="xref-inchapter-under">Alchemical Items</a>.
 
 Table: Alchemy Items
 
@@ -28,7 +27,3 @@ Table: Alchemy Items
   - **Nimblefingers Unction:** *description* applied to hands
   - **Serpent's Tongue Draught:** []{.comingsoon} drink
   - **Teetotaler's Tea:** []{.comingsoon} drink
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-[]{.comingsoon}
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

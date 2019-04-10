@@ -1,6 +1,5 @@
 # Dueling Weapons
 
-::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Dueling weapons are, by definition, weapons that can be used with the
 Dueling skill and its specialties -- Lunge, Riposte, Feint, and Defense
 (Parry). Not all weapons can be used with all specialties, however.
@@ -87,7 +86,7 @@ spend 3 success points to knock your target off her horse.
 
 ### Availability of Dueling Weapons
 
-As stated <a href="#anchor-wealth" class="xref-insection"></a>, to purchase any item you must roll
+As stated <a href="#anchor-wealth" class="xref-insection">Wealth</a>, to purchase any item you must roll
 against a pool consisting of that item's availability and its cost.
 
 Common dueling weapons are those which aren't hard at all to find any
@@ -99,6 +98,7 @@ of any size. The exceptions are cutlass, rapier, sabre, and smallsword
 -- the common swords -- in a small rural settlement. In such situations,
 the availability increases to 1D6.
 
+::::::::::::::::::::::: colspan ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Common Dueling Weapons
 
 | Weapon       | Cost | Hands          | Weapon Die  | Specialties                         |
@@ -111,6 +111,7 @@ Table: Common Dueling Weapons
 | Rapier       | D6   | Main           | Sword +1D8  | Parry, Lunge, Riposte, Feint        |
 | Sabre        | D6   | Main (Cavalry) | Sword +1D6  | Parry, Lunge, Feint                 |
 | Smallsword   | D6   | Either         | Sword +1D6  | Parry, Lunge, Riposte, Feint        |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
   - **Buckler:** A buckler is a small shield that can be strapped to your forearm, usually on your non-dominant hand. You can hold an item in that hand but trying to attack with that hand while wearing a buckler gives you a Drop 2 penalty on rolls using either the buckler or that weapon.
@@ -127,6 +128,7 @@ Uncommon dueling weapons have an availability of 1D0 in a capital city,
 one exception is that a bullwhip always has an availability of
 1D0.
 
+:::::::::::::::::::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Uncommon Dueling Weapons
 
 | Weapon            | Cost | Hands          | Weapon Die    | Specialties                                                              |
@@ -150,6 +152,7 @@ Table: Uncommon Dueling Weapons
 | Trident Dagger    | D6   | Either         | Knife +1D6    | Parry ([+][+][+][+]: Disarm), Feint                                      |
 | Truncheon         | D6   | Main           | Cudgel +1D6   | Parry, Lunge, Brawl                                                      |
 | Weighted Net      | D6   | Main (Reach)   | Net +1D6      | Feint ([+][+][+]: Restrain)                                              |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - **Backsword:** []{.comingsoon}
   - **Bayonet:** A bayonet is attached to the barrel of a musket and can be used as a Dueling weapon without having to change weapons.
@@ -170,14 +173,14 @@ Table: Uncommon Dueling Weapons
   - **Truncheon:** []{.comingsoon}
   - **Weighted Net:** []{.comingsoon}
 
-:::::::::::::::::::::::: sidebar ::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: boxtext ::::::::::::::::::::::::::::::::::::::::
 :# Foreign Weapons
 
 In addition to the common and uncommon dueling weapons listed in the
 previous tables and aimed weapons later in this chapter, the nations
 that comprise Elara and Ifran have their own weapons as well. These
-national weapons are described <a href="#the-countries-of-elara" class="xref-inchapter"></a>
-and <a href="#the-countries-of-ifran" class="xref-inchapter"></a>, 
+national weapons are described <a href="#the-countries-of-elara" class="xref-inchapter">Countries of Elara</a>
+and <a href="#the-countries-of-ifran" class="xref-inchapter">Countries of Ifran</a>, 
 
   - **Albia:** claymore, dirk, longbow, tuck
   - **Ekalia:** brandestoc, cinquedea, hook prothesis
@@ -195,7 +198,3 @@ is 1D6 in a capital city, 1D8 in any other city, and 1D12 in villages.
 In far-distant countries, the availability increases to 1D8 in a capital
 city, 1D12 in any other city, and unavailable in smaller settlements.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-[]{.comingsoon}
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

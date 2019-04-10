@@ -1,4 +1,4 @@
-## Initiative ## {.breakbefore} 
+## Initiative ## {.cbreakbefore} 
 
 The Initiative skill is used in combat to determine who goes first, as
 well as to take additional actions during a fight. The order of

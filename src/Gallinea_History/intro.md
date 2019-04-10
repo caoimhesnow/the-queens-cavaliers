@@ -10,6 +10,9 @@ Gallinean queendom.
 
 This is an incomplete timeline of Gallinean history.
 
+::::::::::::::::::::::::::::::: colspan ::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Table: Important Events in Gallinean History
+
 | Year | Event                                                                  | Date         |
 | ---: | :--------------------------------------------------------------------- | :----------- |
 | 1    | Fall of the Qartan Empire                                              |              |
@@ -29,4 +32,5 @@ This is an incomplete timeline of Gallinean history.
 | 1241 | Treaty of Scanbreille signed, ending the Twenty Years' War             | Nivose 21    |
 | 1242 | Marriage of Princess Mariana to Prince Carolus of Albia                | Floreal 16   |
 | 1243 | Assassination of Elisse III and crown princess Jehanne                 | Frimaire 22  |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

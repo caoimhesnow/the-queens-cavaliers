@@ -1,4 +1,4 @@
-# Farrazin {.breakbefore}
+# Farrazin {.cbreakbefore}
 
 :::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::
 ![Farrazin, Guardian of the Faith, by Eleanor Ferron](assets/Portraits/Medium/guardian-farrazin.jpg "Farrazin, Guardian of the Faith, by Eleanor Ferron")

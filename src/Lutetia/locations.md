@@ -93,6 +93,7 @@ Table: Addresses in Lutetia
 
 The arrondissements of Lutetia are listed in the following table.
 
+::::::::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: List of Arrodissements
 
 | Bridge | Originating Side   | On the Bridge      | Across the Bridge                   | Outside the Wall     |
@@ -113,6 +114,7 @@ Table: List of Arrodissements
 | 14th   | 14th *sur l'île*   | 14th *sur le pont* | 14th *travers le pont*              | 14th *delà du mur*   |
 | 15th   | 15th *sur l'île*   | 15th *sur le pont* | 15th *travers le pont*              | 15th *delà du mur*   |
 | 16th   | 16th *sur l'île*   | 16th *sur le pont* | 16th *travers le pont*              | 16th *delà du mur*   |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Features of the City
 

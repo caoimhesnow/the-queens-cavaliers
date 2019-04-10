@@ -3,6 +3,7 @@
 
 These standard classes are especially appropriate for characters from Ekalia.
 :::::::::::::::::::::::::::::::::::::::::::
+:::::::::::: sourcebook :::::::::::::::::::
 # Other Archetypes
 
 These standard archetypes are especially common in Ekalia.

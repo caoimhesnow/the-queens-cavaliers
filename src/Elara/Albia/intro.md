@@ -1,4 +1,4 @@
-# Albia #                                               {.breakbefore}
+# Albia #                                               {.cbreakbefore}
 
 ::::::::::::::::::: country ::::::::::::::::::::::::::::::::::::::::::
 :# The Kingdom of Albia

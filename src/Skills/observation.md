@@ -1,4 +1,4 @@
-##  Observation ## {.breakbefore}
+##  Observation ## {.cbreakbefore}
 
 The Observation skill encompasses both reading situations and reading
 people, as well as putting together disparate clues to see the bigger

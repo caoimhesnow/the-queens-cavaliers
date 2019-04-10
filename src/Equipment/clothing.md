@@ -1,6 +1,5 @@
-# Clothing
+# Clothing {.cbreakbefore}
 
-:::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 ## Clothing Qualities
 
 Articles of clothing have the following qualities:
@@ -26,8 +25,9 @@ are one scale category higher, including the packaging.
 
 The following table lists the most common types of clothes that are
 found in Gallinea. Detailed descriptions of each type of clothing are
-given <a href="#articles-of-clothing" class="xref-insection"></a>.
+given <a href="#articles-of-clothing" class="xref-insection">Articles of Clothing</a>.
 
+:::::::::::::::::::: breakable ::::::::::::::::::::::::::::
 Table: Articles of Clothing
 
 | Item                | Cost | Worn On   | Social Rank    |
@@ -75,6 +75,7 @@ Table: Articles of Clothing
 | Tabard              | 1D6  | Shoulders | Soldier (1D6)  |
 | Tricorne            | 1D6  | Head      | Military (1D6) |
 | Vestments           | 1D6  | Torso     | Artisan (1D8)  |
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Standard outfits
 
@@ -84,7 +85,7 @@ addition to sharing a common cost, outfits are all considered part of
 the same social rank, regardless of the actual social rank of each
 item.
 
-Table: outfits
+Table: Standard Outfits
 
 | Item                | Cost    | Includes                                                             |
 | :------------------ | :-----: | :------------------------------------------------------------------- |
@@ -151,7 +152,3 @@ they're free to wear whatever they want.
 cape, the high boots -- anyone wearing this outfit cuts a dashing figure
 indeed. While some such outfits are more sedate and refined, many look
 as if the wearer stepped out of the latest Alais de Neversette novella.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-[]{.comingsoon}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

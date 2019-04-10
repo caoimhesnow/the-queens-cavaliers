@@ -1,4 +1,4 @@
-# Gallinean Names {.breakbefore}
+# Gallinean Names {.cbreakbefore}
 
 A Gallinean first name has a traditional gender association, but in modern times it's 
 considered acceptable to choose a name outside of one's traditional gender assignment.
@@ -152,5 +152,4 @@ Table: Gallinean surnames
 | *de la* Verte      | beside the Verte river       | Lowlands             |
 | *de* Verterre      | from the city of Verterre    | Lowlands             |
 | *la* Ymagiere      | painter/sculptor             | Coeur de Gallinea    |
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

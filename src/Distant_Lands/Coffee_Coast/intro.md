@@ -1,4 +1,4 @@
-# The Coffee Coast
+# The Coffee Coast {.cbreakbefore}
 
 []{.comingsoon}
 

@@ -1,4 +1,4 @@
-# Jean-Remy {.breakbefore}
+# Jean-Remy {.cbreakbefore}
 
 :::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::::::::
 ![Prince Jean-Remy, by Sarah Otterstaetter](assets/Scenes/Medium/espionage.jpg "Prince Jean-Remy, by Sarah Otterstaetter")

@@ -1,6 +1,6 @@
-## Magicks ## {.breakbefore}
+## Magicks ## {.cbreakbefore}
 
-The world of Elara has very subtle forms of magick: brewing draughts,
+The world of Elara has very subtle forms of magicks: brewing draughts,
 weaving charms into clothing, and reading portents. Most characters
 completely lack knowledge in Magicks, leaving the study up to those who
 specialize in it.
@@ -21,7 +21,7 @@ birthstone and other personal qualities.
 charms, determine the specific master charmweaver who created an item of
 apparel, recall facts related to the creation of cloth and silk.
 
-**Crafting: **Articles of clothing, including charmwoven apparel<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting: **Articles of clothing, including charmwoven apparel<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** Most Weave rolls are made to craft garments. Sensing or
 restoring a charm is Easy (3D6) standard opposition. An attempt to
@@ -83,7 +83,7 @@ draughts.
 names of the master alchemists in a city, describe where exotic
 ingredients can be found.
 
-**Crafting: **Salves, draughts, and other alchemical formulations<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting: **Salves, draughts, and other alchemical formulations<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** Most Magicks (Brew) rolls are made to create a draught
 or salve. Mixing a concoction has a standard difficulty of Easy (3D6). 
@@ -130,7 +130,7 @@ throughout history, identify when someone is the target of a hex,
 identify a bibelot's charm, remember the astrological signs and
 birthstones.
 
-**Crafting: **Astrological charts, bibelots, and divination tools<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting: **Astrological charts, bibelots, and divination tools<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** If you read either the general omens around you or a
 willing subject, the roll is an automatic success and the success points

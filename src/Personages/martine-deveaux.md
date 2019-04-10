@@ -1,4 +1,4 @@
-# Martine Deveaux {.breakbefore}
+# Martine Deveaux {.cbreakbefore}
 
 :::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::
 ![Martine Deveaux, by Eleanor Ferron](assets/Portraits/Medium/martine-deveaux.jpg "Martind Deveaux, by Eleanor Ferron")

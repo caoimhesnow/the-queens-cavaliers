@@ -1,4 +1,4 @@
-# Introduction                                                     {.nobreak}
+# Introduction 
 
 :::::::::::::::::::::::::::::::::::::::::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 *The World of the Queen's Cavaliers* is a system-neutral campaign setting book that depicts an alternate fantasy

@@ -1,4 +1,4 @@
-# Style Maneuvers by Type
+# Style Maneuvers by Type {.cbreakbefore}
  
 The following lists the style maneuvers by the Skill, Specialty, or other die that they affect.
  
@@ -7,7 +7,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
   - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
  
-### Arts        Maneuvers
+### Culture (Arts)        Maneuvers
  
   - **Bird Calls:** When working with birds, spend 1 Style Point to add Arts dice to a Husbandry roll
   - **Boundless Creativity:** Spend 2 Style Points to set the value of one Arts die to its maximum value before rolling
@@ -22,7 +22,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Yodeler:** When working with domesticated animals, spend 1 Style Point to add Arts dice to a Husbandry roll
   - **Zamorovian School of Fencing:** When fighting with a szabla in one hand, spend 1 Style Point to add Arts dice to a Parry roll
  
-### Etiquette   Maneuvers
+### Culture (Etiquette)   Maneuvers
  
   - **Beating a High Horse:** When mocking someone of higher social rank than you, spend 1 Style Point to add Etiquette dice to a Banter roll
   - **Manners Count:** When speaking to someone of at least Artisan rank, spend 1 Style Point to add Etiquette dice to a Negotiate roll.
@@ -31,7 +31,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Rites of the Moon:** When dealing with someone of the Devran faith, spend 1 Style Point to add Etiquette dice to an Inspire roll
   - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
  
-### Scholarship Maneuvers
+### Culture (Scholarship) Maneuvers
  
   - **Anatomical Studies:** When working in a well-equipped surgical theatre, spend 1 Style Point to add Scholarship dice to a Surgery roll
   - **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll
@@ -49,7 +49,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
  
-### Parry       Maneuvers
+### Defense (Parry)       Maneuvers
  
   - **Aggressive Deflection:** Spend 2 Style Points to set the value of one Parry die to its maximum value before rolling
   - **Curse Your Betrayal:** When defending against a feint, spend 1 Style Point to add Intuition dice to a Parry roll
@@ -62,7 +62,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Unexpected Defense:** When fighting with a rapier or longsword in one hand and a shield in the other hand, spend 1 Style Point to add Deceive dice to a Parry roll
   - **Zamorovian School of Fencing:** When fighting with a szabla in one hand, spend 1 Style Point to add Arts dice to a Parry roll
  
-### Block       Maneuvers
+### Defense (Block)       Maneuvers
  
   - **Combat Pantomime:** When unarmed and facing an armed opponent, spend 1 Style Point to add Arts dice to a Block roll
   - **Deflecting Shield:** When using a buckler to parry, spend 1 Style Point to add Block dice to a Parry roll
@@ -71,7 +71,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **The Horrors of War:** When talking about war or battle, spend 1 Style Point to add Block dice to an Inspire roll
   - **Trained Endurance:** Spend 2 Style Points to set the value of one Block die to its maximum value before rolling
  
-### Dodge       Maneuvers
+### Defense (Dodge)       Maneuvers
  
   - **Apologetics:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
   - **Cunning Evasion:** Spend 2 Style Points to set the value of one Dodge die to its maximum value before rolling
@@ -98,7 +98,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Confident Fencing:** Spend 1 Style Point to reroll a Dueling roll
  
-### Lunge       Maneuvers
+### Dueling (Lunge)       Maneuvers
  
   - **Aggressive Assault:** Spend 2 Style Points to set the value of one Lunge die to its maximum value before rolling
   - **Albian Cavalry:** When mounted with a backsword or sabre in one hand and the other hand free, spend 1 Style Point to add Husbandry dice to a Lunge roll
@@ -113,14 +113,14 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Street Fighting:** When using a knife or a cudgel, spend 1 Style Point to add Brawl dice to a Lunge roll
   - **Twist the Knife:** When attacking with a knife that was hidden at the beginning of the fight, spend 1 Style Point to add Deceive dice to a Lunge roll
  
-### Riposte     Maneuvers
+### Dueling (Riposte)    Maneuvers
  
   - **Down-n-Dirty Fighting:** When making a riposte while you have one hand free, spend 1 Style Point to add Brawl dice to a Riposte roll
   - **How Dare You:** When attacking someone who has already damaged you in the current combat, spend 1 Style Point to add Inspire dice to a Riposte roll
   - **Ifrani School of Swordplay:** When fighting with a shamshir in one hand and the other hand empty, holding a qatar, or holding a jambiya, spend 1 Style Point to add Prowl dice to a Riposte roll
   - **Practiced Retort:** Spend 2 Style Points to set the value of one Riposte die to its maximum value before rolling
  
-### Feint       Maneuvers
+### Dueling (Feint)       Maneuvers
  
   - **Buccaneer Style:** When fighting with a smallsword, cutlass, or rapier in one hand and a pistol in the other hand, spend 1 Style Point to add Feint dice to an Aim roll
   - **Cunning Misdirection:** Spend 2 Style Points to set the value of one Feint die to its maximum value before rolling
@@ -130,7 +130,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
  
-### Inspire     Maneuvers
+### Interaction (Inspire)     Maneuvers
  
   - **Better Not Pout:** When giving or showing toys to children, spend 1 Style Point to add Intuition dice to an Inspire roll
   - **Books of the Sun:** When dealing with someone of the Asrian faith, spend 1 Style Point to add Scholarship dice to an Inspire roll
@@ -147,7 +147,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **The Horrors of War:** When talking about war or battle, spend 1 Style Point to add Block dice to an Inspire roll
   - **There's No Need for Violence:** When unarmed and facing an armed opponent, spend 1 Style Point to add Inspire dice to a Dodge roll
  
-### Negotiate   Maneuvers
+### Interaction (Negotiate)   Maneuvers
  
   - **A Mind for Money:** When sums of at least 1 crown are at stake, spend 1 Style Point to add Calculus dice to a Negotiate roll
   - **Apologetics:** When unarmed and facing an armed opponent, spend 1 Style Point to add Negotiate dice to a Dodge roll
@@ -163,7 +163,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Practiced Diplomacy:** Spend 2 Style Points to set the value of one Negotiate die to its maximum value before rolling
   - **Shady Negotiations:** When dealing with criminals or conspirators, spend 1 Style Point to add Larceny dice to a Negotiate roll
  
-### Deceive     Maneuvers
+### Interaction (Deceive)     Maneuvers
  
   - **Confidence Game:** When engaging in a swindle, spend 1 Style Point to add Banter dice to a Deceive roll
   - **Cunning Prevarication:** Spend 2 Style Points to set the value of one Deceive die to its maximum value before rolling
@@ -180,19 +180,19 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
  
-### Weave       Maneuvers
+### Magicks (Weave)      Maneuvers
  
   - **Dress to Impress:** While wearing an outfit you created yourself, spend 1 Style Point to add Weave dice to a Negotiate roll
   - **Flamboyant Couture:** Spend 2 Style Points to set the value of one Weave die to its maximum value before rolling
   - **Mistress of Fashion:** When creating clothing or accoutrements with a base cost of D6 or higher, spend 1 Style Point to add Arts dice to a Weave roll
  
-### Brew        Maneuvers
+### Magicks (Brew)       Maneuvers
  
   - **Anti-Toxins:** When creating an antidote or countering a poison, spend 1 Style Point to add Brew dice to a Poison roll
   - **Chemical Calculations:** When working in a well-equipped laboratory, spend 1 Style Point to add Calculus dice to a Brew roll
   - **Practiced Alchemy:** Spend 2 Style Points to set the value of one Brew die to its maximum value before rolling
  
-### Portents    Maneuvers
+### Magicks (Portents)    Maneuvers
  
   - **Astrological Charts:** When you know the date and location of a subject's birth, spend 1 Style Point to add Calculus dice to a Portents roll
   - **Oracle of the Twelve:** When dealing with someone of the Dodekarian faith or someone from Ekalia, spend 1 Style Point to add Portents dice to an Inspire roll
@@ -202,20 +202,20 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
 ## Medicine     Maneuvers
  
   - **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
-### Surgery     Maneuvers
+### Medicine (Surgery)     Maneuvers
  
   - **Anatomical Studies:** When working in a well-equipped surgical theatre, spend 1 Style Point to add Scholarship dice to a Surgery roll
   - **Daring Chirurgery:** Spend 2 Style Points to set the value of one Surgery die to its maximum value before rolling
   - **Scalpel's Cut:** When using a knife or chirurgeon's knives, spend 1 Style Point to add Surgery dice to a Lunge roll
  
-### Treat       Maneuvers
+### Medicine (Treat)       Maneuvers
  
   - **Emergency Assistance:** When treating someone who is suffering from exposure to the elements, spend 1 Style Point to add Explore dice to a Treat roll
   - **Epidemiology:** When diagnosing or treating an unknown illness, spend 1 Style Point to add Deduce dice to a Treat roll
   - **First Aid:** Spend 2 Style Points to set the value of one Treat die to its maximum value before rolling
   - **Folk Remedies:** When you have access to a garden, forest, or herb collection, spend 1 Style Point to add Husbandry dice to a Treat roll
  
-### Poison      Maneuvers
+### Medicine (Poison)      Maneuvers
  
   - **Anti-Toxins:** When creating an antidote or countering a poison, spend 1 Style Point to add Brew dice to a Poison roll
   - **Deadly Toxicology:** Spend 2 Style Points to set the value of one Poison die to its maximum value before rolling
@@ -226,7 +226,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Martial Reliability:** Spend 1 Style Point to reroll a Military roll
  
-### Brawl       Maneuvers
+### Military (Brawl)       Maneuvers
  
   - **Aggressive Fisticuffs:** Spend 2 Style Points to set the value of one Brawl die to its maximum value before rolling
   - **Down-n-Dirty Fighting:** When making a riposte while you have one hand free, spend 1 Style Point to add Brawl dice to a Riposte roll
@@ -234,7 +234,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Rough 'n' Tumble:** When fighting with a weapon in one hand and the other hand empty, spend 1 Style Point to add Brawl dice to a Dodge roll
   - **Street Fighting:** When using a knife or a cudgel, spend 1 Style Point to add Brawl dice to a Lunge roll
  
-### Aim         Maneuvers
+### Military (Aim)         Maneuvers
  
   - **Automatic Fire:** When using a clockwork weapon, spend 1 Style Point to add Clockworks dice to an Aim roll
   - **Buccaneer Style:** When fighting with a smallsword, cutlass, or rapier in one hand and a pistol in the other hand, spend 1 Style Point to add Feint dice to an Aim roll
@@ -246,7 +246,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Sniper:** When attacking from at least 3 areas away, spend 1 Style Point to add Prowl dice to an Aim roll
   - **Trick Shot:** When using a bow or crossbow, spend 1 Style Point to add Feint dice to an Aim roll
  
-### Strategy    Maneuvers
+### Military (Strategy)    Maneuvers
  
   - **Landsknecht Tactics:** When fighting with a pike, spend 1 Style Point to add Strategy dice to a Lunge roll
   - **Strategic Maneuvers:** When commanding at least 3 troops, spend 1 Style Point to add Explore dice to a Strategy roll
@@ -257,7 +257,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Rural Reliability:** Spend 1 Style Point to reroll a Nature roll
  
-### Explore     Maneuvers
+### Nature (Explore)    Maneuvers
  
   - **Broadsides:** When firing a ship-mounted cannon, spend 1 Style Point to add Explore dice to a Blackpowder roll
   - **Camouflage Mastery:** When moving though the wilderness, spend 1 Style Point to add Explore dice to a Prowl roll
@@ -278,7 +278,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Well-Traveled:** When dealing with someone from a foreign culture, spend 1 Style Point to add Explore dice to an Etiquette roll
   - **You Can't Go Home Again:** When dealing with someone from your home country, spend 1 Style Point to add Explore dice to a Deceive roll
  
-### Husbandry   Maneuvers
+### Nature (Husbandry)   Maneuvers
  
   - **Albian Cavalry:** When mounted with a backsword or sabre in one hand and the other hand free, spend 1 Style Point to add Husbandry dice to a Lunge roll
   - **Bird Calls:** When working with birds, spend 1 Style Point to add Arts dice to a Husbandry roll
@@ -291,7 +291,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Practiced Cultivation:** Spend 2 Style Points to set the value of one Husbandry die to its maximum value before rolling
   - **Yodeler:** When working with domesticated animals, spend 1 Style Point to add Arts dice to a Husbandry roll
  
-### Prowl       Maneuvers
+### Nature (Prowl)       Maneuvers
  
   - **Camouflage Mastery:** When moving though the wilderness, spend 1 Style Point to add Explore dice to a Prowl roll
   - **Cunning Camouflage:** Spend 2 Style Points to set the value of one Prowl die to its maximum value before rolling
@@ -306,7 +306,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Reliable Senses:** Spend 1 Style Point to reroll an Observation roll
  
-### Perceive    Maneuvers
+### Observation (Perceive)   Maneuvers
  
   - **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
   - **Miniaturization:** When creating devices of Portable size or smaller, spend 1 Style Point to add Perceive dice to a Clockworks roll
@@ -316,7 +316,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Reconnaissance:** When trying to spot other people, spend 1 Style Point to add Explore dice to a Perceive roll
   - **Trained Ear:** When listening to other people speaking, spend 1 Style Point to add Scholarship dice to a Perceive roll
  
-### Intuition   Maneuvers
+### Observation (Intuition)   Maneuvers
  
   - **Better Not Pout:** When giving or showing toys to children, spend 1 Style Point to add Intuition dice to an Inspire roll
   - **Curse Your Betrayal:** When defending against a feint, spend 1 Style Point to add Intuition dice to a Parry roll
@@ -325,7 +325,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Honest Dealer:** When negotiating in good faith, spend 1 Style Point to add Intuition dice to a Negotiate roll
   - **I'm Innocent, Innocent!:** When trying to convince someone of your innocence, spend 1 Style Point to add Intuition dice to an Inspire roll
  
-### Deduce      Maneuvers
+### Observation (Deduce)      Maneuvers
  
   - **Brilliant Analysis:** Spend 2 Style Points to set the value of one Deduce die to its maximum value before rolling
   - **Criminology:** When investigating a crime scene, spend 1 Style Point to add Scholarship dice to a Deduce roll
@@ -337,7 +337,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Verifiable Hypothesis:** Spend 1 Style Point to reroll a Science roll
  
-### Blackpowder Maneuvers
+### Science (Blackpowder) Maneuvers
  
   - **Aggressive Fulmination:** Spend 2 Style Points to set the value of one Blackpowder die to its maximum value before rolling
   - **Ballistics:** When firing a cannon, spend 1 Style Point to add Calculus dice to a Blackpowder roll
@@ -346,7 +346,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Powdersmith:** When creating or repairing a device with a blackpowder flintlock power source, a phlogistone furnace power source, or an explosion component, spend 1 Style Point to add Blackpowder dice to a Clockworks roll
   - **Speleology:** When prospecting or exploring in caves, spend 1 Style Point to add Blackpowder dice to an Explore roll
  
-### Clockworks  Maneuvers
+### Science (Clockworks)  Maneuvers
  
   - **Automatic Fire:** When using a clockwork weapon, spend 1 Style Point to add Clockworks dice to an Aim roll
   - **It's My Creation:** When repairing or using a device that you invented, spend 1 Style Point to add Arts dice to a Clockworks roll
@@ -356,7 +356,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Practiced Crafting:** Spend 2 Style Points to set the value of one Clockworks die to its maximum value before rolling
   - **Standing on the Shoulders of Giants:** When inventing a device in a well-equipped workshop, spend 1 Style Point to add Scholarship dice to a Clockworks roll
  
-### Calculus    Maneuvers
+### Science (Calculus)    Maneuvers
  
   - **A Mind for Money:** When sums of at least 1 crown are at stake, spend 1 Style Point to add Calculus dice to a Negotiate roll
   - **Astrological Charts:** When you know the date and location of a subject's birth, spend 1 Style Point to add Calculus dice to a Portents roll
@@ -371,7 +371,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
  
   - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
  
-### Banter      Maneuvers
+### Streetwise (Banter)      Maneuvers
  
   - **Aggressive Mockery:** Spend 2 Style Points to set the value of one Banter die to its maximum value before rolling
   - **Beating a High Horse:** When mocking someone of higher social rank than you, spend 1 Style Point to add Etiquette dice to a Banter roll
@@ -381,7 +381,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **Fast-Talking:** When unarmed and facing an armed opponent, spend 1 Style Point to add Banter dice to a Dodge roll
   - **Supercilious Vituperation:** When insulting someone who is competent with the Culture skill, spend 1 Style Point to add Scholarship dice to a Banter roll
  
-### Carouse     Maneuvers
+### Streetwise (Carouse)     Maneuvers
  
   - **Comfortable Debauchery:** Spend 2 Style Points to set the value of one Carouse die to its maximum value before rolling
   - **Drowning My Sorrows:** When fighting in a tavern or while drunk, spend 1 Style Point to add Carouse dice to a Brawl roll
@@ -390,7 +390,7 @@ The following lists the style maneuvers by the Skill, Specialty, or other die th
   - **I'm a Lover, not a Fighter:** When being attacked by someone whom you find attractive, spend 1 Style Point to add Carouse dice to a Dodge roll
   - **The Underground Economy:** When buying or selling on the black market, spend 1 Style Point to add Carouse dice to a Larceny roll
  
-### Larceny     Maneuvers
+### Streetwise (Larceny)     Maneuvers
  
   - **Cunning Thievery:** Spend 2 Style Points to set the value of one Larceny die to its maximum value before rolling
   - **Shady Negotiations:** When dealing with criminals or conspirators, spend 1 Style Point to add Larceny dice to a Negotiate roll

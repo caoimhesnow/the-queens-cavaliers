@@ -1,4 +1,4 @@
-# The Charmweaver 
+# The Charmweaver {.cbreakbefore}
 
 A Charmweaver is a magickally proficient artisan who weaves charms and
 enchantments into fabrics. Most are skilled fashion designers and can
@@ -9,9 +9,16 @@ Charmweaving began in Gallinea and has spread throughout Elara in the
 last century, as popular fashions with practical charms became
 affordable for many common people.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Courtier, Dogsbody, Virtuosa, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
+
+:::::::::: sidebar :::::::::::::::
+- Charmweaving in Gallinea
+- Magicks (Weave)
+- Creating Charmwoven Apparel
+- The Nine Laws of Fashion
+- The Charmweavers' Guildhall
+::::::::::::::::::::::::::::::::::
 
 ## Charmweaver Qualities
 - **Skill Competency:** Culture, Magicks
@@ -31,5 +38,3 @@ affordable for many common people.
 - **Mistress of Fashion:** When creating clothing or accoutrements with a base cost of D6 or higher, spend 1 Style Point to add Arts dice to a Weave roll
 - **Refined Reliability:** Spend 1 Style Point to reroll a Culture roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

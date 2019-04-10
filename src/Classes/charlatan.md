@@ -1,13 +1,19 @@
-# The Charlatan 
+# The Charlatan {.cbreakbefore}
 
 Charlatans are swindlers, confidence men, mountebanks, and other
 tricksters who rely on their wits to defraud others. Many will hawk
 medicinal cure-alls or sell fraudulent nostrums, only to vanish when an
 angry crowd returns wanting their money back.
 
-::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Dogsbody, Chirurgeon, Mechanician, Provocateur, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
+
+:::::::::::: sidebar ::::::::::
+- Gallinean legal system
+- Interaction (Deceive)
+- Streetwise (Larceny)
+- Lutetian marketplace
+:::::::::::::::::::::::::::::::
 
 ## Charlatan Qualities
 
@@ -27,4 +33,3 @@ angry crowd returns wanting their money back.
 - **Fast-Talking:** When unarmed and facing an armed opponent, spend 1 Style Point to add Banter dice to a Dodge roll
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

@@ -1,5 +1,5 @@
 ::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::
-## Option: Creating a Custom Class ## {.breakbefore}
+## Option: Creating a Custom Class ## 
 
 If only one of the classes appeals to you, you can create a custom class
 with the MJ's consent. (Having two custom classes is not recommended;

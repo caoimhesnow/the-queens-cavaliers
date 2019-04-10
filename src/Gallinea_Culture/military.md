@@ -1,4 +1,4 @@
-# The Gallinean Military {.breakbefore}
+# The Gallinean Military {.cbreakbefore}
 
 Elara is rarely a peaceful continent. At any given time, there
 are likely border disputes and minor provocations, even if a state

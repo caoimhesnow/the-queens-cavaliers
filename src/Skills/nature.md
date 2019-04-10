@@ -1,4 +1,4 @@
-## Nature ## {.breakbefore}
+## Nature ## {.cbreakbefore}
 
 Knowledge of the natural world is expressed through Competency in the
 Nature skill. Nature is a hands-on skill, learned through experience
@@ -19,7 +19,7 @@ found in distant lands, evaluate the quality of a sailing ship or
 airship, chart a route on a detailed map, recall the names of famous
 explorers and ship captains.
 
-**Crafting:** Maps, rafts, shelters, and other survival gear<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Maps, rafts, shelters, and other survival gear<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Base Time:** Determining directions or finding a shortcut takes one
 minute, and other uses of Nature (Explore) take 1 hour.
@@ -103,7 +103,7 @@ or edible plant, predict the weather over the next couple of days,
 recall the names of local landowners, identify the properties of an
 unknown plant or animal.
 
-**Crafting:** Leather goods, flexible armor, and cooked meals<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Leather goods, flexible armor, and cooked meals<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Wounds:** If you are treating a wounded animal, you have Drop Penalty
 based on the animal's wounds.

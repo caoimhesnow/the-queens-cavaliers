@@ -1,4 +1,4 @@
-# Talania                                         {.breakbefore}
+# Talania                                         {.cbreakbefore}
 
 :::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The Talanian Empire

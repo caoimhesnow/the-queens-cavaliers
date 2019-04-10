@@ -1,4 +1,4 @@
-# Devranism {.breakbefore}
+# Devranism {.cbreakbefore}
 
 Worship of Devra, the Desert Mother, is all but banned in Gallinea since the death of Queen Elisse, 
 but that doesn't stop the puritanical Speakers from representing their faith despite persecution. 

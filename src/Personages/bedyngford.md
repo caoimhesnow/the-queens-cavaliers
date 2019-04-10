@@ -1,4 +1,4 @@
-# Bedyngford {.breakbefore}
+# Bedyngford {.cbreakbefore}
 
 :::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::
 ![Lord-Ambassador Bedyngford, by Eleanor Ferron](assets/Portraits/Medium/lord-bedyngford.jpg "Lord-Ambassador Bedyngford, by Eleanor Ferron")

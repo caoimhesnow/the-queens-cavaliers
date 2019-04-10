@@ -2,7 +2,7 @@
 
 Items in the following table are typical of Albia.
 
-:::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::: colspan ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Albian Equipment
 
 | Item                    | Cost      | Notes                                                               |
@@ -16,21 +16,6 @@ Table: Albian Equipment
 | Hunting horn            | 1D0       | Arts +1D0 Item Die, performance only                                |
 | *Orwand's Revelation*   | 1D0       | Scholarship Item Die +1D8, Dualitarianism only                      |
 | Pilgrim's Outfit        | 1D6       | Capotain, cloak, buckled shoes, common doublet, craftsman's gloves  |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::: sourcebook :::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Table: Albian Equipment
-
-| Item                    | Cost      | Notes                                                               |
-| :---------------------- | :-------: | :------------------------------------------------------------------ |
-| Albian Bulldog          | 4 sols    |                                                                     |
-| Albian Hunting Outfit   | 7 sols    | Tricorne, casaque, farmer's gloves, breeches, military boots, cloak |
-| Albian Spaniel          | 5 sols    |                                                                     |
-| Albian War Mastiff      | 3 crowns  |                                                                     |
-| Frostwoven Apparel      | +1 crown  | Keeps the wearer warm                                               |
-| Frostwoven Fabric       | 1 crown   | Needed for creating frostwomen apparel                              |
-| Hunting horn            | 6 lunes   |                                                                     |
-| *Orwand's Revelation*   | 8 lunes   |                                                                     |
-| Pilgrim's Outfit        | 3 sols    | Capotain, cloak, buckled shoes, common doublet, craftsman's gloves  |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Albian Bulldog:** A breed of dog originally developed for the brutal sport of bull-baiting,
@@ -79,7 +64,7 @@ Table: Albian Equipment
 
 These weapons are strongly identified with Albia. 
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::::::: colspan ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Albian Weapons
 
 | Weapon          | Cost | Hands        | Weapon Die   | Specialties                                                    |
@@ -89,16 +74,6 @@ Table: Albian Weapons
 | Greatbow        | 1D10 | Both         | Bow   +1D10  | Aim (Close Drop 2, Short Drop 0, Medium Drop 0, Long Drop 1)   |
 | Tuck            | 1D8  | Main or Both | Sword +1D8   | Parry, Lunge, Riposte, Feint                                   |
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::: sourcebook ::::::::::::::::::::::::
-Table: Albian Weapons
-
-| Weapon          | Cost      | Weapon Type      |
-| :-------------- | :-------: | :--------------- |
-| Claymore        | 20 crowns | Two-handed sword |
-| Dirk            |  4 sols   | Dagger           |
-| Greatbow        | 15 crowns | Bow              |
-| Tuck            |  8 crowns | Long sword       |
-::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - **Claymore:** The Albian greatsword is used primarily by those of Mathac heritage and is closely identified with Bear Island.
 

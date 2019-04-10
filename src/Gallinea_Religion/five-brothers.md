@@ -1,4 +1,4 @@
-# The Five Brothers {.breakbefore}
+# The Five Brothers {.cbreakbefore}
 
 Belief in the Five Brothers, also known as the Old Fathers, is an old
 religion, at least as old as the High Twelve in Ekalia.

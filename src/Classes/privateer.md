@@ -1,13 +1,20 @@
-### The Privateer 
+### The Privateer  {.cbreakbefore}
 
 Not all Privateers are pirates; most these days are licensed by one of
 the national governments or may in fact be part of a Royal Navy.
 Privateers are skilled at sailing both sea-ships and air-ships, although
 the latter are still quite rare.
 
-:::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Brigand, Chirurgeon, Dogsbody, Duelist, Explorer, Fusilier, Mechanician, Provincial, Veteran, Virtuosa
 - **Suggested Passions:** Country, Loyalty, Lust, Wealth
+
+:::::::::: sidebar :::::::::::::
+- Travel by Sea
+- Sailing Ships
+- Nature (Explore)
+- The Docks
+- Ekalia
+::::::::::::::::::::::::::::::::
 
 #### Privateer Qualities
 
@@ -27,5 +34,4 @@ the latter are still quite rare.
 - **Practiced Fencing:** Spend 1 Style Point to reroll a Dueling roll
 - **Naval Hilt:** When using a cutlass, spend 1 Style Point to add Explore dice to a Parry roll
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

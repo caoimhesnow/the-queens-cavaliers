@@ -1,4 +1,4 @@
-# Varendia                                                {.breakbefore}
+# Varendia                                                {.cbreakbefore}
 
 ::::::::::::::::::::::::::::::: country ::::::::::::::::::::::::::::::::
 :# The High Kingdom of Varendia

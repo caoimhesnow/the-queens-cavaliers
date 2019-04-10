@@ -40,7 +40,7 @@ the same being. Dualitarians keep the hierarchical structure of the
 Asrian church while adopting the stern moralism of the Devrans.
 Dualitarian clergy are known as Pilgrims.
 
-For more details, <a href="#dualitarianism" class="xref-inchapter-under"></a>.
+For more details, <a href="#dualitarianism" class="xref-inchapter-under">Dualitarianism</a>.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Albia faced more resistance when expanding into Gallinea; **the First
@@ -89,9 +89,8 @@ painfully swollen buboes to appear on the patient's body. Within a
 few days, the disease progresses to the lungs, and the patient usually
 dies soon afterward.
 
-:::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::
 The Illness Track for Elaran plague progresses in steps of one day. For more
-details on Illness Tracks, <a href="#treat" class="xref-seesection"></a>.
+details on Illness Tracks, <a href="#treat" class="xref-seesection">Treat</a>.
 
 Table: Elaran Plague Illness Track
 
@@ -112,7 +111,6 @@ Table: Elaran Plague Illness Track
 scars on the patient's face, neck, or hands. These scars cause a Drop 1 penalty
 on Interaction rolls if seen, due to the widespread stigma against Elaran
 plague scars.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::

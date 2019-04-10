@@ -1,4 +1,4 @@
-# Duthas {.breakbefore}
+# Duthas {.cbreakbefore}
 
 Mother Duthas was cursed. That's the only conclusion, she felt. Time after time she
 bore sons; sons, who could never hope to become anything great, just manual

@@ -57,7 +57,8 @@ Table: XP spent and competency dice
 ::::::::::::::::::::::::::: optional :::::::::::::::::::::::::::::::::::::
 :# Training Time
 
-Each XP spent typically requires one week of practice or training. This
+Each experience point spent typically requires one week of practice or training. This
 requirement can be waived by the MJ if you've already invested time and
 effort in activities relevant to your XP expenditure.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

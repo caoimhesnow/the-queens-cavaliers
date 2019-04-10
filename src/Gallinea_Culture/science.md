@@ -1,4 +1,4 @@
-# Science and Technology in Gallinea {.breakbefore}
+# Science and Technology in Gallinea {.cbreakbefore}
 
 Gallinea has a relatively advanced understanding of science and technology.
 

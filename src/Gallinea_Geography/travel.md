@@ -1,4 +1,4 @@
-# Travel
+# Travel {.cbreakbefore}
 
 *introduction needed*
 
@@ -39,7 +39,7 @@ Factors that affect speed include:
      or upstream, and also on the speed of the river itself. The numbers given 
      above are for the Luisante, and for traveling downstream. Traveling upstream
      on the Luisante cuts the speed by 50%. Other rivers move at different 
-     speeds<a href="#rivers" class="xref-asdesc-insection"></a>.
+     speeds<a href="#rivers" class="xref-asdesc-insection">Rivers</a>.
 
 ## The Great Roads
 
@@ -243,6 +243,7 @@ not far off, as all roads in Gallinea interconnected with each other. The follow
 table lists how long it will take to get to Lutetia on foot, on horse, by switching
 horses, and on a wagon.
 
+:::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::
 Table: Travel Times to Lutetia
 
 | City of Origin | Walking  | Horse           | Horses, switching | Wagon      |
@@ -261,6 +262,7 @@ Table: Travel Times to Lutetia
 | Touriel        |  7 days  |  2 days         | 10 hours          |  3 days    |
 | Valerienne     | 39 days  | 13 days         | 2 days, 14 hours  | 20 days    |
 | Verterre       | 24 days  |  8 days         | 1 day,  14 hours  | 12 days    |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Five If By Land, Two If By Sea
 

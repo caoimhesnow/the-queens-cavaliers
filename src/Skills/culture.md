@@ -1,4 +1,4 @@
-## Culture ## {.breakbefore}
+## Culture ## {.cbreakbefore}
 
 The Culture skill includes arts, history, religion, language, mythology,
 music, customs, traditions, noble families, and other societal elements
@@ -21,8 +21,7 @@ the name of a famous artist, identify tools and instruments used in art
 or music.
 
 **Crafting:** Create works of art such as drawings, poetry, paintings,
-sculptures, plays, songs, opera, novellas, and more<a class="xref-asdesc-insection" href="#crafting"></a>.
-
+sculptures, plays, songs, opera, novellas, and more<a class="xref-asdesc-insection" href="#crafting">Crafting</a>.
 
 **Bonus Die:** If you are performing an existing work of art, such as a
 musical composition or a play, you can include the work's Tag Die as a
@@ -167,7 +166,7 @@ most prestigious universities and their professors, understand and
 disagree with an obscure theological argument.
 
 **Crafting:** Write research reports, translations, or non-fiction
-books<a class="xref-asdesc-insection" href="#crafting"></a>.
+books<a class="xref-asdesc-insection" href="#crafting">Crafting</a>.
 
 **Extra Time:** You can spend extra time on your Scholarship to add a
 Bonus Die to your dice pool. The size of that die is limited by your

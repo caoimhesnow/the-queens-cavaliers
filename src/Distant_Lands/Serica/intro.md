@@ -1,4 +1,4 @@
-# Serica
+# Serica {.cbreakbefore}
 
 []{.comingsoon}
 

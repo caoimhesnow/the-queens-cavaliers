@@ -1,4 +1,4 @@
-# Tools of the Trade
+# Tools of the Trade {.cbreakbefore}
 
 ::::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::
 Tools are sets of objects that grant you an Item Die on one or more dice rolls. You only get this

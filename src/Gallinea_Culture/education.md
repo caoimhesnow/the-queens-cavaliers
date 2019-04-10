@@ -1,4 +1,4 @@
-# Education in Gallinea {.breakbefore}
+# Education in Gallinea {.cbreakbefore}
 
 Nearly all Gallineans are educated enough to read and write, especially in the larger
 cities. Literacy rates are lower but still high in rural areas.

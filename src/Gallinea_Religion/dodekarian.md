@@ -1,4 +1,4 @@
-# Dodekarianism {.breakbefore}
+# Dodekarianism {.cbreakbefore}
 
 Dodekarianism, or the Faith of the High Twelve, is the largest polytheistic religion in Elara.
 It originated in Ekalia long before the rise of the Qartan Empire, and even people who
@@ -23,6 +23,7 @@ commonly found on coins, flags, and other flat surfaces.
 The gods of the High Twelve are divided between female and male, with an implied
 equality between the two genders. The following table summarizes the High Twelve.
 
+:::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::
 Table: The High Twelve
 
 | Deity   | Gender | Sphere of Influence              | Symbol           |
@@ -39,6 +40,7 @@ Table: The High Twelve
 | Siobe   | Female | The Moon; Portents and Magicks   | Silver Moon      |
 | Sybrea  | Female | Motherhood; Animals              | White Swan       |
 | Teia    | Female | The Sun; Rulership               | Golden Disc      |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The average Dodekarist doesn't worship a single member of the High Twelve alone;
 "this is a single faith with a single pantheon, not a collection of twelve

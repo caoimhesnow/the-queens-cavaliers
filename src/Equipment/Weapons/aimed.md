@@ -1,10 +1,6 @@
 # Aimed Weapons
 
-::::::::: sourcebook ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-[]{.comingsoon}
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::
 :# Maximum Range?
 
 The tables below don't specify a maximum distance for long range. That's
@@ -63,6 +59,7 @@ long ranges.
     at least a Drop 1 penalty. If there is no Long Range listed for a
     weapon, it can't be used to attack at Long Range.
 
+:::::::::::::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Aimed Weapons
 
 | Weapon           | Cost | Hands          | Weapon Die   | Reload | Close  | Short  | Medium | Long   |
@@ -82,7 +79,7 @@ Table: Aimed Weapons
 | Rifled Musket    | D8   | Both           | Musket +1D10 | Drop 4 | Drop 1 | Drop 0 | Drop 0 | Drop 1 |
 | Thrown Dagger    | D0   | Either         | Knife +1D6   |        | Drop 0 | Drop 0 |        |        |
 | Thrown Spear     | D6   | Main           | Polearm +1D6 |        | Drop 1 | Drop 0 | Drop 1 |        |
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
   - **Arbalest:** Also known as a heavy crossbow, the arbalest is harder to use than a common crossbow but packs a larger punch.
   - **Arquebus:** A smaller and lighter musket with shorter range and less firepower.
@@ -100,8 +97,7 @@ Table: Aimed Weapons
   - **Thrown Dagger:** [A dagger doesn't have be reloaded, but you take a Drop 1 penalty to draw it as you would with any other weapon -- and once it's thrown, you don't have it any more.]{.gamestats} [The biggest problem with throwing a dagger is that once you throw it, you don't have it any more.]{.sourcebook}
   - **Thrown Spear:** [Like a dagger, a thrown spear must be drawn first but doesn't require ammunition.]{.gamestats} [Like a thrown dagger, throwing away your spear effectively disarms you.]{.sourcebook}
 
-:::::::::::::::::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::::::::::
 :# Ammunition
 
 Firing a musket or pistol uses a small amount of blackpowder and a
@@ -118,4 +114,3 @@ This applies even if you use someone else's weapon, or a
 weapon you just picked up -- you just don't track ammo for Aimed weapons
 in *The Queen's Cavaliers*. Except, of course, for explosive weapons.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

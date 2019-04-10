@@ -1,4 +1,4 @@
-## Dueling ## {.breakbefore}
+## Dueling ## {.cbreakbefore}
 
 The Dueling skill lets you make attacks using a dueling weapon, such as
 a sword, a knife, a quarterstaff, or even a pike.
@@ -20,7 +20,7 @@ close-up fight. It can be opposed by any Defense specialty.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Swords and polearms<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Swords and polearms<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** A Lunge can be defended against with any Defense roll.
 
@@ -73,7 +73,7 @@ Wounds.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Daggers and other knives<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Daggers and other knives<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** A Riposte can only be defended against by a Block or
 Dodge roll, and not by a Parry roll.

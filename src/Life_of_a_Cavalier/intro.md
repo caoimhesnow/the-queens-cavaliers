@@ -786,3 +786,4 @@ There is no doubt that Martine Deveaux will have learned the Cavalier’s names 
 lookout for them. She may decide in the future to even the score with them and take the initiative to do so:
 this is definitely not the last time the Cavaliers will hear from the Lady in Red.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

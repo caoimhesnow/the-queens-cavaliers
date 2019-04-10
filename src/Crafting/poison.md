@@ -48,7 +48,7 @@ creation.
 
 **Craft Standard Poison (1 unit of alchemical ingredients):** You create
 one dose of a standard type of poison with an Item Die of +1D6. Standard
-poisons are listed <a href="#poisons" class="xref-inchapter-under"></a>.
+poisons are listed <a href="#poisons" class="xref-inchapter-under">Poisons</a>.
 
 **Craft Antidote (1 unit of alchemical ingredients):** You create two
 doses of poison antidote. The antidote gives a +1D6 Item Die on attempts

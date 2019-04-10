@@ -1,4 +1,4 @@
-## Defense ## {.breakbefore}
+## Defense ## {.cbreakbefore}
 
 The Defense skill is used in combat to avoid taking damage. Whenever you
 are attacked, you can choose which of the appropriate Defense
@@ -34,7 +34,7 @@ is to break your weapon.
 names of famous duelists, identify the national origin of someone's
 fencing style.
 
-**Crafting:** Bucklers and extra shields<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Bucklers and extra shields<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** A Parry can be used against an attacker's Lunge, Feint,
 or Brawl roll, but not against a Riposte or Aim attack.
@@ -88,7 +88,7 @@ your own body.
 shield, remember the names of famous soldiers, identify the blacksmith's
 maker's mark on armor.
 
-**Crafting:** Rigid armor<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Rigid armor<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** A Block roll can be used to defend against an attacker's
 Lunge, Riposte, or Aim roll, but not against a Feint or Brawl attack.

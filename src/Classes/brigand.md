@@ -1,4 +1,4 @@
-# The Brigand 
+# The Brigand {.cbreakbefore}
 
 While Gallinea and most of the Elaran continent are long-settled, that
 doesn't always stop opportunists from engaging in banditry. The typical
@@ -9,9 +9,14 @@ Not all Brigands are necessarily cruel; there's a long history of folk
 heroes who rob from the corrupt rich and distribute their loot among the
 poor.
 
-:::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Chaplain, Dogsbody, Dragoon, Explorer, Fusilier, Privateer, Provincial, Veteran
 - **Suggested Passions:** Friends, Justice, Loyalty, Wealth
+
+::::::::::: sidebar :::::::::::::
+- Travel in Gallinea
+- The Legal System
+- Nature (Prowl)
+:::::::::::::::::::::::::::::::::
 
 ## Brigand Qualities
 
@@ -30,5 +35,4 @@ poor.
 - **Precise Bludgeoning:** Spend 2 Style Points to set the value of one Cudgel weapon die to its maximum value before rolling
 - **Last Resort:** Spend 1 Style Point to reroll a Defense roll
 - **Trick Shot:** When using a bow or crossbow, spend 1 Style Point to add Feint dice to an Aim roll
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

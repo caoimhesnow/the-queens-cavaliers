@@ -1,10 +1,10 @@
-# The Amazing Adventures of Alais de Neversette
+# *The Amazing Adventures of Alais de Neversette* {.cbreakbefore}
 
 In the year 1199 PQ, a previously unknown writer named M.E. Labouret published a 
 novel called *The Laughing Blade* that introduced a new character, Alais de Neversette.
 
 *The Laughing Blade* took Lutetia by storm, and for the last fifty years there has
-been at least one book published in the official line, *The Various Adventures of Alais Neversette* -- and many
+been at least one book published in the official line, *The Amazing Adventures of Alais Neversette* -- and many
 other knock-off novels -- save for the darkest year of 1244.
 
 ## Alais de Neversette
@@ -64,12 +64,11 @@ have had higher profile performances -- although none in front of a royal audien
 Alais de Neversette: Alais de Neversette and the Hidden Reef" is one of the largest crowd-pleasers, 
 and has given young Lutetians the idea that all pirates are singing pirates.
 
-:::::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :# Random Alais de Neversette Book Title Generator
 
 Nearly all of the Alias stories follow this naming pattern:
 
-The **[GENRE]** Adventures of Alais de Neversette: Alais de Neversette and **[optional prepositional phrase]** the **[adjective]** **[noun]**
+The **GENRE** Adventures of Alais de Neversette: Alais de Neversette and **optional-prepositional-phrase** the **adjective** **noun**
 
 You can create your own Alais titles by using the following tables.
 
@@ -122,6 +121,7 @@ Table: Alais de Neversette Prepositional Phrases
 
 Roll 1D10 and 1D6 to select an adjective.
 
+:::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Alais de Neversette Adjectives
 
 | D10 Roll | D6 = 1     | D6 = 2      | D6 = 3       | D6 = 4      | D6 = 5       | D6 = 6         |
@@ -136,9 +136,11 @@ Table: Alais de Neversette Adjectives
 | 8        | Petrified  | Rusted      | Scanbrian    | Second      | Secret       | Serican        |
 | 9        | Seventh    | Shadowy     | Shipwrecked  | Silver      | Stolen       | Suspicious     |
 | 10       | Talanian   | Ultimate    | Uncovered    | Unlucky     | Varendish    | *none*         |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Roll 1D10 and 1D6 to select a noun.
 
+:::::::::::::::::::::::::::::: colspan :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 Table: Alais de Neversette Nouns
 
 | D10 Roll | D6 =   1        | D6 =   2        | D6 =   3        | D6 =   4        | D6 =   5        | D6 =   6        |
@@ -153,8 +155,7 @@ Table: Alais de Neversette Nouns
 | 8        | Pistol          | Priestess       | Princess        | Relic           | Riddle          | Scroll          |
 | 9        | Secret          | Smuggler        | Spy             | Statue          | Sword           | Tavern          |
 | 10       | Temple          | Throne          | Tome            | Tower           | Warhorse        | Web             |
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::
 Rachel is running a game of *The Queen's Cavaliers* and decides to hide a

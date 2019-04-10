@@ -7,10 +7,10 @@ determine the scale of most items, but for some items a scale is
 explicitly listed in the lists that follow.
 
 The scale concept is used in the optional rules for Encumbrance, later
-in this chapter, as well as for clockwork devices <a href="#clockworks-2" class="xref-inchapter-under"></a> 
-and animals <a href="#animals" class="xref-inchapter"></a>.
+in this chapter, as well as for clockwork devices <a href="#clockworks-2" class="xref-inchapter-under">Clockworks</a> 
+and animals <a href="#animals" class="xref-inchapter">Animals</a>.
 
- Pocket Scale
+## Pocket Scale
 
 A pocket-scale device is light, easily concealed, requires only one hand
 to operate, and can be carried within a pocket or beneath clothing

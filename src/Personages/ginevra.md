@@ -1,4 +1,4 @@
-# Ginevra de Hiedra {.breakbefore}
+# Ginevra de Hiedra {.cbreakbefore}
 
 ::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::
 ![Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron](assets/Portraits/Medium/ginevra-de-hiedra-y-obispo.jpg "Comodora Ginevra de Hiedra y Obispo, by Eleanor Ferron")

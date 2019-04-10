@@ -43,7 +43,7 @@ creation.
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
 **Brew Alchemical Substance (1 unit of alchemical ingredients):** You
-create one dose of a salve or draught listed <a href="#alchemical-items" class="xref-inchapter-under"></a>.
+create one dose of a salve or draught listed <a href="#alchemical-items" class="xref-inchapter-under">Alchemical Items</a>.
 The substance has a Charm Die of +1D6.
 
 **Create medicine (1 unit of alchemical ingredients):** You create two

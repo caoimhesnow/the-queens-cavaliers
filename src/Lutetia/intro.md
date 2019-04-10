@@ -1,6 +1,6 @@
 # Lutetia
 
-:::::::::::::::::::::::::::: country :::::::::::::::::::::::::::
+:::::::::::::::::::::::: country :::::::::::::::::::::::::::
 :# The City of Lutetia 
 
 ![Lutetia and surroundings, by Robert Altbauer](assets/Maps/Details/Gallinea/Lutetia-and-surroundings.jpg "Lutetia and surroundings, by Robert Altbauer")
@@ -15,7 +15,7 @@
 | Major Religions | Asrian                                 |
 | Demonym         | Lutetian                               |
 | Adjective       | Lutetian                               |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Lutetia is a large metropolis of over 550,000 permanent residents that
 sprawls across both banks of the Luisante river and four islands,

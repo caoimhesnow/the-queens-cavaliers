@@ -1,4 +1,4 @@
-# The Barrister 
+# The Barrister {.cbreakbefore}
 
 When someone is accused of a crime anywhere in Elara or wishes to sue
 another person, she will usually be represented in court by a Barrister.
@@ -10,9 +10,14 @@ others can be hired by those with enough money – usually only the rich.
 A recent and controversial policy in Gallinea allows for the indigent
 poor to be represented by public defenders, paid for by the Crown.
 
-:::::::::::::::::::::::::::::: gamestats ::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Chaplain, Constable, Courtier, Envoy, Visionary
 - **Suggested Passions:** Family, Justice, Loyalty, Pride
+
+::::::::::::: sidebar ::::::::::::
+- The legal system
+- The Palace of Justice
+- La Roche
+::::::::::::::::::::::::::::::::::
 
 ## Barrister Qualities
 
@@ -34,5 +39,4 @@ poor to be represented by public defenders, paid for by the Crown.
 - **Practiced Diplomacy:** Spend 2 Style Points to set the value of one Negotiate die to its maximum value before rolling
 - **Social Reliability:** Spend 1 Style Point to reroll an Interaction roll
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -1,4 +1,4 @@
-# Gabriana Secouriste {.breakbefore}
+# Gabriana Secouriste {.cbreakbefore}
 
 :::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::
 ![Cavalier Gabriana Secouriste, by Eleanor Ferron](assets/Portraits/Medium/gabriana-secouriste.jpg "Cavalier Gabriana Secoursite, by Eleanor Ferron")

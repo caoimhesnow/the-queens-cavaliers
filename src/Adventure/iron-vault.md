@@ -142,3 +142,4 @@ tries to escape.
 *What happens here:* The Queen lifts the edict against the Cavaliers
 because they are exonerated, and the players are officially inducted
 into the Queen's Cavaliers.
+

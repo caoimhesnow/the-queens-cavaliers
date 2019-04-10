@@ -1,4 +1,4 @@
-### The Witch
+### The Witch {.cbreakbefore}
 
 An ancient tradition that predates the Qartan Empire, the Witches of
 Gallinea are experts at folk remedies, herbal lore, midwifery, and
@@ -9,9 +9,14 @@ absolutely necessary.
 Some Witches are publicly known as such, but most keep their rituals
 secret from the authorities, remembering past periods of persecution.
 
-::::::::::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Provincial, Virtuosa
 - **Suggested Passions:** Faith, Family, Friends, Love
+
+::::::::: sidebar ::::::::::::
+- Magicks (Portents)
+- Witchcraft in Gallinea
+- The Old Faith
+::::::::::::::::::::::::::::::
 
 #### Witch Qualities
 - **Skill Competency:** Magicks, Medicine, Nature, Streetwise
@@ -29,5 +34,4 @@ secret from the authorities, remembering past periods of persecution.
 - **Ritual Reliability:** Spend 1 Style Point to reroll a Magicks roll
 - **Second Opinion:** Spend 1 Style Point to reroll a Medicine roll
 - **Uncanny Prediction:** Spend 2 Style Points to set the value of one Portents die to its maximum value before rolling
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

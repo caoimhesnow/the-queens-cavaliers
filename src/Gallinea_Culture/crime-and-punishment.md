@@ -1,4 +1,4 @@
-# Crime and Punishment {.breakbefore}
+# Crime and Punishment {.cbreakbefore}
 
 Crime in Gallinea isn't exactly rampant, but it's not unknown either.
 Especially during times of chaotic upheaval or great need, people

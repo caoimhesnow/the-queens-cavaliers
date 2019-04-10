@@ -334,3 +334,4 @@ Table: Rewards
 | ----------------- | -------------------------------------------------------------------------------------------- |
 | Experience Points | 1 XP for each cavalier                                                                       |
 | Monetary Rewards  | 1D6 Reward from Landgraf von Stimmt, 1D8 Reward from Marquise de Montambre for each cavalier |
+

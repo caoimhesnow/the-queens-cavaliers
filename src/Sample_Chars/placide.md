@@ -11,7 +11,7 @@
 Placide is an agender individual who doesn't consider ielself to be either
 male or female. Iem uses the *iel / iem / ier / ielself* pronouns instead of
 *she* or *he*. For more on agender characters in world of *The Queen's Cavaliers*, 
-see <a href="#gender" class="xref-inchapter-under"></a>.
+see <a href="#gender" class="xref-inchapter-under">Gender</a>.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Placide was orphaned in Ekalia as a young child. By 10, iel had been taken aboard a

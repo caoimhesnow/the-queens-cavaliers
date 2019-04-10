@@ -1,4 +1,4 @@
-# Measuring Distance
+# Measuring Distance {.cbreakbefore}
 
 Various units of measurement are used throughout Elara and Ifran, most of which are based on the Qartan Empire's standardized units. 
 The units on this page are those used in Gallinea, 

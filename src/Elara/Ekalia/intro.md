@@ -1,4 +1,4 @@
-# Ekalia #                                                  {.breakbefore}
+# Ekalia #                                                  {.cbreakbefore}
 
 :::::::::::::::::::::::::::::::: country :::::::::::::::::::::::::::::::::
 :# The Ekalian Republic

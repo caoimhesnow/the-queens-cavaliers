@@ -1,4 +1,4 @@
-# Medicine ## {.breakbefore}
+# Medicine ## {.cbreakbefore}
 
 Medical science is relatively advanced in Elara, thanks to both a long
 history of witch-midwives and alchemy, and recent advances in science.
@@ -102,7 +102,7 @@ must be healed using the Surgery specialty.
 disease, determine the cause of an injury, recall facts about a known
 illness and useful folk cures for the same.
 
-**Crafting:** Cures for diseases and other medical supplies<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Cures for diseases and other medical supplies<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Base Time:** Treating a wound or removing Yield takes one minute, and
 treating diseases or applying cures takes one hour.
@@ -303,13 +303,13 @@ be poisoned directly, or poison can be applied to a weapon.
 
 **Standard Poisons:** The following types poisons are commonly used
 throughout Elara and Ifran: deadly poison, impairing poison, and sleep
-poison. See <a href="#poison" class="xref-inchapter-under"></a> for more details.
+poison. See <a href="#poison" class="xref-inchapter-under">Crafting</a> for more details.
 
 **Knowledge Rolls:** Identify a poison without being exposed to it,
 diagnose someone suffering from poison based on the effects, determine
 whether or not an item of food is safe to consume.
 
-**Crafting:** Poisons and antidotes<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Poisons and antidotes<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Opposition:** Applying poison to your own weapon is an automatic
 success, with the number of success points determining how many times

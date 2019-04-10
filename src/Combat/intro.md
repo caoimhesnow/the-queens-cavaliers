@@ -16,7 +16,7 @@ character Advantage in the combat – such as a Prowl roll or a Strategy
 roll. All Success Points from such rolls can only be spent on Advantage,
 and only one roll of a given type can be made. Success Points from these
 rolls cannot be spent on gaining Style Points. 
-<a href="#advantage" class="xref-capital-seesection"></a> for more about
+<a href="#advantage" class="xref-capital-seesection">Advantage</a> for more about
 advantage.
 
 ### Surprise

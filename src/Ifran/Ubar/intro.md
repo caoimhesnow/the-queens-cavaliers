@@ -1,4 +1,4 @@
-# Ubar {.breakbefore}
+# Ubar {.cbreakbefore}
 
 []{.comingsoon}
 

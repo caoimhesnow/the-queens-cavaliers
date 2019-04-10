@@ -34,7 +34,7 @@ measured in terms of "units" -- each unit of supplies is an abstract
 amount of the materials for making the simplest item of a given type.
 
 Supplies can be purchased as shown in the following table. All supplies
-can be bought in bulk<a href="#making-a-wealth-roll" class="xref-asdesc-insection"></a>.
+can be bought in bulk<a href="#making-a-wealth-roll" class="xref-asdesc-insection">Making a Wealth Roll</a>.
 
 Table: Supplies
 
@@ -86,7 +86,7 @@ charges just waiting for you to come along.
 
 ## Workrooms
 
-Basic sets of handheld tools are described <a href="#tools-of-the-trade" class="xref-insection"></a>,
+Basic sets of handheld tools are described <a href="#tools-of-the-trade" class="xref-insection">Tools of the Trade</a>,
 and can be used as an Item Die on appropriate crafting rolls.
 
 However, most serious crafting work is done in some kind of dedicated
@@ -147,7 +147,7 @@ Table: Success Limits
 
 ## Tag Dice
 
-<a href="#using-skills" class="xref-capital-asdesc-insection"></a> Tag Dice are a type
+<a href="#using-skills" class="xref-capital-asdesc-insection">Using Skills</a> Tag Dice are a type
 of Bonus Dice that are tied to a specific concept. This could be a
 single word, an emotion, a Passion, a phrase, or other abstract
 constructions. The crafting description for each Specialty describes how
@@ -279,7 +279,7 @@ Table: Rushing a One-Day Task
 ## Weapon Qualities
 
 When you craft a weapon, it's assumed to be a "stock" version of that
-weapon<a href="#weapons" class="xref-inchapter-under"></a>.  If you want to add
+weapon<a href="#weapons" class="xref-inchapter-under">Weapons</a>.  If you want to add
 something extra to a crafted weapon, you can add a Weapon Quality to
 that weapon. Each specialty's crafting description lists which qualities
 can be given to each type of weapon. The maximum number of Weapon

@@ -1,4 +1,4 @@
-# Mariana  {.breakbefore}
+# Mariana  {.cbreakbefore}
 
 :::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::
 ![Queen Mariana II, by Eleanor Ferron](assets/Portraits/Medium/queen-mariana.jpg "Queen Mariana II, by Eleanor Ferron")

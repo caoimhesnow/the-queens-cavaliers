@@ -1,4 +1,4 @@
-# Jennevive d'Angelet {.breakbefore}
+# Jennevive d'Angelet {.cbreakbefore}
 
 The Duchess of Scanbreille, Jennevive d'Angelet, has traceable descent from the line of Scanbrin queens going
 back to just after the fall of Qarta, and claims unverifiable ancestry of pre-Qartan kings from long ago.

@@ -1,4 +1,4 @@
-## Streetwise ## {.breakbefore}
+## Streetwise ## {.cbreakbefore}
 
 Streetwise skill covers the ability to survive and prosper in a medium
 or large city, sometimes relating to people of varying Social Ranks.
@@ -112,7 +112,7 @@ Drop 2 penalty on Carouse rolls.
 identify the type and origin of liquor with a taste, recall your
 companion(s) in previous drunken trysts.
 
-**Crafting:** Beer, ale, wine, and other alcoholic beverages<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:** Beer, ale, wine, and other alcoholic beverages<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Item Die:** If you buy a round of drinks for everyone in a tavern, you 
 can add the highest die in its cost to your Carousing roll as an Item
@@ -196,7 +196,7 @@ to purchase stolen goods on the black market.
 quality of a lock or door, recall the names and rap sheets of famous
 criminals.
 
-**Crafting:**  Locks, traps, alarms, and forgeries<a href="#crafting" class="xref-asdesc-insection"></a>.
+**Crafting:**  Locks, traps, alarms, and forgeries<a href="#crafting" class="xref-asdesc-insection">Crafting</a>.
 
 **Rushing:** You can reduce the time to perform a Larceny roll by taking
 a Drop penalty on your die roll. The size of the Drop penalty depends on

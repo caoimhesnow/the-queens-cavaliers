@@ -1,4 +1,4 @@
-# Government of Gallinea {.breakbefore}
+# Government of Gallinea {.cbreakbefore}
 
 As a nation, Gallinea is a hetereditary monarchy, with ultimate power vested
 in the Queen (or, in rare cases, the King if the monarch is male).
@@ -13,29 +13,6 @@ Convocation of Veterans all share a measure of power that dperives from the
 Pegasus Throne.
 
 ## The Queen and Royal Family
-
-::::::::::::::::::::::::::::::::::::::: sidebar :::::::::::::::::::::::::::::::::
-:# The Queen's Consent or Assent
-
-For a proposal of any kind to become a law, it must be written down and conveyed
-in writing to the Queen. In theory, any resident of Gallinea can send a proposal
-to the Queen, but in practice, they originate with one of the royal ministries,
-the Parliament of Nobles, the Assembly of Guilds, or the Convocation of Veterans.
-
-The Queen can take one of three possible responses:
-
-   - **Assent:** If the Queen personally approves of a proposal, she
-     can, with whatever editing she wishes, issue the proposal as a royal
-     proclamation.
-
-   - **Denial:** If the Queen disapproves of a proposal, she can reject it.
-     A rejected proposal is sent back to the originator.
-
-   - **Consent:** If the Queen doesn't respond within 30 days to a proposal 
-     submitted by the Parliament, the Assembly, the Convocation, or a royal
-     ministry, it assumed that she has no objections and the proposal becomes
-     law of the land.
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 The Queen rules Gallinea. No laws can go into effect without her consent or assent.
 She has the power to overturn any precedent set by her predecessors, although most
@@ -71,7 +48,8 @@ sister or, if lacking sisters, to the oldest brother. And if there are no siblin
 succession moves up a generation, to the previous queen's oldest sister, or her daughters,
 if there are any.
 
-:::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::::::::::::::::
+### Queen Mariana's Successor
+
 Were something to -- *Eserre forfend!* -- happen to Queen Mariana, the next monarch of
 Gallinea would be chosen as follows:
 
@@ -105,8 +83,29 @@ Table: Order of Succession
 One pecularity exists: Jean-Remy is actually older than Dyann, and was born Princess
 Renee. His transition to male moved him down the order of succession from 2nd to
 6th. As far as is known, Jean-Remy has only one child, his 5-year-old son, Jehan.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::: boxtext :::::::::::::::::::::::::::::::::
+:# The Queen's Consent or Assent
+
+For a proposal of any kind to become a law, it must be written down and conveyed
+in writing to the Queen. In theory, any resident of Gallinea can send a proposal
+to the Queen, but in practice, they originate with one of the royal ministries,
+the Parliament of Nobles, the Assembly of Guilds, or the Convocation of Veterans.
+
+The Queen can take one of three possible responses:
+
+   - **Assent:** If the Queen personally approves of a proposal, she
+     can, with whatever editing she wishes, issue the proposal as a royal
+     proclamation.
+
+   - **Denial:** If the Queen disapproves of a proposal, she can reject it.
+     A rejected proposal is sent back to the originator.
+
+   - **Consent:** If the Queen doesn't respond within 30 days to a proposal 
+     submitted by the Parliament, the Assembly, the Convocation, or a royal
+     ministry, it assumed that she has no objections and the proposal becomes
+     law of the land.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 ## Ministers of the Court
 
 Each minister of the court is assigned a specific portfolio and is the Queen's primary advisor

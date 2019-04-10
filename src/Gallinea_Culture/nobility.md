@@ -1,4 +1,4 @@
-# Nobility in Gallinea {.breakbefore}
+# Nobility in Gallinea {.cbreakbefore}
 
 The 46 provinces that comprise Gallinea evolved from the feudal system of
 the 7th and 8th centuries following the fall of Qarta. These provinces continue

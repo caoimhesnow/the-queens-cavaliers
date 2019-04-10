@@ -1,9 +1,8 @@
-# Carolus {.breakbefore}
+# Carolus {.cbreakbefore}
 
 ::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::::
 ![Prince-Consort Carolus, by Eleanor Ferron](assets/Portraits/Medium/prince-carolus.jpg "Prince-Consort Carolus, by Eleanor Ferron")
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 
 Most Lutetians would describe Carolus, prince-consort of Gallinea and husband to 
 Queen Mariana, as hopelessly befuddled. They're not really wrong. 

@@ -1,4 +1,4 @@
-# Qartan Empire {.breakbefore}
+# Qartan Empire {.cbreakbefore}
 
 []{.comingsoon}
 

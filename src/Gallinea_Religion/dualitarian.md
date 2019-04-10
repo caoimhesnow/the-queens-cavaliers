@@ -1,4 +1,4 @@
-# Dualitarianism {.breakbefore}
+# Dualitarianism {.cbreakbefore}
 
 Dualitarianism is a uniquely Albian heresy developed in the last two centuries, 
 holding that the Goddess-Empress Ashra and the Desert Mother Devra are the same being,

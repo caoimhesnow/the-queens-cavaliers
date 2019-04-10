@@ -51,7 +51,7 @@ that is social rank Royal (D12).
 
 **Add Charm to Clothing:** You add a charm to the article you created,
 with a Charm Die of +1D6. The item must be in accordance with the
-applicable Laws of Fashion, described <a href="#the-nine-laws-of-fashion" class="xref-inchapter-under"></a>.
+applicable Laws of Fashion, described <a href="#the-nine-laws-of-fashion" class="xref-inchapter-under">Nine Laws of Fashion</a>.
 
 **Increase Charm (1 unit of fabric):** The Charm Die of the article of
 clothing improves by one die size. You are limited by the number of

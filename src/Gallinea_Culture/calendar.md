@@ -1,4 +1,4 @@
-# The Gallinean Calendar {.breakbefore}
+# The Gallinean Calendar {.cbreakbefore}
 
 Years in Elara are measured from the abandonment of Qarta (Post Qarta), which dates to 1 PQ. Dates before 1 PQ are dated backwards with Before Qarta (BQ). A year without PQ/BQ notation is presumed to be PQ.
 

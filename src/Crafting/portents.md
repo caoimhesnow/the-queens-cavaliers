@@ -48,7 +48,7 @@ limited by the number of specialty ranks you have in Magicks (Portents).
 
 **Encharm Bibelot (1 unit of art media):** You create a single bibelot
   encharmed with a skill of your choice. More details on bibelots can
-  be found <a href="#bibelots" class="xref-inchapter-under"></a>.
+  be found <a href="#bibelots" class="xref-inchapter-under">Bibelots</a>.
 
 **Create Divination Cards (5 units of art media):** You create a
 personalized deck of divination cards, either for yourself or for

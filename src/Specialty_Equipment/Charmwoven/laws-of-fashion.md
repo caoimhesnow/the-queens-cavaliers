@@ -91,7 +91,7 @@ Dueling or Military (Aim), while gloves for craftsmen can be charmed for
 Magicks, Medicine, or Science.
 
 Pertinent skills for any given type of clothing are found later in this chapter
-<a href="#creating-charmwoven-clothing" class="xref-insection"></a>,
+<a href="#creating-charmwoven-clothing" class="xref-insection">Creating Charmwoven Clothing</a>,
 which also summarizes which types of charms can be applied to which pieces of attire.
 
 ## The Fourth Law: The Law of Dissonance
