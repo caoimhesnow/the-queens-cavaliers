@@ -1,6 +1,4 @@
-:::::::::::::::::::: gamestats :::::::::::::::::::::::::::::::::::::::::::::::::
-## Option: Random Backstories ## 
-
+## Random Backstories {.breakbefore} ## 
 
 This is an optional method of character creation that allows you to roll
 randomly on a series of tables (or, with your MJ's permission, pick from
@@ -780,19 +778,19 @@ You are the survivor of a bloody war and countless battles.
   battle, spend 1 Style Point to add Block dice to an Inspire roll)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::: example :::::::::::::::::::::::::::::::::::::
-[Backstory-Based Character Creation]{.boxh2}
+::::::::::::::::::::::::::::::: example ::::::::::::::::::::::::::::::::::::::::::::::
+:# Backstory-Based Character Creation
 
 Dani decides to roll up a character using the optional random backstory
 system instead of choosing two classes.
 
-[Regional or National Origin]{.boxh2}
+:# Regional or National Origin
 
 Dani rolls a 12 on the table, meaning she's from Varendia. She adds the
 Varendish language and the skills Military and Nature to her character
 sheet.
 
-[Parentage]{.boxh2}
+:# Parentage
 
 With a roll of 8, one of Dani's parents was a retired Cavalier. She adds
 the Gallinean langague, skill competency in Dueling, one rank in Lunge,
@@ -803,7 +801,7 @@ Dani also has to answer the question, “What notable deed did your parent
 perform in the name of the Queen?” Dani decides that her mother stopped
 an Albian airship from bombing Castenia during the Twenty Years' War.
 
-[Pivotal Event of Childhood]{.boxh2}
+:# Pivotal Event of Childhood
 
 Rolling a d8, Dani gets a 1, and finds that someone in her family died.
 She decides this was her father, and that his unexpected death caused
@@ -814,7 +812,7 @@ In answer to the question “What did your relative tell you before they
 died?” Dani decides that her dying father told her to never turn her
 back on someone in need.
 
-[Education]{.boxh2}
+:# Education
 
 Dani rolls a result of 11 on the education table, meaning that she
 attended the royal universities in Lutetia. This gives her the Gallinean
@@ -827,7 +825,7 @@ To answer the question “Why did a stranger pay for your expensive
 education?” she decides that the Duchess of Castenia paid for her
 education in recognition of her mother's bravery during the last war.
 
-[Pivotal Event of Adulthood]{.boxh2}
+:# Pivotal Event of Adulthood
 
 Dani rolls a 1 on the final table, getting “Clandestinely Recruited.”
 This gives her competency in Medicine and Streetwise, and one rank each
@@ -838,7 +836,7 @@ passion and Do You Expect Me To Talk? as a style maneuver.
 distrusts her superior because she has been asked to spy on her fellow
 members of the Queen's Cavaliers.
 
-[Backstory Summary]{.boxh2}
+:# Backstory Summary
 
 Dani was born in Varendia to a Gallinean mother and a Varendish father.
 Her mother had distinguished herself during the war between Albia and
@@ -866,7 +864,7 @@ back to him on the actions of her fellow cavaliers.
   +1D6 about history of Gallinea, notable cavaliers, Varendish nobles, and
   types of poisons)
 
-[Further Customization]{.boxh2}
+:# Further Customization
 
 Dani is now free to spend her customizations to further shape her
 character to fit the concept she'd like to play. Dani can also spend her
@@ -875,4 +873,3 @@ free).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
