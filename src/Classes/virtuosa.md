@@ -1,11 +1,18 @@
 ### The Virtuosa {.cbreakbefore}
 
-:::::::::::::::::::::::::::::: pic-outside :::::::::::::::::::::::::::::::::::
-![Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron](assets/Scenes/Medium/scarlet-party.jpg "Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron")
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A Virtuosa is a master performer or artist, creating beautiful works of
 art, music, or drama. Virtuosas can be singers, actors, painters,
 playwrights, sculptors, musicians, composers, poets, and other artists.
+
+::::::::::: sidebar ::::::::::::::
+[Virtuosas]{.further}
+
+- [Culture (Arts)](#arts){.xref-useful}
+- [Interaction (Inspire)](#inspire){.xref-useful}
+- [Le Théâtre du Monde, in Lutetia](#le-théâtre-du-monde){.xref-useful}
+- [Le Théâtre de la Rive, in Lutetia](#le-théâtre-de-la-rive){.xref-useful}
+- [Alais de Neversette, fictional character](#the-amazing-adventures-of-alais-de-neversette){.xref-useful}
+::::::::::::::::::::::::::::::::::
 
 Being an effective Virtuosa requires training in the arts and history,
 plus a great degree of innate talent. Virtuosas are well-respected
@@ -14,15 +21,12 @@ throughout society, especially among the upper classes.
 - **Suggested Classes:** Chaplain, Charmweaver, Courtier, Envoy, Privateer, Visionary
 - **Suggested Passions:** Artistry, Friends, Pride, Wealth
 
-::::::::::: sidebar ::::::::::::::
-- Culture (Arts)
-- Interaction (Inspire)
-- Alais de Neversette
-- The Theater
-- The Other Theater
-::::::::::::::::::::::::::::::::::
-
 #### Virtuosa Qualities
+
+:::::::::::::::::::::::::::::: pic-right :::::::::::::::::::::::::::::::::::
+![Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron](assets/Scenes/Medium/scarlet-party.jpg "Partygoers enjoying a Virtuosa's singing, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 - **Skill Competency:** Culture, Streetwise
 - **Specialties:** Culture (Arts +1, Etiquette +1), Interaction (Inspire +1, Negotiate +1), Streetwise (Banter +1, Carouse +1)
 - **Weapon Prowess:** Knife, Sword

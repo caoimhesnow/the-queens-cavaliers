@@ -5,15 +5,21 @@ tricksters who rely on their wits to defraud others. Many will hawk
 medicinal cure-alls or sell fraudulent nostrums, only to vanish when an
 angry crowd returns wanting their money back.
 
+:::::::::::: sidebar ::::::::::
+[Charlatans]{.further}
+
+- [Interaction (Deceive)](#deceive){.xref-useful}
+- [Streetwise (Larceny)](#larceny){.xref-useful}
+- [Crime and Punishment in Gallinea](#crime-and-punishment){.xref-useful}
+- [Les Ruelles, major Lutetian marketplace](#les-ruelles){.xref-useful}
+:::::::::::::::::::::::::::::::
+
+Charlatans will often fall back on their other class to avoid suspicion,
+although their own greedy natures can often trip them up.
+
 - **Suggested Classes:** Alchemist, Dogsbody, Chirurgeon, Mechanician, Provocateur, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
 
-:::::::::::: sidebar ::::::::::
-- Gallinean legal system
-- Interaction (Deceive)
-- Streetwise (Larceny)
-- Lutetian marketplace
-:::::::::::::::::::::::::::::::
 
 ## Charlatan Qualities
 

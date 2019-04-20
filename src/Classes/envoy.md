@@ -1,12 +1,18 @@
 ### The Envoy {.cbreakbefore}
 
-::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::::::::::::
-![Envoys frequently have heated debates, by Eleanor Ferron](assets/Scenes/Medium/ambassadors.jpg "Envoys frequently have heated debates, by Eleanor Ferron")
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 An Envoy is a diplomatic representative, usually of a country, province,
 or other political group, although some represent religious groups or
-trade unions. [An Envoy character should identify who she works for at
-the start of the game (although her allegiance may change during play).]{.gamestats}
+trade unions. An Envoy character should identify who she works for at
+the start of the game (although her allegiance may change during play).
+
+:::::::::::: sidebar ::::::::::::
+[Envoys]{.further}
+
+- [Nations of Elara](#the-countries-of-elara){.xref-useful}
+- [Nations of Ifran](#the-countries-of-ifran){.xref-useful}
+- [International travel](#five-if-by-land-two-if-by-sea){.xref-useful}
+- [Lord-Ambassador Bedyngford of Albia](#bedyngford){.xref-useful}
+:::::::::::::::::::::::::::::::::
 
 Envoys are usually well-traveled and skilled at reading people and
 reaching compromises.
@@ -14,14 +20,11 @@ reaching compromises.
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Provocateur, Speaker
 - **Suggested Passions:** Church, Country, Knowledge, Loyalty 
 
-:::::::::::: sidebar ::::::::::::
-- International travel
-- Nations of Elara
-- Nations of Ifran 
-- Lord-Ambassador Bedyngford
-:::::::::::::::::::::::::::::::::
-
 #### Envoy Qualities
+
+::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::::::::::::::
+![Envoys frequently have heated debates, by Eleanor Ferron](assets/Scenes/Medium/ambassadors.jpg "Envoys frequently have heated debates, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Skill Competency:** Culture, Nature
 - **Specialties:** Culture (Etiquette +1), Interaction (Inspire +1, Negotiate +1), Nature (Explore +1), Observation (Perceive +1, Intuition +1)

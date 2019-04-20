@@ -5,17 +5,21 @@ diseases and injuries, and performs major surgeries. They are often
 called upon to heal battlefield injuries, such as musket wounds or
 arrows to the knee.
 
+::::::::::::: sidebar :::::::::::::
+[Chirurgeons]{.further}
+
+- [Medicine (Treat)](#treat){.xref-useful}
+- [Medicine (Surgery)](#surgery){.xref-useful}
+- [Medical Science in Gallinea](#medicine-2){.xref-useful}
+- [Diseases](#diseases){.xref-useful}
+- [Elaran Plague](#elaran-plague){.xref-useful}
+- [L'Infirmerie, Lutetia's largest hospital](#linfirmerie){.xref-useful}
+:::::::::::::::::::::::::::::::::::
+
 Chirurgeons often wear black bird-headed Plague Masks when treating
 their patients; many of these are charmwoven to improve their surgical
 skills. Chirurgeons are not adverse to using magicks when appropriate,
 including alchemical remedies.
-
-::::::::::::: sidebar :::::::::::::
-- Medicine (Treat)
-- Medicine (Surgery)
-- Medical Science in Gallinea
-- L'hospital
-:::::::::::::::::::::::::::::::::::
 
 - **Suggested Classes:** Alchemist, Charlatan, Courtier, Mechanician, Visionary
 - **Suggested Passions:** Artistry, Faith, Pride, Wealth

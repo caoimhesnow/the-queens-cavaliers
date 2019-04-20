@@ -6,6 +6,18 @@ rival organization, or may be a freelance fencer who runs her own
 dueling school. Quite a few actors have been known to take up dueling as
 well.
 
+:::::::: sidebar :::::::::::::
+[Duelists]{.further}
+
+- [Defense (Parry)](#parry){.xref-useful}
+- [Dueling (Lunge)](#lunge){.xref-useful}
+- [Dueling (Riposte)](#riposte){.xref-useful}
+- [Dueling Weapons](#dueling-weapons){.xref-useful}
+- [The Queen's Cavaliers](#the-queens-cavaliers){.xref-useful}
+- [The Citadel, in Lutetia](#the-citadel){.xref-useful}
+- [Alais de Neversette, fictional duelist](#the-amazing-adventures-of-alais-de-neversette){.xref-useful}
+::::::::::::::::::::::::::::::
+
 Duelist is appropriate to accompany any other class in *The Queen's
 Cavalier.* As swordfighting is so prevalent in the game, the Duelist
 class is a natural choice for all character concepts.
@@ -15,12 +27,6 @@ In other words, if you can't decide on a second class, choose Duelist.
 - **Suggested Classes:** Any
 - **Suggested Passions:** Any
 
-:::::::: sidebar :::::::::::::
-- Dueling Skill
-- Dueling Weapons
-- The Queen's Cavaliers
-- The Citadel
-::::::::::::::::::::::::::::::
 
 #### Duelist Qualities
 - **Skill Competency:** Dueling, Military, Streetwise

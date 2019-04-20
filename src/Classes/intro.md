@@ -1,13 +1,14 @@
 # Classes
 
+::::::::::::::::::: pic-bottom ::::::::::::::::::::::::::::::::::::
+![Characters are a composite of two classes, by Eleanor Ferron](assets/Scenes/Medium/character.jpg "Characters are a composite of two classes, by Eleanor Ferron")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Your character in *The Queen's Cavaliers* is a composite of two classes.
 Each class provides you with half of your starting skill competencies,
 specialties, weapon and armor prowess, social rank, starting gear, and
 style Maneuvers.
 
-::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::::
-![Cavalier, by Eleanor Ferron](assets/Scenes/Medium/character.jpg "Cavalier, by Eleanor Ferron")
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 The various classes can be divided up into three basic categories:
 skilled classes, social classes, and fighting classes. These are shown
 on the following tables.
@@ -27,46 +28,68 @@ class, or two social classes.
 Finally, if you want to build a character who excels at combat but not
 at much else, choose two fighting classes.
 
-You don't have to choose your classes if you don't feel inspired;
-instead you can roll 1D8 for each one. Feel free to reroll if you don't
-like your original results!
+::::::::::::::::::::::::::::: sidebox :::::::::::::::::::::::::::::::::::::::::::
+:# Additional Classes
+
+<a href="#the-countries-of-elara" class="xref-capital-inchapter">Countries of Elara</a>; 
+<a href="#the-countries-of-ifran" class="xref-inchapter">Countries of Ifran</a>; and
+<a href="#the-colonies-of-west-ifran" class="xref-inchapter">Colonies of West Ifran</a>, 
+additional classes for each of Gallinea's neighbors are described. Those are:
+
+Table: National Classes
+
+| Country        | Classes                 |
+| :------------- | :---------------------- |
+| Albia          | Huntsman, Pilgrim       |
+| Dragosa        | Hanaster, Lexicographer |
+| Ekalia         | Parroteer, Sybil        |
+| Ondala         | Cocinera, Theologian    |
+| Talania        | Skomorokh, Toymaker     |
+| Varendia       | Engineer, Mountaineer   |
+| Northern Ifran | Faris, Stargazer        |
+| West Ifran     | Collier, Moon-Curser    |
+
+Each of these classes adds a specific cultural flavor. If your character
+is not from the listed country, talk to the MJ to see if you can still
+choose one of these classes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Table: Fighting Classes
 
-| 1D8 | Class      | Summary                                   |
-| --- | ---------- | ----------------------------------------- |
-| 1   | Brigand    | Outlaw highwayperson                      |
-| 2   | Constable  | Duly appointed law enforcement officer    |
-| 3   | Dragoon    | Professional soldier in heavy armor       |
-| 4   | Duelist    | Expert swordsperson and fencing master    |
-| 5   | Fusilier   | Expert sniper and master of ranged combat |
-| 6   | Provincial | A commoner from the rural provinces       |
-| 7   | Privateer  | Swashbuckling sailor of the high seas     |
-| 8   | Veteran    | Experienced soldier and person-at-arms    |
+| Class      | Summary                                   |
+| :--------- | :---------------------------------------- |
+| Brigand    | Outlaw highwayperson                      |
+| Constable  | Duly appointed law enforcement officer    |
+| Dragoon    | Professional soldier in heavy armor       |
+| Duelist    | Expert swordsperson and fencing master    |
+| Fusilier   | Expert sniper and master of ranged combat |
+| Provincial | A commoner from the rural provinces       |
+| Privateer  | Swashbuckling sailor of the high seas     |
+| Veteran    | Experienced soldier and person-at-arms    |
 
 Table: Skilled Classes
 
-| 1D8 | Class       | Summary                                            |
-| --- | ----------- | -------------------------------------------------- |
-| 1   | Alchemist   | Combines science and magick to create draughts     |
-| 2   | Charmweaver | Weaves magick charms into custom attire            |
-| 3   | Chirurgeon  | Healer and surgeon                                 |
-| 4   | Explorer    | Leaves civilization behind to seek out a new world |
-| 5   | Mechanician | Creates and maintains clockwork machines           |
-| 6   | Virtuosa    | Prodigy in the arts or music                       |
-| 7   | Visionary   | Genius Renaissance woman or man                    |
-| 8   | Witch       | Heir to a long tradition of folk magic             |
+| Class       | Summary                                            |
+| :---------- | :------------------------------------------------- |
+| Alchemist   | Combines science and magick to create draughts     |
+| Charmweaver | Weaves magick charms into custom attire            |
+| Chirurgeon  | Healer and surgeon                                 |
+| Explorer    | Leaves civilization behind to seek out new worlds  |
+| Mechanician | Creates and maintains clockwork machines           |
+| Virtuosa    | Prodigy in the arts or music                       |
+| Visionary   | Genius Renaissance woman or man                    |
+| Witch       | Heir to a long tradition of folk magic             |
 
 Table: Social Classes
 
-| 1D8 | Class       | Summary                                          |
-| --- | ----------- | ------------------------------------------------ |
-| 1   | Barrister   | Represents clients in a court of law             |
-| 2   | Chaplain    | Clergy of the Asrian faith                       |
-| 3   | Charlatan   | Mountebank out to swindle the populace           |
-| 4   | Courtier    | Member of the Royal Court                        |
-| 5   | Dogsbody    | Faithful manservant and henchperson              |
-| 6   | Envoy       | Ambassador for a national or regional government |
-| 7   | Provocateur | Mysterious spy with hidden motives               |
-| 8   | Speaker     | Zealous demagogue of the Desert Mother           |
+| Class       | Summary                                          |
+| :---------- | :----------------------------------------------- |
+| Barrister   | Represents clients in a court of law             |
+| Chaplain    | Clergy of the Asrian faith                       |
+| Charlatan   | Mountebank out to swindle the populace           |
+| Courtier    | Member of the Royal Court                        |
+| Dogsbody    | Faithful manservant and henchperson              |
+| Envoy       | Ambassador for a government or group             |
+| Provocateur | Mysterious spy with hidden motives               |
+| Speaker     | Zealous demagogue of the Desert Mother           |
 

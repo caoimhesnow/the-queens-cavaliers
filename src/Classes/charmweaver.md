@@ -5,20 +5,22 @@ enchantments into fabrics. Most are skilled fashion designers and can
 combine their artistic and magickal talents together into impressive
 displays.
 
+:::::::::: sidebar :::::::::::::::
+[Charmweavers]{.further}
+
+- [Magicks (Weave)](#weave){.xref-useful}
+- [Charmweaving in Gallinea](#charmweaving-1){.xref-useful}
+- [Creating Charmwoven Apparel](#creating-charmwoven-clothing){.xref-useful}
+- [The Nine Laws of Fashion](#the-nine-laws-of-fashion){.xref-useful}
+- [The Charmweavers' Guildhall](#charmweavers-guildhall){.xref-useful}
+::::::::::::::::::::::::::::::::::
+
 Charmweaving began in Gallinea and has spread throughout Elara in the
 last century, as popular fashions with practical charms became
 affordable for many common people.
 
 - **Suggested Classes:** Courtier, Dogsbody, Virtuosa, Witch
 - **Suggested Passions:** Artistry, Family, Pride, Wealth
-
-:::::::::: sidebar :::::::::::::::
-- Charmweaving in Gallinea
-- Magicks (Weave)
-- Creating Charmwoven Apparel
-- The Nine Laws of Fashion
-- The Charmweavers' Guildhall
-::::::::::::::::::::::::::::::::::
 
 ## Charmweaver Qualities
 - **Skill Competency:** Culture, Magicks

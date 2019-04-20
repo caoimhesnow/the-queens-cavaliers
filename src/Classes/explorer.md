@@ -6,18 +6,21 @@ known world. Explorers are alternately courageous or foolhardy depending
 on who you talk to, ready to leave their lives behind and seek out the
 unknown.
 
+::::::: sidebar :::::::::::::
+[Explorers]{.further}
+
+- [Nature (Explore)](#explore){.xref-useful}
+- [Sailing Ships](#on-charmwoven-sails){.xref-useful}
+- [The Colonies of West Ifran](#the-colonies-of-west-ifran){.xref-useful}
+- [Distant Lands](#distant-lands){.xref-useful}
+:::::::::::::::::::::::::::::
+
 Many explorers are Privateers, although some who move to colonize exotic
 lands such as Elissia can be Provincials.
 
 - **Suggested Classes:** Brigand, Chaplain, Privateer, Provincial, Speaker, Veteran, Visionary
 - **Suggested Passions:** Country, Knowledge, Loyalty, Wealth
 
-::::::: sidebar :::::::::::::
-- Nature (Explore)
-- Sailing Ships
-- Distant Lands
-- The Colonies of West Ifran
-:::::::::::::::::::::::::::::
 
 ## Explorer Qualities
 

@@ -1,20 +1,24 @@
 ### The Privateer  {.cbreakbefore}
 
-Not all Privateers are pirates; most these days are licensed by one of
+Despite the stereotype, not all Privateers are pirates; most these days are licensed by one of
 the national governments or may in fact be part of a Royal Navy.
+
+:::::::::: sidebar :::::::::::::
+[Privateers]{.further}
+
+- [Nature (Explore)](#explore){.xref-useful}
+- [Travel by Sea](#five-if-by-land-two-if-by-sea){.xref-useful}
+- [Sailing Ships](#on-charmwoven-sails){.xref-useful}
+- [Les Quais, in Lutetia](#les-quais){.xref-useful}
+- [Valerienne, major Gallinean seaport](#valerienne){.xref-useful}
+- [Ekalia](#ekalia){.xref-useful}
+::::::::::::::::::::::::::::::::
+
 Privateers are skilled at sailing both sea-ships and air-ships, although
 the latter are still quite rare.
 
 - **Suggested Classes:** Brigand, Chirurgeon, Dogsbody, Duelist, Explorer, Fusilier, Mechanician, Provincial, Veteran, Virtuosa
 - **Suggested Passions:** Country, Loyalty, Lust, Wealth
-
-:::::::::: sidebar :::::::::::::
-- Travel by Sea
-- Sailing Ships
-- Nature (Explore)
-- The Docks
-- Ekalia
-::::::::::::::::::::::::::::::::
 
 #### Privateer Qualities
 

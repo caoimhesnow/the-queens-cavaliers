@@ -5,6 +5,15 @@ another person, she will usually be represented in court by a Barrister.
 Barristers have special training in the law and court procedures, and
 are skilled at speaking before a magistrate.
 
+::::::::::::: sidebar ::::::::::::
+[Barristers]{.further}
+
+- [The legal system of Gallinea](#crime-and-punishment){.xref-useful}
+- [The Palace of Justice, in Lutetia](#palais-de-justice){.xref-useful}
+- [La Roche Prison](#la-roche-prison){.xref-useful}
+- [Game Rules for Trials](#game-rules-for-trials){.xref-useful}
+::::::::::::::::::::::::::::::::::
+
 Some Barristers work for the Crown and prosecute lawbreakers, while
 others can be hired by those with enough money – usually only the rich.
 A recent and controversial policy in Gallinea allows for the indigent
@@ -13,11 +22,6 @@ poor to be represented by public defenders, paid for by the Crown.
 - **Suggested Classes:** Chaplain, Constable, Courtier, Envoy, Visionary
 - **Suggested Passions:** Family, Justice, Loyalty, Pride
 
-::::::::::::: sidebar ::::::::::::
-- The legal system
-- The Palace of Justice
-- La Roche
-::::::::::::::::::::::::::::::::::
 
 ## Barrister Qualities
 

@@ -5,14 +5,20 @@ musket and other ranged firearms, including clockwork muskets and
 pistols. A Fusilier can usually load, disassemble, and reassemble her
 weapon while blindfolded.
 
+:::::::::: sidebar :::::::::::
+[Fusiliers]{.further}
+
+- [Military (Aim)](#aim){.xref-useful}
+- [Aimed Weapons](#aimed-weapons){.xref-useful}
+- [Explosives](#explosives){.xref-useful}
+- [Gallinean Military](#the-gallinean-military){.xref-useful}
+::::::::::::::::::::::::::::::
+
+Fusiliers are also trained in the use of cannons and other blackpowder weapons.
+
 - **Suggested Classes:** Brigand, Duelist, Mechanician, Provincial, Privateer, Veteran
 - **Suggested Passions:** Artistry, Country, Loyalty, Pride
 
-:::::::::: sidebar :::::::::::
-- Aimed Weapons
-- Military (Aim)
-- Gallinean Military
-::::::::::::::::::::::::::::::
 
 #### Fusilier Qualities
 
@@ -24,6 +30,7 @@ weapon while blindfolded.
 - **Bonus Gear:** Guard uniform (capotain, soldier's gloves, breeches, boots, tabard), leather jerkin (Flexible Armor +1D6), flintlock musket (Musket +1D10)
 
 #### Fusilier Maneuvers
+
 - **Ballistics:** When firing a cannon, spend 1 Style Point to add Calculus dice to a Blackpowder roll
 - **Focused Attention:** Spend 2 Style Points to set the value of one Perceive die to its maximum value before rolling
 - **Incoming Fire:** When avoiding a ranged attack, spend 1 Style Point to add Aim dice to a Dodge roll

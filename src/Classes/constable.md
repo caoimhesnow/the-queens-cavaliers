@@ -7,18 +7,21 @@ The Constables – and their counterparts in neighboring countries –
 enforce the laws and protect the people from wrongdoers as well as
 capturing those who commit criminal acts.
 
+::::::::::::: sidebar :::::::::::::
+[Constables]{.further}
+
+- [Gallinean Legal System](#crime-and-punishment){.xref-useful}
+- [Constables in Gallinean Society](#constables){.xref-useful}
+- [Palais de Justice, in Lutetia](#palais-de-justice){.xref-useful}
+- [La Roche Prison](#la-roche-prison){.xref-useful}
+:::::::::::::::::::::::::::::::::::
+
 Most Constables are employed by the Crown or a local province, while a
 few have retired and ply their trade as investigators for private hire.
 
 - **Suggested Classes:** Barrister, Dragoon, Duelist, Provincial, Veteran
 - **Suggested Passions:** Country, Justice, Knowledge, Loyalty
 
-::::::::::::: sidebar :::::::::::::
-- Gallinean Legal System
-- Provinces of Gallinea
-- Palais de Justice
-- La Roche Prison
-:::::::::::::::::::::::::::::::::::
 
 ## Constable Qualities
 

@@ -5,23 +5,25 @@ Gallinea – home to commoners and petty noblefolk, many of whom lack
 education and refinement. These Provincials – and the Provincials of
 other nations – are looked down on by the city folk.
 
+::::::::: sidebar ::::::::::::::::
+[Provincials]{.further}
+
+- [Nature (Husbandry)](#husbandry){.xref-useful}
+- [The Lowlands, Gallinean provinces](#the-lowlands){.xref-useful}
+- [Animal stats](#animals){.xref-useful}
+::::::::::::::::::::::::::::::::::
+
 Provincials who come to Lutetia often feel they have something to prove
 when dealing with residents of the capital city; it's not uncommon for
-brawls to break out in bars because someone's clothes or horse was
+brawls to break out in bars because someone's clothes or horse were
 insulted.
 
-A few Provincials are minor nobles and choose the Courtier co-class,
+A few Provincials are minor nobles and choose the Courtier as their other class,
 although they rarely are afforded the respect given to their urban
 cousins.
 
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Veteran, Witch
 - **Suggested Passions:** Country, Family, Love, Pride
-
-::::::::: sidebar ::::::::::::::::
-- Nature (Husbandry)
-- The Lowlands
-- Animals
-::::::::::::::::::::::::::::::::::
 
 #### Provincial Qualities
 

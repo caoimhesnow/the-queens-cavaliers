@@ -1,27 +1,32 @@
 ### The Provocateur  {.cbreakbefore}
 
-::::::::::::::::::::::::::::::: pic-outside ::::::::::::::::::::::::::::::::::
-![The notorious Provocateur Martine Deveaux, by Joanne Renaud](assets/Scenes/Medium/martine-dress.jpg "The notorious Provocateur Martine Deveaux, by Joanne Renaud")
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 A revolutionary, a spy, an assassin, a traitor, a conspirator – these
 are terms used to speak of the Provocateur, a shadowy figure enmeshed in
 plots within plots. Provocateurs are used by all nations of Elara,
 although they are rarely trusted even among those who employ them.
 
+:::::::: sidebar :::::::::::::
+[Provocateurs]{.further}
+
+- [Medicine (Poison)](#poison){.xref-useful}
+- [Types of Poisons](#poisons){.xref-useful}
+- [Nations of Elara](#the-countries-of-elara){.xref-useful}
+- [Prince Jean-Remy, the Queen's spymaster](#jean-remy){.xref-useful}
+- [La Guette castle, in Lutetia](#la-guette){.xref-useful}
+- [Martine Deveaux, infamous provocateur](#martine-deveaux){.xref-useful}
+::::::::::::::::::::::::::::::
+
 A typical Provocateur does not advertise her profession, so she will
-usually rely on her co-class for her public persona. 
+usually rely on her other class for her public persona. 
 
 - **Suggested Classes:** Charlatan, Courtier, Duelist, Envoy, Speaker, Visionary
 - **Suggested Passions:** Church, Country, Love, Wealth
 
-:::::::: sidebar :::::::::::::
-- Poisons
-- Nations of Elara
-- Medicine (Poison)
-- Martine Deveaux
-::::::::::::::::::::::::::::::
-
 #### Provocateur Qualities
+
+::::::::::::::::::::::::::::::: pic-right ::::::::::::::::::::::::::::::::::
+![The notorious Provocateur Martine Deveaux, by Joanne Renaud](assets/Scenes/Medium/martine-dress.jpg "The notorious Provocateur Martine Deveaux, by Joanne Renaud")
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 - **Skill Competency:** Culture, Medicine, Military, Streetwise
 - **Specialties:** Culture (Etiquette +1), Interaction (Negotiate +1, Deceive +1), Medicine (Poison +1), Streetwise (Carouse +1, Larceny +1)

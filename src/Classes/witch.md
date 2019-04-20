@@ -6,17 +6,20 @@ reading omens. Witchcraft is officially tolerated in Gallinea, although
 most devoutly religious people eschew contact with Witches unless
 absolutely necessary.
 
+::::::::: sidebar ::::::::::::
+[Witches]{.further}
+
+- [Magicks (Portents)](#portents){.xref-useful}
+- [Witchcraft in Gallinea](#witchcraft){.xref-useful}
+- [Bibelots](#bibelots){.xref-useful}
+- [The Old Faith](#the-old-faith){.xref-useful}
+::::::::::::::::::::::::::::::
+
 Some Witches are publicly known as such, but most keep their rituals
 secret from the authorities, remembering past periods of persecution.
 
 - **Suggested Classes:** Alchemist, Charlatan, Charmweaver, Provincial, Virtuosa
 - **Suggested Passions:** Faith, Family, Friends, Love
-
-::::::::: sidebar ::::::::::::
-- Magicks (Portents)
-- Witchcraft in Gallinea
-- The Old Faith
-::::::::::::::::::::::::::::::
 
 #### Witch Qualities
 - **Skill Competency:** Magicks, Medicine, Nature, Streetwise

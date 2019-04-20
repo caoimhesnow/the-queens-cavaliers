@@ -6,6 +6,16 @@ most recent war between Gallinea and Albia lasted for a total of 20
 years, ending 6 years ago with the marriage of then-princess Mariana
 (now Queen Mariana) to prince Carolus of Albia.
 
+:::::::::: sidebar :::::::::::::::::
+[Veterans]{.further}
+
+- [Military (Strategy)](#strategy){.xref-useful}
+- [Weapons](#weapons){.xref-useful}
+- [The Gallinean Military](#the-gallinean-military){.xref-useful}
+- [Gallinea's Wars](#gallineas-wars){.xref-useful}
+- [The Convocation of Veterans](#the-convocation-of-veterans){.xref-useful}
+::::::::::::::::::::::::::::::::::::
+
 Veterans of that and other wars are well-trained in the art of battle,
 and if not currently part of a military unit, often join mercenary
 companies or guard regiments rather than settle down into a civilian
@@ -13,12 +23,6 @@ lifestyle.
 
 - **Suggested Classes:** Brigand, Chaplain, Constable, Dogsbody, Dragoon, Duelist, Explorer, Fusilier, Privateer, Provincial
 - **Suggested Passions:** Country, Family, Friends, Loyalty
-
-:::::::::: sidebar :::::::::::::::::
-- Weapons
-- Military skill
-- Gallinean Military
-::::::::::::::::::::::::::::::::::::
 
 #### Veteran Qualities
 - **Skill Competency:** Dueling, Military, Nature, Streetwise

@@ -2,6 +2,15 @@
 
 A Dogsbody is a common manservant or henchperson, one who assists
 another in their escapades and only rarely comes up with a cunning plan.
+
+:::::::: sidebar ::::::::::::
+[Dogbodies]{.further}
+
+- [Streetwise (Carouse)](#carouse){.xref-useful}
+- [Streetwise (Larceny)](#larceny){.xref-useful}
+- [The Brothers Duthas](#duthas){.xref-useful}
+:::::::::::::::::::::::::::::
+
 A Dogsbody is often overlooked by those of higher social rank, and other
 servants and lower-class commoners are more likely to talk to a Dogsbody
 openly than to the manservant's master.
@@ -9,10 +18,6 @@ openly than to the manservant's master.
 - **Suggested Classes:** Brigand, Chaplain, Charlatan, Courtier, Dragoon, Privateer, Provincial, Veteran
 - **Suggested Passions:** Family, Friends, Loyalty, Wealth
 
-:::::::: sidebar ::::::::::::
-- Streetwise skill
-- The Brothers Duthas
-:::::::::::::::::::::::::::::
 
 #### Dogsbody Qualities
 

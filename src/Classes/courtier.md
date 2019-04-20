@@ -4,6 +4,17 @@ Members of the Gallinean royal court, and other noble courts, are
 Courtiers. They are well-educated, trained in etiquette and social
 graces, and have preternatural skill for plotting and intrigue.
 
+:::::::::::: sidebar ::::::::::::::
+[Courtiers]{.further}
+
+- [Culture (Etiquette)](#etiquette){.xref-useful}
+- [Gallinean Government](#government-of-gallinea){.xref-useful}
+- [The Gallinean Royal Family](#the-queen-and-royal-family){.xref-useful}
+- [The Elissian Reforms](#the-elissian-reforms){.xref-useful}
+- [The Royal Palace](#royal-palace){.xref-useful}
+- [Palais de Lutetia](#palais-de-lutetia){.xref-useful}
+:::::::::::::::::::::::::::::::::::
+
 Courtiers revel in their lives of luxury, but all know that they only
 continue to have such glamorous lives at the forbearance of their
 matrons and patrons. A Courtier who is outcast from polite society may
@@ -16,13 +27,6 @@ leisure.
 - **Suggested Classes:** Alchemist, Barrister, Chaplain, Charmweaver, Chirurgeon, Duelist, Envoy, Provocateur, Veteran, Virtuosa, Visionary
 - **Suggested Passions:** Country, Friends, Lust, Pride
 
-:::::::::::: sidebar ::::::::::::::
-- The Gallinean Royal Family
-- Gallinean Government
-- The Elissian Reforms
-- Palais de Lutetia
-- The Royal Palace
-:::::::::::::::::::::::::::::::::::
 
 #### Courtier Qualities
 

@@ -4,19 +4,22 @@ A Visionary is someone whose genius far exceeds that of the average
 person. True Renaissance women and men, they are able to apply logic and
 science ways that seem almost supernatural to many.
 
+::::::::::: sidebar :::::::::::::::::::
+[Visionaries]{.further}
+
+- [Observation (Deduce)](#deduce){.xref-useful}
+- [Science (Calculus)](#calculus){.xref-useful}
+- [Military (Strategy)](#strategy){.xref-useful}
+- [Science and Technology in Gallinea](#science-and-technology-in-gallinea){.xref-useful}
+- [Education in Gallinea](#education-in-gallinea){.xref-useful}
+:::::::::::::::::::::::::::::::::::::::
+
 A Visionary may be a leader, or she may be a quiet follower who only
 seeks to pursue her life's work. Visionaries are usually well-educated
 and can speak confidently on a variety of topics.
 
 - **Suggested Classes:** Barrister, Chaplain, Courtier, Explorer, Mechanician, Virtuosa
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
-
-::::::::::: sidebar :::::::::::::::::::
-- Observation (Deduce)
-- Military (Strategy)
-- Science skill
-- Education in Gallinea
-:::::::::::::::::::::::::::::::::::::::
 
 #### Visionary Qualities
 - **Skill Competency:** Culture, Medicine, Military, Nature, Science

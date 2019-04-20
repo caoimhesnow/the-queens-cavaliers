@@ -4,21 +4,23 @@ Using techniques perfected in the old Qartan Empire, Alchemists brew
 potions, poisons, and antidotes based on scientific principles. They can
 produce a variety of effects, ranging from healing to magical abilities.
 
+:::::::::::: sidebar ::::::::
+[Alchemists]{.further}
+
+- [Magicks (Brew)](#brew){.xref-useful}
+- [Concoctions](#concoctions){.xref-useful}
+- [Draughts](#draughts){.xref-useful}
+- [Salves](#salves){.xref-useful}
+- [Poisons](#poisons){.xref-useful}
+- [Alchemy in Gallinea](#alchemy){.xref-useful}
+- [The Alchemists' Guildhall in Lutetia](#alchemists-guildhall){.xref-useful}
+:::::::::::::::::::::::::::::
+
 Most Alchemists are successful merchants, many running small
 apothecaries to vend their wares. 
 
 - **Suggested Classes:** Charlatan, Chirurgeon, Mechanician, Visionary, Witch
 - **Suggested Passions:** Artistry, Knowledge, Pride, Wealth
-
-:::::::::::: sidebar ::::::::
-- Magicks (Brew)
-- Concoctions
-- Draughts
-- Salves
-- Poisons
-- Alchemy in Gallinea
-- The Alchemists' Guildhall  
-:::::::::::::::::::::::::::::
 
 ## Alchemist Qualities
 

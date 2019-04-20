@@ -5,6 +5,14 @@ doesn't always stop opportunists from engaging in banditry. The typical
 Brigand in Gallinea is a peasant or even a minor noble whose fortunes
 fell and they resorted to force of arms to make their living.
 
+::::::::::: sidebar :::::::::::::
+[Brigands]{.further}
+
+- [Nature (Prowl)](#prowl){.xref-useful}
+- [Travel in Gallinea](#travel){.xref-useful}
+- [Crime and Punishment](#crime-and-punishment){.xref-useful}
+:::::::::::::::::::::::::::::::::
+
 Not all Brigands are necessarily cruel; there's a long history of folk
 heroes who rob from the corrupt rich and distribute their loot among the
 poor.
@@ -12,11 +20,6 @@ poor.
 - **Suggested Classes:** Chaplain, Dogsbody, Dragoon, Explorer, Fusilier, Privateer, Provincial, Veteran
 - **Suggested Passions:** Friends, Justice, Loyalty, Wealth
 
-::::::::::: sidebar :::::::::::::
-- Travel in Gallinea
-- The Legal System
-- Nature (Prowl)
-:::::::::::::::::::::::::::::::::
 
 ## Brigand Qualities
 

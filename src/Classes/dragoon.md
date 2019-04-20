@@ -2,19 +2,22 @@
 
 A Dragoon is a professional soldier, usually a member of the cavalry.
 Dragoons are found throughout Elara and beyond; they are usually more
-serious and less flashy than the swashbuckling Cavaliers. Dragoons
-usually wear heavier armor in the field.
+serious and less flashy than the swashbuckling Duelists. 
+
+:::::::::::::: sidebar ::::::::::::::
+[Dragoons]{.further}
+
+- [Nature (Husbandry)](#husbandry){.xref-useful}
+- [The Military in Gallinea](#the-gallinean-military){.xref-useful}
+- [Warhorse stats](#horse-warhorse){.xref-useful}
+- [Cavalry, weapon quality](#dueling-weapons){.xref-useful}
+- [The Royal Stables, in Lutetia](#les-écuries){.xref-useful}
+:::::::::::::::::::::::::::::::::::::
+
+Dragoons usually wear heavier armor in the field, and most ride warhorses
 
 - **Suggested Classes:** Brigand, Chaplain, Constable, Duelist, Dogsbody, Provincial, Veteran.
 - **Suggested Passions:** Country, Justice, Loyalty, Pride
-
-:::::::::::::: sidebar ::::::::::::::
-- Gallinean Military
-- Warhorse 
-- Cavalry quality of weapons
-- Nature (Husbandry)
-- The Royal Stables
-:::::::::::::::::::::::::::::::::::::
 
 #### Dragoon Qualities
 
@@ -34,4 +37,3 @@ usually wear heavier armor in the field.
 - **Ubiquitous Shield:** Spend 2 Style Points to set the value of one Rigid Armor or Shield item die to its maximum value before rolling
 - **Urban Reliability:** Spend 1 Style Point to reroll a Streetwise roll
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
